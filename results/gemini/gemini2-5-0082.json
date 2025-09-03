@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0082",
+  "run_at": "2025-09-01T05:40:55.493707Z",
+  "question_id": 82,
+  "question": "In welchen Kreisen und krfr. Städten wurden 2017 Menschen aus Australien und Ozeanien eingebürgert?",
+  "answer": "Landkreis Segeberg, Hamburg, Landeshauptstadt Hannover, Landkreis Ammerland, Kreis Wesel, kreisfreie Stadt Köln, kreisfreie Stadt Dortmund, Hochsauerlandkreis, Landkreis Altenkirchen (Westerwald), kreisfreie Stadt Pirmasens, Landeshauptstadt Stadtkreis Stuttgart, Landkreis Esslingen, Landkreis Rhein-Neckar-Kreis, Stadtkreis Freiburg im Breisgau, Landkreis Lörrach, Landkreis Tübingen, Landkreis Sigmaringen,  Landeshauptstadt München, Landkreis Oberallgäu, Berlin, Stadt Leipzig,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Im Jahr 2017 wurden in folgenden Kreisen und kreisfreien Städten Menschen aus Australien und Ozeanien eingebürgert:\n\n*   **Schleswig-Holstein:** Segeberg (1)\n*   **Hamburg:** Hamburg (1)\n*   **Niedersachsen:** Region Hannover (1), Hannover (1), Ammerland (1)\n*   **Nordrhein-Westfalen:** Wesel (1), Köln (2), Dortmund (2), Hochsauerlandkreis (1)\n*   **Rheinland-Pfalz:** Altenkirchen (Westerwald) (1), Pirmasens (1)\n*   **Baden-Württemberg:** Stuttgart (1), Esslingen (1), Rhein-Neckar-Kreis (1), Freiburg im Breisgau (1), Lörrach (1), Tübingen (1), Sigmaringen (1)\n*   **Bayern:** München (1), Oberallgäu (1)\n*   **Berlin:** Berlin (4)\n*   **Sachsen:** Leipzig (1)\n\nQuelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/12511-01-01-4_00.csv#dataset"
+}

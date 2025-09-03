@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/4d7bc5aa-3694-4d0a-9b7c-81e9088530a9">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2017 Wahlbezirksebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017&nbsp;auf Wahlbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/4d7bc5aa-3694-4d0a-9b7c-81e9088530a9"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05362004/html5/Bundestagswahl1036.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/4d7bc5aa-3694-4d0a-9b7c-81e9088530a9"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:15:05+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:15:05+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1be2f6f1-f711-444a-b618-f12de5c53c82">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2009 Stadtteilebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Stadtteilebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1be2f6f1-f711-444a-b618-f12de5c53c82"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05362004/html5/Bundestagswahl8.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1be2f6f1-f711-444a-b618-f12de5c53c82"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:16:33+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:16:33+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/38c23c0b-6419-43b4-bc64-c6a60cf96257">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2005 Gemeindeebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2005 auf Gemeindeebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/38c23c0b-6419-43b4-bc64-c6a60cf96257"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05362004/html5/Bundestagswahl3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/38c23c0b-6419-43b4-bc64-c6a60cf96257"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:19:40+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:19:40+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/75e57a58-51bc-40b8-99ec-b27aacb222ff">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2017 Gemeindeebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017&nbsp;auf Gemeindeebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/75e57a58-51bc-40b8-99ec-b27aacb222ff"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05362004/html5/Bundestagswahl1033.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/75e57a58-51bc-40b8-99ec-b27aacb222ff"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:12:30+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:12:30+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/623b2938-8d34-4a88-a370-118f63198aa1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2005 Wahlbezirksebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2005 auf Wahlbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/623b2938-8d34-4a88-a370-118f63198aa1"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05362004/html5/Bundestagswahl6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/623b2938-8d34-4a88-a370-118f63198aa1"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:20:44+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:20:44+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1b8d718b-fb88-4d4f-bc3a-1d75f4e2f98c">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Straßenverzeichnis Bundestagswahl 2017 Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Straßenverzeichnis mit Angabe des Wahlbezirks für die Bundestagswahl 2017 für die Stadt Bedburg.</p>
+
+<p>Diese Datei wird schon für den Wahllokalfinder (<a href="http://www.wahllokale.online/">http://www.wahllokale.online/</a>) zur Bundestagswahl 2017 genutzt.</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1b8d718b-fb88-4d4f-bc3a-1d75f4e2f98c"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Bedburg_adressen_strassen.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1b8d718b-fb88-4d4f-bc3a-1d75f4e2f98c"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T16:03:56+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T16:04:20+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17479</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/a0beee5f-038d-44e0-b7ad-5d5033aa2652">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Bundestagswahl 2002 Gemeindeebene Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2002 auf Gemeindeebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/a0beee5f-038d-44e0-b7ad-5d5033aa2652"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05362004/html5/Bundestagswahl3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/a0beee5f-038d-44e0-b7ad-5d5033aa2652"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:25:35+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:25:35+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D15 Bundestagswahlen Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Bundestagswahlen. Beschreibungen zum Datensatzaufbau finden Sie unter Datensatzbeschreibung Wahlen(<a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen</a>)</p>
+]]></dct:description>
+    <dct:identifier>357483a8-a0b9-41ce-afc2-bf615e83de0e</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-15T13:01:04+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N1f09e760136048e280d0809580fff217">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/38c23c0b-6419-43b4-bc64-c6a60cf96257"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/a0beee5f-038d-44e0-b7ad-5d5033aa2652"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/75e57a58-51bc-40b8-99ec-b27aacb222ff"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1b8d718b-fb88-4d4f-bc3a-1d75f4e2f98c"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1cac131d-4e20-4d75-bcec-346879057d24">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2002 Wahlbezirksebene Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2002 auf Wahlbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1cac131d-4e20-4d75-bcec-346879057d24"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05362004/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1cac131d-4e20-4d75-bcec-346879057d24"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:26:40+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:26:40+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/55ed57cd-c777-4ece-a8fa-b69b1021b15f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2009 Wahlbezirksebene Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Wahlbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/55ed57cd-c777-4ece-a8fa-b69b1021b15f"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05362004/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/55ed57cd-c777-4ece-a8fa-b69b1021b15f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:17:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:17:43+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/4d7bc5aa-3694-4d0a-9b7c-81e9088530a9"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/ec69ac31-1ef1-4441-86f9-a67da17db546">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2009 Gemeindeebene Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Gemeindeebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/ec69ac31-1ef1-4441-86f9-a67da17db546"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05362004/html5/Bundestagswahl3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/ec69ac31-1ef1-4441-86f9-a67da17db546"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:15:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T17:15:12+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/623b2938-8d34-4a88-a370-118f63198aa1"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/90d13e36-1c63-447d-91ea-59f57562021d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahllokale Bundestagswahl 2017 Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Auflistung aller Wahllokale mit Bezug zum Wahlbezirk für die Bundestagswahl 2017 für die Stadt Bedburg.</p>
+
+<p>Diese Datei wird schon für den Wahllokalfinder (<a href="http://www.wahllokale.online/">http://www.wahllokale.online/</a>) zur Bundestagswahl 2017 genutzt.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/90d13e36-1c63-447d-91ea-59f57562021d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Bedburg_wahllokale.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/90d13e36-1c63-447d-91ea-59f57562021d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T16:01:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T16:01:29+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1465</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/531f24fd-4971-4362-bbfc-c1bb5800698a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2017 Stadtteilebene Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017&nbsp;auf Stadtteilebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/531f24fd-4971-4362-bbfc-c1bb5800698a"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05362004/html5/Bundestagswahl1038.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/531f24fd-4971-4362-bbfc-c1bb5800698a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:13:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-11T13:13:52+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg/resource/1be2f6f1-f711-444a-b618-f12de5c53c82"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05362004/html5/Bundestagswahl6.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Bedburg_wahllokale.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05362004/html5/Bundestagswahl1038.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05362004/html5/Bundestagswahl6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05362004/html5/Bundestagswahl3.csv"/>
+</rdf:RDF>

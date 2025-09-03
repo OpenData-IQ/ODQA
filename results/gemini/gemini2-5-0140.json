@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0140",
+  "run_at": "2025-09-01T07:45:31.395648Z",
+  "question_id": 140,
+  "question": "Gibt es Daten zur Anzahl der Einwohner in Nörvenich im Jahr 2012, aufgeschlüsselt nach Alter und Staatsangehörigkeit?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-n%C3%B6rvenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine Aufstellung der Einwohnerzahlen in Nörvenich zum Stichtag 31.12.2012, differenziert nach Altersgruppen und Staatsangehörigkeit.",
+  "llm_final": "\nDownload-URL: https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat166-2012_20170215.csv"
+}

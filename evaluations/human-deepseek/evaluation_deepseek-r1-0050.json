@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0050",
+  "run_at": "2025-09-01T20:34:34.256778Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "<FinalAnswer>\nIm Jahr 2014 gab es insgesamt **866 tödliche Arbeits- und Wegeunfälle**. Davon entfielen 639 auf Arbeitsunfälle und 227 auf Wegeunfälle.\n\n**Quelle:** [Dataset: Tödliche Unfälle (Arbeitsunfälle und Wegeunfälle) 2014-2016](https://ckan.govdata.de/dataset/a516c245-d2e0-4cbe-bdd7-a25ac8985cb3)\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die korrekte Gesamtsumme ist 971; das LLM nennt 866 (639+227) und liegt damit falsch."
+  }
+}

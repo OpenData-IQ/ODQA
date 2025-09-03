@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen">
+    <dct:title>Meerbusch: Aktuelle Ausschreibungen</dct:title>
+    <dct:description>Aktuelle Ausschreibungen der Stadt Meerbusch.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://opendata.rhein-kreis-neuss.de/explore/dataset/meerbusch-aktuelle-ausschreibungen/"/>
+    </dcat:landingPage>
+    <dct:identifier>meerbusch-aktuelle-ausschreibungen@rhein-kreis-neuss</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Ne14bb62a86bf42928621340e0ced7c82">
+        <foaf:name>Stadt Meerbusch</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-jsonld">
+        <dct:title>jsonld</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (jsonld)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/jsonld"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-jsonl">
+        <dct:title>jsonl</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (jsonl)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/jsonl"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-n3">
+        <dct:title>n3</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (n3)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/n3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/N3"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-csv">
+        <dct:title>csv</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (csv)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/csv?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-parquet">
+        <dct:title>parquet</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (parquet)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/parquet"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-json">
+        <dct:title>json</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (json)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-turtle">
+        <dct:title>turtle</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (turtle)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/turtle"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-xls">
+        <dct:title>xls</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (xls)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/xls?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen-rdfxml">
+        <dct:title>rdfxml</dct:title>
+        <dct:description>Meerbusch: Aktuelle Ausschreibungen (rdfxml)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/rdfxml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11.906000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/rdfxml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/jsonld"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/turtle"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/parquet"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/xls?use_labels=true"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/n3"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/csv?use_labels=true"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/jsonl"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/N3"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+</rdf:RDF>

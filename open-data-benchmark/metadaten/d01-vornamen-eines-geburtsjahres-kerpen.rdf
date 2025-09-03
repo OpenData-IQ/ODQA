@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e50cc444-9d38-42e1-a237-9e2f44b61de7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Kerpen 2013</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2013</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e50cc444-9d38-42e1-a237-9e2f44b61de7"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2013_20160630.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e50cc444-9d38-42e1-a237-9e2f44b61de7"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:30:30+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:30:30+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31169</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/7792889f-f855-4b6a-b826-343542bc6db9">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Kerpen 2012</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/7792889f-f855-4b6a-b826-343542bc6db9"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2012_20160630.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/7792889f-f855-4b6a-b826-343542bc6db9"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:29:48+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:29:48+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">33048</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/0fa39cbe-594f-41b7-87b3-b1213b822a09">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Kerpen 2020</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/0fa39cbe-594f-41b7-87b3-b1213b822a09"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/0fa39cbe-594f-41b7-87b3-b1213b822a09"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T11:40:17+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T11:40:17+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">33437</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/5720604c-5bd4-4155-ba16-a04beb19cebd">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Kerpen 2019</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/5720604c-5bd4-4155-ba16-a04beb19cebd"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/5720604c-5bd4-4155-ba16-a04beb19cebd"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T13:02:56+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T13:02:56+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">37005</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/33757a40-b64e-48e7-a41c-c5ba31e47ccb">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Kerpen 2009</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/33757a40-b64e-48e7-a41c-c5ba31e47ccb"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2009_20160630.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/33757a40-b64e-48e7-a41c-c5ba31e47ccb"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:26:35+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:27:09+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31612</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/c4c908b6-40c9-4279-b3fe-69043599b5c1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Kerpen 2021</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/c4c908b6-40c9-4279-b3fe-69043599b5c1"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20220116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/c4c908b6-40c9-4279-b3fe-69043599b5c1"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T08:45:03+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T08:45:03+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">38302</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N0d820194b37f49e1acf4cace35b5d980">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6efc298a8d860104f625698f4374d941</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/1fd5933d-ed2a-481a-8516-3154e928319b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Kerpen 2018</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2018</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/1fd5933d-ed2a-481a-8516-3154e928319b"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20190116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/1fd5933d-ed2a-481a-8516-3154e928319b"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-02T14:26:21+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T08:20:09+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">38489</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D01 Vornamen eines Geburtsjahres Kerpen</dct:title>
+    <dct:description><![CDATA[<p>Eine Auflistung&nbsp;vergebender Vornamen eines Geburtsjahres mit Angabe zum Geschlecht.</p>
+]]></dct:description>
+    <dct:identifier>9bb5207a-43d7-4186-86c4-354f4b48763c</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T08:45:03+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N827bc61f952b42ff978a5b848ae8f582">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e50cc444-9d38-42e1-a237-9e2f44b61de7"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/7792889f-f855-4b6a-b826-343542bc6db9"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/a05e47dd-2977-48e3-8032-d735f5aafab2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2014</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/a05e47dd-2977-48e3-8032-d735f5aafab2"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2014_20160630.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/a05e47dd-2977-48e3-8032-d735f5aafab2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:31:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:31:08+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34437</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/33757a40-b64e-48e7-a41c-c5ba31e47ccb"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/c4c908b6-40c9-4279-b3fe-69043599b5c1"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/883d0022-2173-4864-abfe-cdac45187275">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2011</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/883d0022-2173-4864-abfe-cdac45187275"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2011_20160630.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/883d0022-2173-4864-abfe-cdac45187275"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:29:09+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:29:09+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31282</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/5720604c-5bd4-4155-ba16-a04beb19cebd"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/518ffe83-6c92-470e-a74e-3bdfeaaa0857">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2015</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/518ffe83-6c92-470e-a74e-3bdfeaaa0857"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2015_20160630.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/518ffe83-6c92-470e-a74e-3bdfeaaa0857"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:33:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:33:29+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34776</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/67579829-fee7-4cc3-af24-153df901b37d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2017</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/67579829-fee7-4cc3-af24-153df901b37d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/67579829-fee7-4cc3-af24-153df901b37d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T15:04:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T15:04:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">36279</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/1fd5933d-ed2a-481a-8516-3154e928319b"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e4589b42-6ab5-440c-93e4-aa39c4d0d946">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2016</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e4589b42-6ab5-440c-93e4-aa39c4d0d946"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/e4589b42-6ab5-440c-93e4-aa39c4d0d946"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T12:32:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T12:32:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">36696</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/0fa39cbe-594f-41b7-87b3-b1213b822a09"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/d0f9fc23-0843-48ec-8ba5-d14ad6672476">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Kerpen 2010</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/d0f9fc23-0843-48ec-8ba5-d14ad6672476"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2010_20160630.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen/resource/d0f9fc23-0843-48ec-8ba5-d14ad6672476"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:28:27+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-30T14:28:27+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">33227</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2014_20160630.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2015_20160630.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2011_20160630.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771-2010_20160630.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat771_20180116.csv"/>
+</rdf:RDF>

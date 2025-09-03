@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb">
+    <dct:title>Kostenlose und ermäßigte Angebote im Land Berlin</dct:title>
+    <dct:description>Personen, die in Berlin ihren Hauptwohnsitz haben und folgende Sozialleistungen erhalten, können eine Viezahl an Angeboten kostenfrei oder vergünstigt wahrnehmen:
+
+- Arbeitslosengeld II bzw. Sozialgeld (Bürgergeld) nach dem SGB II, Sozialhilfe,Grundsicherung im Alter, Grundsicherung bei voller Erwerbsminderung nach dem SGB XII, Leistungen nach dem Asylbewerberleistungsgesetz sowie die Mitglieder der Bedarfsgemeinschaft eines Leistungsempfängers (Familienangehörige).
+- Wohngeld sowie die Haushaltsmitglieder eines Wohngeldempfängers.
+- Leistungen nach den SED-Unrechtsbereinigungsgesetzen oder
+- eine NS-Opferrente
+
+Das Angebot reicht vom öffentlichen Nahverkehr bis hin zu Sport-, Bildungs-, Kultur- und Freizeitangeboten. Dieser Datensatz zeigt alle Angebote, die das Land Berlin zur Förderung der Teilhabe bereitstellt. Die Liste wird vom Jugendkulturservice Berlin im Auftrag der SenASGIVA erstellt und gepflegt.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/"/>
+    </dcat:landingPage>
+    <dct:identifier>e023af58-1298-4600-a5c3-02634147aefb</dct:identifier>
+    <dcat:keyword>berechtigung</dcat:keyword>
+    <dcat:keyword>berlin-ticket</dcat:keyword>
+    <dcat:keyword>berlinpass</dcat:keyword>
+    <dcat:keyword>bildung</dcat:keyword>
+    <dcat:keyword>ermäßigung</dcat:keyword>
+    <dcat:keyword>fairgnuegen</dcat:keyword>
+    <dcat:keyword>freizeit</dcat:keyword>
+    <dcat:keyword>kultur</dcat:keyword>
+    <dcat:keyword>leistungsempfänger</dcat:keyword>
+    <dcat:keyword>simplesearch</dcat:keyword>
+    <dcat:keyword>sport</dcat:keyword>
+    <dcat:keyword>teilhabe</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-05T11:20:23.285881</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.462068</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/3.0/"/>
+    </dct:conformsTo>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N88b232c6f2664101979165bfc34a814a">
+        <vcard:fn>Matthias Ropel</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:matthias.ropel@senasgiva.berlin.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="urn:uuid:187bf170-c2e0-5ca6-af5c-e3f20bb76051">
+        <foaf:name>SenASGIVA - Abteilung Soziales</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb/resource/4e20f880-5470-413c-ac31-037a5f3751ec">
+        <dct:description>Webseite von "Kostenlose und ermäßigte Angebote im Land Berlin". Hier können Sie bereits Anfragen abschicken und Daten ansehen.
+lang: de
+doc: https://berlinonline.github.io/open-data-handbuch/simplesearch-api/</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.549471</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.486457</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb/resource/367ffd00-e668-4502-be2f-602e3e2f2c43">
+        <dct:description>REST-API mit JSON-Ausgabe für "Kostenlose und ermäßigte Angebote im Land Berlin". Es existieren weitere GET-Parameter für spezielle Anfragen.
+lang: de
+doc: https://berlinonline.github.io/open-data-handbuch/simplesearch-api/</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.json?q="/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.549481</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.486857</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb/resource/4af4b21f-dbe3-4177-891c-1748fe8fbe22">
+        <dct:description>REST-API mit XML-Ausgabe für "Kostenlose und ermäßigte Angebote im Land Berlin". Es existieren weitere GET-Parameter für spezielle Anfragen.
+lang: de
+doc: https://berlinonline.github.io/open-data-handbuch/simplesearch-api/</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.xml?q="/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.549484</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.487065</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb/resource/9178f731-7890-4ec0-b637-b0231c6e5168">
+        <dct:description>REST-API mit Excel(XLS)-Ausgabe für "Kostenlose und ermäßigte Angebote im Land Berlin". Es existieren weitere GET-Parameter für spezielle Anfragen.
+lang: de
+doc: https://berlinonline.github.io/open-data-handbuch/simplesearch-api/</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.xls?q="/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.549488</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.487242</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb/resource/e6691c5b-cf03-40d5-96bd-3816424244d7">
+        <dct:description>REST-API mit CSV-Ausgabe für "Kostenlose und ermäßigte Angebote im Land Berlin". Es existieren weitere GET-Parameter für spezielle Anfragen.
+lang: de
+doc: https://berlinonline.github.io/open-data-handbuch/simplesearch-api/</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.csv?q="/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.549491</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T11:30:45.487410</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/state"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/berlinOpenData"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.json?q="/>
+  <rdfs:Resource rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.xml?q="/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.xls?q="/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <rdfs:Resource rdf:about="https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.csv?q="/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+</rdf:RDF>

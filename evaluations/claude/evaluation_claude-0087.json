@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0087",
+  "run_at": "2025-09-01T14:36:23.621539Z",
+  "question_id": 87,
+  "question": "Wie viele Weihnachtsbaum-Sammelstellen gibt es in 51145 Köln?",
+  "answer": "10",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Link führt zu HTML (62f568ac-8db1-410c-96dc-26b52209ad18.html) und dort gibt es erst die XML",
+  "llm_final": "Ich werde die Daten manuell durchsuchen. Nach Durchsicht der XML-Daten finde ich folgende Weihnachtsbaum-Sammelstellen mit der Postleitzahl 51145:\n\n1. Am Urbacher Wall, 51145 Köln (Urbach) - Parkplatz zwischen Hausnr. 59 und 61\n2. Jägerstr., 51145 Köln (Eil) - Grünfläche\n3. Bonner Str., 51145 Köln (Eil) - Ecke Dortmunder Str.\n4. Johannesstr., 51145 Köln (Eil) - Ecke Leostr.\n5. Frankfurter Str., 51145 Köln (Eil) - Ecke Leidenhausener Str.\n6. Friedrich-Hirsch-Str., 51145 Köln - Auf dem Stallberg (Elsdorf)\n\nFinalAnswer: In der Postleitzahl 51145 Köln gibt es insgesamt 6 Weihnachtsbaum-Sammelstellen. Diese befinden sich in den Stadtteilen Urbach, Eil und Elsdorf. Die genauen Standorte sind: Am Urbacher Wall (Parkplatz zwischen Hausnr. 59 und 61), Jägerstr. (Grünfläche), Bonner Str. (Ecke Dortmunder Str.), Johannesstr. (Ecke Leostr.), Frankfurter Str. (Ecke Leidenhausener Str.) und Friedrich-Hirsch-Str. (Auf dem Stallberg). Quelle: https://offenedaten-koeln.de/dataset/sammelstellen-f%C3%BCr-weihnachtsb%C3%A4ume-k%C3%B6ln",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort ist 10, das LLM nennt 6. Damit ist die Antwort faktisch falsch."
+  }
+}

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Finanzhaushalt der Stadt Oldenburg 2023</dct:title>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.oldenburg.de/sites/default/files/1101_Haushaltsplan_StadtOL_2023_Finanzhaushalt.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612"/>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:02:57+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:02:57+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">779</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Na52f65103f144543aaaa57a978eac1ca">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bceb63678803864f5822090cbb9844c5</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/cbc24a61-229c-4077-980b-74829753abfe">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Ergebnishaushalt der Stadt Oldenburg 2023</dct:title>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/cbc24a61-229c-4077-980b-74829753abfe"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.oldenburg.de/sites/default/files/1101_Haushaltsplan_StadtOL_2023_Ergebnishaushalt.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/cbc24a61-229c-4077-980b-74829753abfe"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:00:55+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:00:55+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">805</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Ncfb04f1d1fdd40459ddf62633eddc9cf">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f6585b7b3823e1dbb2001a86c56d02eb</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/165b49cb-a5d9-4494-90cd-d55100165e07">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Haushaltsplan der Stadt Oldenburg 2023</dct:title>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/165b49cb-a5d9-4494-90cd-d55100165e07"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.oldenburg.de/sites/default/files/1101-2023-AZ.pdf"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/165b49cb-a5d9-4494-90cd-d55100165e07"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:mediaType>application/pdf</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:04:50+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T12:04:50+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119776</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N320b3b2f25294b899890dc9be41e085a">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8001a9125a41c1b19cbe9361a0d14dac</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c4d9681a-0bb3-4d4c-a6c4-5ac82c819563">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Haushaltsplan der Stadt Oldenburg 2023</dct:title>
+    <dct:description><![CDATA[<p>Tabellenblatt 1: Ergebnishaushalt<br />
+Tabellenblatt 2: Finanzhaushalt</p>
+]]></dct:description>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c4d9681a-0bb3-4d4c-a6c4-5ac82c819563"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.oldenburg.de/sites/default/files/1101_Haushaltsplan_der_Stadt_Oldenburg_2023.xlsx"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c4d9681a-0bb3-4d4c-a6c4-5ac82c819563"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T11:50:48+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T11:50:48+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11542</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N1f1670ae8f3d44919f3c4927046c6af0">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a430514f0485d37f183874b650a99ab7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Haushaltsplan der Stadt Oldenburg 2023</dct:title>
+    <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">Der Haushaltsplan für die Stadt Oldenburg wird, getrennt nach Ergebnis- und Finanzhaushalt, dargestellt. Dabei wird beim Ergebnishaushalt nach Erträgen und Aufwendungen, beim Finanzhaushalt nach Ein- und Auszahlungen unterschieden.</span></p>
+
+<p><span style="color: rgb(59, 59, 59); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">Die Stadt Oldenburg hat ihr Rechnungswesen zum 1. Januar 2010 auf das Neue Kommunale Rechnungswesen umgestellt. Wurden vorher Einnahmen und Ausgaben abgebildet, werden jetzt Erträge, Aufwendungen, Einzahlungen und Auszahlungen ausgewiesen. Nach neuem Recht werden auch erstmalig Abschreibungen und Rückstellungen im Haushalt berücksichtigt. Damit sind die Zahlen ab dem Haushalt 2010 nur eingeschränkt mit den Zahlen der Vorjahre (altes Haushaltsrecht) zu vergleichen.</span></p>
+]]></dct:description>
+    <dct:identifier>fac3f035-d551-4d2d-841d-fe4c6684476c</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>abschreibungen</dcat:keyword>
+    <dcat:keyword>aufwendungen</dcat:keyword>
+    <dcat:keyword>auszahlungen</dcat:keyword>
+    <dcat:keyword>einzahlungen</dcat:keyword>
+    <dcat:keyword>ergebnishaushalt</dcat:keyword>
+    <dcat:keyword>erträge</dcat:keyword>
+    <dcat:keyword>finanzhaushalt</dcat:keyword>
+    <dcat:keyword>haushalt-und-steuern</dcat:keyword>
+    <dcat:keyword>haushaltsplan</dcat:keyword>
+    <dcat:keyword>neues-kommunale-rechnungswesen</dcat:keyword>
+    <dcat:keyword>rechnungswesen</dcat:keyword>
+    <dcat:keyword>rückstellungen</dcat:keyword>
+    <dcat:keyword>verwaltung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-09T01:31:03+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-08T12:04:34+02:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N9c86e97d6b534a679b0108b29a5c238e">
+        <vcard:fn>Stadt Oldenburg - Statistikstelle</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:statistik@stadt-oldenburg.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Na951de2fc7d94377b3661630e0c51f28">
+        <foaf:name>Stadt Oldenburg</foaf:name>
+        <foaf:homepage rdf:resource="https://opendata.oldenburg.de/www.oldenburg.de"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nf5760cf4350e481bb6f909bd385e4dd7">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c4d9681a-0bb3-4d4c-a6c4-5ac82c819563"/>
+    <dcat:distribution rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/cbc24a61-229c-4077-980b-74829753abfe"/>
+    <dcat:distribution rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612"/>
+    <dcat:distribution rdf:resource="https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/165b49cb-a5d9-4494-90cd-d55100165e07"/>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcat:granularity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <dcatde:contributorID rdf:resource="https://opendata.oldenburg.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/stadtOldenburg"/>
+    <dcatde:politicalGeocodingURI rdf:resource="https://www.dcat-ap.de/def/politicalGeocoding/districtKey/03403"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N64a429af0bc94de9a7d3d87c8ba64c89">
+        <locn:adminUnitL2 rdf:resource="https://www.dcat-ap.de/def/politicalGeocoding/districtKey/03403"/>
+      </dct:Location>
+    </dct:spatial>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+</rdf:RDF>

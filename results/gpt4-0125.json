@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0125",
+  "run_at": "2025-09-03T17:10:41.451930Z",
+  "question_id": 125,
+  "question": "Wie viele Einwohner hatte die Stadt Jülich zum 31.12.2018 insgesamt?",
+  "answer": "34.023",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadt Jülich hatte zum 31.12.2018 insgesamt 34.023 Einwohner (davon 29.066 Deutsche und 4.957 Ausländer)."
+}

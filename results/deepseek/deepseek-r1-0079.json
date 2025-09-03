@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0079",
+  "run_at": "2025-09-01T21:26:27.201117Z",
+  "question_id": 79,
+  "question": "Wie viele der 2023 im Landkreis Miesbach übernachtenden Gäste hatten die Herkunft \"Spanien\"?",
+  "answer": "geht nicht aus der Statistik hervor",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "<FinalAnswer>\nDie verfügbaren Daten unterscheiden leider nicht zwischen einzelnen Herkunftsländern wie Spanien, sondern nur zwischen Inland und Ausland. Für 2023 gab es insgesamt **79.866 Auslandsgäste** mit **179.058 Übernachtungen** im Landkreis Miesbach. Eine spezifische Aufschlüsselung nach Spanien ist nicht vorhanden.\n\nQuelle: https://open.bydata.de/api/hub/repo/datasets/45511-022-09182\n</FinalAnswer>"
+}

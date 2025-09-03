@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-haeufigste_staatsangehoerigkeiten#dist-csv">
+    <dct:title>Häufigste Staatsangehörigkeiten</dct:title>
+    <dct:description>de-he-frankfurtam-haeufigste_staatsangehoerigkeiten</dct:description>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL>
+      <dcat:Dataset rdf:about="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-haeufigste_staatsangehoerigkeiten">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Häufigste Staatsangehörigkeiten</dct:title>
+        <dct:description>Häufigste Staatsangehörigkeiten</dct:description>
+        <dct:identifier>1642</dct:identifier>
+        <dcat:keyword>bulgarisch</dcat:keyword>
+        <dcat:keyword>geschlecht</dcat:keyword>
+        <dcat:keyword>griechisch</dcat:keyword>
+        <dcat:keyword>indisch</dcat:keyword>
+        <dcat:keyword>italienisch</dcat:keyword>
+        <dcat:keyword>jahr</dcat:keyword>
+        <dcat:keyword>kroatisch</dcat:keyword>
+        <dcat:keyword>polnisch</dcat:keyword>
+        <dcat:keyword>rumaenisch</dcat:keyword>
+        <dcat:keyword>serbisch</dcat:keyword>
+        <dcat:keyword>spanisch</dcat:keyword>
+        <dcat:keyword>stadtteil</dcat:keyword>
+        <dcat:keyword>tuerkisch</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-03T14:08:30.987297</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-13</dct:modified>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dcat:contactPoint>
+          <vcard:Organization rdf:nodeID="N107834f85b9543c0a8d26428eefeb1e8">
+            <vcard:fn>Laura Knoll</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:infoservice.statistik@stadt-frankfurt.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:publisher>
+          <foaf:Agent rdf:nodeID="Nac0d392c738f477ba0f32739c5376e51">
+            <foaf:name>Stadt Frankfurt am Main</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:nodeID="N4da4b9ab75ed45839cf2c721cc206e5e">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-31T00:00:00</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:distribution rdf:resource="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-haeufigste_staatsangehoerigkeiten#dist-csv"/>
+        <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/stadtFrankfurtAmMain"/>
+        <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/064120000000"/>
+        <dct:spatial>
+          <dct:Location rdf:nodeID="N9e50340d92504e3c9331e09ed5e641e5">
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/064120000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcatde:maintainer>
+          <foaf:Person rdf:nodeID="N2a007d02848640f2b38a4cdb6f94baf0">
+            <foaf:name>Laura Knoll</foaf:name>
+          </foaf:Person>
+        </dcatde:maintainer>
+      </dcat:Dataset>
+    </dcat:accessURL>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-haeufigste_staatsangehoerigkeiten/content.csv"/>
+    </dcat:downloadURL>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-03T14:08:30.993551</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-13</dct:modified>
+  </dcat:Distribution>
+</rdf:RDF>

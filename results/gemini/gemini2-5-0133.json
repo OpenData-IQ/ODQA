@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0133",
+  "run_at": "2025-09-01T07:42:12.888472Z",
+  "question_id": 133,
+  "question": "In welche Länder sind im Jahr 2020 200 oder mehr Menschen aus Elsdorf im Rhein-Erft-Kreis weggezogen?",
+  "answer": "Deutschland, Kamerun, Ägypten, Pakistan, Thailand, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3bcbf72d-9a08-4612-87b8-ed2bf995203e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2011</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2011</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3bcbf72d-9a08-4612-87b8-ed2bf995203e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2011_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3bcbf72d-9a08-4612-87b8-ed2bf995203e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:41:42+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:52:03+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d627e772-042e-41e1-a82d-d29cbe4ccfbd">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Merzenich Ortsteile 2019</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d627e772-042e-41e1-a82d-d29cbe4ccfbd"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20200106.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d627e772-042e-41e1-a82d-d29cbe4ccfbd"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:48:35+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:48:35+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1577</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D08 Familien nach Größe Gemeinde Merzenich</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach&nbsp;Familiengröße von 1 Mitglied bis 15 Mitglieder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag.</p>
+
+<p>Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>7db65209-4df4-4e06-a0fe-a8ec7b4e37a0</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:07:39+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N435bb478330843969829c729aa1ceeb3">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/7ac53719-2a94-49e2-a2d5-d98701d4e381">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Merzenich Ortsteile 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/7ac53719-2a94-49e2-a2d5-d98701d4e381"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/7ac53719-2a94-49e2-a2d5-d98701d4e381"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:05:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:05:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1587</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7a83a2dea5ce4df8b17038bbf5268099">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d96695da8f2937fec04fc19443cae2aa</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d627e772-042e-41e1-a82d-d29cbe4ccfbd"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/40b91a0a-bfe9-4aab-a37f-ce86ecb20920">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Merzenich gesamt 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/40b91a0a-bfe9-4aab-a37f-ce86ecb20920"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20200106.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/40b91a0a-bfe9-4aab-a37f-ce86ecb20920"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:50:13+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:50:13+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">539</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7e80b86-9866-4c1e-9cb6-20cec9891e2c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7e80b86-9866-4c1e-9cb6-20cec9891e2c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7e80b86-9866-4c1e-9cb6-20cec9891e2c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:34:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:46:34+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1244</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8158df6c-875b-4b6b-95bf-9933931321f4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8158df6c-875b-4b6b-95bf-9933931321f4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8158df6c-875b-4b6b-95bf-9933931321f4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T10:46:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T10:46:01+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1964</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d3a681a4-a708-4b42-8296-28f853e90e39">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Merzenich Ortsteile 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d3a681a4-a708-4b42-8296-28f853e90e39"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d3a681a4-a708-4b42-8296-28f853e90e39"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:34:06+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:06:15+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1957</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N231a612b0d694abb9da492da01e7870a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c4a9349729ba11c80263be237df18a2e</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8af25caa-7a3f-43b0-b764-feba3d5e416b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8af25caa-7a3f-43b0-b764-feba3d5e416b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/8af25caa-7a3f-43b0-b764-feba3d5e416b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:35:59+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:47:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1244</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/13adb886-53cd-4cc0-94bb-f0e1354a62c7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Gemeindegebiet&nbsp;zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/13adb886-53cd-4cc0-94bb-f0e1354a62c7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/13adb886-53cd-4cc0-94bb-f0e1354a62c7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T11:19:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T11:19:01+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">540</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/f0920cc5-4ad2-4d56-93dc-9d6264235328">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/f0920cc5-4ad2-4d56-93dc-9d6264235328"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/f0920cc5-4ad2-4d56-93dc-9d6264235328"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:39:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:50:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">540</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3d2132a4-55e1-41c7-9fcb-9873f0949bbe">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Merzenich gesamt 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3d2132a4-55e1-41c7-9fcb-9873f0949bbe"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3d2132a4-55e1-41c7-9fcb-9873f0949bbe"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:57:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:58:37+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">540</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/eb66c155-20dc-4bef-af9a-6bf429e4e899">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/eb66c155-20dc-4bef-af9a-6bf429e4e899"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2011_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/eb66c155-20dc-4bef-af9a-6bf429e4e899"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:32:20+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:44:36+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1247</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ee4b1e54-5136-40df-9b80-e09d44af36cb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ee4b1e54-5136-40df-9b80-e09d44af36cb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2015_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ee4b1e54-5136-40df-9b80-e09d44af36cb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:46:58+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T12:07:06+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/5544bc43-baef-48cb-93be-7e38f369ccfb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/5544bc43-baef-48cb-93be-7e38f369ccfb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2015_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/5544bc43-baef-48cb-93be-7e38f369ccfb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:37:45+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:48:28+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1596</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/fea3e844-e1f6-419d-82ce-0f5fcf33267a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/fea3e844-e1f6-419d-82ce-0f5fcf33267a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/fea3e844-e1f6-419d-82ce-0f5fcf33267a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:33:32+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:45:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1246</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c83bbbb0-cd60-41a2-bc1b-0c61558acc31">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c83bbbb0-cd60-41a2-bc1b-0c61558acc31"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c83bbbb0-cd60-41a2-bc1b-0c61558acc31"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:43:06+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T11:34:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c660c848-b159-46a4-bc37-e4d76074ee1b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Merzenich gesamt 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c660c848-b159-46a4-bc37-e4d76074ee1b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c660c848-b159-46a4-bc37-e4d76074ee1b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:34:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:34:24+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">539</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ccf91a3d-a192-4347-bca4-a532eb22442a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Merzenich&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ccf91a3d-a192-4347-bca4-a532eb22442a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/ccf91a3d-a192-4347-bca4-a532eb22442a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:57:38+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:57:38+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1596</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/a716c56f-ff32-4cfc-be68-c3755ab4865b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/a716c56f-ff32-4cfc-be68-c3755ab4865b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/a716c56f-ff32-4cfc-be68-c3755ab4865b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:44:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T11:35:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">540</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/58fbcb95-19f7-4490-8dd8-e44a9bac9582">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (Ortsteil) Gemeinde Merzenich 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/58fbcb95-19f7-4490-8dd8-e44a9bac9582"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/58fbcb95-19f7-4490-8dd8-e44a9bac9582"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:30:58+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:43:33+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1247</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c391f0ba-3b51-47a4-92a9-7bfedba5c42e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c391f0ba-3b51-47a4-92a9-7bfedba5c42e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/c391f0ba-3b51-47a4-92a9-7bfedba5c42e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-20T17:45:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T11:38:09+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">539</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d9220730-bf21-4522-b542-2be4c4eb15b8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe (gesamt) Gemeinde Merzenich 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d9220730-bf21-4522-b542-2be4c4eb15b8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/d9220730-bf21-4522-b542-2be4c4eb15b8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T14:02:26+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T14:02:26+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7eff57e-aa2d-4444-a01a-3d5062c75527">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Merzenich Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7eff57e-aa2d-4444-a01a-3d5062c75527"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/b7eff57e-aa2d-4444-a01a-3d5062c75527"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:57:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:59:25+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1596</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/38d87805-7c90-4452-b24a-e26bef627527">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Merzenich gesamt 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Merzenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/38d87805-7c90-4452-b24a-e26bef627527"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/38d87805-7c90-4452-b24a-e26bef627527"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:07:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T12:07:39+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">539</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N733a7bc5ab124318b3a0a5e7f61a991c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2ea6d685302e7cf4633a6422051ff337</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-merzenich/resource/3bcbf72d-9a08-4612-87b8-ed2bf995203e"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2014_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20210104.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2011_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20210104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2013_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20200106.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2014_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2015_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat28A-2013_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat289-2015_20161121.csv"/>
+</rdf:RDF>

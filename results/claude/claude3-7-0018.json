@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude3-7-0018",
+  "run_at": "2025-09-01T04:59:48.816106Z",
+  "question_id": 18,
+  "question": "Wie viele Dioxine wurden 1994 in Frauenmilch nachgewiesen?",
+  "answer": "20,4 PCDD/PCDF",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer:\n\nIm Jahr 1994 wurden in Frauenmilch in Deutschland 20,4 pg WHO-PCDD/F-TEQ pro Gramm Milchfett an Dioxinen (PCDD/PCDF) nachgewiesen. Dieser Wert ist Teil einer Zeitreihe, die den Rückgang der Dioxinbelastung in Frauenmilch von 1990 bis 2009 dokumentiert.\n\nQuelle: https://ckan.govdata.de/dataset/7a2fbbc4-75c1-43a4-b03f-7cc9c6851256 (Zeitlicher Trend der Dioxingehalte in Frauenmilch aus Deutschland 1990-2009)"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0147",
+  "run_at": "2025-08-31T13:28:16.807687Z",
+  "question_id": 147,
+  "question": "Wie viele Straßen warem am 11.08.2024 (KW 32) insgesamt als Messbereiche für die Geschwindigkeitsüberwachung vorgesehen?",
+  "answer": "Insgesamt 6 Straßen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Am 11.08.2024 (KW 32) waren insgesamt 6 Straßen als Messbereiche vorgesehen. \n\nQuelle: Messbereiche 2024 KW32 (Stadt Essen Open Data)"
+}

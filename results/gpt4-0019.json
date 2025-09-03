@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0019",
+  "run_at": "2025-09-03T12:58:52.908444Z",
+  "question_id": 19,
+  "question": "Wie lang ist die Badestelle am Vollstedter See?",
+  "answer": "30m",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "In den verfügbaren offenen Datensätzen ist keine Information zur Länge der Badestelle am Vollstedter See enthalten. Es gibt Daten zu Wasserstand und Saisondauer, aber keine Angabe zur Länge der Badestelle."
+}

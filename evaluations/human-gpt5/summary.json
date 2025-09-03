@@ -1,0 +1,19 @@
+{
+  "total": 204,
+  "counts_by_category": {
+    "perfect": 105,
+    "problem_answers": 95,
+    "acceptable": 2,
+    "partially": 2
+  },
+  "problem_type_counts": {
+    "recursion limit": 77,
+    "token limit": 6,
+    "no answer": 4,
+    "answer incorrect": 8
+  },
+  "correct_total": 107,
+  "overall_accuracy": 0.5245098039215687,
+  "found_total": 204,
+  "found_accuracy": 0.5245098039215687
+}

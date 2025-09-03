@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0156",
+  "run_at": "2025-09-01T23:05:22.966000Z",
+  "question_id": 156,
+  "question": "Wie hoch war der Anteil ausländischer Einwohner an der Gesamtbevölkerung der Stadt Brühl zum Stichtag 31.12.2019?",
+  "answer": "Am 31.12.2019 lebten in der Stadt Brühl insgesamt 45.985 Menschen, davon waren 6.840 ausländische Staatsangehörige. Der Anteil ausländischer Einwohner an der Gesamtbevölkerung betrug somit etwa 14,9%.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 163840 tokens. However, you requested about 185443 tokens (184625 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

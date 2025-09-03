@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0152",
+  "run_at": "2025-09-01T17:44:34.590595Z",
+  "question_id": 152,
+  "question": "Welche Arten von Änderungen des Familienstands wurden im Jahr 2017 in der Gemeinde Hürtgenwald erfasst?",
+  "answer": "Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Eheschließung, Ehescheidung, Tod des Ehegatten, Tod des Lebenspartners",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"Input is too long for requested model.\"}', 'provider_name': 'Amazon Bedrock'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0136",
+  "run_at": "2025-09-01T16:55:57.420756Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Perfekt! Ich habe die Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 gefunden, und der Stadtbereich Biestow ist in den Ergebnissen enthalten.\n\nFinalAnswer:\n\nJa, es gibt Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow. Laut den offiziellen Ergebnissen betrug die Wahlbeteiligung in Biestow 80,2%. Dies ist die höchste Wahlbeteiligung unter allen Stadtbereichen in Rostock bei dieser Wahl. Zum Vergleich: Die durchschnittliche Wahlbeteiligung in allen Stadtbereichen lag deutlich niedriger, mit Werten zwischen 47,9% (Schmarl) und 78,4% (Gartenstadt/Stadtweide).\n\nQuelle: https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26"
+}

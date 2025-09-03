@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D01 Vornamen eines Geburtsjahres Titz</dct:title>
+    <dct:description><![CDATA[<p>Auflistung&nbsp;vergebender Vornamen eines Geburtsjahres mit Angabe zum Geschlecht.</p>
+]]></dct:description>
+    <dct:identifier>c433996a-06bb-48a8-a7b5-5cdaf4484db4</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T14:57:03+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N30bc2aa37e4543c19f4d3c4d3dd3f09b">
+        <rdfs:label>Private </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/83e904c4-0fa0-4c5c-bf31-478cabb0c452">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2018</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/83e904c4-0fa0-4c5c-bf31-478cabb0c452"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/83e904c4-0fa0-4c5c-bf31-478cabb0c452"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-02T14:10:33+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T07:49:05+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5565</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/00a3bc5a-2405-4685-b3dd-a2c327f3a938">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2011</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/00a3bc5a-2405-4685-b3dd-a2c327f3a938"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2011_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/00a3bc5a-2405-4685-b3dd-a2c327f3a938"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:31:30+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:31:30+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4558</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/3537e4fd-e1c4-479b-b23a-34cf8d215a80">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2013</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/3537e4fd-e1c4-479b-b23a-34cf8d215a80"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2013_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/3537e4fd-e1c4-479b-b23a-34cf8d215a80"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:42:59+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:42:59+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4617</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/4890b789-179d-446a-b739-7d1db7b6d88a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2014</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/4890b789-179d-446a-b739-7d1db7b6d88a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2014_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/4890b789-179d-446a-b739-7d1db7b6d88a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T10:14:22+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T10:14:22+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5342</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/f8a6dff7-38f8-43f2-90f2-b33cbbca9e7a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2015</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/f8a6dff7-38f8-43f2-90f2-b33cbbca9e7a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2015_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/f8a6dff7-38f8-43f2-90f2-b33cbbca9e7a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T10:20:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T10:20:23+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5323</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/c9be9eca-12d0-4ecc-911b-d5e6e946ed45">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2012</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/c9be9eca-12d0-4ecc-911b-d5e6e946ed45"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2012_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/c9be9eca-12d0-4ecc-911b-d5e6e946ed45"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:37:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:37:46+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4107</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/b67ebd3f-aa9d-4413-a1f5-a8235aaa3e8e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Landgemeinde Titz 2021</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/b67ebd3f-aa9d-4413-a1f5-a8235aaa3e8e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/b67ebd3f-aa9d-4413-a1f5-a8235aaa3e8e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T14:57:03+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T14:58:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6477</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N489a80a847454122bc8ef2c7f11baf02">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">cae7115341f997528c786ca81a780144</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/ea73596c-7093-4848-858f-00dea35f1712">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2010</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/ea73596c-7093-4848-858f-00dea35f1712"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2010_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/ea73596c-7093-4848-858f-00dea35f1712"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:30:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:30:01+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5374</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/de504c2e-ccde-42be-96d9-cb109804c69e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2017</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/de504c2e-ccde-42be-96d9-cb109804c69e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/de504c2e-ccde-42be-96d9-cb109804c69e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T12:03:56+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T12:03:56+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6237</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/608cb4f3-2105-41ce-9db8-d1a435f9335d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2019</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/608cb4f3-2105-41ce-9db8-d1a435f9335d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/608cb4f3-2105-41ce-9db8-d1a435f9335d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T09:07:27+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T09:07:27+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6619</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/989bc7eb-e4c2-484a-bb81-bc1070c1bcd8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2016</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/989bc7eb-e4c2-484a-bb81-bc1070c1bcd8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/989bc7eb-e4c2-484a-bb81-bc1070c1bcd8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T09:04:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T09:06:29+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6851</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/90b31070-b351-4fec-b57c-bcc5137df494">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2020</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/90b31070-b351-4fec-b57c-bcc5137df494"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/90b31070-b351-4fec-b57c-bcc5137df494"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-25T13:22:21+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-25T13:22:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7165</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/234e31cb-d499-4ec0-8da7-d8550323e2f3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Titz 2009</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/234e31cb-d499-4ec0-8da7-d8550323e2f3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2009_20161111.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/234e31cb-d499-4ec0-8da7-d8550323e2f3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:27:49+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-15T09:27:49+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5457</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2010_20161111.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2015_20161111.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20180116.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2013_20161111.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20190116.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20170201.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2014_20161111.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2011_20161111.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2009_20161111.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat171-2012_20161111.csv"/>
+</rdf:RDF>

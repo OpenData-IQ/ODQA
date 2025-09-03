@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da">
+    <dct:title>Kommunale Gebietsgliederung Leipzig: Adressen</dct:title>
+    <dct:description>Verzeichnis aller aktuellen Adressdaten (Straßenschlüssel, Straßenname, Hausnummer, Statistischer Bezirk, Ortsteil) der Stadt Leipzig. Die Daten werden wöchentlich aktualisiert.</dct:description>
+    <dct:identifier>e1b381f0-4b57-4f0d-86cd-a4bb423894da</dct:identifier>
+    <dcat:keyword>adresse</dcat:keyword>
+    <dcat:keyword>hausnummer</dcat:keyword>
+    <dcat:keyword>kleinräumige-gliederung</dcat:keyword>
+    <dcat:keyword>ortsteil</dcat:keyword>
+    <dcat:keyword>statistischer-bezirk</dcat:keyword>
+    <dcat:keyword>straße</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-04-11</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-15</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.leipzig.de/">
+        <foaf:name>Stadt Leipzig</foaf:name>
+        <foaf:homepage rdf:resource="https://www.leipzig.de/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.leipzig.de/resource/868214cb-6602-420f-91f3-a1b06c037be2">
+        <dct:title>Kommunale Gebietsgliederung Leipzig: Adressen CSV</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da/resource/868214cb-6602-420f-91f3-a1b06c037be2/download/adressen.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T06:45:39.251354</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T06:45:39.238534</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/freistaatSachsen"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da/resource/868214cb-6602-420f-91f3-a1b06c037be2/download/adressen.csv"/>
+</rdf:RDF>

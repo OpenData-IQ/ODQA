@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0033",
+  "run_at": "2025-09-01T20:09:42.783913Z",
+  "question_id": 33,
+  "question": "Ist die Anzahl der Zoobesuche in Dortmund 1990 bis 2022 gestiegen oder gesunken?",
+  "answer": "gesunken",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "1990 besuchten 707.656 Menschen den Dortmunder Zoo, 2022 waren es 460.803",
+  "llm_final": "**FinalAnswer**\nLeider konnten die Besucherzahlen des Dortmunder Zoos für den Zeitraum 1990–2022 nicht aus den bereitgestellten Datensätzen abgerufen werden. Die Daten scheinen entweder nicht verfügbar oder technisch nicht zugänglich zu sein.  \nQuelle: [Besucherzahlen Dortmund Zoo 1990-2022](https://www.govdata.de/web/guest/suchen/-/details/besucherzahlen-dortmund-zoo-1990-2022)"
+}

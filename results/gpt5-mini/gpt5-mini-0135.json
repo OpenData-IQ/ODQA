@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0135",
+  "run_at": "2025-08-31T13:14:07.767165Z",
+  "question_id": 135,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Ja. Im Open‑Data‑Datensatz für Merzenich zur Landtagswahl 1995 ist die Wahlbeteiligung angegeben: 66,19 % (Wahlberechtigte: 6.696; abgegebene Stimmen: 4.432; gültig: 4.400; ungültig: 32).\n\nQuelle: D12 Landtagswahlen Gemeinde Merzenich — http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358040/html5/Landtagswahl_NRW3.csv (über https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich)."
+}

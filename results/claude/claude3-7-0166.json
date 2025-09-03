@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0166",
+  "run_at": "2025-09-01T18:05:10.051538Z",
+  "question_id": 166,
+  "question": "Wie viele Einwohner mit deutscher und ausländischer Staatsangehörigkeit lebten zum 31.12.2011 in der Gemeinde Langerwehe?",
+  "answer": "Zum Stichtag 31.12.2011 lebten in der Gemeinde Langerwehe 13.084 Personen mit deutscher und 611 Personen mit ausländischer Staatsangehörigkeit.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

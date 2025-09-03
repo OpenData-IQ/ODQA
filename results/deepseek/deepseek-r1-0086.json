@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0086",
+  "run_at": "2025-09-01T21:33:44.063527Z",
+  "question_id": 86,
+  "question": "Wie viele jugendliche Arbeitslose unter 20 Jahren gab es in Goslar, Salzgitter und Helmstedt insgeamt im Jahr 2007?",
+  "answer": "337",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nLeider konnten keine spezifischen Daten zur Anzahl jugendlicher Arbeitsloser unter 20 Jahren in Goslar, Salzgitter und Helmstedt für das Jahr 2007 in den durchsuchten Open-Data-Portalen gefunden werden. Mögliche Gründe sind:  \n- Die Daten sind nicht öffentlich zugänglich oder liegen nicht in maschinenlesbarer Form vor.  \n- Die Suchbegriffe müssen ggf. angepasst werden (z.B. \"Arbeitslosenstatistik Landkreise 2007\").  \n\n**Quellen:**  \n- [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/)  \n- [Niedersächsisches Landesamt für Statistik](https://www.statistik.niedersachsen.de/)  \n\nFür eine detaillierte Auskunft empfiehlt sich eine direkte Anfrage bei den Statistischen Ämtern der genannten Landkreise."
+}

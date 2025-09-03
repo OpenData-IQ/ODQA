@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0174",
+  "run_at": "2025-09-01T03:06:54.669484Z",
+  "question_id": 174,
+  "question": "An welchem Tag der Kalenderwoche 23 im Jahr 2022 wurde auf der Marsstraße in Atlantis eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "Es gibt keine Marsstraße in Atlantis, daher liegen dazu keine Messdaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

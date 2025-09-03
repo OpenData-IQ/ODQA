@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0036",
+  "run_at": "2025-09-01T13:41:57.995924Z",
+  "question_id": 36,
+  "question": "Wo genau befindet sich die Radzählstation in Kapellen im Rhein-Neuss-Kreis?",
+  "answer": "dort gibt es keine",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Das LLM lieferte nur eine 500 Internal Server Error-Meldung und keine inhaltliche Antwort. Daher liegt keine verwertbare Beantwortung der Frage vor."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0139",
+  "run_at": "2025-09-01T16:58:57.464706Z",
+  "question_id": 139,
+  "question": "Wo finde ich die Quantilgrenzen der Boxplots für die 6-Wochen-Vorhersage des Pegel Kaub?",
+  "answer": "https://gdk.gdi-de.org/inspire/srv/eng/xml_iso19139?uuid=3c871590-c5db-440f-a34d-3a675b8cec39",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Die alleinige Angabe zum Download ist ebenfalls korrekt: https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_QuansBox.csv",
+  "llm_final": "\n\nDie Daten werden von der Bundesanstalt für Gewässerkunde (BfG) bereitgestellt.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt lediglich den Datenanbieter (BfG), aber keinen Fundort/Link. Somit wird die Frage nach dem „Wo“ nicht beantwortet und die Ressource aus der Goldantwort fehlt. Teilweise korrekt, aber deutlich unvollständig."
+  }
+}

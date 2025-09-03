@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0167",
+  "run_at": "2025-09-01T08:20:52.152657Z",
+  "question_id": 167,
+  "question": "Wie viele Familien mit mindestens 5 Personen gab es am 31.12.2015 in der Gemeinde Merzenich und wie viele Personen lebten insgesamt in diesen Familien?",
+  "answer": "Am 31.12.2015 gab es in der Gemeinde Merzenich 90 Familien mit mindestens 5 Personen (66 mit 5, 19 mit 6, 3 mit 7 und 2 mit 8 Personen). In diesen Familien lebten insgesamt 481 Personen (330 in 5-Personen-Familien, 114 in 6-Personen-Familien, 21 in 7-Personen-Familien und 16 in 8-Personen-Familien).",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The input token count (1161947) exceeds the maximum number of tokens allowed (1048576).\",\\n    \"status\": \"INVALID_ARGUMENT\"\\n  }\\n}\\n', 'provider_name': 'Google'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

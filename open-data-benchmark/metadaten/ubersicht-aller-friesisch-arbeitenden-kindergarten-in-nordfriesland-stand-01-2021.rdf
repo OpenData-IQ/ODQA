@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915">
+    <dct:title>Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland – Stand: 01/2021</dct:title>
+    <dct:description>Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland – Stand: 01/2021. &#13;
+&#13;
+Kindergärten auf Sylt:&#13;
+Arbeitskreis Sylt: Material und Informationsaustausch mehrmals jährlich.&#13;
+2 mal jährlich Sölring ma hart huar än huan.&#13;
+&#13;
+Kindergärten Bredstedt:&#13;
+Teilnahme einer Erzieherin am Wahlpflichtfach Friesisch an der Fachschule für Sozialpädagogik als Weiterbildungsmaßnahme vom ADS finanziert.&#13;
+Friesisch wird in den Gruppen der Vorschulkinder angeboten.&#13;
+&#13;
+Quelle Tabelle: Friesenrat Sektion Nord e.V.&#13;
+&#13;
+Quelle: https://transparenz.schleswig-holstein.de/dataset/minderheitenbericht-2021&#13;
+&#13;
+Der Minderheitenbericht 2021 enthält eine Vielzahl von Tabellen, die Sie [hier aufgelistet](https://opendata.schleswig-holstein.de/tag/Minderheitenbericht%202021) finden.</dct:description>
+    <dct:identifier>7f5267cc-720e-4abe-a7b5-5f15048d4915</dct:identifier>
+    <dcat:keyword>friesisch</dcat:keyword>
+    <dcat:keyword>internationales</dcat:keyword>
+    <dcat:keyword>kindergarten</dcat:keyword>
+    <dcat:keyword>minderheitenbericht</dcat:keyword>
+    <dcat:keyword>minderheitenbericht-2021</dcat:keyword>
+    <dcat:keyword>nordfriesland</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-17T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-17T08:20:54.200066</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/346ba696-1d14-443e-a2ef-d0408f5ea570">
+        <foaf:name>Staatskanzlei</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N8cb330bcc22142778318ff3678cd31cf">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/districtKey/01054">
+        <skos:prefLabel>Kreis Nordfriesland</skos:prefLabel>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((8.2785 54.2620, 8.2785 55.0583, 9.3273 55.0583, 9.3273 54.2620, 8.2785 54.2620))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915/resource/b26b8d2b-ff5f-45ef-9443-91c507b4aa2b">
+        <dct:title>Tabelle_39.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/ccpdm/1.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915/resource/b26b8d2b-ff5f-45ef-9443-91c507b4aa2b/download/tabelle_39.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-17T06:18:29.603672</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-17T06:18:29.543472</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1838</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf6bd80cc8deb404aa3a2bbce1aa0d8fb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">76848df89a411718f0bdf0790a19e884</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/ccpdm/1.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915/resource/b26b8d2b-ff5f-45ef-9443-91c507b4aa2b/download/tabelle_39.csv"/>
+</rdf:RDF>

@@ -1,0 +1,10 @@
+bezirk,zeitraum_von,zeitraum_bis,bewegungsart,anzahl
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Geburt,225
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Zuzug,1782
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Umzug,1819
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Todesfall,351
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Wegzug,1527
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Wegzug nach "Unbekannt",91
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,Statuswechsel,145
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,davon Statuswechsel zu Hauptwohnsitz,63
+Ganzes Stadtgebiet,01.01.2011,31.12.2011,davon Statuswechsel zu Nebenwohnsitz,82

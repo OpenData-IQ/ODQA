@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0018",
+  "run_at": "2025-08-31T21:34:01.684660Z",
+  "question_id": 18,
+  "question": "Wie viele Dioxine wurden 1994 in Frauenmilch nachgewiesen?",
+  "answer": "20,4 PCDD/PCDF",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "20,4 pg WHO-PCDD/F-TEQ pro Gramm Milchfett (Frauenmilch, Deutschland, 1994).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und liefert zusätzliche, relevante Details wie die Einheit und den Kontext (Deutschland, 1994), die die Antwort noch präziser machen. Sie geht über die Goldstandard-Antwort hinaus und ist sehr vollständig."
+  }
+}

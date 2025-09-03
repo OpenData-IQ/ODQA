@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns1="http://data.europa.eu/eli/ontology#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Bäume</dct:title>
+    <dct:description>Dieser Datensatz umfasst die Bäume des Baumkatasters der Hanse- und Universitätsstadt Rostock mit Informationen zu Gattung, Art, Status als Alleebaum, Höhe in der Einheit Meter, Stammdurchmesser in der Einheit Zentimeter, Stammumfang in der Einheit Zentimeter, Kronendurchmesser in der Einheit Meter und Baumpatenschaft. Die Ressourcen werden in der Regel in folgendem Zeitabstand aktualisiert: 30 Tage.</dct:description>
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e"/>
+    <dct:identifier>38db800d-a64d-4053-8c50-f96a7f51510e</dct:identifier>
+    <dcat:keyword>baum</dcat:keyword>
+    <dcat:keyword>grünstreifen</dcat:keyword>
+    <dcat:keyword>landschaftspflege</dcat:keyword>
+    <dcat:keyword>naturpflege</dcat:keyword>
+    <dcat:keyword>planung</dcat:keyword>
+    <dcat:keyword>stadtplanung</dcat:keyword>
+    <dcat:keyword>städtische-grünfläche</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T10:46:45.590516</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T04:08:37.900249</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/"/>
+    </dct:conformsTo>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N04bd34e988d4428e9acee8414854fad2">
+        <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="Nf9ab782af930443aad7ce79585c61909">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Amt für Stadtgrün, Naturschutz und Friedhofswesen</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Nb9b1aa820d0d475796feccf9dd3e3956">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Amt für Stadtgrün, Naturschutz und Friedhofswesen</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N8d38ce5e38a542bdbd005a4f0a3dee41">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N76184e36f7cd44fba6534a17ffa079fd">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/e41d3cb4-ac03-4f77-ba36-7d9f67d2fa04">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30267614</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb4566f625eb045b48c36d318570007d4">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">cd4d81b6d325aebc448dfc28161156197c931eab42ad16c73b3d16f3d8620420</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/985ae459-ef3a-409d-a5bc-204d6600a253">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10134415</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6a64230966d448dc94ed79c1e0acb79e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4eff554152feba945326fbc0fc4bb7a1b8e24c525c7aed6b153d7ffa70709a68</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/8df2ff94-cf9e-40f9-b98a-b07fe3c7868b">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">55572004</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3ac1da9119774b6092ed16d48367e681">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">af33b7ee5dbf47bf76e8025372c5e711c1fde47e024dc0393db80a4eee0e2e34</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/0b951ac9-2909-4cc6-9796-edf8d598f78f">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">78767702</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3e7d6166d1104713b5b9987557f03215">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">19ca9c1c766e556850caf934339fb93173e1fcd1b34ebf60428403d7de654f59</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/9ddc8191-eb62-4fdf-b98d-51eca8863d4e">
+        <dct:title>Bäume</dct:title>
+        <dct:description>Diese Karte umfasst die Bäume des Baumkatasters der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/lcv-trees/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-24T10:48:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/c22232f6-cb75-4927-8a49-2b3e40018112">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/baeume/wfs"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/7db3ac34-5f59-438e-9691-48715ef6f2f9">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/baeume/baeume.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4961182</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N80c3043e6f22485daee4ccbad8f6cb0b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6fccc77ddb780e71531ba69fffefd48681c4825925aa72fb79e1a6e448d4a722</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/be1c699f-14c6-4db3-a4eb-14335c65151c">
+        <dct:title>Bäume</dct:title>
+        <dct:description>Diese Daten umfassen die Bäume des Baumkatasters der Hanse- und Universitätsstadt Rostock mit Informationen zu Gattung und Art.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/lcv-trees/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-24T10:48:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/38db800d-a64d-4053-8c50-f96a7f51510e/resource/30da3d95-c341-456f-a1df-420b9999fe94">
+        <dct:title>Bäume</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/baeume/wms"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-18T08:46:54</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T01:23:56</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:applicableLegislation>
+      <ns1:LegalResource rdf:about="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    </dcatap:applicableLegislation>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_dd313021"/>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N8211c059a07a47389891f209edc759da">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/inspire/lcv-trees/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/baeume/baeume.kml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/baeume/wms"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/baeume/baeume.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/baeume/baeume.gml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/geo+json"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/inspire/lcv-trees/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/baeume/wfs"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/baeume/baeume.csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/baeume/baeume.json"/>
+</rdf:RDF>

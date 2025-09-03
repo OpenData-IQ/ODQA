@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0157",
+  "run_at": "2025-09-03T14:01:23.609749Z",
+  "question_id": 157,
+  "question": "Hat die Stadt Aachen im November 2021 oder im Dezember 2021 mehr Verstöße bei Geschwindigkeitskontrollen gemessen?",
+  "answer": "Im November 2021 wurden 3298 Verstöße verzeichnet, wohingegen es im Dezember nur 2800 waren.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "In beiden Dateien muss erst eine Summe errechnet werden, die dann mit der jeweils anderen verglichen wird.",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

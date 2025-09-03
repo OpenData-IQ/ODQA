@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0141",
+  "run_at": "2025-09-01T17:00:29.204877Z",
+  "question_id": 141,
+  "question": "Gibt es Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden, aufgeteilt in die Stadtbezirke und differenziert nach Geschlecht und verschiedenen Altersgruppen.",
+  "llm_final": "Ich werde die Summe manuell berechnen:\n2424 + 2205 + 2342 + 675 + 626 + 2509 + 1350 + 3020 + 1663 + 4064 + 237 = 21115\n\nFinalAnswer: Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden. Laut den offiziellen Daten der Stadt Dresden gab es im 4. Quartal 2015 insgesamt 21.115 arbeitslose Personen in Dresden. Die Daten sind nach Stadtbezirken aufgeschlüsselt und enthalten zusätzliche Informationen wie Geschlecht, Nationalität, Alter und Ausbildungsstand der Arbeitslosen. Der Stadtbezirk mit den meisten Arbeitslosen war Cotta/westliche Ortschaften mit 4.064 Personen, gefolgt von Prohlis mit 3.020 Personen.\n\nQuelle: https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal"
+}

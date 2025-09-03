@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0071",
+  "run_at": "2025-09-03T13:25:31.202451Z",
+  "question_id": 71,
+  "question": "In welchen Städten und Kreisen gab es 2023 mehr als 10000 Gastgewerbe im Unternehmensregister-System?",
+  "answer": "Düsseldorf, Köln, Darmstadt, Stuttgart, Oberbayern,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 gab es laut Unternehmensregister-System in folgenden Städten und Kreisen mehr als 10.000 Gastgewerbe-Niederlassungen:\n\n- Nordrhein-Westfalen (gesamt): 48.145\n- Düsseldorf, Regierungsbezirk: 14.773\n- Köln, Regierungsbezirk: 12.582\n\nEinzelne kreisfreie Städte oder Kreise überschreiten die Schwelle von 10.000 nicht, sondern nur die genannten Regierungsbezirke und das Bundesland insgesamt.\n\nQuelle: Landesdatenbank NRW, Tabelle 52111-02i_00"
+}

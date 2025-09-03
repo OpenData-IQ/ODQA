@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0142",
+  "run_at": "2025-09-03T14:01:20.041488Z",
+  "question_id": 142,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018?",
+  "answer": "https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die gesamte Bevölkerungsbewegung im Jahr 2018 für die verschiedenen Stadtbereiche von Rostock enthält. Er umfasst unter anderem die absolute und relative Bestandsveränderung sowie die Veränderung je 1.000 Einwohnerinnen und Einwohner.",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

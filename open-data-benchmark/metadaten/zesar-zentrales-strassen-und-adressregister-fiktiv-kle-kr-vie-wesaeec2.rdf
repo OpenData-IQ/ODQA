@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://registry.gdi-de.org/id/de.nw/cc351fda-d4bd-4c99-955d-1cf3a9ab5aa9">
+    <dct:title>Zesar - Zentrales Straßen- und Adressregister fiktiv KLE KR VIE WES</dct:title>
+    <dct:description>Dieser Datensatz beinhaltet die fiktiven Adressen für die Stadt Krefeld und für die Kreise Kleve, Wesel und Viersen. 
+Quelldatenbestand für Hausnummern &amp; Straßennamen.
+
+Der Dienst ist tagesaktuell.</dct:description>
+    <dct:identifier>cf99f29f-77ee-4315-b0ab-32deeba2cd32</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+    </dct:accrualPeriodicity>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword>05154000</dcat:keyword>
+    <dcat:keyword>05166000</dcat:keyword>
+    <dcat:keyword>adresse</dcat:keyword>
+    <dcat:keyword>adressen</dcat:keyword>
+    <dcat:keyword>alpen</dcat:keyword>
+    <dcat:keyword>bedburg-hau</dcat:keyword>
+    <dcat:keyword>brüggen</dcat:keyword>
+    <dcat:keyword>citko</dcat:keyword>
+    <dcat:keyword>dinslaken</dcat:keyword>
+    <dcat:keyword>emmerich</dcat:keyword>
+    <dcat:keyword>emmerich-am-rhein</dcat:keyword>
+    <dcat:keyword>fiktiv</dcat:keyword>
+    <dcat:keyword>geldern</dcat:keyword>
+    <dcat:keyword>goch</dcat:keyword>
+    <dcat:keyword>grefrath</dcat:keyword>
+    <dcat:keyword>hamminkeln</dcat:keyword>
+    <dcat:keyword>hausnummer</dcat:keyword>
+    <dcat:keyword>hausnummern</dcat:keyword>
+    <dcat:keyword>hünxe</dcat:keyword>
+    <dcat:keyword>issum</dcat:keyword>
+    <dcat:keyword>kalkar</dcat:keyword>
+    <dcat:keyword>kamp-lintfort</dcat:keyword>
+    <dcat:keyword>kempen</dcat:keyword>
+    <dcat:keyword>kerken</dcat:keyword>
+    <dcat:keyword>kevelaer</dcat:keyword>
+    <dcat:keyword>kleve</dcat:keyword>
+    <dcat:keyword>kranenburg</dcat:keyword>
+    <dcat:keyword>krefeld</dcat:keyword>
+    <dcat:keyword>kreis-kleve</dcat:keyword>
+    <dcat:keyword>kreis-viersen</dcat:keyword>
+    <dcat:keyword>moers</dcat:keyword>
+    <dcat:keyword>nettetal</dcat:keyword>
+    <dcat:keyword>neukirchen-vluyn</dcat:keyword>
+    <dcat:keyword>niederkrüchten</dcat:keyword>
+    <dcat:keyword>nordrhein-westfalen</dcat:keyword>
+    <dcat:keyword>nrw</dcat:keyword>
+    <dcat:keyword>nw</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dcat:keyword>rees</dcat:keyword>
+    <dcat:keyword>rheinberg</dcat:keyword>
+    <dcat:keyword>rheurdt</dcat:keyword>
+    <dcat:keyword>schermbeck</dcat:keyword>
+    <dcat:keyword>schwalmtal</dcat:keyword>
+    <dcat:keyword>sonsbeck</dcat:keyword>
+    <dcat:keyword>straelen</dcat:keyword>
+    <dcat:keyword>tönisvorst</dcat:keyword>
+    <dcat:keyword>uedem</dcat:keyword>
+    <dcat:keyword>viersen</dcat:keyword>
+    <dcat:keyword>voerde</dcat:keyword>
+    <dcat:keyword>wachtendonk</dcat:keyword>
+    <dcat:keyword>wallfahrtsstadt-kevelaer</dcat:keyword>
+    <dcat:keyword>weeze</dcat:keyword>
+    <dcat:keyword>wesel</dcat:keyword>
+    <dcat:keyword>willich</dcat:keyword>
+    <dcat:keyword>xanten</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T00:00:00+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nd54b365c25504d468f3798c8afc3549b">
+        <vcard:fn>Stadt Krefeld</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:gis@krefeld.de"/>
+        <vcard:hasTelephone rdf:resource="tel:+492162391130"/>
+        <vcard:hasStreetAddress>Oberschlesienstraße 16</vcard:hasStreetAddress>
+        <vcard:hasLocality>Krefeld</vcard:hasLocality>
+        <vcard:hasPostalCode>47807</vcard:hasPostalCode>
+        <vcard:hasCountryName>DEU</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N6cb20fe983ac434bb6910704bd3fe0bc">
+        <foaf:name>Kreis Viersen</foaf:name>
+        <foaf:mbox>open@kreis-viersen.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.kreis-viersen.de/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N13229d838f174c678f708138db95f0c8">
+        <rdfs:label>Datenlizenz Deutschland - Zero - Version 2.0 [https://www.govdata.de/dl-de/zero-2-0]</rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservices.rz.krzn.de/core-services/services/wfs_verb_adressen_intern?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities#distribution">
+        <dct:title>WFS Zesar - Zentrales Straßen- und Adressregister (intern) KLE KR VIE WES</dct:title>
+        <dct:description>Dieser Dienst beinhaltet die vergebenen, fiktiven, geplanten und historischen Adressen für die Stadt Krefeld und für die Kreise Kleve, Wesel und Viersen. 
+Dieser Dienst ist nur intern verfügbar.
+Quelldatenbestand für Hausnummern &amp; Straßennamen.
+
+Der Dienst ist tagesaktuell.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservices.rz.krzn.de/core-services/services/wfs_verb_adressen_intern?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities"/>
+        <dct:format>download</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.342412</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservices.krzn.de/security-proxy/services/wfs_verb_adressen?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities#distribution">
+        <dct:title>WFS Zesar - Zentrales Straßen- und Adressregister (extern) KLE KR VIE WES</dct:title>
+        <dct:description>Dieser Dienst beinhaltet die vergebenen &amp; fiktiven Adressen für die Stadt Krefeld und für die Kreise Kleve, Wesel und Viersen. 
+Quelldatenbestand für Hausnummern &amp; Straßennamen.
+
+Der Dienst ist tagesaktuell.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservices.krzn.de/security-proxy/services/wfs_verb_adressen?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities"/>
+        <dct:format>download</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.342413</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservices.rz.krzn.de/core-services/services/wms_verb_adressen_intern?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities#distribution">
+        <dct:title>WMS Zesar - Zentrales Straßen- und Adressregister (intern) KLE KR VIE WES</dct:title>
+        <dct:description>Dieser interne Dienst beinhaltet die vergebenen, fiktiven, geplanten und historischen Adressen für die Stadt Krefeld und für die Kreise Kleve, Wesel und Viersen. 
+Diese Daten sind nur intern verfügbar.
+Quelldatenbestand für Hausnummern &amp; Straßennamen.
+
+Der Dienst ist tagesaktuell.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservices.rz.krzn.de/core-services/services/wms_verb_adressen_intern?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities"/>
+        <dct:format>view</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:12.605359</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservices.krzn.de/security-proxy/services/wms_verb_adressen?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities#distribution">
+        <dct:title>WMS Zesar - Zentrales Straßen- und Adressregister (extern) KLE KR VIE WES</dct:title>
+        <dct:description>Dieser Dienst beinhaltet die vergebenen &amp; fiktiven Adressen für die Stadt Krefeld und für die Kreise Kleve, Wesel und Viersen.
+Quelldatenbestand für Hausnummern &amp; Straßennamen.
+
+Der Dienst ist tagesaktuell.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservices.krzn.de/security-proxy/services/wms_verb_adressen?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities"/>
+        <dct:format>view</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:10.675568</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_KML.zip#distribution">
+        <dct:title>KML - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:title>
+        <dct:description>KML - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_KML.zip"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_KML.zip"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:12.605352</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:10.553112</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_SHAPE.zip#distribution">
+        <dct:title>SHP - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:title>
+        <dct:description>SHP - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_SHAPE.zip"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_SHAPE.zip"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format>Shapefiles</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.342411</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:10.553462</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/STRASSENLISTE.csv#distribution">
+        <dct:title>CSV - Liste aller Straßennamen Kreis Viersen</dct:title>
+        <dct:description>CSV - Liste aller Straßennamen Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/STRASSENLISTE.csv"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/STRASSENLISTE.csv"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.874951</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.817185</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_CSV.zip#distribution">
+        <dct:title>CSV - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:title>
+        <dct:description>CSV - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_CSV.zip"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_CSV.zip"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.342408</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.817076</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservices.krzn.de/security-proxy/services/wms_verb_citkoadr?%20Service=WFS&amp;Version=1.1.0&amp;Request=GetCapabilities#distribution">
+        <dct:title>WFS Straßen und Hausnummern (NaviGeb) KLE VIE WES KR</dct:title>
+        <dct:description>Dieser WFS-Dienst (NaviGeb) stellt die Straßen und Hausnummern der Kommunen der Kreise Kleve, Viersen und Wesel und der Stadt Krefeld dar.
+
+Der WFS ist tagesaktuell.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservices.krzn.de/security-proxy/services/wms_verb_citkoadr?%20Service=WFS&amp;Version=1.1.0&amp;Request=GetCapabilities"/>
+        <dct:format>download</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:10.675564</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_XLS.zip#distribution">
+        <dct:title>XLS - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:title>
+        <dct:description>XLS - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_XLS.zip"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_XLS.zip"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:12.605356</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.817499</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_JSON.zip#distribution">
+        <dct:title>JSON - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:title>
+        <dct:description>JSON - Straßen und Hausnummern (NaviGeb) Kreis Viersen</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_JSON.zip"/>
+        <dcat:downloadURL rdf:resource="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_JSON.zip"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+        <foaf:page rdf:resource="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+        <foaf:page rdf:resource="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:11.342410</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-04T22:53:12.546813</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:identifier>cf99f29f-77ee-4315-b0ab-32deeba2cd32</adms:identifier>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/gdiDE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mobilithek"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://geoservices.krzn.de/security-proxy/services/wfs_verb_adressen?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://geoservices.rz.krzn.de/core-services/services/wms_verb_adressen_intern?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://geoservices.rz.krzn.de/core-services/services/wfs_verb_adressen_intern?Service=WFS&amp;Version=2.0.0&amp;Request=GetCapabilities"/>
+  <foaf:Document rdf:about="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/wfs_daten_kvie/alle_navigeb_kvie.model3"/>
+  <foaf:Document rdf:about="https://github.com/kreis-viersen/qgis-models-and-scripts/blob/main/models/naechste_adresse_kvie.model3"/>
+  <foaf:Document rdf:about="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=cf99f29f-77ee-4315-b0ab-32deeba2cd32"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/STRASSENLISTE.csv"/>
+  <foaf:Document rdf:about="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=644a4c45-0118-48cd-bc5f-563e61a18f47"/>
+  <foaf:Document rdf:about="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=7dbe2970-25b0-4bfb-8838-5811c3f8b2fb"/>
+  <rdfs:Resource rdf:about="https://geoservices.krzn.de/security-proxy/services/wms_verb_citkoadr?%20Service=WFS&amp;Version=1.1.0&amp;Request=GetCapabilities"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_JSON.zip"/>
+  <rdfs:Resource rdf:about="https://geoservices.krzn.de/security-proxy/services/wms_verb_adressen?Service=WMS&amp;Version=1.3.0&amp;Request=GetCapabilities"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_CSV.zip"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_SHAPE.zip"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_XLS.zip"/>
+  <foaf:Document rdf:about="https://geodatenkatalog-niederrhein.de/trefferanzeige?docuuid=3d7c44b5-22aa-4a6d-a73a-50d837cf0eff"/>
+  <rdfs:Resource rdf:about="https://gisdata.krzn.de/files/opendatagis/Kreis_Viersen/Navi_Geb/Adressen_Kreis_Viersen_KML.zip"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+</rdf:RDF>

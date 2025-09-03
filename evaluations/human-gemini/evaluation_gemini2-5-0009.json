@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini-0009",
+  "run_at": "2025-09-01T12:16:28.411699Z",
+  "question_id": 9,
+  "question": "Wie oft wurde 2023 in der Stadt Leipzig der Vorname \"Leona\" (1. Vorname) vergeben?",
+  "answer": "Insgesamt 1 Mal",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche. 1 Mal als Erstname und 2 Mal als Zweitname.",
+  "llm_final": "Es wurden keine Daten für Leipzig gefunden. Die gefundenen Datensätze beziehen sich auf München, Dortmund, Wesel, Moers, Aachen, Wuppertal, Dormagen, Münster, Bonn, Düsseldorf, Arnsberg und Essen.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": ""
+  }
+}

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+    <dct:description>Dieser Datensatz umfasst die Standorte der Kinderbetreuungseinrichtungen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Art, Bezeichnung, Träger, Konzept, Plätzen, Barrierefreiheit, Betreuungszeiten und Kontaktdaten. Die Ressourcen werden nur bei Bedarf aktualisiert.</dct:description>
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5"/>
+    <dct:identifier>def01e2f-270d-450d-a329-557e635c37d5</dct:identifier>
+    <dcat:keyword>allgemeinbildung</dcat:keyword>
+    <dcat:keyword>bildung</dcat:keyword>
+    <dcat:keyword>bildungswesen</dcat:keyword>
+    <dcat:keyword>kind</dcat:keyword>
+    <dcat:keyword>kleinkind</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T10:46:45.590516</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T04:17:01.771552</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/"/>
+    </dct:conformsTo>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nb6259f2fc23c4fee9bab30e6cc1b7747">
+        <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N845f512fbadc44909127ed160cd172a8">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Amt für Soziales und Teilhabe</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Ne5f7a22d624e4563a8c022f77e7c99e9">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Amt für Soziales und Teilhabe</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ne9940856eba54a479daad5b8c4eb81c9">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nef9e2823d98e40389f6eed8c0be3eb4d">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/4a38f0ca-a26a-422c-ae02-22903ebb662c">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">78415</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf3efd5c74bb249a2a3a6f15b317ff9c2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">461412b38acd35a63f79136064f278f0bbe2e7898c1c8a097abe53c6344cd3ce</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/5d6e87ef-23d2-4c2c-a1e5-b3a8836861b9">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">194168</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4391b369a2944f0ba1c8ae4d49b879a9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">22f33a146197585c4d7e8d64ed251288c36403f9fb3023238f9e6a612d8b7b0f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/50982f85-091c-43cc-9b7d-9f6abff0771b">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">414581</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N11132a872a3d47bc9776618e8a57e379">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">757026ed109c74e4cf7b76449b06450d56fc3815349916c9479dfd1a40e69bed</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/def01e2f-270d-450d-a329-557e635c37d5">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <dct:description>Diese Karte umfasst die Standorte der Kinderbetreuungseinrichtungen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-childcare/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-15T10:19:30</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/726b059c-28b8-484d-ad27-652eddd35882">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">28811</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3693a9acd2ae49e892f213962fd34f0d">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ad13847a278e5a474dd2b8e45fd6306f304aa8542a2af1377d102f411d100c49</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/c67c3042-f85a-4797-827f-340d8c9ffd04">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/kinderbetreuungseinrichtungen/wms"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/1b29fd39-b0d9-4a3f-a8a2-9b3ea422b0c5">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/kinderbetreuungseinrichtungen/wfs"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-03-17T17:13:20</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/5ac30885-5143-41dc-8f80-f8cc16b7279d">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <dct:description>Diese Daten umfassen die Standorte der Kinderbetreuungseinrichtungen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Art, Bezeichnung, Betreuungszeiten und Kontaktdaten.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-childcare/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-10T08:59:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5/resource/d8690543-f928-4aa4-9a08-7e49f865c91b">
+        <dct:title>Kinderbetreuungseinrichtungen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-06T13:45:36</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-14T01:27:03</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">301951</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7fc1d7dfc27747fc9a79eba60d7ddd0f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2fe66b15f16b1caca790f21e89a436692abb266425faa4e1f84589d4fde37a81</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="Ne83a8c22c2b64ea4aaa2ed88de7662de">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.gml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.kml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/kinderbetreuungseinrichtungen/wfs"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/inspire/us-govserv-childcare/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/geo+json"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/inspire/us-govserv-childcare/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/kinderbetreuungseinrichtungen/wms"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.json"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/kinderbetreuungseinrichtungen/kinderbetreuungseinrichtungen.csv"/>
+</rdf:RDF>

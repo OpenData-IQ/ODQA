@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0148",
+  "run_at": "2025-09-01T01:58:43.005398Z",
+  "question_id": 148,
+  "question": "Gab es 2018 mehr Zuzüge nach Linnich aus Deutschland oder mehr Wegzüge aus Linnich nach Deutschland?",
+  "answer": "mehr Zuzüge aus Deutschland",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

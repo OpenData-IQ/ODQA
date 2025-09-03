@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0139",
+  "run_at": "2025-09-01T22:46:37.487479Z",
+  "question_id": 139,
+  "question": "Wo finde ich die Quantilgrenzen der Boxplots für die 6-Wochen-Vorhersage des Pegel Kaub?",
+  "answer": "https://gdk.gdi-de.org/inspire/srv/eng/xml_iso19139?uuid=3c871590-c5db-440f-a34d-3a675b8cec39",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "**FinalAnswer**  \nDie Quantilgrenzen der Boxplots für die 6-Wochen-Vorhersage des Pegels Kaub finden Sie im Datensatz:  \n**Quelle**: [6-Wochen-Vorhersage für ausgewählte Rheinpegel, Abfluss](https://gdk.gdi-de.org/inspire/srv/eng/xml_iso19139?uuid=d55154b2-8031-4ccb-bc60-766d0306f439).  \n\nDie spezifischen Quantilgrenzen sind in der CSV-Datei unter der Spaltenüberschrift `Woche;ENS_5%;ENS_25%;ENS_50%;ENS_75%;ENS_95%;...` enthalten. Beispiel für die Woche *28.08.2025 - 03.09.2025*:  \n- **ENS (Vorhersage)**: 5% = 1612 m³/s, 25% = 1697 m³/s, 50% = 1763 m³/s, 75% = 1831 m³/s, 95% = 1930 m³/s.  \n- **ESP (Modellszenarien)**: 5% = 1132 m³/s, 25% = 1155 m³/s, 50% = 1201 m³/s, 75% = 1315 m³/s, 95% = 1465 m³/s.  \n\nDie Daten sind direkt abrufbar unter:  \n[https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Abfluss_QuansBox.csv](https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Abfluss_QuansBox.csv)."
+}

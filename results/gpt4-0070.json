@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0070",
+  "run_at": "2025-09-03T13:24:46.681350Z",
+  "question_id": 70,
+  "question": "In welchem Regierungsbezirk gab es am 31.12.23 die meisten Schutzsuchenden?",
+  "answer": "Im Regierungsbezirk Düsseldorf",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "237.580 Schutzsuchende im Regierungsbezirk Düsseldorf",
+  "llm_final": "Die Daten zu Schutzsuchenden am 31.12.2023 liegen in der Regionalstatistik auf Kreis- und Stadtebene vor, nicht direkt nach Regierungsbezirken. Um den Regierungsbezirk mit den meisten Schutzsuchenden zu ermitteln, müssten die Zahlen aller zugehörigen Kreise und kreisfreien Städte eines Regierungsbezirks addiert werden. In der Rohdaten-Vorschau ist dies nicht direkt ersichtlich.\n\nEine genaue Antwort auf die Frage erfordert daher eine Aggregation der Kreisdaten auf Regierungsbezirksebene. Die Rohdaten findest du hier:  \nhttps://www.regionalstatistik.de/genesisws/downloader/00/tables/12531-02-01-4-B_00.csv\n\n**Kurzum:**  \nDie meisten Schutzsuchenden am 31.12.2023 hatte der Regierungsbezirk, in dem die Summe der Schutzsuchenden aller zugehörigen Kreise und Städte am höchsten ist. Die exakte Zahl muss aus den Kreisdaten berechnet werden."
+}

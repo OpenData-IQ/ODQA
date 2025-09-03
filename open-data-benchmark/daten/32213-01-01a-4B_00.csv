@@ -1,0 +1,523 @@
+GENESIS-Tabelle: 32213-01-01a-4B
+Länge des Kanalnetzes, Abwasserbehandlungsanlagen -;;;;;;
+Stichtag/Jahressumme - regionale Ebenen;;;;;;
+Statistik der öffentlichen Abwasserbehandlung;;;;;;
+;;;Länge des Kanalnetzes;Abwasserbehandlungsanlagen;darunter: Abwasserbehandlungsanlagen;darunter: Abwasserbehandlungsanlagen
+;;;;;Art der Behandlung;Art der Behandlung
+;;;;;Abwasser mit biologischer Behandlung;darunter: Denitrifikation und Phosphorelimination
+;;;km;Anzahl;Anzahl;Anzahl
+2022;01001;Flensburg, kreisfreie Stadt;511;1;1;1
+2022;01002;Kiel, kreisfreie Stadt;1206;-;-;-
+2022;01003;Lübeck, kreisfreie Stadt, Hansestadt;922;2;2;2
+2022;01004;Neumünster, kreisfreie Stadt;569;1;1;1
+2022;01051;Dithmarschen, Kreis;1796;68;68;12
+2022;01053;Herzogtum Lauenburg, Kreis;2038;87;87;21
+2022;01054;Nordfriesland, Kreis;2475;102;102;19
+2022;01055;Ostholstein, Kreis;2613;72;72;20
+2022;01056;Pinneberg, Kreis;2694;9;9;1
+2022;01057;Plön, Kreis;1519;64;64;5
+2022;01058;Rendsburg-Eckernförde, Kreis;3182;90;90;26
+2022;01059;Schleswig-Flensburg, Kreis;2266;89;89;30
+2022;01060;Segeberg, Kreis;2345;93;93;11
+2022;01061;Steinburg, Kreis;1397;61;61;13
+2022;01062;Stormarn, Kreis;2103;42;42;9
+2022;02000;Hamburg, kreisfreie Stadt, Freie und Hansestadt;5510;1;1;1
+2022;03101;Braunschweig, kreisfreie Stadt;1570;1;1;1
+2022;03102;Salzgitter, kreisfreie Stadt;792;4;4;2
+2022;03103;Wolfsburg, kreisfreie Stadt;1116;2;2;2
+2022;03151;Gifhorn, Landkreis;2086;60;60;11
+2022;03152;Göttingen, Landkreis;-;-;-;-
+2022;03153;Goslar, Landkreis;1848;11;11;7
+2022;03154;Helmstedt, Landkreis;1126;20;20;9
+2022;03155;Northeim, Landkreis;2218;22;22;12
+2022;03156;Osterode am Harz, Landkreis;-;-;-;-
+2022;03157;Peine, Landkreis;1455;16;16;10
+2022;03158;Wolfenbüttel, Landkreis;1380;13;13;8
+2022;03159;Göttingen, Landkreis;3908;24;24;20
+2022;03241;Region Hannover, Landkreis;8319;27;27;24
+2022;03241001;Hannover, Landeshauptstadt;2623;1;1;1
+2022;03251;Diepholz, Landkreis;2994;15;15;9
+2022;03252;Hameln-Pyrmont, Landkreis;1701;9;9;7
+2022;03254;Hildesheim, Landkreis;3231;18;18;16
+2022;03255;Holzminden, Landkreis;1034;16;16;8
+2022;03256;Nienburg (Weser), Landkreis;1512;13;13;13
+2022;03257;Schaumburg, Landkreis;1831;13;13;11
+2022;03351;Celle, Landkreis;1777;12;12;11
+2022;03352;Cuxhaven, Landkreis;2238;14;14;11
+2022;03353;Harburg, Landkreis;2405;6;6;6
+2022;03354;Lüchow-Dannenberg, Landkreis;556;13;13;6
+2022;03355;Lüneburg, Landkreis;1921;5;5;5
+2022;03356;Osterholz, Landkreis;1410;6;6;4
+2022;03357;Rotenburg (Wümme), Landkreis;2542;18;18;12
+2022;03358;Heidekreis;2111;12;12;12
+2022;03359;Stade, Landkreis;2263;9;9;9
+2022;03360;Uelzen, Landkreis;1269;9;9;8
+2022;03361;Verden, Landkreis;1421;5;5;4
+2022;03401;Delmenhorst, kreisfreie Stadt;673;1;1;1
+2022;03402;Emden, kreisfreie Stadt;525;1;1;1
+2022;03403;Oldenburg (Oldenburg), kreisfreie Stadt;865;1;1;1
+2022;03404;Osnabrück, kreisfreie Stadt;1154;2;2;2
+2022;03405;Wilhelmshaven, kreisfreie Stadt;539;1;1;1
+2022;03451;Ammerland, Landkreis;1559;6;6;6
+2022;03452;Aurich, Landkreis;2243;19;19;15
+2022;03453;Cloppenburg, Landkreis;2023;16;16;15
+2022;03454;Emsland, Landkreis;4172;25;25;22
+2022;03455;Friesland, Landkreis;1128;8;8;8
+2022;03456;Grafschaft Bentheim, Landkreis;1573;8;8;7
+2022;03457;Leer, Landkreis;2157;14;14;10
+2022;03458;Oldenburg, Landkreis;1462;6;6;6
+2022;03459;Osnabrück, Landkreis;3887;32;32;30
+2022;03460;Vechta, Landkreis;1722;10;10;10
+2022;03461;Wesermarsch, Landkreis;885;10;10;9
+2022;03462;Wittmund, Landkreis;759;13;13;11
+2022;04011;Bremen, kreisfreie Stadt;2534;2;2;2
+2022;04012;Bremerhaven, kreisfreie Stadt;683;2;2;2
+2022;05111;Düsseldorf, kreisfreie Stadt;1580;3;3;2
+2022;05112;Duisburg, kreisfreie Stadt;1588;6;6;6
+2022;05113;Essen, kreisfreie Stadt;1660;3;3;3
+2022;05114;Krefeld, kreisfreie Stadt;798;1;1;1
+2022;05116;Mönchengladbach, kreisfreie Stadt;1421;1;1;1
+2022;05117;Mülheim an der Ruhr, kreisfreie Stadt;550;-;-;-
+2022;05119;Oberhausen, kreisfreie Stadt;615;-;-;-
+2022;05120;Remscheid, kreisfreie Stadt;572;-;-;-
+2022;05122;Solingen, kreisfreie Stadt;612;3;3;3
+2022;05124;Wuppertal, kreisfreie Stadt;1516;3;3;3
+2022;05154;Kleve, Kreis;2356;16;16;13
+2022;05158;Mettmann, Kreis;2452;19;19;17
+2022;05162;Rhein-Kreis Neuss;2539;9;9;9
+2022;05166;Viersen, Kreis;1970;6;6;6
+2022;05170;Wesel, Kreis;2776;15;15;13
+2022;05313;Aachen, Stadt (alt);-;-;-;-
+2022;05314;Bonn, kreisfreie Stadt;952;5;5;5
+2022;05315;Köln, kreisfreie Stadt;2459;5;5;5
+2022;05316;Leverkusen, kreisfreie Stadt;705;-;-;-
+2022;05334;Städteregion Aachen, Kreis;2549;20;20;20
+2022;05334002;Aachen, kreisfreie Stadt;821;4;4;4
+2022;05354;Aachen, Kreis;-;-;-;-
+2022;05358;Düren, Kreis;1940;15;15;15
+2022;05362;Rhein-Erft-Kreis;2414;12;12;11
+2022;05366;Euskirchen, Kreis;1951;26;26;19
+2022;05370;Heinsberg, Kreis;2006;10;10;10
+2022;05374;Oberbergischer Kreis;2554;24;24;21
+2022;05378;Rheinisch-Bergischer Kreis;1886;10;10;9
+2022;05382;Rhein-Sieg-Kreis;4141;30;30;28
+2022;05512;Bottrop, kreisfreie Stadt;428;1;1;1
+2022;05513;Gelsenkirchen, kreisfreie Stadt;742;1;1;1
+2022;05515;Münster, kreisfreie Stadt;1758;5;5;3
+2022;05554;Borken, Kreis;2990;19;19;17
+2022;05558;Coesfeld, Kreis;1769;16;16;16
+2022;05562;Recklinghausen, Kreis;2594;10;10;10
+2022;05566;Steinfurt, Kreis;4165;30;30;28
+2022;05570;Warendorf, Kreis;2073;17;17;16
+2022;05711;Bielefeld, kreisfreie Stadt;1962;3;3;3
+2022;05754;Gütersloh, Kreis;3094;17;17;14
+2022;05758;Herford, Kreis;2393;9;9;8
+2022;05762;Höxter, Kreis;1885;19;19;17
+2022;05766;Lippe, Kreis;3270;24;24;22
+2022;05770;Minden-Lübbecke, Kreis;3335;10;10;10
+2022;05774;Paderborn, Kreis;2592;20;20;16
+2022;05911;Bochum, kreisfreie Stadt;1264;1;1;1
+2022;05913;Dortmund, kreisfreie Stadt;1904;2;2;2
+2022;05914;Hagen, kreisfreie Stadt;693;2;2;2
+2022;05915;Hamm, kreisfreie Stadt;792;5;5;3
+2022;05916;Herne, kreisfreie Stadt;419;-;-;-
+2022;05954;Ennepe-Ruhr-Kreis;1385;4;4;2
+2022;05958;Hochsauerlandkreis;2922;32;32;22
+2022;05962;Märkischer Kreis;2517;30;30;17
+2022;05966;Olpe, Kreis;1327;7;7;4
+2022;05970;Siegen-Wittgenstein, Kreis;2514;23;23;18
+2022;05974;Soest, Kreis;2777;24;24;17
+2022;05978;Unna, Kreis;2154;12;12;12
+2022;06411;Darmstadt, kreisfreie Stadt, Wissenschaftsstadt;460;2;2;2
+2022;06412;Frankfurt am Main, kreisfreie Stadt;1602;2;2;2
+2022;06413;Offenbach am Main, kreisfreie Stadt;273;-;-;-
+2022;06414;Wiesbaden, kreisfreie Stadt, Landeshauptstadt;819;2;2;2
+2022;06431;Bergstraße, Landkreis;1807;13;13;11
+2022;06432;Darmstadt-Dieburg, Landkreis;1546;19;19;19
+2022;06433;Groß-Gerau, Landkreis;1254;12;12;12
+2022;06434;Hochtaunuskreis;1361;9;9;8
+2022;06435;Main-Kinzig-Kreis;2666;31;31;22
+2022;06436;Main-Taunus-Kreis;1123;10;10;10
+2022;06437;Odenwaldkreis;924;9;9;7
+2022;06438;Offenbach, Landkreis;1460;11;11;11
+2022;06439;Rheingau-Taunus-Kreis;1299;30;30;14
+2022;06440;Wetteraukreis;2149;35;35;23
+2022;06531;Gießen, Landkreis;1937;21;21;15
+2022;06532;Lahn-Dill-Kreis;2412;26;26;18
+2022;06533;Limburg-Weilburg, Landkreis;1503;33;33;29
+2022;06534;Marburg-Biedenkopf, Landkreis;2123;57;57;26
+2022;06535;Vogelsbergkreis;1421;74;74;22
+2022;06611;Kassel, kreisfreie Stadt, documenta-Stadt;846;1;1;1
+2022;06631;Fulda, Landkreis;2286;48;48;28
+2022;06632;Hersfeld-Rotenburg, Landkreis;1411;36;36;20
+2022;06633;Kassel, Landkreis;2254;37;37;27
+2022;06634;Schwalm-Eder-Kreis;2146;69;69;32
+2022;06635;Waldeck-Frankenberg, Landkreis;2189;57;57;34
+2022;06636;Werra-Meißner-Kreis;1309;34;34;15
+2022;07111;Koblenz, kreisfreie Stadt;539;1;1;1
+2022;07131;Ahrweiler, Landkreis;1304;15;15;11
+2022;07132;Altenkirchen (Westerwald), Landkreis;1793;14;14;8
+2022;07133;Bad Kreuznach, Landkreis;1442;18;18;13
+2022;07134;Birkenfeld, Landkreis;1012;21;21;14
+2022;07135;Cochem-Zell, Landkreis;850;37;37;22
+2022;07137;Mayen-Koblenz, Landkreis;1669;22;22;19
+2022;07138;Neuwied, Landkreis;1602;23;23;22
+2022;07140;Rhein-Hunsrück-Kreis;1381;32;32;21
+2022;07141;Rhein-Lahn-Kreis;1180;32;32;20
+2022;07143;Westerwaldkreis;2202;54;54;40
+2022;07211;Trier, kreisfreie Stadt;500;3;3;3
+2022;07231;Bernkastel-Wittlich, Landkreis;1417;53;53;21
+2022;07232;Eifelkreis Bitburg-Prüm;1810;86;86;17
+2022;07233;Vulkaneifel, Landkreis;1067;33;33;17
+2022;07235;Trier-Saarburg, Landkreis;1663;38;38;22
+2022;07311;Frankenthal (Pfalz), kreisfreie Stadt;169;-;-;-
+2022;07312;Kaiserslautern, kreisfreie Stadt;529;1;1;1
+2022;07313;Landau in der Pfalz, kreisfreie Stadt;275;2;2;1
+2022;07314;Ludwigshafen am Rhein, kreisfreie Stadt;528;-;-;-
+2022;07315;Mainz, kreisfreie Stadt;704;1;1;1
+2022;07316;Neustadt an der Weinstraße, kreisfreie Stadt;307;1;1;1
+2022;07317;Pirmasens, kreisfreie Stadt;277;2;2;2
+2022;07318;Speyer, kreisfreie Stadt;210;1;1;1
+2022;07319;Worms, kreisfreie Stadt;383;1;1;1
+2022;07320;Zweibrücken, kreisfreie Stadt;268;1;1;1
+2022;07331;Alzey-Worms, Landkreis;973;14;14;12
+2022;07332;Bad Dürkheim, Landkreis;893;18;18;13
+2022;07333;Donnersbergkreis;848;23;23;10
+2022;07334;Germersheim, Landkreis;815;13;13;13
+2022;07335;Kaiserslautern, Landkreis;1055;21;21;19
+2022;07336;Kusel, Landkreis;864;15;15;11
+2022;07337;Südliche Weinstraße, Landkreis;1013;12;12;12
+2022;07338;Rhein-Pfalz-Kreis;826;8;8;8
+2022;07339;Mainz-Bingen, Landkreis;1411;10;10;10
+2022;07340;Südwestpfalz, Landkreis;978;31;31;20
+2022;08111;Stuttgart, Stadtkreis;1797;3;3;3
+2022;08115;Böblingen, Landkreis;2181;19;19;19
+2022;08116;Esslingen, Landkreis;2653;34;34;29
+2022;08117;Göppingen, Landkreis;1696;15;15;10
+2022;08118;Ludwigsburg, Landkreis;2707;28;28;26
+2022;08119;Rems-Murr-Kreis, Landkreis;2472;46;46;26
+2022;08121;Heilbronn, Stadtkreis;555;1;1;1
+2022;08125;Heilbronn, Landkreis;2857;26;26;23
+2022;08126;Hohenlohekreis, Landkreis;1500;29;29;17
+2022;08127;Schwäbisch Hall, Landkreis;2422;81;81;23
+2022;08128;Main-Tauber-Kreis, Landkreis;1629;40;40;16
+2022;08135;Heidenheim, Landkreis;1197;13;13;7
+2022;08136;Ostalbkreis, Landkreis;2745;67;67;19
+2022;08211;Baden-Baden, Stadtkreis;400;-;-;-
+2022;08212;Karlsruhe, Stadtkreis;1162;1;1;1
+2022;08215;Karlsruhe, Landkreis;2977;22;22;22
+2022;08216;Rastatt, Landkreis;1997;15;15;11
+2022;08221;Heidelberg, Stadtkreis;507;1;1;1
+2022;08222;Mannheim, Stadtkreis;840;1;1;1
+2022;08225;Neckar-Odenwald-Kreis, Landkreis;1653;31;31;10
+2022;08226;Rhein-Neckar-Kreis, Landkreis;3205;18;18;16
+2022;08231;Pforzheim, Stadtkreis;500;1;1;1
+2022;08235;Calw, Landkreis;1667;18;18;14
+2022;08236;Enzkreis, Landkreis;1633;16;16;14
+2022;08237;Freudenstadt, Landkreis;1413;21;21;13
+2022;08311;Freiburg im Breisgau, Stadtkreis;859;-;-;-
+2022;08315;Breisgau-Hochschwarzwald, Landkreis;2803;21;21;14
+2022;08316;Emmendingen, Landkreis;1450;11;11;10
+2022;08317;Ortenaukreis, Landkreis;4302;22;22;18
+2022;08325;Rottweil, Landkreis;1571;25;25;18
+2022;08326;Schwarzwald-Baar-Kreis, Landkreis;2128;12;12;12
+2022;08327;Tuttlingen, Landkreis;1413;17;17;11
+2022;08335;Konstanz, Landkreis;2066;13;13;11
+2022;08336;Lörrach, Landkreis;1875;11;11;11
+2022;08337;Waldshut, Landkreis;1886;43;43;20
+2022;08415;Reutlingen, Landkreis;2159;16;16;16
+2022;08416;Tübingen, Landkreis;1576;12;12;11
+2022;08417;Zollernalbkreis, Landkreis;1875;20;20;20
+2022;08421;Ulm, Stadtkreis;612;-;-;-
+2022;08425;Alb-Donau-Kreis, Landkreis;2055;16;16;14
+2022;08426;Biberach, Landkreis;2637;18;18;15
+2022;08435;Bodenseekreis, Landkreis;1955;15;15;15
+2022;08436;Ravensburg, Landkreis;2918;29;29;26
+2022;08437;Sigmaringen, Landkreis;1793;28;28;23
+2022;09161;Ingolstadt, kreisfreie Stadt;632;1;1;1
+2022;09162;München, kreisfreie Stadt;2436;1;1;1
+2022;09163;Rosenheim, kreisfreie Stadt;283;1;1;1
+2022;09171;Altötting, Landkreis;814;14;14;7
+2022;09172;Berchtesgadener Land, Landkreis;1012;10;10;6
+2022;09173;Bad Tölz-Wolfratshausen, Landkreis;918;10;10;7
+2022;09174;Dachau, Landkreis;1114;17;17;10
+2022;09175;Ebersberg, Landkreis;941;11;11;5
+2022;09176;Eichstätt, Landkreis;1573;36;36;13
+2022;09177;Erding, Landkreis;1157;17;17;10
+2022;09178;Freising, Landkreis;1312;25;25;18
+2022;09179;Fürstenfeldbruck, Landkreis;930;12;12;6
+2022;09180;Garmisch-Partenkirchen, Landkreis;745;16;16;8
+2022;09181;Landsberg am Lech, Landkreis;1152;9;9;7
+2022;09182;Miesbach, Landkreis;805;10;10;8
+2022;09183;Mühldorf a.Inn, Landkreis;1283;33;33;9
+2022;09184;München, Landkreis;1275;5;5;4
+2022;09185;Neuburg-Schrobenhausen, Landkreis;1138;42;42;11
+2022;09186;Pfaffenhofen a.d.Ilm, Landkreis;1297;27;27;11
+2022;09187;Rosenheim, Landkreis;2686;38;38;21
+2022;09188;Starnberg, Landkreis;1007;1;1;1
+2022;09189;Traunstein, Landkreis;2247;19;19;15
+2022;09190;Weilheim-Schongau, Landkreis;1276;19;19;12
+2022;09261;Landshut, kreisfreie Stadt;380;1;1;1
+2022;09262;Passau, kreisfreie Stadt;414;1;1;1
+2022;09263;Straubing, kreisfreie Stadt;296;1;1;1
+2022;09271;Deggendorf, Landkreis;1231;27;27;11
+2022;09272;Freyung-Grafenau, Landkreis;1769;50;50;18
+2022;09273;Kelheim, Landkreis;1359;24;24;12
+2022;09274;Landshut, Landkreis;1793;47;47;16
+2022;09275;Passau, Landkreis;2860;57;57;35
+2022;09276;Regen, Landkreis;1115;27;27;14
+2022;09277;Rottal-Inn, Landkreis;1650;41;41;23
+2022;09278;Straubing-Bogen, Landkreis;1778;48;48;20
+2022;09279;Dingolfing-Landau, Landkreis;1378;16;16;11
+2022;09361;Amberg, kreisfreie Stadt;384;-;-;-
+2022;09362;Regensburg, kreisfreie Stadt;438;1;1;1
+2022;09363;Weiden i.d.OPf., kreisfreie Stadt;292;1;1;1
+2022;09371;Amberg-Sulzbach, Landkreis;1363;46;46;16
+2022;09372;Cham, Landkreis;1935;60;60;22
+2022;09373;Neumarkt i.d.OPf., Landkreis;1684;30;30;14
+2022;09374;Neustadt a.d.Waldnaab, Landkreis;1313;47;47;21
+2022;09375;Regensburg, Landkreis;2125;29;29;22
+2022;09376;Schwandorf, Landkreis;1915;53;53;21
+2022;09377;Tirschenreuth, Landkreis;1043;25;25;12
+2022;09461;Bamberg, kreisfreie Stadt;343;1;1;1
+2022;09462;Bayreuth, kreisfreie Stadt;397;1;1;1
+2022;09463;Coburg, kreisfreie Stadt;404;1;1;1
+2022;09464;Hof, kreisfreie Stadt;352;1;1;1
+2022;09471;Bamberg, Landkreis;1635;46;46;21
+2022;09472;Bayreuth, Landkreis;1388;35;35;16
+2022;09473;Coburg, Landkreis;1064;15;15;10
+2022;09474;Forchheim, Landkreis;1155;11;11;7
+2022;09475;Hof, Landkreis;1257;29;29;8
+2022;09476;Kronach, Landkreis;865;25;25;9
+2022;09477;Kulmbach, Landkreis;1080;32;32;6
+2022;09478;Lichtenfels, Landkreis;884;17;17;8
+2022;09479;Wunsiedel i.Fichtelgebirge, Landkreis;837;16;16;11
+2022;09561;Ansbach, kreisfreie Stadt;276;5;5;1
+2022;09562;Erlangen, kreisfreie Stadt;411;1;1;1
+2022;09563;Fürth, kreisfreie Stadt;462;1;1;1
+2022;09564;Nürnberg, kreisfreie Stadt;1467;2;2;2
+2022;09565;Schwabach, kreisfreie Stadt;196;1;1;1
+2022;09571;Ansbach, Landkreis;2641;120;112;38
+2022;09572;Erlangen-Höchstadt, Landkreis;1194;14;14;8
+2022;09573;Fürth, Landkreis;867;23;23;8
+2022;09574;Nürnberger Land, Landkreis;1454;29;29;11
+2022;09575;Neustadt a.d.Aisch-Bad Windsheim, Landkreis;1247;105;105;12
+2022;09576;Roth, Landkreis;1302;41;41;12
+2022;09577;Weißenburg-Gunzenhausen, Landkreis;1289;53;53;7
+2022;09661;Aschaffenburg, kreisfreie Stadt;330;1;1;1
+2022;09662;Schweinfurt, kreisfreie Stadt;254;1;1;1
+2022;09663;Würzburg, kreisfreie Stadt;555;1;1;1
+2022;09671;Aschaffenburg, Landkreis;1425;13;13;7
+2022;09672;Bad Kissingen, Landkreis;1365;32;32;8
+2022;09673;Rhön-Grabfeld, Landkreis;1028;34;34;7
+2022;09674;Haßberge, Landkreis;1038;47;47;11
+2022;09675;Kitzingen, Landkreis;964;36;36;13
+2022;09676;Miltenberg, Landkreis;1158;13;13;4
+2022;09677;Main-Spessart, Landkreis;1355;39;39;17
+2022;09678;Schweinfurt, Landkreis;1047;31;31;9
+2022;09679;Würzburg, Landkreis;1434;33;33;15
+2022;09761;Augsburg, kreisfreie Stadt;662;1;1;1
+2022;09762;Kaufbeuren, kreisfreie Stadt;207;1;1;1
+2022;09763;Kempten (Allgäu), kreisfreie Stadt;280;-;-;-
+2022;09764;Memmingen, kreisfreie Stadt;313;-;-;-
+2022;09771;Aichach-Friedberg, Landkreis;1309;18;18;10
+2022;09772;Augsburg, Landkreis;2149;37;37;17
+2022;09773;Dillingen a.d.Donau, Landkreis;1300;20;20;13
+2022;09774;Günzburg, Landkreis;1627;15;15;11
+2022;09775;Neu-Ulm, Landkreis;1336;15;15;9
+2022;09776;Lindau (Bodensee), Landkreis;1000;12;12;8
+2022;09777;Ostallgäu, Landkreis;1656;37;37;18
+2022;09778;Unterallgäu, Landkreis;1818;26;26;15
+2022;09779;Donau-Ries, Landkreis;1948;37;37;13
+2022;09780;Oberallgäu, Landkreis;1773;17;17;6
+2022;10041;Saarbrücken, Regionalverband;2257;13;13;10
+2022;10041100;Saarbrücken, Landeshauptstadt;1099;4;4;4
+2022;10042;Merzig-Wadern, Landkreis;1228;33;33;8
+2022;10043;Neunkirchen, Landkreis;1000;16;16;10
+2022;10044;Saarlouis, Landkreis;1632;20;20;10
+2022;10045;Saarpfalz-Kreis;1337;17;17;4
+2022;10046;St. Wendel, Landkreis;968;31;31;7
+2022;11000;Berlin, kreisfreie Stadt;11022;1;1;1
+2022;11001001;Berlin-Mitte;.;.;.;.
+2022;11002002;Berlin-Friedrichshain-Kreuzberg;.;.;.;.
+2022;11003003;Berlin-Pankow;.;.;.;.
+2022;11004004;Berlin-Charlottenburg-Wilmersdorf;.;.;.;.
+2022;11005005;Berlin-Spandau;.;.;.;.
+2022;11006006;Berlin-Steglitz-Zehlendorf;.;.;.;.
+2022;11007007;Berlin-Tempelhof-Schöneberg;.;.;.;.
+2022;11008008;Berlin-Neukölln;.;.;.;.
+2022;11009009;Berlin-Treptow-Köpenick;.;.;.;.
+2022;11010010;Berlin-Marzahn-Hellersdorf;.;.;.;.
+2022;11011011;Berlin-Lichtenberg;.;.;.;.
+2022;11012012;Berlin-Reinickendorf;.;.;.;.
+2022;12051;Brandenburg an der Havel, kreisfreie Stadt;394;.;.;.
+2022;12052;Cottbus, kreisfreie Stadt;639;1;1;1
+2022;12053;Frankfurt (Oder), kreisfreie Stadt;382;1;1;1
+2022;12054;Potsdam, kreisfreie Stadt;762;2;2;2
+2022;12060;Barnim, Landkreis;1525;11;11;8
+2022;12061;Dahme-Spreewald, Landkreis;1557;15;15;10
+2022;12062;Elbe-Elster, Landkreis;1197;20;20;11
+2022;12063;Havelland, Landkreis;1238;8;8;3
+2022;12064;Märkisch-Oderland, Landkreis;1822;13;13;7
+2022;12065;Oberhavel, Landkreis;1906;7;7;6
+2022;12066;Oberspreewald-Lausitz, Landkreis;962;11;11;5
+2022;12067;Oder-Spree, Landkreis;1877;11;11;8
+2022;12068;Ostprignitz-Ruppin, Landkreis;1210;18;18;10
+2022;12069;Potsdam-Mittelmark, Landkreis;2142;15;15;14
+2022;12070;Prignitz, Landkreis;715;21;21;11
+2022;12071;Spree-Neiße, Landkreis;1113;11;11;6
+2022;12072;Teltow-Fläming, Landkreis;1714;15;15;9
+2022;12073;Uckermark, Landkreis;1172;47;47;15
+2022;13001;Greifswald, Hansestadt, kreisfreie Stadt;-;-;-;-
+2022;13002;Neubrandenburg, Stadt,  kreisfreie Stadt;-;-;-;-
+2022;13003;Rostock, kreisfreie Stadt;946;1;1;1
+2022;13004;Schwerin, kreisfreie Stadt;674;1;1;1
+2022;13005;Stralsund, Hansestadt,  kreisfreie Stadt;-;-;-;-
+2022;13006;Wismar, Hansestadt,  kreisfreie Stadt;-;-;-;-
+2022;13051;Bad Doberan, Landkreis;-;-;-;-
+2022;13052;Landkreis Demmin;-;-;-;-
+2022;13053;Güstrow, Landkreis;-;-;-;-
+2022;13054;Landkreis Ludwigslust;-;-;-;-
+2022;13055;Mecklenburg-Strelitz, Landkreis;-;-;-;-
+2022;13056;Landkreis Müritz;-;-;-;-
+2022;13057;Nordvorpommern, Landkreis;-;-;-;-
+2022;13058;Landkreis Nordwestmecklenburg;-;-;-;-
+2022;13059;Ostvorpommern, Landkreis;-;-;-;-
+2022;13060;Landkreis Parchim;-;-;-;-
+2022;13061;Rügen, Landkreis;-;-;-;-
+2022;13062;Landkreis Uecker-Randow;-;-;-;-
+2022;13071;Mecklenburgische Seenplatte, Landkreis;2936;136;136;19
+2022;13072;Landkreis Rostock;2519;102;102;14
+2022;13073;Vorpommern-Rügen, Landkreis;2802;110;110;18
+2022;13074;Nordwestmecklenburg, Landkreis;1925;75;75;18
+2022;13075;Vorpommern-Greifswald, Landkreis;2438;96;96;45
+2022;13076;Ludwigslust-Parchim, Landkreis;2443;63;63;34
+2022;14161;Chemnitz, kreisfreie Stadt;-;-;-;-
+2022;14166;Plauen, kreisfreie Stadt;-;-;-;-
+2022;14167;Zwickau, kreisfreie Stadt;-;-;-;-
+2022;14171;Annaberg, Landkreis;-;-;-;-
+2022;14173;Chemnitzer Land, Landkreis;-;-;-;-
+2022;14177;Freiberg, Landkreis;-;-;-;-
+2022;14178;Vogtlandkreis;-;-;-;-
+2022;14181;Mittlerer Erzgebirgskreis;-;-;-;-
+2022;14182;Mittweida, Landkreis;-;-;-;-
+2022;14188;Stollberg, Landkreis;-;-;-;-
+2022;14191;Aue-Schwarzenberg, Landkreis;-;-;-;-
+2022;14193;Zwickauer Land, Landkreis;-;-;-;-
+2022;14262;Dresden, kreisfreie Stadt;-;-;-;-
+2022;14263;Görlitz, kreisfreie Stadt;-;-;-;-
+2022;14264;Hoyerswerda, kreisfreie Stadt;-;-;-;-
+2022;14272;Bautzen, Landkreis;-;-;-;-
+2022;14280;Meißen, Landkreis;-;-;-;-
+2022;14284;Niederschlesischer Oberlausitzkreis;-;-;-;-
+2022;14285;Riesa-Großenhain, Landkreis;-;-;-;-
+2022;14286;Löbau-Zittau, Landkreis;-;-;-;-
+2022;14287;Sächsische Schweiz, Landkreis;-;-;-;-
+2022;14290;Weißeritzkreis;-;-;-;-
+2022;14292;Kamenz, Landkreis;-;-;-;-
+2022;14365;Leipzig, kreisfreie Stadt;-;-;-;-
+2022;14374;Delitzsch, Landkreis;-;-;-;-
+2022;14375;Döbeln, Landkreis;-;-;-;-
+2022;14379;Leipziger Land, Landkreis;-;-;-;-
+2022;14383;Muldentalkreis;-;-;-;-
+2022;14389;Torgau-Oschatz, Landkreis;-;-;-;-
+2022;14511;Chemnitz, kreisfreie Stadt;974;1;1;1
+2022;14521;Erzgebirgskreis;2983;98;98;17
+2022;14522;Mittelsachsen, Landkreis;2400;110;110;22
+2022;14523;Vogtlandkreis;1952;77;77;11
+2022;14524;Zwickau, Landkreis;2135;60;60;8
+2022;14612;Dresden, kreisfreie Stadt;1818;2;2;2
+2022;14625;Bautzen, Landkreis;3370;69;69;18
+2022;14626;Görlitz, Landkreis;3364;31;31;16
+2022;14627;Meißen, Landkreis;2281;35;35;13
+2022;14628;Sächsische Schweiz-Osterzgebirge, Landkreis;2215;69;69;10
+2022;14713;Leipzig, kreisfreie Stadt;1677;2;2;1
+2022;14729;Leipzig, Landkreis;2254;69;69;16
+2022;14730;Nordsachsen, Landkreis;2452;52;52;15
+2022;15001;Dessau-Roßlau, kreisfreie Stadt;504;2;2;1
+2022;15002;Halle (Saale), kreisfreie Stadt;830;1;1;1
+2022;15003;Magdeburg, kreisfreie Stadt, Landeshauptstadt;1025;-;-;-
+2022;15081;Altmarkkreis Salzwedel;1221;30;30;8
+2022;15082;Anhalt-Bitterfeld, Landkreis;1783;9;9;9
+2022;15083;Börde, Landkreis;2332;29;29;17
+2022;15084;Burgenlandkreis;1863;24;24;15
+2022;15085;Harz, Landkreis;2372;23;23;16
+2022;15086;Jerichower Land, Landkreis;1160;13;13;7
+2022;15087;Mansfeld-Südharz, Landkreis;1644;23;23;15
+2022;15088;Saalekreis;2212;13;13;12
+2022;15089;Salzlandkreis;1862;13;13;11
+2022;15090;Stendal, Landkreis;1360;21;21;17
+2022;15091;Wittenberg, Landkreis;1623;16;16;9
+2022;15101;Dessau, kreisfreie Stadt;-;-;-;-
+2022;15151;Anhalt-Zerbst, Kreis;-;-;-;-
+2022;15153;Bernburg, Kreis;-;-;-;-
+2022;15154;Bitterfeld, Kreis;-;-;-;-
+2022;15159;Köthen, Kreis;-;-;-;-
+2022;15171;Wittenberg, Kreis;-;-;-;-
+2022;15202;Halle (Saale), kreisfreie Stadt;-;-;-;-
+2022;15256;Burgenlandkreis;-;-;-;-
+2022;15260;Mansfelder Land, Kreis;-;-;-;-
+2022;15261;Merseburg-Querfurt, Kreis;-;-;-;-
+2022;15265;Saalkreis;-;-;-;-
+2022;15266;Sangerhausen, Kreis;-;-;-;-
+2022;15268;Weißenfels, Kreis;-;-;-;-
+2022;15303;Magdeburg, kreisfreie Stadt;-;-;-;-
+2022;15352;Aschersleben-Staßfurt, Kreis;-;-;-;-
+2022;15355;Bördekreis;-;-;-;-
+2022;15357;Halberstadt, Kreis;-;-;-;-
+2022;15358;Jerichower Land, Kreis;-;-;-;-
+2022;15362;Ohrekreis;-;-;-;-
+2022;15363;Stendal, Kreis;-;-;-;-
+2022;15364;Quedlinburg, Kreis;-;-;-;-
+2022;15367;Schönebeck, Kreis;-;-;-;-
+2022;15369;Wernigerode, Kreis;-;-;-;-
+2022;15370;Altmarkkreis Salzwedel, Kreis;-;-;-;-
+2022;16051;Erfurt, kreisfreie Stadt;909;4;4;3
+2022;16052;Gera, kreisfreie Stadt;611;3;3;2
+2022;16053;Jena, kreisfreie Stadt;483;4;4;2
+2022;16054;Suhl, kreisfreie Stadt;272;3;3;1
+2022;16055;Weimar, kreisfreie Stadt;339;3;3;1
+2022;16056;Eisenach, kreisfreie Stadt;-;-;-;-
+2022;16061;Eichsfeld, Landkreis;1256;24;24;10
+2022;16062;Nordhausen, Landkreis;885;15;15;10
+2022;16063;Wartburgkreis;1266;37;36;22
+2022;16064;Unstrut-Hainich-Kreis;823;21;21;5
+2022;16065;Kyffhäuserkreis;660;23;23;9
+2022;16066;Schmalkalden-Meiningen, Landkreis;976;33;33;9
+2022;16067;Gotha, Landkreis;1149;28;28;16
+2022;16068;Sömmerda, Landkreis;747;18;17;8
+2022;16069;Hildburghausen, Landkreis;593;22;22;8
+2022;16070;Ilm-Kreis;908;33;33;8
+2022;16071;Weimarer Land, Landkreis;933;49;48;11
+2022;16072;Sonneberg, Landkreis;531;10;10;5
+2022;16073;Saalfeld-Rudolstadt, Landkreis;901;44;27;3
+2022;16074;Saale-Holzland-Kreis;726;43;42;10
+2022;16075;Saale-Orla-Kreis;616;32;32;10
+2022;16076;Greiz, Landkreis;968;55;55;22
+2022;16077;Altenburger Land, Landkreis;652;25;25;6
+__________
+"zu ""gesamte Tabelle"":
+Deutschland (2013): bei öffentlichen zentralen Abwasserbe-
+handlungsanlagen ab 50 Einwohnerwerte (Bemessungskapazität
+gemäß Genehmigungsbescheid)
+Nordrhein-Westfalen, Baden-Württemberg: Kreistabelle liegt
+auch für Gemeinden vor
+ 
+zu ""Länge des Kanalnetzes in km"":
+Die regionale Zuordnung der Daten erfolgt in den
+Bundesländern Hamburg, Bremen (bis BJ 2016), Hessen, Bayern,
+Berlin und Thüringen nach dem Sitz des Betreibers der
+Kanalisation.
+Dadurch bedingt kann es bei der Aufsummierung der
+Bundesländer in geringem Umfang zu Doppelzählungen und
+Untererfassungen kommen. Die Angabe für Deutschland enthält
+keine Doppelzählungen oder Untererfassungen.
+Mecklenburg-Vorpommern, Thüringen: Daten werden auf Kreis-
+ebene nicht erhoben.
+ 
+*) Spalten 8 -10
+bis 2004: am 31.12."
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2024.
+Dieses Werk ist lizenziert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 20.12.2024 / 14:53:11

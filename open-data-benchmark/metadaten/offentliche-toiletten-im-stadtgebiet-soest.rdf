@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://opendata.soest.de/dataset/e96b9f10-0684-4d1c-ba5f-43dcbef1c209">
+    <dct:title>Öffentliche Toiletten im Stadtgebiet Soest</dct:title>
+    <dct:description>Öffentliche Toiletten im Stadtgebiet Soest</dct:description>
+    <dct:identifier>e96b9f10-0684-4d1c-ba5f-43dcbef1c209</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-13T09:47:45.925100</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-13T10:00:06.322984</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.soest.de/organization/30a929e4-a372-4ca5-bb18-3b1ba6cf40db">
+        <foaf:name>Stadt Soest</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.soest.de/dataset/e96b9f10-0684-4d1c-ba5f-43dcbef1c209/resource/816ea77e-2b54-41f9-9da4-e1fd7f7931bb">
+        <dct:title>Öffentliche Toiletten im Stadtgebiet Soest 2025</dct:title>
+        <dct:description>Öffentliche Toiletten im Stadtgebiet Soest, Stand 13.6.2025</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.soest.de/dataset/e96b9f10-0684-4d1c-ba5f-43dcbef1c209/resource/816ea77e-2b54-41f9-9da4-e1fd7f7931bb/download/oeffentliche_toiletten_stadtsoest.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-13T09:48:27.677285</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-13T09:48:27.620868</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">538</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.soest.de/dataset/e96b9f10-0684-4d1c-ba5f-43dcbef1c209/resource/816ea77e-2b54-41f9-9da4-e1fd7f7931bb/download/oeffentliche_toiletten_stadtsoest.csv"/>
+</rdf:RDF>

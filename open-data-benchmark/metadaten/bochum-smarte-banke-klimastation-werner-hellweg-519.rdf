@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714">
+    <dct:title>Bochum - Smarte Bänke - Klimastation Werner Hellweg 519</dct:title>
+    <dct:description>An insgesamt __12 Standorten__ sind die neuen Sitzmöbel aufgestellt, insgesamt zwei pro Stadtbezirk. Sie machen Spaziergänge und Ausflüge bequemer und laden die Bochumerinnen und Bochumer dazu ein, mit dem Fahrrad und dem E-Bike mobil zu sein – so ist Nachhaltigkeit spannend und macht Spaß. Die smarten Bänke bieten zudem eine integrierte Wetterstation sowie einen leistungsstarken WLAN-Hotspot. Die Energieversorgung erfolgt über effiziente __Photovoltaik-Module__ auf dem Dach, die gleichzeitig Schutz vor Witterung bieten. Diese wegweisenden Sitzmöbel ermöglichen das __kabellose Aufladen__ von zwei Smartphones, sofern sie induktives Laden über den weit verbreiteten Qi-Standard unterstützen. Darüber hinaus können zwei E-Bikes mit Bosch- beziehungsweise  BMZ-Ladesystemen parallel über integrierte Ladekabel geladen werden. Der integrierte __5G WLAN-Hotspot__ bietet kostenfreien und schnellen Internetzugang. Eine __Wetterstation__ auf der Oberseite der Bänke misst verschiedene meteorologische Daten wie die __Luftfeuchte, Temperatur, UV-Index, Windgeschwindigkeit und Regen__. Die energiesparende Beleuchtung erfolgt durch sensor- und bewegungsgesteuerte, adaptive __LED-Leuchten__.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://bochum-smartcity.de/smartebaenke"/>
+    </dcat:landingPage>
+    <dct:identifier>b515ab8e-a86b-4dc7-b513-01b7efe26714</dct:identifier>
+    <dcat:keyword>bank</dcat:keyword>
+    <dcat:keyword>e-bike</dcat:keyword>
+    <dcat:keyword>energieversorgung</dcat:keyword>
+    <dcat:keyword>ladestation</dcat:keyword>
+    <dcat:keyword>luftfeuchte</dcat:keyword>
+    <dcat:keyword>nachhaltigkeit</dcat:keyword>
+    <dcat:keyword>photovoltaik</dcat:keyword>
+    <dcat:keyword>regen</dcat:keyword>
+    <dcat:keyword>smarte-bänke</dcat:keyword>
+    <dcat:keyword>temperatur</dcat:keyword>
+    <dcat:keyword>umweltdaten</dcat:keyword>
+    <dcat:keyword>uv-index</dcat:keyword>
+    <dcat:keyword>w-lan</dcat:keyword>
+    <dcat:keyword>wetterstation</dcat:keyword>
+    <dcat:keyword>windgeschwindigkeit</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T15:01:45.465680</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T21:03:21.409675</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N314ae656a9e44a87a4c253f7c256bd0f">
+        <vcard:fn>Philipp Zuber</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@bochum.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.ruhr/organization/24e3b814-2e2e-4374-9058-8f1d438abee9">
+        <foaf:name>Bochum</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N107dcc36f9204037b1c6c941a7cb3620">
+        <foaf:name>Philipp Zuber</foaf:name>
+        <foaf:mbox>opendata@bochum.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N95a444b55775443fa67194073f434e02">
+        <foaf:name>Philipp Zuber</foaf:name>
+        <foaf:mbox>opendata@bochum.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/8e008a34-89b8-4882-be28-886aaceb5673">
+        <dct:title>All resource data</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://bochum.opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/8e008a34-89b8-4882-be28-886aaceb5673/download/bochum-smarte-banke-wetterstation-943cc6451bfb-g46tpr0y.zip"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format>ZIP</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-16T03:40:18.726303</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-16T03:40:18.673722</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1410578</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/cc6816d1-f2eb-41c2-944e-d3f8c72dab19">
+        <dct:title>bochum_ecowitt_gw2001_943CC6451BFB.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://bochum.opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/cc6816d1-f2eb-41c2-944e-d3f8c72dab19/download/bochum_ecowitt_gw2001_943cc6451bfb.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-06T14:15:34.121134</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T23:36:50.327379</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9734465</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N9d3a40350f0444999fde040d2759dc26">
+        <foaf:name>Philipp Zuber</foaf:name>
+        <foaf:mbox>opendata@bochum.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://bochum.opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/8e008a34-89b8-4882-be28-886aaceb5673/download/bochum-smarte-banke-wetterstation-943cc6451bfb-g46tpr0y.zip"/>
+  <rdfs:Resource rdf:about="https://bochum.opendata.ruhr/dataset/b515ab8e-a86b-4dc7-b513-01b7efe26714/resource/cc6816d1-f2eb-41c2-944e-d3f8c72dab19/download/bochum_ecowitt_gw2001_943cc6451bfb.csv"/>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0128",
+  "run_at": "2025-09-01T01:12:15.151849Z",
+  "question_id": 128,
+  "question": "An welcher Kreuzung befindet sich die Lichtzeichenanlage mit der Nummer 1205 in Düsseldorf?",
+  "answer": "Fischerstr. / Venloerst. / Sittarderstr./ Cordobastr.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "An der Kreuzung Fischerstraße / Venloer Straße / Sittarder Straße / Cordobastraße.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und vollständig. Sie nennt präzise die Kreuzung, die in der Goldstandard-Antwort aufgeführt ist."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0068",
+  "run_at": "2025-09-03T13:23:43.799217Z",
+  "question_id": 68,
+  "question": "Wie viele Gemeinden hatten der Landkreis und die kreisfreie Stadt Leipzig am 31.12.23 zusammen?",
+  "answer": "31",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "es liegen noch leere Einträge der veralteten Regionalschlüssel vor",
+  "llm_final": "Die genaue Zahl der Gemeinden im Landkreis Leipzig und in der kreisfreien Stadt Leipzig am 31.12.2023 findest du in der amtlichen Statistik des Freistaates Sachsen. Laut dem Datensatz \"Anzahl der Gemeinden am 31.12. – Kreisgliederung (ab 01.08.2008)\" (Tabellencode 11111-005Z) hatte\n\n- der **Landkreis Leipzig** am 31.12.2023: **30 Gemeinden**\n- die **kreisfreie Stadt Leipzig**: **1 Gemeinde** (die Stadt selbst)\n\n**Zusammen hatten der Landkreis und die kreisfreie Stadt Leipzig am 31.12.2023 also 31 Gemeinden.**\n\nQuelle: [Statistik Sachsen – Tabelle 11111-005Z](https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=11111-005Z&regionalschluessel=.csv#dataset)"
+}

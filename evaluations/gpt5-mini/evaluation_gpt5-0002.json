@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0002",
+  "run_at": "2025-08-31T09:52:41.105384Z",
+  "question_id": 2,
+  "question": "Wie viele Menschen zwischen 25 und 65 Jahren hatten 2018 den Bachelor als höchsten Bildungsabschluss?",
+  "answer": "9288000",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM output clearly indicates that a recursion limit was reached. Therefore, no answer could be generated. This falls under the 'problem_answers' category."
+  }
+}

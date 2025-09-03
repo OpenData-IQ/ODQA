@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/553ef4d1-0ce8-4f8c-83cf-c3e0ff4fb162">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Stadt Bergheim 2015</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/553ef4d1-0ce8-4f8c-83cf-c3e0ff4fb162"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2015_20161010.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/553ef4d1-0ce8-4f8c-83cf-c3e0ff4fb162"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T15:01:23+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T15:01:23+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/8195bcf9-eb3d-43bf-a0af-5ff04daec283">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Stadt Bergheim 2019</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim zum Stichtag 31.12.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/8195bcf9-eb3d-43bf-a0af-5ff04daec283"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/8195bcf9-eb3d-43bf-a0af-5ff04daec283"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:21:33+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:21:33+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/a02c0f94-bd39-48e0-b4f7-734a6f28a33e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Stadt Bergheim 2017</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der Stadt Bergheim zum Stichtag 31.12.2017</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/a02c0f94-bd39-48e0-b4f7-734a6f28a33e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20180116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/a02c0f94-bd39-48e0-b4f7-734a6f28a33e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-15T14:07:16+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-15T14:17:46+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D05 Einwohner gesamt Stadt Bergheim</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner einer Kommune unterteilt nach Ausländer und Deutsche zu einem Stichtag.</p>
+]]></dct:description>
+    <dct:identifier>991e817a-68f5-4c93-9754-4d2a1f71ebae</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T11:40:30+02:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nefc1f05331e64fcbb384520fc9254c66">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/8195bcf9-eb3d-43bf-a0af-5ff04daec283"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f567dd3a-7bbf-4448-94b2-26670128e441">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2014</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f567dd3a-7bbf-4448-94b2-26670128e441"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2014_20161010.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f567dd3a-7bbf-4448-94b2-26670128e441"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T15:00:32+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T15:00:32+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/553ef4d1-0ce8-4f8c-83cf-c3e0ff4fb162"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/79b1c570-733c-47f7-80c0-4019ce0c78ca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2013</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/79b1c570-733c-47f7-80c0-4019ce0c78ca"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2013_20161010.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/79b1c570-733c-47f7-80c0-4019ce0c78ca"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:59:20+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:59:20+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/c1056a13-2754-4a0a-bdb6-ea5f7fed6194">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2016</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/c1056a13-2754-4a0a-bdb6-ea5f7fed6194"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/c1056a13-2754-4a0a-bdb6-ea5f7fed6194"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T13:08:21+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T13:08:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/95c9c336-c37c-41e1-85bf-db3beba09f1f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2021</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/95c9c336-c37c-41e1-85bf-db3beba09f1f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/95c9c336-c37c-41e1-85bf-db3beba09f1f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:18:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:18:39+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N31e649b2391546bf86724a5657936f4f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1e81c0ba16f43c522ec0d541087d30fa</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/0132b3b4-b91b-4424-a8ac-c8a57c0ab414">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2011</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/0132b3b4-b91b-4424-a8ac-c8a57c0ab414"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2011_20161010.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/0132b3b4-b91b-4424-a8ac-c8a57c0ab414"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:56:53+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:56:53+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/2113d1b3-8d0e-4223-bc0e-0ff802286797">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2009</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/2113d1b3-8d0e-4223-bc0e-0ff802286797"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2009_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/2113d1b3-8d0e-4223-bc0e-0ff802286797"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:51:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T14:30:51+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/5c918a08-63c2-4c08-becc-f8b541854fe4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2023</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim zum Stichtag 31.12.2023</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/5c918a08-63c2-4c08-becc-f8b541854fe4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20240116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/5c918a08-63c2-4c08-becc-f8b541854fe4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T11:40:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T11:40:30+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd0a5f6f1e7ca4c5080b347b3f3fc1f90">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a5f7ede75bf10e7a0b927017d0867639</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/a02c0f94-bd39-48e0-b4f7-734a6f28a33e"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/ed259a27-51e6-436a-9512-7eeb87d596cf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2012</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/ed259a27-51e6-436a-9512-7eeb87d596cf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2012_20161010.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/ed259a27-51e6-436a-9512-7eeb87d596cf"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:58:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:58:01+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f1bbb7f2-64ba-49f7-9235-c48b48cf15b1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2022</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim zum Stichtag 31.12.2022</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f1bbb7f2-64ba-49f7-9235-c48b48cf15b1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20230116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/f1bbb7f2-64ba-49f7-9235-c48b48cf15b1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T10:43:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T10:43:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9ccd484cd8854eb6ab767b2f3945e378">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">90e773110bb044d022b0cbd0a6458f65</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/3e5d4a8a-ead2-4015-a107-2014f90e5412">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2010</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Bergheim&nbsp;zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/3e5d4a8a-ead2-4015-a107-2014f90e5412"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2010_20161010.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/3e5d4a8a-ead2-4015-a107-2014f90e5412"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:52:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-14T14:52:29+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/61c5375f-8a25-4074-a86c-5207b289c8c4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2018</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim&nbsp;zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/61c5375f-8a25-4074-a86c-5207b289c8c4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/61c5375f-8a25-4074-a86c-5207b289c8c4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T10:17:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:19:55+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/00226571-6a66-4193-9f5d-d0d22e11aa9a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Bergheim 2020</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Bergheim zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/00226571-6a66-4193-9f5d-d0d22e11aa9a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-bergheim/resource/00226571-6a66-4193-9f5d-d0d22e11aa9a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:07:34+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:07:34+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2009_20161108.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2014_20161010.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2011_20161010.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2013_20161010.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20240116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2010_20161010.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805-2012_20161010.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat805_20230116.csv"/>
+</rdf:RDF>

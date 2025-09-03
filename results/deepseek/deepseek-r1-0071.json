@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0071",
+  "run_at": "2025-09-01T21:15:43.272537Z",
+  "question_id": 71,
+  "question": "In welchen Städten und Kreisen gab es 2023 mehr als 10000 Gastgewerbe im Unternehmensregister-System?",
+  "answer": "Düsseldorf, Köln, Darmstadt, Stuttgart, Oberbayern,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer**\nAufgrund der verfügbaren Daten aus dem Unternehmensregister-System für Nordrhein-Westfalen (2022) sind keine Städte oder Kreise mit mehr als 10.000 Gastgewerben im Jahr 2023 identifizierbar. Die Daten zeigen aggregierte Werte auf Landesebene (44.062 Gastgewerbe insgesamt), jedoch keine Aufschlüsselung nach einzelnen Kommunen. Für detaillierte Analysen wären spezifischere Datensätze erforderlich.  \n**Quelle:** [Dataset URI](https://www.landesdatenbank.nrw.de/ldbnrwws/downloader/00/tables/52111-24i_00.csv#dataset)"
+}

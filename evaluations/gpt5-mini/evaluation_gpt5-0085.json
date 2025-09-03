@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0085",
+  "run_at": "2025-08-31T11:51:52.709335Z",
+  "question_id": 85,
+  "question": "Wo in Deutschland wurden am 01.03.24 die meisten der dort lebenden unter 1-jährigen Kinder betreut? Wie viel Prozent sind es?",
+  "answer": "In Mansfeld-Südharz wurden 9,2% der dort lebenden unter 1-Jährigen betreut",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt einen Ort und einen Prozentsatz, aber es ist unklar, ob dies der höchste Wert in Deutschland ist. Die Frage fragt nach dem Ort mit den MEISTEN betreuten Kindern, was die Antwort nicht explizit bestätigt."
+  }
+}

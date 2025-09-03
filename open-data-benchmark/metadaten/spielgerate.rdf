@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+>
+  <dcat:Dataset rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete">
+    <dct:title>Spielgeräte</dct:title>
+    <dct:description>Spielgeräte auf den Spielflächen der Stadt Dortmund</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://open-data.dortmund.de/explore/dataset/fb63-spielgeraete/"/>
+    </dcat:landingPage>
+    <dct:identifier>fb63-spielgeraete@dortmund</dct:identifier>
+    <dcat:keyword>kinder</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N99abf9a9a9ce414fa6385626604c85ac">
+        <vcard:fn>Open Data</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@dortmund.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nc73acf89faa94178b4d6e4e310170826">
+        <foaf:name>Stadt Dortmund</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-gpx">
+        <dct:title>gpx</dct:title>
+        <dct:description>Spielgeräte (gpx)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/gpx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GPX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-ov2">
+        <dct:title>ov2</dct:title>
+        <dct:description>Spielgeräte (ov2)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/ov2"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OV2"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-kml">
+        <dct:title>kml</dct:title>
+        <dct:description>Spielgeräte (kml)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-n3">
+        <dct:title>n3</dct:title>
+        <dct:description>Spielgeräte (n3)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/n3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/N3"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-xls">
+        <dct:title>xls</dct:title>
+        <dct:description>Spielgeräte (xls)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/xls?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-parquet">
+        <dct:title>parquet</dct:title>
+        <dct:description>Spielgeräte (parquet)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/parquet"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-fgb">
+        <dct:title>fgb</dct:title>
+        <dct:description>Spielgeräte (fgb)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/fgb"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/FGB"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-shp">
+        <dct:title>shp</dct:title>
+        <dct:description>Spielgeräte (shp)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/shp"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-rdfxml">
+        <dct:title>rdfxml</dct:title>
+        <dct:description>Spielgeräte (rdfxml)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/rdfxml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-jsonl">
+        <dct:title>jsonl</dct:title>
+        <dct:description>Spielgeräte (jsonl)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/jsonl"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-turtle">
+        <dct:title>turtle</dct:title>
+        <dct:description>Spielgeräte (turtle)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/turtle"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-geojson">
+        <dct:title>geojson</dct:title>
+        <dct:description>Spielgeräte (geojson)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/geojson"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-json">
+        <dct:title>json</dct:title>
+        <dct:description>Spielgeräte (json)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-csv">
+        <dct:title>csv</dct:title>
+        <dct:description>Spielgeräte (csv)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/csv?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete-jsonld">
+        <dct:title>jsonld</dct:title>
+        <dct:description>Spielgeräte (jsonld)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/jsonld"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T01:00:42.418000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/059130000000"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nc4feb28995284572b4d271f9ad471619">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/059130000000"/>
+      </dct:Location>
+    </dct:spatial>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OV2"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/n3"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/geojson"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/turtle"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/fgb"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/rdfxml"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/kml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/N3"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/parquet"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/jsonl"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/gpx"/>
+  <dct:LicenseDocument rdf:about="https://www.govdata.de/dl-de/zero-2-0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/json"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/shp"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GPX"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/xls?use_labels=true"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/csv?use_labels=true"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/FGB"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/ov2"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/jsonld"/>
+</rdf:RDF>

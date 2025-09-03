@@ -1,0 +1,272 @@
+<Auswertungen>
+	  <Dateiinformation>
+		    <Standesamt>Wesseling</Standesamt>
+		    <Registerart>Geburtenregister</Registerart>
+		    <Erstelldatum>25.03.2020</Erstelldatum>
+		    <DatumVon>01.01.2019</DatumVon>
+		    <DatumBis>31.12.2019</DatumBis>
+	  </Dateiinformation>
+	  <Daten>
+		    <Kategorie>
+			      <Name>Erstbeurkundungen, Anzahl</Name>
+			      <Wert>0</Wert>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>mit Vater</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>vertrauliche Geburten</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Art der Geburt</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>lebend geboren</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>tot geboren</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Geschlecht des Kindes</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>männlich</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>weiblich</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>divers</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>unbestimmt</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Wohnort der Mutter</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>im Standesamtsbezirk</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>außerhalb des Standesamtsbezirks</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Familienstand der Mutter</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>verheiratet</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>nicht verheiratet</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Staatsangehörigkeit des Kindes</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>deutsch nach § 4 Abs. 3 StAG</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Staatsangehörigkeit</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>Mutter nicht deutsch, von Gesamtanzahl</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>nur die Mutter nicht deutsch, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>nur der Vater nicht deutsch, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>beide Eltern nicht deutsch, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Identität</Name>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>für die Mutter nicht nachgewiesen, von Gesamtanzahl</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>nur der Mutter nicht nachgewiesen, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>nur des Vaters nicht nachgewiesen, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+						            <Kategorie>
+							              <Name>für beide Eltern nicht nachgewiesen, von Anzahl mit Vater</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Nachbeurkundungen</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Anzahl</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Nacherfassungen</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Anzahl</Name>
+					          <Wert>10</Wert>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Fortführungen</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Änderung der Abstammung</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Berichtigungen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Annahme als Kind</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Änderung der Religionszugehörigkeit</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Änderung nach TSG</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Änderung nach § 45b PStG</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Namensänderung des Kindes</Name>
+					          <Wert>1</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Hinweise</Name>
+					          <Wert>45</Wert>
+					          <Unterkategorie>
+						            <Kategorie>
+							              <Name>davon Erwerb nach § 4 Abs. 3 StAG</Name>
+							              <Wert>0</Wert>
+						            </Kategorie>
+					          </Unterkategorie>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Urkunden, Anzahl bei Erstbeurkundung und Nachbeurkundung</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden zur Beantragung von Sozialleistungen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Beglaubigte Registerausdrucke</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Nachträgliche Urkundenausstellung</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden</Name>
+					          <Wert>49</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Übersetzungshilfen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden zur Beantragung von Sozialleistungen</Name>
+					          <Wert>5</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Bescheinigungen über Namensänderung</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Bescheinigungen Neusortierung Vornamen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Bescheinigungen über Änderungen nach § 45b PStG</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Sonstige Bescheinigungen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Beglaubigte Registerausdrucke</Name>
+					          <Wert>4</Wert>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+		    <Kategorie>
+			      <Name>Urkundenausstellung aus Zentralregistern</Name>
+			      <Unterkategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Geburtsurkunden zur Beantragung von Sozialleistungen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Bescheinigungen</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+				        <Kategorie>
+					          <Name>Beglaubigte Registerausdrucke</Name>
+					          <Wert>0</Wert>
+				        </Kategorie>
+			      </Unterkategorie>
+		    </Kategorie>
+	  </Daten>
+</Auswertungen>

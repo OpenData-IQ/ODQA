@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26">
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/e455cf5d-7775-42ce-89f5-be27ea2de8fb">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Ergebnisse der Bürgerschaftswahl 2024</dct:title>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:description>Dieser Datensatz umfasst die Ergebnisse der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 nach Stadtbereichen. Folgende Indikatoren sind enthalten: wahlbeteiligung (Anteil der Wähler/-innen an den Wahlberechtigten), zweitstimmenanteile_cdu (Anteil der gültigen Zweitstimmen für die CDU an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_die_linke (Anteil der gültigen Zweitstimmen für Die Linke an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_spd (Anteil der gültigen Zweitstimmen für die SPD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_gruene (Anteil der gültigen Zweitstimmen für Bündnis 90/Die Grünen an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_afd (Anteil der gültigen Zweitstimmen für die AfD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_fdp (Anteil der gültigen Zweitstimmen für die FDP an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_ufr (Anteil der gültigen Zweitstimmen für die UFR – Unabhängige Bürger FÜR Rostock an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_rostocker_bund (Anteil der gültigen Zweitstimmen für den Rostocker Bund an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_bsw (Anteil der gültigen Zweitstimmen für das BSW an den gültigen Zweitstimmen insgesamt).</dct:description>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N81f50e09f6574b14b455d8a55a656912">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2669eea5cae8a21d4d0f42fd5ede6602d06e51a7dba49abc1b4e6564be5c01f2</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-05T11:58:25</dct:issued>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.json"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.json"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:20</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9691.0</dcat:byteSize>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Statistische Information</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/cb32f2e4-6361-49e4-a327-86cf5f30f7e1">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb719bcaf7a5044f99f779dea7f7657a9">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a86757cde27b21d8a394789f949637bc0731abe8ec5b034837b7781837d3bc57</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.gml"/>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">208033.0</dcat:byteSize>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.gml"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N8c86c67921254f40980fa9abf99ec960">
+        <locn:geometry rdf:datatype="https://www.iana.org/assignments/media-types/application/vnd.geo+json">{"type":"Polygon", "coordinates":[[[11.99143, 54.03856], [11.99143, 54.26196], [12.31306, 54.26196], [12.31306, 54.03856], [11.99143, 54.03856]]]}</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/e618b7b3-9076-4711-8765-189a07de4b21">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:21</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2b11dac6bbe54a16a4c0043d2e3e93e4">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3de4b99f3325bfaebf4ff9e899a7447053181a9dab761aab40fa304f6f22dbe4</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.csv"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22466.0</dcat:byteSize>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N8aaa172b4650450ba0b4108fdbc8a4e3">
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:title>Bürgerschaftswahl 2024</dct:title>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/482f8b21-8baf-43f9-ba6a-f8ed026d2a18">
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.xlsx"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4cb9238a158c48f18fc1655ec665fc1d">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">89b4f7684d5ce9634cd89b5cd34829dfadce4b86a2a19ab707b62c9b7e0ee93f</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3644.0</dcat:byteSize>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.xlsx"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:55:25.485148</dct:issued>
+    <dcat:keyword>Stadtverwaltung</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/b43d0a81-8e52-4301-ae63-705ef98dcd6e">
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">632836.0</dcat:byteSize>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.kml"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Necc0b3dfa59d4558914a0d996da0672d">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">85ae258f03284da160a095cde81dbcc0a3672a6784d00c7ea0e1509e161d9656</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.kml"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/e84df5b3-60d9-4403-a1ba-6394fa80905a">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.xlsx"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10720.0</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.xlsx"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N718422c4003d465989e8514f5ca98b6c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">25aa181fb639a93ac2243c7e9d48b919818c16cf350094aabd83354cb1053e79</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/54f7b1fd-f792-47a5-8397-f964bd302b2c">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Diese Karte umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit, die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer sowie die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/buergerschaftswahl_2024/wms"/>
+        <dct:title>Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:publisher>
+      <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/7ec40d51-051f-445b-a9ab-a9afb1c90486">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:24</dct:modified>
+        <dct:description>Diese Karte umfasst die Wahlbereiche und Wahlbezirke der Bürgerschaftswahlen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dct:title>Wahlbereiche und Wahlbezirke der Bürgerschaftswahlen in der Hanse- und Universitätsstadt Rostock</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/su-vector-citizenryelections/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/bd0e57d4-4e4f-47bb-ae81-54233c1ad07a">
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:20</dct:modified>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.csv"/>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit.</dct:description>
+        <dct:title>Wahllokale der Bürgerschaftswahl 2024</dct:title>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc24e25dc639f42d0a579e55b4aaa1b68">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">49040f2386f709ebe03eacbe9c47d8329aa6b7a7602e10f1611affdde6ab8b4a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25666.0</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Politik</dcat:keyword>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Na67f3104fa2440128b8ee02115e25d16">
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+        <vcard:fn>Hanse- und Universitätsstadt Rostock</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:mailto:geodienste@rostock.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N9be6d387c409463bba33e8d53246fe57">
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-10T00:00:00+02:00</dcat:endDate>
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-09T00:00:00+02:00</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/79bca261-4fa2-48b2-b91f-a02e6d796058">
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1d756ea3a79b4a5ba0a906b784a40e87">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f25280ba58b877984417fd630cf94514c611a73d3cb12c5c0d4383c62f68c383</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.json"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">480711.0</dcat:byteSize>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/11945239-9fab-4d15-b620-f50c24590966">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Diese Daten umfassen die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit, die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer sowie die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/buergerschaftswahl_2024/wfs"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:24</dct:modified>
+        <dct:title>Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/10950353-b567-40d8-bc9d-57cf34992b44">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.kml"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.kml"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N85236909eb86471c87cf626a42f1e7f8">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">341b5c4ab82c7379d6b2b910f15a8fac62fe1fb8461162a35ff2e5ecef0ece69</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107881.0</dcat:byteSize>
+        <dct:title>Wahllokale der Bürgerschaftswahl 2024</dct:title>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:21</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/fc5f5924-784a-4dbd-b7ba-e5386cc1ef2d">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.gml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.gml"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">676964.0</dcat:byteSize>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc9c48231ad044c3387bc3319c23fc27f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">532bc702fe24db56ad5c7b94cd5198ece34412b9b29f2242d946de74f5648d1d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/8e9443e6-f057-466b-8d0c-f8ec6b7ad790">
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">942.0</dcat:byteSize>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N26f99c10ea5c4fe2b6cd988e08d49928">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e2891bb7cce0c9fce5d4c26107f2ef702f42fcba18af4c9483decc19e809a8f6</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.csv"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:description>Ergebnisse nach Stadtbereichen, Standorte der Wahllokale, Wahlbezirke sowie Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024</dct:description>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/da254a72-59f4-423e-84e2-b956cc30d4bf">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.json"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.json"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9d2a6de853554484a48c9974ac88269b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f8bf36d043411ba12a084b22169d1ca4619a40ad4f97c463c1fbb512ebce7573</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">166983.0</dcat:byteSize>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:keyword>Statistik</dcat:keyword>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N56b8650380a04fce92a404e31aac4493">
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:31.646485</dct:modified>
+    <dct:identifier>3c4d2782-2558-4665-aeed-431968f74c26</dct:identifier>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/93e13865-0917-473f-9f38-7dea5e1d7115">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit.</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:21</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">14206.0</dcat:byteSize>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.xlsx"/>
+        <dct:title>Wahllokale der Bürgerschaftswahl 2024</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.xlsx"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na39ab623f32145888e19c5d1551c07da">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">43b8b2a71a96ad7e56f9d30494c99f6901cae866406342d89bbc2ee46728a8d2</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/42c9bcef-3237-44f4-8eca-42fc2114bc81">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N31f9613f26144cf0a64611a6750a9030">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b4a2e1c34c7aba3f94585c90e432d5c321778c439707957a13bfb807d8781923</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.kml"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">205789.0</dcat:byteSize>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.kml"/>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/d039b03e-953f-402d-8a7c-12e5a3b70e78">
+        <dct:description>Diese Daten umfassen die Wahlbereiche und Wahlbezirke der Bürgerschaftswahlen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Nummer.</dct:description>
+        <dct:title>Wahlbereiche und Wahlbezirke der Bürgerschaftswahlen in der Hanse- und Universitätsstadt Rostock</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:24</dct:modified>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/su-vector-citizenryelections/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/919a8a94-d30a-4660-b655-96f118b4fed3">
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Wahlbereiche der Bürgerschaftswahl 2024</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.shp.zip"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:23</dct:modified>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbereiche.shp.zip"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbereiche der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4ccb31bb5fc94da981a5b9695a179ac8">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e460fd3bc42b80cd3b265c20c8e8d44fe479cadf485e918ff96367666c4681c0</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">71839.0</dcat:byteSize>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/710228e9-85a3-4470-b55c-6e49a6844167">
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit.</dct:description>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.json"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:21</dct:modified>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">62802.0</dcat:byteSize>
+        <dct:title>Wahllokale der Bürgerschaftswahl 2024</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na11daf22cb9f46ddbb02b824f52511ee">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0a392558a6f99052b7dcf3c7dbf5485866945a695fdc519dfacbea6318d584a8</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Kommunalverwaltung</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/3628d657-18cf-4437-8476-2f8f5db48d68">
+        <dct:title>Ergebnisse der Bürgerschaftswahl 2024</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die Ergebnisse der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 nach Stadtbereichen. Folgende Indikatoren sind enthalten: wahlbeteiligung (Anteil der Wähler/-innen an den Wahlberechtigten), zweitstimmenanteile_cdu (Anteil der gültigen Zweitstimmen für die CDU an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_die_linke (Anteil der gültigen Zweitstimmen für Die Linke an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_spd (Anteil der gültigen Zweitstimmen für die SPD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_gruene (Anteil der gültigen Zweitstimmen für Bündnis 90/Die Grünen an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_afd (Anteil der gültigen Zweitstimmen für die AfD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_fdp (Anteil der gültigen Zweitstimmen für die FDP an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_ufr (Anteil der gültigen Zweitstimmen für die UFR – Unabhängige Bürger FÜR Rostock an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_rostocker_bund (Anteil der gültigen Zweitstimmen für den Rostocker Bund an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_bsw (Anteil der gültigen Zweitstimmen für das BSW an den gültigen Zweitstimmen insgesamt).</dct:description>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.csv"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1566.0</dcat:byteSize>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:20</dct:modified>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N24001cac946547a99b18948a14c987ab">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bc05f53243d9aee41afc74350cb1220d9681a12ccd5925e864529d616304990a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-05T11:58:25</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Statistische Daten</dcat:keyword>
+    <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/9d404825-81a2-4f10-8fa9-e7517bb87b44">
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.gml"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">145893.0</dcat:byteSize>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:21</dct:modified>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:title>Wahllokale der Bürgerschaftswahl 2024</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahllokale.gml"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na3feec86be49424591387097dc0126b6">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9ca9b3b0add246124e54520c66047f8334e8fee74e1ae9d60b7122e4e28399a7</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Wahllokale der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Adresse, Wahlbezirksnummer(n), Lokalität und Barrierefreiheit.</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/8137f147-e9e0-4ab6-b82f-1f2e81dbcfdf">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:20</dct:modified>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.xlsx"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.xlsx"/>
+        <dct:title>Ergebnisse der Bürgerschaftswahl 2024</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N492a04b5d1f848148ac490ac40f3b96b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2638ccb2095cae4d42c1e79dbc0e02baaf4a8f0d6438d48fb5a09a4ea08ffbc9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:description>Dieser Datensatz umfasst die Ergebnisse der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 nach Stadtbereichen. Folgende Indikatoren sind enthalten: wahlbeteiligung (Anteil der Wähler/-innen an den Wahlberechtigten), zweitstimmenanteile_cdu (Anteil der gültigen Zweitstimmen für die CDU an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_die_linke (Anteil der gültigen Zweitstimmen für Die Linke an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_spd (Anteil der gültigen Zweitstimmen für die SPD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_gruene (Anteil der gültigen Zweitstimmen für Bündnis 90/Die Grünen an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_afd (Anteil der gültigen Zweitstimmen für die AfD an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_fdp (Anteil der gültigen Zweitstimmen für die FDP an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_ufr (Anteil der gültigen Zweitstimmen für die UFR – Unabhängige Bürger FÜR Rostock an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_rostocker_bund (Anteil der gültigen Zweitstimmen für den Rostocker Bund an den gültigen Zweitstimmen insgesamt), zweitstimmenanteile_bsw (Anteil der gültigen Zweitstimmen für das BSW an den gültigen Zweitstimmen insgesamt).</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-05T11:58:25</dct:issued>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4921.0</dcat:byteSize>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26/resource/65f31793-827a-4ea3-9136-008dbbf6ff73">
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.shp.zip"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-15T11:56:06</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1fc06e19727b4a06b21173ddc86d7d0d">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5db2b97a01a8993c53b26e0a84d77891558f56ce70a3232f8d35671301cef2e1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">163421.0</dcat:byteSize>
+        <dct:title>Wahlbezirke der Bürgerschaftswahl 2024</dct:title>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die Wahlbezirke der Bürgerschaftswahl 2024 in der Hanse- und Universitätsstadt Rostock vom 09.06.2024 mit Informationen zu Nummer.</dct:description>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_wahlbezirke.shp.zip"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:22:22</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+  </dcat:Dataset>
+</rdf:RDF>

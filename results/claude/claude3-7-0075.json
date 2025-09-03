@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0075",
+  "run_at": "2025-09-01T14:18:33.616551Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Jetzt kann ich die Daten für den Kreis Nordfriesland richtig interpretieren. Hier ist die Aufschlüsselung der Fachabteilungen und der aufgestellten Betten zum Stichtag 31.12.2023:\n\n1. Augenheilkunde (col_5): Keine Betten (leeres Feld)\n2. Chirurgische Fachabteilungen zusammen (col_6): 179 Betten\n3. Frauenheilkunde und Geburtshilfe (col_7): 25 Betten\n4. Hals-, Nasen-, Ohrenheilkunde (col_8): 1 Bett\n5. Haut- und Geschlechtskrankheiten (col_9): 19 Betten\n6. Innere Medizin (col_10): 255 Betten\n7. Geriatrie (col_11): 71 Betten\n8. Kinderheilkunde (col_12): Keine Betten (leeres Feld)\n9. Neurologie (col_13): Keine Betten (leeres Feld)\n10. Orthopädie (col_14): Keine Betten (leeres Feld)\n11. Urologie (col_15): 3 Betten\n12. Kinder- und Jugendpsychiatrie (col_16): Keine Betten (leeres Feld)\n13. Allgemeine Psychiatrie (col_17): 77 Betten\n14. Psychosomatik/Psychotherapie (col_18): 33 Betten\n15. Übrige Fachbereiche (col_19): 19 Betten\n\nFinalAnswer:\n\nIm Kreis Nordfriesland gibt es zum Stichtag 31.12.2023 in folgenden Fachabteilungen keine aufgestellten Betten:\n- Augenheilkunde\n- Kinderheilkunde\n- Neurologie\n- Orthopädie\n- Kinder- und Jugendpsychiatrie\n\nDiese Fachabteilungen sind in den Krankenhäusern des Kreises Nordfriesland nicht mit stationären Betten ausgestattet. Die Daten stammen aus der offiziellen Krankenhausstatistik mit regionaler Tiefe auf Kreisebene (Quelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/23111-01-05-4_00.csv#dataset)."
+}

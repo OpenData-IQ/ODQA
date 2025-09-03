@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+<address>
+  <uid>3092</uid>
+  <type>Betriebshöfe</type>
+  <name><![CDATA[Betriebshof Christian-Sünner-Straße]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Christian-Sünner-Straße 21]]></street>
+  <zipcode>51105</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.932031,7.008520</coordinates>
+  <phone>02 21/9 22 22 24</phone>
+  <openinghours><![CDATA[Telefonische Kundenberatung:*Mo - Fr: 07.00 - 18.00 Uhr**Betriebshof zur Abgabe von Elektrokleingeräten:*Mo - Do: 08.00 - 16.00 Uhr*Fr: 07.00 - 12.00 Uhr]]></openinghours>
+  <maptitle>Betriebshof Christian-Sünner-Straße</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Kalk</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>145</uid>
+  <type>Betriebshöfe</type>
+  <name><![CDATA[Betriebshof Alteburger Straße]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Alteburgerstr. 141]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.914983,6.966708</coordinates>
+  <phone>02 21/9 22 22 24</phone>
+  <openinghours><![CDATA[Telefonische Kundenberatung:*Mo - Fr: 07.00 - 18.00 Uhr**Betriebshof zur Abgabe von Elektrokleingeräten:*Mo - Do: 08.00 - 16.00 Uhr*Fr: 07.00 - 12.00 Uhr]]></openinghours>
+  <maptitle>Betriebshof Alteburger Straße</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>143</uid>
+  <type>Betriebshöfe</type>
+  <name><![CDATA[Betriebshof Maarweg]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Maarweg 271]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.950756,6.897824</coordinates>
+  <phone>02 21/9 22 22 24</phone>
+  <openinghours><![CDATA[Telefonische Kundenberatung:*Mo - Fr: 07.00 - 18.00 Uhr**Betriebshof zur Abgabe von Elektrokleingeräten:*Mo - Do: 08.00 - 16.00 Uhr*Fr: 07.00 - 12.00 Uhr**Verkauf von AWB Restmüllsäcken im Foyer:*Mo - Do: 7.00 - 16.00 Uhr *Fr: 7.00 - 13.00 Uhr]]></openinghours>
+  <maptitle>Betriebshof Maarweg</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+</addresses>

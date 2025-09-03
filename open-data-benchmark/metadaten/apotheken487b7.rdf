@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>WFS KiJuFam - Beratungsangebote Stadt Norderstedt (Downloaddienst)</dct:title>
+    <dct:description>Soziale Angebote und Beratung&#13;
+Leben im Alter - Freizeitangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:08.848534</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/50e71ab1-89ad-4316-9c27-df554ded82e6">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Fernwärme Ausbau Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Fernwärmeausbau der Stadtwerke Norderstedt&#13;
+&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/103fb39a-10da-458e-940b-5ea4208d0764"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/32df371a-68aa-4f01-9371-c469e3f72cf3">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Luft-Wärmepumpe Einzelbetrachtgung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Die Karte zeigt in aggregierter Darstellung die für die Wärmeerzeugung mit Luftwärmepumpen anhand von Abstandsregelungen geeigneten Gebiete auf Basis der Flurstücke.&#13;
+&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/e8a6ea23-918a-4e8b-9a1b-ac40a29c8854"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/01b5fddc-e9b6-4324-a9f1-313d20fe97bc">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Luft- und Geothermie-Wärmepumpe Einzelbetrachtung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Die Karte zeigt in aggregierter Darstellung die für die Wärmeerzeugung mit Luft- und Geothermie-Wärmepumpen geeigneten Gebiete auf Basis der Flurstücke. Für die Nutzung oberflächennaher Geothermie auf Flurstückebene sind in Norderstedt nur wenige Gebiete gut geeignet. Ausschlussbereiche auf Grund der Trinkwassergewinnung und häufig kleine Flurstücke schränken auch die mitteltiefe Geothermie ein (siehe Wärmeplan Norderstedt S. 43 ff.)       &#13;
+&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/c889caf3-868f-42f5-888e-89410d042cc0"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/cbac736d-0c01-46ed-9ecf-aaf5d4544053">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Luft- und Geothermie-Wärmepumpe Quartiersbetrachtung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Die Karte zeigt in aggregierter Darstellung die für die Wärmeerzeugung mit Luft- und Geothermie-Wärmepumpe geeigneten Gebiete auf Basis von Flurstücks übergreifenden Quartierslösungen. Durch gemeinschaftliche Wärmeerzeugung oder dezentrale Netze im Quartier vergrößert sich das Potential deutlich. &#13;
+&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/7b8b0415-9a44-4f3e-8d28-93088c08d348"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/d1a5b721-0c28-4228-bd39-1d4bf9f6f240">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Hilfe - Sucht Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Hilfe in besonderen Lebenslagen / Sucht&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 18.09.2023</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/9e89b83a-a1e7-42c3-a17c-bb551bf0de46"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/b8f860f4-0aac-4c29-b0a9-a224110d043e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Pflegeheime / Kurzzeitpflege Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Leben im Alter - Pflegeheime&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/547d0aa9-cb6e-450d-ba2b-b21cebae13ee"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/543bb03e-08dd-46ae-b867-716cbbab667f">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Alter - Freizeitangebote Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Leben im Alter - Freizeitangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/7cfb7c90-0237-4e62-98e4-c05ec42af847"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/6f3568a6-736d-4ad5-b74f-1f41bb5ac277">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Musik Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Musik machen, Singen&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 09.12.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/e006bdf4-41f9-436d-a1d8-bd64ad25b751"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/b20c7749-7e6b-4b26-a8d0-6942e3809c31">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Netzprüfungsgebiet Fernwärme Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Fernwärmeprüfungsgebiet der Stadtwerke Norderstedt&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/be866be0-5db1-4b25-abdc-9dda7b67b531"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/54c58982-e665-4c0e-ba3f-b0ed4516382e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Soziales - Arbeit und Beschäftigung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Arbeit und Beschäftigung&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/234feff1-1c32-4b4f-b2a3-b4c5da02bc4d"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/201fe9e1-c153-4551-9306-2605223794a1">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Fernwärme Bestandsnetz Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Fernwärmebestandsnetz der Stadtwerke Norderstedt&#13;
+Herausgeberin: Stadt Norderstedt&#13;
+&#13;
+Stand: September 2024</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/9a0ccb7e-a504-402a-a3f5-b67f96c00d51"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/e47630f9-cf63-4496-b427-66d3d7ee00c0">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS e-Ladestationen Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - e-Ladestationen&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.03.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/cdfe7ec4-f5ea-4761-a1ab-e302056d9eed"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/eb00842f-bf7b-4778-819f-28ec98bf6645">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Polizei Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - Polizei&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/d30406c5-783c-4703-b72b-6c3c5502fa18"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/a2b7a610-19eb-4814-9128-a94e59e641e7">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS KiJuFam - Beratungsangebote Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Kinder, Jugend und Familie - Beratungsangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/016145b9-4d39-49bb-8584-04892fd3f32f"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/d3bca344-58df-46f1-a792-0d91a05b7e96">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Kino Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Kino&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/bb5710e4-d570-4365-b9ab-2aac9c1e6508"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/0112a81f-e38f-4b9b-98c8-e03cec0a946f">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Museum Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Museum&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/e2c02269-552d-474e-88b1-c88e156fa55e"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/04f296b6-6548-41a7-9da6-6b1221875318">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Parkplätze Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - Parkplätze / Park and Ride&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.09.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/239b6d9b-9c7c-4ee5-9909-b838ae9818f1"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/8bf64a42-f10a-4d0c-a90b-90a702b4e253">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS sonstige Sportangebote Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Sportanlagen - sonstige Sportangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Fachbereich Sport&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.11.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/f3c22f3e-1277-440e-a6bc-80b3a0016401"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/1408181e-5cc1-4b01-a8a8-b8c60ada6490">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Kulturträger Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Kulturträger&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 09.12.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/d2b80e6d-1203-4ae0-95b0-c38040fa7891"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/1a60dc8e-7fe9-4b12-bce8-f2ac5f0a2866">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Migration und Flucht Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Migration und Flucht&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/f50b2cae-3e2d-432e-b07f-8fbc904aca22"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/e8237a0d-f067-49d4-a3ff-77f94017a934">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS PSA_Garstedt Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Parkscheinautomaten (Garstedt)&#13;
+&#13;
+Herausgeber: Stadt Norderstedt&#13;
+                    604 Fachbereich Verkehrsflächen, Entwässerung und Liegenschaften&#13;
+                    SG Liegenschaften&#13;
+Fortschreibung: bei Änderung/ Stand: 01.08.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/dc18c0a7-ff65-4d76-9a48-6dfbd7d2ea7b"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/4a8f02eb-3fc4-4881-adcf-faf055ead634">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS einkaufen Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - Einkaufsmöglichkeiten/-zentren&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/355ad901-49c6-4ae3-8e0c-b7de13905e5a"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/2617e485-993b-41f2-b594-bec65137df0a">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Stadtpark-Allgemein Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Stadtpark Norderstedt / Geländeplan&#13;
+&#13;
+Herausgeber: Stadtpark Norderstedt GmbH&#13;
+&#13;
+Fortschreibung: bei Änderung / Stand: 01.01.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/71df1f1b-beb7-450f-b5bc-65d11aea0bf4"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/386df0e3-2439-4aeb-b7c4-41e7010e4833">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Reetdachgebäude Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Reetdachhäuser / Böllerverbotzonen&#13;
+&#13;
+Herausgeber: 321 FB Allgemeine Ordnungsaufgaben&#13;
+&#13;
+Fortschreibung: bei Änderung/ Stand: 05.12.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/d0a084dc-e005-4dad-b5e6-8b48bcf340d9"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/ad44e846-7695-4887-bc52-4bca58c89623">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Ambulante Pflegedienste Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Leben im Alter - Ambulante Pflegedienste&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 22.05.2023</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/a302fcac-b6eb-41e3-a20d-55a1321a74d3"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/736798d0-e607-4747-8373-115498e14812">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Parks Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Freizeit &amp; Erholung - Parks&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/1148ca62-c165-4992-9435-39f1bb5293bc"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/c84fe37a-8157-473e-a9ab-a2675ed44e9e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Veranstaltungsort Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Veranstaltungsort&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 09.12.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/688d98f1-12ce-477e-9b7d-8642688bb179"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/505c9e24-0bfc-468f-8c80-3a42c6f1268e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Hilfe - Psychologische Beratung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Hilfe in besonderen Lebenslagen / Psychologische Beratung&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/587ba25e-2f2b-4a6c-8519-5571cad71f54"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/20e49f4e-3138-4ec1-b51b-8b1826c5a297">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Hilfe - Allgemeine Beratung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Hilfe in besonderen Lebenslagen / Allgemeine Beratung&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/3eb55201-be47-4271-b446-ea40e57ff1a6"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/12bf1d48-13be-437d-b931-0a8e514e20df">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Weiterbildung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Kultur- und Freizeitangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 29.08.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/c13e86f2-6d1a-426e-8108-6b768897a8d7"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/481a8abf-66b4-45a1-98e7-1213be95cf40">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Recycling Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - Recyclinghof/Depotcontainerstandorte/Wertstoffinseln&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Betriebsamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.11.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/cbfb1831-ddbc-465e-9825-98e7ab22292c"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/5677a223-7d42-490e-8306-4bed742a68fd">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Hilfe - Sterben, Tod und Trauer Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Hilfe in besonderen Lebenslagen / Sterben, Tod und Trauer&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/1fc503c9-e25c-4713-80b3-e9d92fe7f597"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/a102c700-d516-4733-9395-ed734848e82c">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Theater Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Theater und Schauspielhäuser&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+Fortschreibung: laufend / Stand: 29.08.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/40bd6cd4-623f-4472-916d-7f7c421459f5"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/f42235ad-e23b-4159-9e69-3717ffd296ea">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Bücherei Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - Bücherei&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/cef74d61-e96d-484c-a78e-86e892ef2832"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/e171c8d7-afca-4f65-b4dc-7f0add209c25">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS öffentl. Toiletten Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - öffentl. Toiletten&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.02.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/38eddc56-3b8f-463c-adc0-474636764f64"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/48775c4f-9c1c-41e8-bfed-d7de271f18ad">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Alter - Beratungsangebote Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Leben im Alter - Beratungsangebote&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/ee572930-68a3-458e-b6d8-3dcc24e6e24e"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/1dfe124c-c577-4e22-8808-c39bb5ac095d">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Kleingartenanlagen Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Freizeit &amp; Erholung - Kleingartenanlagen&#13;
+&#13;
+Herausgeber: Stadt Norderstedt&#13;
+Fachbereich Verkehrsflächen, Entwässerung und Liegenschaften&#13;
+Sachgebiet Liegenschaften&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/b75aa642-d61e-4b6c-84a8-3ea25ba06a41"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/1659cfd2-8580-4e5d-b9f6-05acb5b464cd">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Tankstellen Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - Tankstellen&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/958af416-0df1-42de-ae38-3dac99e561d3"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/6d71950e-5c74-40f5-8627-dd997429583e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Kirche Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - Kirche&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/486bc17b-b118-462d-8197-593905f15259"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/a0a5be43-737f-4552-9a8f-fa6f48d26f56">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Fahrradleihsystem Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Wirtschaft &amp; Verkehr - Fahrradleihsystem&#13;
+&#13;
+Herausgeber: Stadt Norderstedt&#13;
+Fachbereich Verkehrsflächen, Entwässerung und Liegenschaften&#13;
+Sachgebiet Verkehrsflächen&#13;
+&#13;
+Fortschreibung: laufend / Stand: 05.01.2023</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/d1575d22-129b-4ca3-aee1-afaeb04b5db5"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/2b1c2890-7ee3-40f5-8dfd-01f289c20bfc">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Post Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - Postfilialen,Paketshops,Packstationen&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/8274819e-44fb-4aab-8a48-13ba16668080"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/f03de393-1a57-4dd1-b927-27045ab0f3c7">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Friedhof Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Öffentliche Einrichtung - Friedhof&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/e5e0c210-594e-48d8-9a13-1ec3e31bf641"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/850d4b0b-9b1b-4a04-8557-b2b51d11b07d">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Kunst im öffentlichen Raum Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kunst im öffentlichen Raum&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: bei Änderung / Stand: 31.03.2023</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/67ebcb08-6aef-40cd-af8d-b5c33f22aaac"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/f2f3fe76-bb1f-4540-9342-bdfb343fa4e9">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Hotels Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Hotels und Beherbergungsorte&#13;
+&#13;
+Herausgeber: Stadt Norderstedt&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/17e1a574-f075-4851-9f1e-1ad1cafa72e5"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/1cbbef4e-938e-4fb5-85df-371a0be033c1">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Apotheken Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Gesundheitsversorgung - Apotheken&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/11dddf20-36cb-4ace-9849-77b3bff13c5d"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/84202b87-0e0d-4f20-87c2-2cc55ae3bfed">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS Ticketcenter Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Kultur &amp; Tourismus - Ticketcenter&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt für Bildung und Kultur&#13;
+&#13;
+Fortschreibung: laufend / Stand: 29.08.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/f17aa2e7-2a37-4e69-a5f4-578d34501e43"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcat:accessService>
+      <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/05ef7f8d-60a5-435e-b1ee-59e784c27d9a">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+        <dct:title>WFS KiJuFam - Offene Kinder- und Jugendarbeit Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:description>Soziale Angebote und Beratung&#13;
+Kinder, Jugend und Familie - Offene Kinder- und Jugendarbeit&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Sozialamt&#13;
+Fortschreibung: laufend / Stand: 01.10.2022</dct:description>
+        <dcat:endpointURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+        <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/1b6f57ec-2479-420b-bd0a-4379cd6c27a7"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:DataService>
+    </dcat:accessService>
+    <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="http://registry.gdi-de.org/id/de.sh/11dddf20-36cb-4ace-9849-77b3bff13c5d">
+    <dct:title>Apotheken</dct:title>
+    <dct:description>Gesundheitsversorgung - Apotheken&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+    <dct:identifier>11dddf20-36cb-4ace-9849-77b3bff13c5d</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/CONT"/>
+    </dct:accrualPeriodicity>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword>gesundheit</dcat:keyword>
+    <dcat:keyword>infocatalogueservice</dcat:keyword>
+    <dcat:keyword>infofeatureaccessservice</dcat:keyword>
+    <dcat:keyword>infomapaccessservice</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-01T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <foaf:page>
+      <foaf:Document rdf:about="https://geoservice.norderstedt.de/geoportal/"/>
+    </foaf:page>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N2dd1c199a1ca4f26bf5909c41e16a87c">
+        <vcard:fn>Stadtverwaltung Norderstedt</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:gis@norderstedt.de"/>
+        <vcard:hasStreetAddress>Rathausallee 50</vcard:hasStreetAddress>
+        <vcard:hasLocality>Norderstedt</vcard:hasLocality>
+        <vcard:hasPostalCode>D-22846</vcard:hasPostalCode>
+        <vcard:hasCountryName>DEU</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N091349fa5973440c82080706807a0422">
+        <foaf:name>Stadtverwaltung Norderstedt</foaf:name>
+        <foaf:mbox>gis@norderstedt.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N90dfbe1ccfbf4d7a89a32380c7c40101">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-01T00:00:00</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nc759c05d057448968d9aa101176c09d3">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((9.9806 53.7342, 10.0402 53.7342, 10.0402 53.6811, 9.9806 53.6811, 9.9806 53.7342))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=GML3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Download als GML</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=GML3"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=GML3"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:17.811933</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=SHAPE-ZIP">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Download als Shape</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=SHAPE-ZIP"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=SHAPE-ZIP"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:17.811936</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=application/json">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Download als Geojson</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=application/json"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=application/json"/>
+        <dct:format>GeoJSON</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:17.811937</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=CSV">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Download als CSV</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=CSV"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pub:apotheke&amp;outputFormat=CSV"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:17.811938</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/pub/apotheke/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>WMS Apotheken Stadt Norderstedt (Darstellungsdienst)</dct:title>
+        <dct:description>Gesundheitsversorgung - Apotheken&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/apotheke/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T17:07:17.811940</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-09T00:00:00</dct:modified>
+        <dcat:accessService rdf:resource="http://registry.gdi-de.org/id/de.sh/64037fc5-4322-47c5-8cda-0a0daaa2a12b"/>
+        <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:identifier>11dddf20-36cb-4ace-9849-77b3bff13c5d</adms:identifier>
+    <dcatde:contributorID rdf:resource="https://gdi-sh.de"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+  <dcat:DataService rdf:about="http://registry.gdi-de.org/id/de.sh/64037fc5-4322-47c5-8cda-0a0daaa2a12b">
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dct:accessRights rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+    <dct:title>WMS Apotheken Stadt Norderstedt (Darstellungsdienst)</dct:title>
+    <dcat:endpointDescription rdf:resource="https://geoservice.norderstedt.de/geoserver/pub/apotheke/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+    <dct:description>Gesundheitsversorgung - Apotheken&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, Amt 17 Interne Digitale Dienste&#13;
+&#13;
+Fortschreibung: laufend / Stand: 01.12.2021</dct:description>
+    <dcat:endpointURL>
+      <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/pub/apotheke/wms"/>
+    </dcat:endpointURL>
+    <dcat:servesDataset rdf:resource="https://registry.gdi-de.org/id/de.sh/11dddf20-36cb-4ace-9849-77b3bff13c5d"/>
+    <dcatde:licenseAttributionByText>Stadtverwaltung Norderstedt</dcatde:licenseAttributionByText>
+  </dcat:DataService>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/pub/wfs"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+</rdf:RDF>

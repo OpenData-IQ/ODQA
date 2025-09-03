@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0002",
+  "run_at": "2025-09-03T17:39:35.746161Z",
+  "question_id": 2,
+  "question": "Wie viele Menschen zwischen 25 und 65 Jahren hatten 2018 den Bachelor als höchsten Bildungsabschluss?",
+  "answer": "9288000",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2018 verfügten 22 % der Erwachsenen in Deutschland im Alter von 25 bis unter 65 Jahren über einen Hochschulabschluss. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Akademikerquote?utm_source=openai)) Allerdings liegen keine spezifischen Daten vor, die den Anteil der Personen mit einem Bachelor-Abschluss als höchstem Bildungsabschluss innerhalb dieser Gruppe ausweisen. "
+}

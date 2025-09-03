@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4161722a-4da7-44ff-8be9-3bee364c5932">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2015</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4161722a-4da7-44ff-8be9-3bee364c5932"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2015_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4161722a-4da7-44ff-8be9-3bee364c5932"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:44:22+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:49:09+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/2589e6d8-6a27-4aee-94f2-e647a91fb3ea">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2020</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2020</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/2589e6d8-6a27-4aee-94f2-e647a91fb3ea"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20210104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/2589e6d8-6a27-4aee-94f2-e647a91fb3ea"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:49:58+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:49:58+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4346</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e362a739-7d26-45ef-ae68-982275968948">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2015</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e362a739-7d26-45ef-ae68-982275968948"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2015_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e362a739-7d26-45ef-ae68-982275968948"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:33:08+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:43:35+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3981</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/8121f5e2-1dee-4053-9ad1-b61df4faf0bc">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Kreuzau gesamt 2019</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/8121f5e2-1dee-4053-9ad1-b61df4faf0bc"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20200106.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/8121f5e2-1dee-4053-9ad1-b61df4faf0bc"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:24:03+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:24:03+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">542</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/fb7ada91-b313-43b5-962f-81038b68cdc6">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2020</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf das gesamte Gemeindegebiet zum Stichtag 31.12.2020</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/fb7ada91-b313-43b5-962f-81038b68cdc6"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20210104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/fb7ada91-b313-43b5-962f-81038b68cdc6"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:50:28+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:50:28+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4c69418e-0a25-4b95-8bf0-b2f997007549">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2014</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4c69418e-0a25-4b95-8bf0-b2f997007549"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2014_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4c69418e-0a25-4b95-8bf0-b2f997007549"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:31:26+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:35:26+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3987</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D08 Familien nach Größe Gemeinde Kreuzau</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach&nbsp;Familiengröße von 1 Mitglied bis 15 Mitglieder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag.</p>
+
+<p>Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>bb4ffd6d-1385-4e8e-9ac3-131dae442063</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:51:31+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nfdb292a70f874da48bb87c9546cf6612">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4240ba25-5efa-413a-af3a-8bea1c306eea">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Kreuzau gesamt 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp; bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4240ba25-5efa-413a-af3a-8bea1c306eea"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4240ba25-5efa-413a-af3a-8bea1c306eea"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:07:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:07:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e16d5a4d-cd99-407b-880f-fb0572ffcdee">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e16d5a4d-cd99-407b-880f-fb0572ffcdee"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e16d5a4d-cd99-407b-880f-fb0572ffcdee"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:39:07+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:46:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3febc911-a82e-4db4-9539-0cd777608bc0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Kreuzau Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3febc911-a82e-4db4-9539-0cd777608bc0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3febc911-a82e-4db4-9539-0cd777608bc0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:07:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:07:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3983</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3ea3c1b5-116e-4654-a3d7-a5f1de0b5384">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3ea3c1b5-116e-4654-a3d7-a5f1de0b5384"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3ea3c1b5-116e-4654-a3d7-a5f1de0b5384"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:01:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:01:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3978</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/2589e6d8-6a27-4aee-94f2-e647a91fb3ea"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/07033bf6-940e-4616-9778-521e9326e85c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/07033bf6-940e-4616-9778-521e9326e85c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2011_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/07033bf6-940e-4616-9778-521e9326e85c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:24:43+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:29:02+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4403</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/6684bd59-f8ca-458f-8c1c-3d3b313f7bd6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/6684bd59-f8ca-458f-8c1c-3d3b313f7bd6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/6684bd59-f8ca-458f-8c1c-3d3b313f7bd6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:50:14+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:50:14+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3987</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7158929a791d4d0f9b14450d051c1951">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">525a4a2233d1d26988d0e2b7008c8398</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/fb7ada91-b313-43b5-962f-81038b68cdc6"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e396636e-d404-4c01-b929-313c69a53147">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e396636e-d404-4c01-b929-313c69a53147"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e396636e-d404-4c01-b929-313c69a53147"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:40:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:47:14+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/baf2984a-93db-47c4-9a60-d70ce162d35f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/baf2984a-93db-47c4-9a60-d70ce162d35f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/baf2984a-93db-47c4-9a60-d70ce162d35f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:26:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:31:06+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3984</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/0ca51891-11da-4df1-b40d-c8dc637b072e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/0ca51891-11da-4df1-b40d-c8dc637b072e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/0ca51891-11da-4df1-b40d-c8dc637b072e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:36:12+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:44:23+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/b36f92c5-b746-46e8-aba1-3738cb10d89e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/b36f92c5-b746-46e8-aba1-3738cb10d89e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/b36f92c5-b746-46e8-aba1-3738cb10d89e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:51:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:51:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">542</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na8c221a8d1fe4d859b6033594e877fca">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">048aa6503385d51b9f07b44a5bfc124f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/8121f5e2-1dee-4053-9ad1-b61df4faf0bc"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/772182ab-2816-44c7-b46d-44ad6705b3dc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/772182ab-2816-44c7-b46d-44ad6705b3dc"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/772182ab-2816-44c7-b46d-44ad6705b3dc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:23:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:27:44+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4396</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3734c477-4c71-4784-809c-2df560822702">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3734c477-4c71-4784-809c-2df560822702"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/3734c477-4c71-4784-809c-2df560822702"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:04:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T13:04:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/d3d6ed80-61e7-40f4-b679-951c5aad0cfc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/d3d6ed80-61e7-40f4-b679-951c5aad0cfc"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/d3d6ed80-61e7-40f4-b679-951c5aad0cfc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:39:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:39:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3985</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/c31a4cf4-1c51-415f-b708-0bcaad9a993b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/c31a4cf4-1c51-415f-b708-0bcaad9a993b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2011_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/c31a4cf4-1c51-415f-b708-0bcaad9a993b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:37:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:45:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4c69418e-0a25-4b95-8bf0-b2f997007549"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/548eb539-7220-4ccc-99d2-068f7ebfce54">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Kreuzau Ortsteile 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/548eb539-7220-4ccc-99d2-068f7ebfce54"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20200106.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/548eb539-7220-4ccc-99d2-068f7ebfce54"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:22:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T13:22:39+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3986</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/be0e301d-1956-47a6-8802-51d10d84cc3a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die&nbsp;Gemeinde Kreuzau&nbsp;bezogen auf&nbsp;das gesamte Stadtgebiet&nbsp;zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/be0e301d-1956-47a6-8802-51d10d84cc3a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/be0e301d-1956-47a6-8802-51d10d84cc3a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:42:10+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:48:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/f12c771d-7c52-41d8-9434-bffec7936201">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau gesamt 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf&nbsp;das gesamte Gemeindegebiet&nbsp;zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/f12c771d-7c52-41d8-9434-bffec7936201"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/f12c771d-7c52-41d8-9434-bffec7936201"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:42:00+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:42:00+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">541</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/e362a739-7d26-45ef-ae68-982275968948"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/4161722a-4da7-44ff-8be9-3bee364c5932"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/a3230359-6a3d-4edc-b98d-c0c7236f477e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien nach Größe Gemeinde Kreuzau Ortsteile 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Familiengröße für die Gemeinde Kreuzau bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/a3230359-6a3d-4edc-b98d-c0c7236f477e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/a3230359-6a3d-4edc-b98d-c0c7236f477e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T17:28:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:34:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4351</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20220101.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2014_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2013_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2013_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259-2011_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat259_20200106.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2011_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat25A_20180101.csv"/>
+</rdf:RDF>

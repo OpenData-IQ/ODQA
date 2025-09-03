@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/efd8fb03-20d6-463d-ab6c-407543322bde">
+    <dct:title>Bankverbindungen für die Kfz-Steuer</dct:title>
+    <dct:description>Die Tabelle enthält die Bankverbindungen der Hauptzollämter bei der Bundesbank für die Entrichtung der Kraftfahrzeugsteuer. Diese Kontodaten benötigen Steuerpflichtige, die nicht am Lastschrifteinzugsverfahren teilnehmen.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.zoll.de/DE/Privatpersonen/Kraftfahrzeugsteuer/Zahlung-der-Kfz-Steuer/zahlung-der-kfz-steuer_node.html"/>
+    </dcat:landingPage>
+    <dct:identifier>efd8fb03-20d6-463d-ab6c-407543322bde</dct:identifier>
+    <dcat:keyword>autogebühren</dcat:keyword>
+    <dcat:keyword>kfz-steuer</dcat:keyword>
+    <dcat:keyword>steuer</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-15T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-05T00:00:00</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nb9da52977d3f415192d13f84973bc7e2">
+        <vcard:fn>Informations- und Wissensmanagement Zoll, Arbeitsbereich 1/Internet</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:redaktion@zoll.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N5ad1f54222714f97b00996118974a45d">
+        <foaf:name>Informations- und Wissensmanagement Zoll, Arbeitsbereich 1/Internet</foaf:name>
+        <foaf:mbox>redaktion@zoll.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Nbc82015cd95948649c61018866c7aa31">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">9999-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/efd8fb03-20d6-463d-ab6c-407543322bde/resource/d76fa105-6b49-4dd9-9131-501350464cc6">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.zoll.de/opendata_kfz/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-04T07:28:49.829621</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-04T07:28:49.701365</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/generalzolldirektion"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nffb80cc5a43a49148d0e17e93c740a2d"/>
+    </dct:spatial>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N54f8165e0e594cf5ae7d8c6031606533">
+        <foaf:name>Informations- und Wissensmanagement Zoll, Arbeitsbereich 1/Internet</foaf:name>
+        <foaf:mbox>redaktion@zoll.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.zoll.de/"/>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

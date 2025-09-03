@@ -1,0 +1,10 @@
+﻿bezirk,zeitraum_von,zeitraum_bis,bewegungsart,anzahl
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Geburt,124
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Zuzug,872
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Umzug,408
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Todesfall,161
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Wegzug,729
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Wegzug nach "Unbekannt",75
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,Statuswechsel,0
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,davon Statuswechsel zu Hauptwohnsitz,0
+Ganzes Gemeindegebiet,01.01.2019,31.12.2019,davon Statuswechsel zu Nebenwohnsitz,0

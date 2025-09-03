@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche">
+    <dct:title>Zoo Besuche</dct:title>
+    <dct:description>Anzahl Besuche des Zoos pro Jahr von 1990 - 2023.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://open-data.dortmund.de/explore/dataset/zoo-besuche/"/>
+    </dcat:landingPage>
+    <dct:identifier>zoo-besuche@dortmund</dct:identifier>
+    <dcat:keyword>gesamtstadt</dcat:keyword>
+    <dcat:keyword>historie</dcat:keyword>
+    <dcat:keyword>zoo</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N325826faf20449dab403345a75f414bd">
+        <foaf:name>Stadt Dortmund</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-jsonl">
+        <dct:title>jsonl</dct:title>
+        <dct:description>Zoo Besuche (jsonl)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/jsonl"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-n3">
+        <dct:title>n3</dct:title>
+        <dct:description>Zoo Besuche (n3)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/n3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/N3"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-jsonld">
+        <dct:title>jsonld</dct:title>
+        <dct:description>Zoo Besuche (jsonld)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/jsonld"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-turtle">
+        <dct:title>turtle</dct:title>
+        <dct:description>Zoo Besuche (turtle)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/turtle"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-xls">
+        <dct:title>xls</dct:title>
+        <dct:description>Zoo Besuche (xls)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/xls?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-json">
+        <dct:title>json</dct:title>
+        <dct:description>Zoo Besuche (json)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-rdfxml">
+        <dct:title>rdfxml</dct:title>
+        <dct:description>Zoo Besuche (rdfxml)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/rdfxml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-csv">
+        <dct:title>csv</dct:title>
+        <dct:description>Zoo Besuche (csv)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/csv?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche-parquet">
+        <dct:title>parquet</dct:title>
+        <dct:description>Zoo Besuche (parquet)</dct:description>
+        <dct:license rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:accessURL rdf:resource="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/parquet"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:32.889000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="https://www.govdata.de/dl-de/zero-2-0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/json"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/xls?use_labels=true"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/turtle"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/n3"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/RDFXML"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/jsonl"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/jsonld"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONLD"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TURTLE"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PARQUET"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/rdfxml"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/parquet"/>
+  <rdfs:Resource rdf:about="https://open-data.dortmund.de/api/v2/catalog/datasets/zoo-besuche/exports/csv?use_labels=true"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/N3"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSONL"/>
+</rdf:RDF>

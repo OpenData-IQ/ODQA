@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/c41505e8-947b-40de-ad27-1222ed979d8e#distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Metzgereien (GPKG)</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dbutcher. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/odbl">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/c41505e8-947b-40de-ad27-1222ed979d8e#distribution"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_shop_butcher_4326_Point&amp;outputFormat=application%2Fx-gpkg"/>
+    </dcat:downloadURL>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GPKG"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:36:10.011485</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:55:06.830981</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/b2eb23fd-ebfd-41bd-96f0-596edff24489#distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Metzgereien (WMS)</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dbutcher. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+    <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/b2eb23fd-ebfd-41bd-96f0-596edff24489#distribution"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/OSM_MRN_shop_butcher_4326_Point/wms?request=GetCapabilities"/>
+    </dcat:downloadURL>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:36:10.011475</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:55:06.831207</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/4e7d15bd-2a2d-4638-a5c4-27186268c987#distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Metzgereien (CSV)</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dbutcher. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+    <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/4e7d15bd-2a2d-4638-a5c4-27186268c987#distribution"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_shop_butcher_4326_Point&amp;outputFormat=csv"/>
+    </dcat:downloadURL>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:36:10.011483</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:55:06.830737</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/67964a0d-efe6-43d7-ac74-6d7d6dd70584#distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Metzgereien (GeoJSON)</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dbutcher. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+    <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/67964a0d-efe6-43d7-ac74-6d7d6dd70584#distribution"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_shop_butcher_4326_Point&amp;outputFormat=application%2Fjson"/>
+    </dcat:downloadURL>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:36:10.011480</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:55:06.830430</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69#dataset">
+    <dct:title>Metzgereien</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dbutcher. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:identifier rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69#dataset"/>
+    <dcat:keyword>verkehrsmodell</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-05T12:05:33.860690</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:55:06.811964</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.m-r-n.com">
+        <foaf:name>Metropolregion Rhein-Neckar</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/67964a0d-efe6-43d7-ac74-6d7d6dd70584#distribution"/>
+    <dcat:distribution rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/4e7d15bd-2a2d-4638-a5c4-27186268c987#distribution"/>
+    <dcat:distribution rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/c41505e8-947b-40de-ad27-1222ed979d8e#distribution"/>
+    <dcat:distribution rdf:resource="https://daten.digitale-mrn.de/dataset/617df952-cf85-4784-9255-44848eeedb69/resource/b2eb23fd-ebfd-41bd-96f0-596edff24489#distribution"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/metropolregionRheinNeckar"/>
+  </dcat:Dataset>
+</rdf:RDF>

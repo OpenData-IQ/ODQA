@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0006",
+  "run_at": "2025-09-03T12:53:29.512137Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf dem Großmarkt?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Es liegen keine Daten zu den Großmarktpreisen für Elstar Äpfel aus Belgien in KW16 2025 vor. Daher kann ich den Preis für 100 kg nicht angeben."
+}

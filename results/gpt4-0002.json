@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0002",
+  "run_at": "2025-09-03T12:51:40.257531Z",
+  "question_id": 2,
+  "question": "Wie viele Menschen zwischen 25 und 65 Jahren hatten 2018 den Bachelor als höchsten Bildungsabschluss?",
+  "answer": "9288000",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Zahl der Menschen zwischen 25 und 65 Jahren, die 2018 den Bachelor als höchsten Bildungsabschluss hatten, ist in den verfügbaren offenen Datensätzen nicht direkt enthalten. Die verfügbaren Datensätze (z. B. von Destatis oder den Statistischen Landesämtern) weisen Bachelor-Abschlüsse meist nur zusammen mit anderen Hochschulabschlüssen aus oder differenzieren nicht nach Altersgruppen und Abschlussarten in der gewünschten Detailtiefe.\n\n**Fazit:**  \nEine exakte, offene Zahl für Deutschland für 2018 liegt nicht vor. Die amtlichen Mikrozensusdaten enthalten diese Information, sind aber nicht als frei zugänglicher, maschinenlesbarer Datensatz verfügbar.\n\n**Quelle (Beispiel für Hochschulabschlüsse, aber nicht nach Altersgruppe und Abschlussart differenziert):**  \n[Statistik Sachsen: Hochschulabschlüsse](https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=21321-002Z&regionalschluessel=.csv#dataset)\n\n**Hinweis:**  \nFür eine exakte Zahl empfiehlt sich eine Anfrage beim Statistischen Bundesamt (Destatis) oder die Nutzung der Mikrozensus-Sonderauswertungen."
+}

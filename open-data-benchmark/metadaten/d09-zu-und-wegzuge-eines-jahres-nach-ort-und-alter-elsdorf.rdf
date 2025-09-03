@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/2cd590e5-fcb7-40b9-8c72">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Elsdorf 2021</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Elsdorf&nbsp;für das Jahr 2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/2cd590e5-fcb7-40b9-8c72"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat81B_20220116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/2cd590e5-fcb7-40b9-8c72"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:44:19+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:44:19+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">387358</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N9f3980d9b35f46eba349c0e525d3a2a6">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">23cd161af651325bcaeaf487e28fc78c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/d25e090f-050a-496f-b1c3">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Elsdorf 2020</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Elsdorf für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/d25e090f-050a-496f-b1c3"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat81B_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/d25e090f-050a-496f-b1c3"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:15:43+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:15:43+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">358795</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D09 Zu- und Wegzüge eines Jahres nach Ort und Alter Elsdorf</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik aller Zu- und Wegzüge sortiert nach Herkunft / Ziel und Alter für eine Kommune.</p>
+]]></dct:description>
+    <dct:identifier>93b390b9-314a-4830-9ddb-28b32e7ee18b</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:44:19+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nccbdaa45acc9433fa5dd07a995dae206">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/2cd590e5-fcb7-40b9-8c72"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-elsdorf/resource/d25e090f-050a-496f-b1c3"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+</rdf:RDF>

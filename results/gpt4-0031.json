@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0031",
+  "run_at": "2025-09-03T13:06:26.862256Z",
+  "question_id": 31,
+  "question": "Wie lang ist der Rundweg im Alsterland?",
+  "answer": "13 Kilometer",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche, viele Geodaten",
+  "llm_final": "Der Rundweg im Alsterland ist 13 Kilometer lang."
+}

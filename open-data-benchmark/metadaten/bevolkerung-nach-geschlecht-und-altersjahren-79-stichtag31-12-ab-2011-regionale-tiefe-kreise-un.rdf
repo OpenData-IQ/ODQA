@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12411-04-02-4_00.csv#dataset">
+    <dct:title>Bevölkerung nach Geschlecht und Altersjahren (79) - Stichtag31.12. - (ab 2011) regionale Tiefe: Kreise und krfr. Städte</dct:title>
+    <dct:description>Bevölkerung nach Geschlecht und Altersjahren (79) - Stichtag31.12. - (ab 2011) regionale Tiefe: Kreise und krfr. Städte</dct:description>
+    <dct:identifier rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12411-04-02-4_00"/>
+    <dcat:keyword>1-bis-unter-2-jahre</dcat:keyword>
+    <dcat:keyword>10-bis-unter-11-jahre</dcat:keyword>
+    <dcat:keyword>11-bis-unter-12-jahre</dcat:keyword>
+    <dcat:keyword>12-bis-unter-13-jahre</dcat:keyword>
+    <dcat:keyword>13-bis-unter-14-jahre</dcat:keyword>
+    <dcat:keyword>14-bis-unter-15-jahre</dcat:keyword>
+    <dcat:keyword>15-bis-unter-16-jahre</dcat:keyword>
+    <dcat:keyword>16-bis-unter-17-jahre</dcat:keyword>
+    <dcat:keyword>17-bis-unter-18-jahre</dcat:keyword>
+    <dcat:keyword>18-bis-unter-19-jahre</dcat:keyword>
+    <dcat:keyword>19-bis-unter-20-jahre</dcat:keyword>
+    <dcat:keyword>2-bis-unter-3-jahre</dcat:keyword>
+    <dcat:keyword>20-bis-unter-21-jahre</dcat:keyword>
+    <dcat:keyword>21-bis-unter-22-jahre</dcat:keyword>
+    <dcat:keyword>22-bis-unter-23-jahre</dcat:keyword>
+    <dcat:keyword>23-bis-unter-24-jahre</dcat:keyword>
+    <dcat:keyword>24-bis-unter-25-jahre</dcat:keyword>
+    <dcat:keyword>25-bis-unter-26-jahre</dcat:keyword>
+    <dcat:keyword>26-bis-unter-27-jahre</dcat:keyword>
+    <dcat:keyword>27-bis-unter-28-jahre</dcat:keyword>
+    <dcat:keyword>28-bis-unter-29-jahre</dcat:keyword>
+    <dcat:keyword>29-bis-unter-30-jahre</dcat:keyword>
+    <dcat:keyword>3-bis-unter-4-jahre</dcat:keyword>
+    <dcat:keyword>30-bis-unter-31-jahre</dcat:keyword>
+    <dcat:keyword>31-bis-unter-32-jahre</dcat:keyword>
+    <dcat:keyword>32-bis-unter-33-jahre</dcat:keyword>
+    <dcat:keyword>33-bis-unter-34-jahre</dcat:keyword>
+    <dcat:keyword>34-bis-unter-35-jahre</dcat:keyword>
+    <dcat:keyword>35-bis-unter-36-jahre</dcat:keyword>
+    <dcat:keyword>36-bis-unter-37-jahre</dcat:keyword>
+    <dcat:keyword>37-bis-unter-38-jahre</dcat:keyword>
+    <dcat:keyword>38-bis-unter-39-jahre</dcat:keyword>
+    <dcat:keyword>39-bis-unter-40-jahre</dcat:keyword>
+    <dcat:keyword>4-bis-unter-5-jahre</dcat:keyword>
+    <dcat:keyword>40-bis-unter-41-jahre</dcat:keyword>
+    <dcat:keyword>41-bis-unter-42-jahre</dcat:keyword>
+    <dcat:keyword>42-bis-unter-43-jahre</dcat:keyword>
+    <dcat:keyword>43-bis-unter-44-jahre</dcat:keyword>
+    <dcat:keyword>44-bis-unter-45-jahre</dcat:keyword>
+    <dcat:keyword>45-bis-unter-46-jahre</dcat:keyword>
+    <dcat:keyword>46-bis-unter-47-jahre</dcat:keyword>
+    <dcat:keyword>47-bis-unter-48-jahre</dcat:keyword>
+    <dcat:keyword>48-bis-unter-49-jahre</dcat:keyword>
+    <dcat:keyword>49-bis-unter-50-jahre</dcat:keyword>
+    <dcat:keyword>5-bis-unter-6-jahre</dcat:keyword>
+    <dcat:keyword>50-bis-unter-51-jahre</dcat:keyword>
+    <dcat:keyword>51-bis-unter-52-jahre</dcat:keyword>
+    <dcat:keyword>52-bis-unter-53-jahre</dcat:keyword>
+    <dcat:keyword>53-bis-unter-54-jahre</dcat:keyword>
+    <dcat:keyword>54-bis-unter-55-jahre</dcat:keyword>
+    <dcat:keyword>55-bis-unter-56-jahre</dcat:keyword>
+    <dcat:keyword>56-bis-unter-57-jahre</dcat:keyword>
+    <dcat:keyword>57-bis-unter-58-jahre</dcat:keyword>
+    <dcat:keyword>58-bis-unter-59-jahre</dcat:keyword>
+    <dcat:keyword>59-bis-unter-60-jahre</dcat:keyword>
+    <dcat:keyword>6-bis-unter-7-jahre</dcat:keyword>
+    <dcat:keyword>60-bis-unter-61-jahre</dcat:keyword>
+    <dcat:keyword>61-bis-unter-62-jahre</dcat:keyword>
+    <dcat:keyword>62-bis-unter-63-jahre</dcat:keyword>
+    <dcat:keyword>63-bis-unter-64-jahre</dcat:keyword>
+    <dcat:keyword>64-bis-unter-65-jahre</dcat:keyword>
+    <dcat:keyword>65-bis-unter-66-jahre</dcat:keyword>
+    <dcat:keyword>66-bis-unter-67-jahre</dcat:keyword>
+    <dcat:keyword>67-bis-unter-68-jahre</dcat:keyword>
+    <dcat:keyword>68-bis-unter-69-jahre</dcat:keyword>
+    <dcat:keyword>69-bis-unter-70-jahre</dcat:keyword>
+    <dcat:keyword>7-bis-unter-8-jahre</dcat:keyword>
+    <dcat:keyword>70-bis-unter-71-jahre</dcat:keyword>
+    <dcat:keyword>71-bis-unter-72-jahre</dcat:keyword>
+    <dcat:keyword>72-bis-unter-73-jahre</dcat:keyword>
+    <dcat:keyword>73-bis-unter-74-jahre</dcat:keyword>
+    <dcat:keyword>74-bis-unter-75-jahre</dcat:keyword>
+    <dcat:keyword>75-bis-unter-80-jahre</dcat:keyword>
+    <dcat:keyword>8-bis-unter-9-jahre</dcat:keyword>
+    <dcat:keyword>80-bis-unter-85-jahre</dcat:keyword>
+    <dcat:keyword>85-bis-unter-90-jahre</dcat:keyword>
+    <dcat:keyword>9-bis-unter-10-jahre</dcat:keyword>
+    <dcat:keyword>90-jahre-und-mehr</dcat:keyword>
+    <dcat:keyword>alter-von-...-bis-unter-...-jahren</dcat:keyword>
+    <dcat:keyword>bevölkerungsstand</dcat:keyword>
+    <dcat:keyword>fortschreibung-des-bevölkerungsstandes</dcat:keyword>
+    <dcat:keyword>geschlecht</dcat:keyword>
+    <dcat:keyword>kreise-und-kreisfreie-städte</dcat:keyword>
+    <dcat:keyword>männlich</dcat:keyword>
+    <dcat:keyword>stichtag</dcat:keyword>
+    <dcat:keyword>unter-1-jahr</dcat:keyword>
+    <dcat:keyword>weiblich</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-24T12:07:18</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-06T16:03:39</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Ndd64c5623e2a4b99af88b59222e5b166">
+        <vcard:fn>Statistische Ämter des Bundes und der Länder</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:regionaldatenbank@it.nrw.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/1e17f560-2061-4219-a37d-61e2fce75336">
+        <foaf:name>Regionalstatistik</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12411-04-02-4_00.csv#distribution">
+        <dct:description>Bevölkerung nach Geschlecht und Altersjahren (79) - Stichtag31.12. - (ab 2011) regionale Tiefe: Kreise und krfr. Städte</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12411-04-02-4_00.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-05T09:47:33.310504</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-26T03:40:48.882957</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/genesisDestatis"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/regionalstatistik"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N16b0e3c06b82412dbc16dd66c02f49c7">
+        <foaf:name>Statistische Ämter des Bundes und der Länder</foaf:name>
+        <foaf:mbox>regionaldatenbank@it.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="Statistische%20Ämter%20des%20Bundes%20und%20der%20Länder"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12411-04-02-4_00.csv"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

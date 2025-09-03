@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns1="http://data.europa.eu/eli/ontology#"
+>
+  <dcat:Dataset rdf:about="https://opendata.essen.de/dataset/privathaushalte-essen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Privathaushalte Essen</dct:title>
+    <dct:description><![CDATA[<p>Anzahl der Privathaushalte insgesamt ab 2007 zum Stichtag 31.12.</p>
+<p>Zu Privathaushalten gehören Personen bzw. Personengemeinschaften, die jeweils an ein und derselben Wohnadresse gemeldet sind. Dazu gehören auch Personen, die sowohl mit Hauptwohnsitz als auch mit Nebenwohnsitz in Essen gemeldet sind (= weniger als 300).</p>
+<p>Für die Ermittlung der Zahl der Privathaushalte werden in Essen seit 2003 die gemeldeten Einwohner aufgrund von Merkmalsvergleichen zu Privathaushalten generiert. Dazu werden Tatbestände benutzt, wie Verzweigungen zwischen Ehegatten sowie zwischen Kindern und deren Elternteilen, Namensübereinstimmungen im Bereich der Familien-, Geburts- und früheren Familiennamen, gleiche frühere Wohnadresse und gleiches Datum der Anmeldung an der gegenwärtigen Wohnadresse sowie demographische Merkmalskonstellationen bezüglich Alter, Geschlecht, Familienstand und Staatsangehörigkeit, die im Zusammenhang mit anderen Indizien bestimmte familiäre Beziehungen nahe legen oder ausschließen.</p>
+<p>Personen ohne eigene Haushaltsführung (“Personen in Anstalten“) zählen nicht zu Privathaushalten.</p>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://opendata.essen.de/opendata.essen.de"/>
+    </dcat:landingPage>
+    <dct:identifier>01148b33-47b7-4c9f-913c-218fe21e6504</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dcat:keyword>geo</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-27T00:40:17+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-02T09:20:22+02:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/privathaushalte-essen"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N5b2588c34a5348f099fc0f72dfba287e">
+        <vcard:fn>Stadt Essen</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@essen.de"/>
+        <vcard:hasURL rdf:resource="https://opendata.essen.de/opendata.essen.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N9fa5bd15f90747cca1959764bb58da53">
+        <foaf:name>Stadt Essen</foaf:name>
+        <foaf:homepage rdf:resource="https://www.essen.de/impressum.de.html"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N21040357bb204b139348561974eaa4be">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/privathaushalte/resource/34600ce9-21c6-40db-963c-977839970d83">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Anzahl der Privathaushalte in den Stadtteilen ab 2007</dct:title>
+        <dct:description><![CDATA[<p>Zu Privathaushalten gehören Personen bzw. Personengemeinschaften, die jeweils an ein und derselben Wohnadresse gemeldet sind. Dazu gehören auch Personen, die sowohl mit Hauptwohnsitz als auch mit Nebenwohnsitz in Essen gemeldet sind (= weniger als 300).</p>
+<p>Für die Ermittlung der Zahl der Privathaushalte werden in Essen seit 2003 die gemeldeten Einwohner aufgrund von Merkmalsvergleichen zu Privathaushalten generiert. Dazu werden Tatbestände benutzt, wie Verzweigungen zwischen Ehegatten sowie zwischen Kindern und deren Elternteilen, Namensübereinstimmungen im Bereich der Familien-, Geburts- und früheren Familiennamen, gleiche frühere Wohnadresse und gleiches Datum der Anmeldung an der gegenwärtigen Wohnadresse sowie demographische Merkmalskonstellationen bezüglich Alter, Geschlecht, Familienstand und Staatsangehörigkeit, die im Zusammenhang mit anderen Indizien bestimmte familiäre Beziehungen nahe legen oder ausschließen.</p>
+<p>Personen ohne eigene Haushaltsführung (“Personen in Anstalten“) zählen nicht zu Privathaushalten.</p>
+<p>Quelle: FB12 - Amt für Statistik, Stadtforschung und Wahlen; Haushaltegenerierung auf Basis der Einwohnerdatei</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<ul>
+<li>Stadtbezirk: Nummer des Stadtbezirks</li>
+<li>Stadtteil: Nummer des Stadtteils</li>
+<li>Stadtteilname: Name des Stadtteils</li>
+<li>Jahr: jeweiliges Jahr</li>
+<li>Insgesamt: Privathaushalte insgesamt</li>
+<li>HH_eine_Person: Privathaushalte mit einer Person</li>
+<li>HH_eine_Person_25B69: Privathaushalte mit einer Person im Alter von 25 bis 69 Jahren</li>
+<li>HH_mit_Kindern: Privathaushalte mit Kindern</li>
+<li>HH_mit_3om_Kindern: Privathaushalte mit drei oder mehr Kindern</li>
+<li>HH_Alleinerziehend: Privathaushalte von Alleinerziehenden</li>
+<li>Bevoelkerung_in_HH: Bevölkerung in Privathaushalten</li>
+</ul>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/privathaushalte/resource/34600ce9-21c6-40db-963c-977839970d83"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Anzahl%20der%20Privathaushalte%20in%20den%20Stadtteilen%20ab%202007_2.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/privathaushalte/resource/34600ce9-21c6-40db-963c-977839970d83"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-18T10:14:26+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-20T07:06:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">45782</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf77588c9192c4572ae97aa608c6d5e21">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8a111e4a17eb6cd327f86dd23e503f09</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:applicableLegislation>
+      <ns1:LegalResource rdf:about="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    </dcatap:applicableLegislation>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://opendata.essen.de/"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="Nf63c71b57768443396864405c25e83d9">
+        <foaf:name>FB 01-15 - Open Data</foaf:name>
+        <foaf:homepage rdf:resource="https://opendata.essen.de/opendata.essen.de"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Anzahl%20der%20Privathaushalte%20in%20den%20Stadtteilen%20ab%202007_2.csv"/>
+</rdf:RDF>

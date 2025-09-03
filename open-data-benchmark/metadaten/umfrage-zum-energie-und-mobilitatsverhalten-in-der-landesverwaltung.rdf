@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://mcloud.de/a6438b40-ccc0-4312-8b1b-0be0d10f2668">
+    <dct:title>Umfrage zum Energie- und Mobilitätsverhalten in der Landesverwaltung</dct:title>
+    <dct:description>Die Landesregierung hat sich zum Ziel gesetzt die Landesverwaltung bilanziell klimaneutral zu gestalten. Dieses ressortübergreifende Vorhaben wird durch die Geschäftsstelle Klimaneutrale Landesverwaltung im Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes Nordrhein-Westfalen gesteuert. Zu den Maßnahmen zählt auch die „mission E“, die Motivationskampagne für energiebewusstes Verhalten. Die Energy4Climate GmbH hat als Landesgesellschaft vom MWIKE den Auftrag erhalten, im Rahmen der „mission E" eine Befragung der Mitarbeitenden der Landesverwaltung NRW zum Energie- und Mobilitätsverhalten im Büro und Zuhause durchzuführen. Hier werden Daten zu den Umfrageergebnissen aus dem Jahr 2024 bereitgestellt. Die Ergebnisse der offenen Fragen werden hier nach Themenbereichen aggregiert ausgegeben und sind in dem gesonderten Datensatz abrufbar.</dct:description>
+    <dct:identifier>a6438b40-ccc0-4312-8b1b-0be0d10f2668</dct:identifier>
+    <dcat:keyword>e4c</dcat:keyword>
+    <dcat:keyword>energie</dcat:keyword>
+    <dcat:keyword>energiesparen</dcat:keyword>
+    <dcat:keyword>energy4climate</dcat:keyword>
+    <dcat:keyword>klimaneutrale-landesverwaltung</dcat:keyword>
+    <dcat:keyword>klimaschutz</dcat:keyword>
+    <dcat:keyword>mcloud_category_roads</dcat:keyword>
+    <dcat:keyword>mission-e</dcat:keyword>
+    <dcat:keyword>mobilität</dcat:keyword>
+    <dcat:keyword>umfrage</dcat:keyword>
+    <dcat:keyword>umwelt</dcat:keyword>
+    <dcat:keyword>umweltschutz</dcat:keyword>
+    <dcat:keyword>verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T22:00:00+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T10:16:14+00:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://mcloud.de/a6438b40-ccc0-4312-8b1b-0be0d10f2668#publisher">
+        <foaf:name>Landesbehörden</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.xlsx#distribution">
+        <dct:description>Hier finden Sie die Auswertung der offenen Frage als XLSX-Datei.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.xlsx"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T10:18:08+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T06:16:53.884752</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.csv#distribution">
+        <dct:description>Hier finden Sie den Datensatz als CSV-Datei.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.csv"/>
+        <dcat:downloadURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T10:18:08+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T06:16:53.884832</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.csv#distribution">
+        <dct:description>Hier finden Sie die Auswertung der offenen Frage als CSV Datei.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.csv"/>
+        <dcat:downloadURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T10:18:08+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T06:16:53.884895</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.xlsx#distribution">
+        <dct:description>Hier finden Sie den Datensatz als XLSX-Datei.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.xlsx"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T10:18:08+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T06:16:53.884953</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mCloud"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mobilithek"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.csv"/>
+  <rdfs:Resource rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024_offene_frage_gruppiert.xlsx"/>
+  <rdfs:Resource rdf:about="https://wirtschaft.nrw/system/files/media/document/file/umfrage_energie_und_mobilitaetsverhalten_landesverwaltung_2024.xlsx"/>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0162",
+  "run_at": "2025-09-03T14:01:24.837920Z",
+  "question_id": 162,
+  "question": "In welchem Jahr zwischen 2000 und 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, und wie viele waren es?",
+  "answer": "Im Jahr 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, nämlich 183 Fälle.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

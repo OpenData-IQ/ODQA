@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/9c9d4ac7-f08f-44a3-9b08">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2018</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Linnich für das Jahr 2018</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/9c9d4ac7-f08f-44a3-9b08"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20190116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/9c9d4ac7-f08f-44a3-9b08"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:12:19+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:12:19+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">383582</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/56cfeeb0-2e53-4e0b-9195">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2017</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Linnich für das Jahr 2017</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/56cfeeb0-2e53-4e0b-9195"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20180116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/56cfeeb0-2e53-4e0b-9195"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T09:49:14+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T09:49:14+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">417646</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/eeb86e39-f521-4282-b44e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2016</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2016</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/eeb86e39-f521-4282-b44e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20170201.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/eeb86e39-f521-4282-b44e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T16:03:51+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T16:03:51+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">435425</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/79d6ef45-c431-4be4-8575">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Linnich 2020</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Linnich für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/79d6ef45-c431-4be4-8575"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/79d6ef45-c431-4be4-8575"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T15:09:42+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T15:09:42+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">274218</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/aa243e68-9a47-411b-bf68">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2019</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Linnich für das Jahr 2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/aa243e68-9a47-411b-bf68"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/aa243e68-9a47-411b-bf68"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:49:54+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:49:54+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">388402</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/d172e7ef-5109-4215-a531">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2015</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/d172e7ef-5109-4215-a531"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2015_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/d172e7ef-5109-4215-a531"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:23:04+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:05:16+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">536834</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1500d77f-63d7-44c5-9fee">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2011</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2011</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1500d77f-63d7-44c5-9fee"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2011_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1500d77f-63d7-44c5-9fee"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:15:36+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T13:52:53+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">388663</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/fc22f3ec-d451-437a-86e0">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2009</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/fc22f3ec-d451-437a-86e0"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2009_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/fc22f3ec-d451-437a-86e0"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T15:07:47+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T13:49:56+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">352317</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D09 Zu- und Wegzüge eines Jahres nach Ort und Alter Linnich</dct:title>
+    <dct:description><![CDATA[<p align="LEFT" dir="LTR"><font face="Calibri" size="3"><font face="Calibri" size="3">Jahresstatistik aller Zu- und Wegzüge sortiert nach Herkunft / Ziel und Alter für eine Kommune.</font></font></p>
+]]></dct:description>
+    <dct:identifier>2c045fe1-f034-4b67-83dc-b98526f6b3fd</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:29:50+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nefedcecfa5bc46f59f2835252d364aec">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1994a322-d9a4-4acc-8f26">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2010</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1994a322-d9a4-4acc-8f26"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1994a322-d9a4-4acc-8f26"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:13:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T13:51:58+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">398195</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/fc22f3ec-d451-437a-86e0"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/ac2ddd12-4e47-4731-a118">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2012</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/ac2ddd12-4e47-4731-a118"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/ac2ddd12-4e47-4731-a118"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:17:15+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T13:54:29+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">398882</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/eeb86e39-f521-4282-b44e"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/56cfeeb0-2e53-4e0b-9195"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/9c9d4ac7-f08f-44a3-9b08"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/4d9f2495-418f-4efb-af0a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Linnich 2021</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Linnich für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/4d9f2495-418f-4efb-af0a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/4d9f2495-418f-4efb-af0a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:29:50+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:29:50+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">280035</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc36d45700a8747389fd7cfea2acd5836">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">465ef1ad00d39b1390290913c39bbb69</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1d66a171-5227-43d6-a2b8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2013</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1d66a171-5227-43d6-a2b8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1d66a171-5227-43d6-a2b8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:19:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T13:58:07+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">388635</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/6e0c43e1-64e1-4231-9df4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Linnich 2014</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Linnich&nbsp;für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/6e0c43e1-64e1-4231-9df4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/6e0c43e1-64e1-4231-9df4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-05T14:21:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T14:04:13+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">391672</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/1500d77f-63d7-44c5-9fee"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/79d6ef45-c431-4be4-8575"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/aa243e68-9a47-411b-bf68"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-linnich/resource/d172e7ef-5109-4215-a531"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2013_20161121.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat27B-2014_20161121.csv"/>
+</rdf:RDF>

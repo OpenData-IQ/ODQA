@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22">
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/5284e0db-a79a-4618-8205-69a6cac2d564">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.json"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:35</dct:modified>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung insgesamt in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: einwohnerzahl (Anzahl der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: bevoelkerungsdichte (Anzahl der Einwohner/-innen mit Hauptwohnung je Quadratkilometer Fläche ohne Warnow).</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3071.0</dcat:byteSize>
+        <dct:title>Bevölkerung insgesamt 2019</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na13942442bb5471db304c0d50a75b23f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b2975ed31e7d208f078f06290697a588d3cb739deafa7cb24d6992fe825ab243</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.json"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/d235e730-551b-49ec-a3e0-7a824c218642">
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4590.0</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N69ee644429bf456daad950c067ba3fae">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2dab5432a7fb6aa11679e2796d9bee3e91509ef73fd4ab2a8c094d6cb853edea</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur natürlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_lebendgeborene (Anzahl der Lebendgeborenen mit Hauptwohnung), anzahl_gestorbene (Anzahl der Gestorbenen mit Hauptwohnung), geburten_sterbesaldo (Lebendgeborenen- bzw. Gestorbenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: lebendgeborene_je_1000 (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburtenrate (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Frauen im Alter von 15 bis unter 45 Jahren), gestorbene_je_1000 (Anzahl der Gestorbenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburten_sterbesaldo_je_1000 (Lebendgeborenen- bzw. Gestorbenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.xlsx"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <dct:title>Natürliche Bevölkerungsbewegung 2019</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N88e45e05177e462ca44175d9ef1c617f">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/269a563b-b39e-4dc7-aeb0-05d80a63272c">
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur natürlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_lebendgeborene (Anzahl der Lebendgeborenen mit Hauptwohnung), anzahl_gestorbene (Anzahl der Gestorbenen mit Hauptwohnung), geburten_sterbesaldo (Lebendgeborenen- bzw. Gestorbenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: lebendgeborene_je_1000 (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburtenrate (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Frauen im Alter von 15 bis unter 45 Jahren), gestorbene_je_1000 (Anzahl der Gestorbenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburten_sterbesaldo_je_1000 (Lebendgeborenen- bzw. Gestorbenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N8b57266d6bdc449abfefd0c6140009ba">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c15956b81d348cd60ec677d47d4a61832a9d844b02b8d382e26426a2cc231c63</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6627.0</dcat:byteSize>
+        <dct:title>Natürliche Bevölkerungsbewegung 2019</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.json"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.json"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/f6974c1b-89fa-4072-9527-7d8f49a19952">
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5526.0</dcat:byteSize>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:title>Räumliche Bevölkerungsbewegung 2019</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9247e21382b243aeaaa71b77d0df32f9">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d0772bde922d18b07604e312471f4a708ee1f9de5488cb088ecc77327768b7bb</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur räumlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_zuzuege (Anzahl der Zugezogenen mit Hauptwohnung), anzahl_wegzuege (Anzahl der Weggezogenen mit Hauptwohnung), wanderungssaldo (Zugezogenen- bzw. Weggezogenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: zuzuege_je_1000 (Anzahl der Zugezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wegzuege_je_1000 (Anzahl der Weggezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wanderungssaldo_je_1000 (Zugezogenen- bzw. Weggezogenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.json"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.json"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nc66654a3a7e24063b447941ae0d674af">
+        <locn:geometry rdf:datatype="https://www.iana.org/assignments/media-types/application/vnd.geo+json">{"type":"Polygon", "coordinates":[[[11.99143, 54.03856], [11.99143, 54.26196], [12.31306, 54.26196], [12.31306, 54.03856], [11.99143, 54.03856]]]}</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:keyword>Bevölkerungsverteilung</dcat:keyword>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/1f6c8c8d-c1c8-4971-bf64-5866a384c3ef">
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.xlsx"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6468.0</dcat:byteSize>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.xlsx"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Bevölkerung nach Alter 2019</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:35</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3ce296de860045939ea80f217fd15423">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">41f16f9f0f3bc826dfd64dbd3b1501fe6b88536d40d7ee340ccacae5360d9ab6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Alter in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_juenger_3 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren), anzahl_3_6 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren), anzahl_6_15 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren), anzahl_15_25 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren), anzahl_25_35 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren), anzahl_35_45 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren), anzahl_45_55 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren), anzahl_55_65 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren), anzahl_65_75 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren), anzahl_75_aelter (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter). Folgende Indikatoren sind enthalten: durchschnittsalter (Summe der Altersjahre aller Einwohner/-innen mit Hauptwohnung dividiert durch die Anzahl der Einwohner/-innen mit Hauptwohnung insgesamt), jugendquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 20 Jahren an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), altenquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 Jahren und älter an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), anteil_juenger_3 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_3_6 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_6_15 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_15_25 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_25_35 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_35_45 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_45_55 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_55_65 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_65_75 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_75_aelter (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/659e9cf7-4ba5-4561-8687-5935e51ded0c">
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.xlsx"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Geschlecht in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_weiblich (Anzahl der weiblichen Einwohnerinnen mit Hauptwohnung), anzahl_maennlich (Anzahl der männlichen Einwohner mit Hauptwohnung). Folgende Indikatoren sind enthalten: anteil_weiblich (Anteil der weiblichen Einwohnerinnen mit Hauptwohnung an den Einwohnerninnen mit Hauptwohnung insgesamt), anteil_maennlich (Anteil der männlichen Einwohner mit Hauptwohnung an den Einwohnern mit Hauptwohnung insgesamt).</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:title>Bevölkerung nach Geschlecht 2019</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4245.0</dcat:byteSize>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:37</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbdb0c71458864140a9b6a41d4c0add2e">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f188377a21eda8492af217f61b8db54cafc5ad1a74fc7232b81366919d402654</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.xlsx"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/11ae65c1-7471-43c2-9dad-f7125d75672a">
+        <dct:title>Bevölkerung nach Staatsangehörigkeit 2019</dct:title>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.xlsx"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.xlsx"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:37</dct:modified>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_deutsch (Anteil der deutschen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_auslaendisch (Anteil der ausländischen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbfb244b5e9b347d68aa1e2dc690ce4a8">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">96e1e4b9e4e03b101ba643d5eb731c4bf37560682d7c2ce2d9afc27502b23dfe</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3993.0</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/8a394642-150d-4953-a854-9f8881793a1a">
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb8d7a4bfbd0e4292a3de626e90e98d1f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3e4630ee999147af254f543088688d4cb7e5f2774c0f6adc540264a2dd2fa9ee</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Haushaltsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_haushalte (Anzahl der Haushalte). Folgende Indikatoren sind enthalten: anteil_single (Anteil der Haushalte mit nur einer Person an Haushalten insgesamt), anteil_single_juenger_30 (Anteil der Haushalte mit nur einer Person im Alter unter 30 Jahren an Haushalten mit nur einer Person insgesamt), anteil_single_65_aelter (Anteil der Haushalte mit nur einer Person im Alter von 65 Jahren und älter an Haushalten mit nur einer Person insgesamt), anteil_mit_kindern (Anteil der Haushalte mit mindestens einem Kind unter 18 Jahren an Haushalten insgesamt), anteil_alleinerziehende_an_mit_kindern (Anteil der Haushalte von Alleinerziehenden an Haushalten mit mindestens einem Kind unter 18 Jahren).</dct:description>
+        <dct:title>Haushaltsstruktur 2019</dct:title>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.csv"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1120.0</dcat:byteSize>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:39</dct:modified>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.csv"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/35cf3e27-035c-42e1-82bb-ab84f1372d9a">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.csv"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur natürlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_lebendgeborene (Anzahl der Lebendgeborenen mit Hauptwohnung), anzahl_gestorbene (Anzahl der Gestorbenen mit Hauptwohnung), geburten_sterbesaldo (Lebendgeborenen- bzw. Gestorbenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: lebendgeborene_je_1000 (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburtenrate (Anzahl der Lebendgeborenen mit Hauptwohnung je 1.000 Frauen im Alter von 15 bis unter 45 Jahren), gestorbene_je_1000 (Anzahl der Gestorbenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), geburten_sterbesaldo_je_1000 (Lebendgeborenen- bzw. Gestorbenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1120.0</dcat:byteSize>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_natuerlich.csv"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:title>Natürliche Bevölkerungsbewegung 2019</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ne384f13b56fb4affa5a4bf666c2cbd9c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6f0d01db69e583a951791bee56c9dbf97d01e2bce951a782c76f2295a36e45ef</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/683593c6-9b2f-4196-a18c-e471b1fecc6d">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:36</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2a82d9db8c774880bf7fc8dee5676a74">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">09f6ba3c9929b567f575e39872d7397a65e2f8047cdf4b09a350d40db3d0d8fd</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:title>Bevölkerung nach Geschlecht 2019</dct:title>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Geschlecht in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_weiblich (Anzahl der weiblichen Einwohnerinnen mit Hauptwohnung), anzahl_maennlich (Anzahl der männlichen Einwohner mit Hauptwohnung). Folgende Indikatoren sind enthalten: anteil_weiblich (Anteil der weiblichen Einwohnerinnen mit Hauptwohnung an den Einwohnerninnen mit Hauptwohnung insgesamt), anteil_maennlich (Anteil der männlichen Einwohner mit Hauptwohnung an den Einwohnern mit Hauptwohnung insgesamt).</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">839.0</dcat:byteSize>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.csv"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:publisher>
+      <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dcat:keyword>Bevölkerungsentwicklung</dcat:keyword>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:46.337892</dct:modified>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:keyword>Statistik</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/47618f93-0f1f-497e-91df-84a7c70fdbaa">
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.xlsx"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N40e851d6da114032a835a9c208c4f5fd">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">79b062bd6a1f17cc334f00c89440cfbe843133fdcd4b6de42390c014d34391f5</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4534.0</dcat:byteSize>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:40</dct:modified>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Haushaltsstruktur 2019</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.xlsx"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Haushaltsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_haushalte (Anzahl der Haushalte). Folgende Indikatoren sind enthalten: anteil_single (Anteil der Haushalte mit nur einer Person an Haushalten insgesamt), anteil_single_juenger_30 (Anteil der Haushalte mit nur einer Person im Alter unter 30 Jahren an Haushalten mit nur einer Person insgesamt), anteil_single_65_aelter (Anteil der Haushalte mit nur einer Person im Alter von 65 Jahren und älter an Haushalten mit nur einer Person insgesamt), anteil_mit_kindern (Anteil der Haushalte mit mindestens einem Kind unter 18 Jahren an Haushalten insgesamt), anteil_alleinerziehende_an_mit_kindern (Anteil der Haushalte von Alleinerziehenden an Haushalten mit mindestens einem Kind unter 18 Jahren).</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/2f82c5ed-6449-4f54-8543-f1a1582edae4">
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6327.0</dcat:byteSize>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:40</dct:modified>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Haushaltsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_haushalte (Anzahl der Haushalte). Folgende Indikatoren sind enthalten: anteil_single (Anteil der Haushalte mit nur einer Person an Haushalten insgesamt), anteil_single_juenger_30 (Anteil der Haushalte mit nur einer Person im Alter unter 30 Jahren an Haushalten mit nur einer Person insgesamt), anteil_single_65_aelter (Anteil der Haushalte mit nur einer Person im Alter von 65 Jahren und älter an Haushalten mit nur einer Person insgesamt), anteil_mit_kindern (Anteil der Haushalte mit mindestens einem Kind unter 18 Jahren an Haushalten insgesamt), anteil_alleinerziehende_an_mit_kindern (Anteil der Haushalte von Alleinerziehenden an Haushalten mit mindestens einem Kind unter 18 Jahren).</dct:description>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Haushaltsstruktur 2019</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.json"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_haushaltsstruktur.json"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N30bdc565a0da4039b5d487e06e4e4e32">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1f8ae45ad296a0f3d418e45e2aaf76a986f12386cde64741720e539e7168695d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T13:14:32.823023</dct:issued>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/9d23f23f-b15a-499c-83bf-66981d4aaa45">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:37</dct:modified>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.json"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Bevölkerung nach Staatsangehörigkeit 2019</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6ddacec4ec7e4e02a63c0c689137db40">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e1d7c51eb6a6258e44a5d10dc3fb60e83c3cbd6951c7f21e81cdff4a7f226d0a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.json"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3062.0</dcat:byteSize>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_deutsch (Anteil der deutschen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_auslaendisch (Anteil der ausländischen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Bewohner</dcat:keyword>
+    <dcat:keyword>Bevölkerung</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/66831820-109c-4eb6-8a4f-2641a2d7cf10">
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4237.0</dcat:byteSize>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.xlsx"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:36</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N547afd711e2e4ea5961ace7c855afe11">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">280ba055434016dbb3f14ef662a89f044fb7189b03a6f8f648a1da1545874723</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:title>Bevölkerung nach Familienstand 2019</dct:title>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_ledige (Anteil der ledigen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verheiratete (Anteil der verheirateten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_geschiedene (Anteil der geschiedenen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verwitwete (Anteil der verwitweten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.xlsx"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/5a3e9227-4021-44ec-aa78-be32fcdce053">
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:39</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur gesamten Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: abs_bestandsveraenderung (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres). Folgende Indikatoren sind enthalten: rel_bestandsveraenderung (Entwicklung der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres), bestandsveraaenderung_je_1000 (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres je 1.000 Einwohner/-innen).</dct:description>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1c2dc7e2f2ec49bda11fe8c5875ab4d2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">594a6c79d3d4ae8031a3821925b0f48d74ce8e0cc7f791d27227fe76396c8a3c</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:title>Gesamte Bevölkerungsbewegung 2019</dct:title>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4258.0</dcat:byteSize>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22"/>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Na1b9cb5d34d24184a9ce4de096d8ec2f">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+01:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+01:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:keyword>Familienstand</dcat:keyword>
+    <dct:identifier>821ea501-d5a9-46b8-aa21-e01f4f9dbd22</dct:identifier>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/1a89c474-8776-4fff-b175-133e64c94906">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:35</dct:modified>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.xlsx"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4014.0</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ne12bddfc42e54bf0937932ea09af240e">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f5767ac9ce597ecb13630df1ce122a9e01d9a00bdc3d393044e026ea51361e60</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:title>Bevölkerung insgesamt 2019</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung insgesamt in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: einwohnerzahl (Anzahl der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: bevoelkerungsdichte (Anzahl der Einwohner/-innen mit Hauptwohnung je Quadratkilometer Fläche ohne Warnow).</dct:description>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.xlsx"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N552258cf4b01481fabcab04eba207c4d">
+        <vcard:hasEmail rdf:resource="mailto:mailto:geodienste@rostock.de"/>
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+        <vcard:fn>Hanse- und Universitätsstadt Rostock</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/59fc3c96-23c1-42d7-96b8-84fd4151496f">
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2e6072f35dbb4a33948fff1a059ce539">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b138b19ab489c52d500b78c9900a8637471b573855f5d69244a98989d70fa342</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:39</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">711.0</dcat:byteSize>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.csv"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur gesamten Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: abs_bestandsveraenderung (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres). Folgende Indikatoren sind enthalten: rel_bestandsveraenderung (Entwicklung der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres), bestandsveraaenderung_je_1000 (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres je 1.000 Einwohner/-innen).</dct:description>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.csv"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:title>Gesamte Bevölkerungsbewegung 2019</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/1fad129f-2ec2-41cd-9ac5-4833d95f69d8">
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.xlsx"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc30772f9344c4252aa2a91f4e3c90b2c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">828bd4d046cedfd75cd462f8d1dacffea7e72842b82bc50264362f2d72f09197</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur räumlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_zuzuege (Anzahl der Zugezogenen mit Hauptwohnung), anzahl_wegzuege (Anzahl der Weggezogenen mit Hauptwohnung), wanderungssaldo (Zugezogenen- bzw. Weggezogenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: zuzuege_je_1000 (Anzahl der Zugezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wegzuege_je_1000 (Anzahl der Weggezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wanderungssaldo_je_1000 (Zugezogenen- bzw. Weggezogenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Räumliche Bevölkerungsbewegung 2019</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4488.0</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.xlsx"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:description>statistische Daten zur Bevölkerungsstruktur in der Hanse- und Universitätsstadt Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Jahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock)</dct:description>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/efafd2a1-cde7-4cf8-8907-2ef5374ecaf3">
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">816.0</dcat:byteSize>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_ledige (Anteil der ledigen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verheiratete (Anteil der verheirateten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_geschiedene (Anteil der geschiedenen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verwitwete (Anteil der verwitweten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Bevölkerung nach Familienstand 2019</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf729179dac09406caa3e684035176d55">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bbda069a1cfd2c94c278d2b2dae6bf63e73d2e8cf2c183288f65db6e1428b86e</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:36</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Stadtbevölkerung</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/36329c78-50a7-4a60-abc3-1fcaaf157aa1">
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_ledige (Anteil der ledigen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verheiratete (Anteil der verheirateten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_geschiedene (Anteil der geschiedenen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_verwitwete (Anteil der verwitweten Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Bevölkerung nach Familienstand 2019</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.json"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb2354bf16e574045872dc43c9ff10fa1">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9ecebe6c6623c9218f903b5143e8a03ee44bb1a6a3f263a6b326402498b3c300</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_familienstand.json"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4345.0</dcat:byteSize>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:36</dct:modified>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/287cd131-27ef-4a68-836b-d3df7c98b10d">
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">14476.0</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.json"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:36</dct:modified>
+        <dct:title>Bevölkerung nach Alter 2019</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd8a324b2a7b64eb08f2a80dda6ea0645">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">89ddfc2d7f2c7c3704f955c82fc49234b773e0430b670d1d8742bb0bc919fbe1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.json"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Alter in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_juenger_3 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren), anzahl_3_6 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren), anzahl_6_15 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren), anzahl_15_25 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren), anzahl_25_35 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren), anzahl_35_45 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren), anzahl_45_55 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren), anzahl_55_65 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren), anzahl_65_75 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren), anzahl_75_aelter (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter). Folgende Indikatoren sind enthalten: durchschnittsalter (Summe der Altersjahre aller Einwohner/-innen mit Hauptwohnung dividiert durch die Anzahl der Einwohner/-innen mit Hauptwohnung insgesamt), jugendquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 20 Jahren an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), altenquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 Jahren und älter an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), anteil_juenger_3 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_3_6 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_6_15 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_15_25 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_25_35 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_35_45 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_45_55 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_55_65 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_65_75 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_75_aelter (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/80660c37-b90c-45e2-a28b-5d4aa8906169">
+        <dct:title>Bevölkerung nach Staatsangehörigkeit 2019</dct:title>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">587.0</dcat:byteSize>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Familienstand in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Indikatoren sind enthalten: anteil_deutsch (Anteil der deutschen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_auslaendisch (Anteil der ausländischen Einwohner/-innen mit Hauptwohnung an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.csv"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na7eba2c95d76426189486e5b9d500b8e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">02ce92e9514821e42abab144fe6c786e6a38ec8d0f273e7f377ba17ef539afc8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_staatsangehoerigkeit.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:37</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/ba2d3495-9250-4e5a-91ad-818eeb857003">
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur gesamten Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: abs_bestandsveraenderung (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres). Folgende Indikatoren sind enthalten: rel_bestandsveraenderung (Entwicklung der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres), bestandsveraaenderung_je_1000 (Differenz der Anzahl der Einwohner/-innen mit Hauptwohnung des Jahres gegenüber der Anzahl der Einwohner/-innen mit Hauptwohnung des Vorjahres je 1.000 Einwohner/-innen).</dct:description>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:39</dct:modified>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_gesamt.xlsx"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nddbb59812b1e4849ad9534eb4b8ff5b8">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">163d5c0f97373ad51a46514206026b7a2f80a3c6030157f3eaea47cd4d129da8</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4104.0</dcat:byteSize>
+        <dct:title>Gesamte Bevölkerungsbewegung 2019</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Bevölkerungsstruktur</dcat:keyword>
+    <dct:title>Bevölkerungsstruktur 2019</dct:title>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:keyword>Bevölkerungswachstum</dcat:keyword>
+    <dcat:keyword>Bevölkerungsdichte</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/524c7250-b2dd-49e8-a7fb-c5ee7d0f5ffd">
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.csv"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N07738859dbe1412fa6159d45668bf702">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">20e93726b5d338e1cffe6fd0e5626602aead1ea9e4dc568e1bf590dbf094c422</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:38</dct:modified>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur räumlichen Bevölkerungsbewegung in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) des Gesamtjahres 2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_zuzuege (Anzahl der Zugezogenen mit Hauptwohnung), anzahl_wegzuege (Anzahl der Weggezogenen mit Hauptwohnung), wanderungssaldo (Zugezogenen- bzw. Weggezogenenüberschuss der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: zuzuege_je_1000 (Anzahl der Zugezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wegzuege_je_1000 (Anzahl der Weggezogenen mit Hauptwohnung je 1.000 Einwohner/-innen mit Hauptwohnung insgesamt), wanderungssaldo_je_1000 (Zugezogenen- bzw. Weggezogenenüberschuss je 1.000 Einwohner/-innen mit Hauptwohnung).</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1003.0</dcat:byteSize>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:title>Räumliche Bevölkerungsbewegung 2019</dct:title>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_bewegung_raeumlich.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="Nc661134d870c40f6a3d8d60ef85bfb5e">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dcat:keyword>Bevölkerungsmigration</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/fb60e56c-d423-45a0-9063-0343e569a2ae">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:35</dct:modified>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:title>Bevölkerung nach Alter 2019</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Alter in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_juenger_3 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren), anzahl_3_6 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren), anzahl_6_15 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren), anzahl_15_25 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren), anzahl_25_35 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren), anzahl_35_45 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren), anzahl_45_55 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren), anzahl_55_65 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren), anzahl_65_75 (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren), anzahl_75_aelter (Anzahl der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter). Folgende Indikatoren sind enthalten: durchschnittsalter (Summe der Altersjahre aller Einwohner/-innen mit Hauptwohnung dividiert durch die Anzahl der Einwohner/-innen mit Hauptwohnung insgesamt), jugendquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 20 Jahren an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), altenquotient (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 Jahren und älter an Einwohner/-innen mit Hauptwohnung im Alter von 20 bis unter 65 Jahren), anteil_juenger_3 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 0 bis unter 3 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_3_6 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 3 bis unter 6 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_6_15 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 6 bis unter 15 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_15_25 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 15 bis unter 25 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_25_35 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 25 bis unter 35 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_35_45 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 35 bis unter 45 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_45_55 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 45 bis unter 55 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_55_65 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 55 bis unter 65 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_65_75 (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 65 bis unter 75 Jahren an Einwohner/-innen mit Hauptwohnung insgesamt), anteil_75_aelter (Anteil der Einwohner/-innen mit Hauptwohnung im Alter von 75 Jahren und älter an Einwohner/-innen mit Hauptwohnung insgesamt).</dct:description>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2fd561324c5645c0b7d3ef28b27fe9e0">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f3bd4aae89bc3de379052c184e320cb67d45e5db46f966716c80649dd36a4f71</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2851.0</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Bevölkerungsbewegung</dcat:keyword>
+    <dcat:keyword>Lebensalter</dcat:keyword>
+    <dcat:keyword>Familie</dcat:keyword>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcat:keyword>Statistische Information</dcat:keyword>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+    <dcat:keyword>Statistische Daten</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/27d7eba4-ea5e-480a-9229-a1d72323d0c7">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:35</dct:modified>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">646.0</dcat:byteSize>
+        <dct:title>Bevölkerung insgesamt 2019</dct:title>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung insgesamt in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: einwohnerzahl (Anzahl der Einwohner/-innen mit Hauptwohnung). Folgende Indikatoren sind enthalten: bevoelkerungsdichte (Anzahl der Einwohner/-innen mit Hauptwohnung je Quadratkilometer Fläche ohne Warnow).</dct:description>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc8c88f346d424243a804922304f138e7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e28d3fe89448bf730ee3c352f4daeba186a03ae570b53a0baae8e119d6cd833a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_insgesamt.csv"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/821ea501-d5a9-46b8-aa21-e01f4f9dbd22/resource/3159f224-d34b-451e-99c0-6ad06f8266f9">
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T14:18:37</dct:modified>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6e105873894f4a7484817fbcfa657a67">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">897d82c6fa90089f34af8998dd39c849cf5523fcfa36cbc7af42ed4e09819363</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:title>Bevölkerung nach Geschlecht 2019</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4266.0</dcat:byteSize>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:description>Dieser Datensatz umfasst die statistischen Daten zur Bevölkerung nach Geschlecht in Rostock (Bevölkerung mit Hauptwohnung in der Hanse- und Universitätsstadt Rostock) vom 31.12.2019 nach Stadtbereichen (Quelle: Melderegister der Hanse- und Universitätsstadt Rostock). Folgende Kennziffern sind enthalten: anzahl_weiblich (Anzahl der weiblichen Einwohnerinnen mit Hauptwohnung), anzahl_maennlich (Anzahl der männlichen Einwohner mit Hauptwohnung). Folgende Indikatoren sind enthalten: anteil_weiblich (Anteil der weiblichen Einwohnerinnen mit Hauptwohnung an den Einwohnerninnen mit Hauptwohnung insgesamt), anteil_maennlich (Anteil der männlichen Einwohner mit Hauptwohnung an den Einwohnern mit Hauptwohnung insgesamt).</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.json"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_geschlecht.json"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T12:34:27</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Haushalt</dcat:keyword>
+  </dcat:Dataset>
+</rdf:RDF>

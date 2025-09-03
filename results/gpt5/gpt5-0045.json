@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0045",
+  "run_at": "2025-08-31T22:15:44.048282Z",
+  "question_id": 45,
+  "question": "Was ist die Abkürzung für das Staatliche Schulamt Neuruppin?",
+  "answer": "StSchA NP",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "StSchA NP"
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/b1dde6e0-eb89-4cb2-99dc-2c5ad5a03c22">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Standorte der Lichtzeichenanlagen (Ampeln) in Düsseldorf - WGS84</dct:title>
+    <dct:description><![CDATA[<p>GEOJSON-Datei der Lichtzeichenanlagen (Ampeln) in Düsseldorf, Stand: 30.04.2019</p>
+
+<p>Referenzsystem WGS84 (EPSG 4326)</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/b1dde6e0-eb89-4cb2-99dc-2c5ad5a03c22"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Lichtzeichenanlagen_D%C3%BCsseldorf_WGS84.geojson"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/b1dde6e0-eb89-4cb2-99dc-2c5ad5a03c22"/>
+    <dcat:mediaType>application/geo+json</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:24:20+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-12-11T10:02:02+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113057</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/887ab8e6-cd57-4d7d-acd7-158f40ac8d25">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Standorte der Lichtzeichenanlagen (Ampeln) in Düsseldorf</dct:title>
+    <dct:description><![CDATA[<p>KML-Datei der Lichtzeichenanlagen (Ampeln) in Düsseldorf, Stand: 30.04.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/887ab8e6-cd57-4d7d-acd7-158f40ac8d25"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Lichtzeichenanlagen_D%C3%BCsseldorf.kml"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/887ab8e6-cd57-4d7d-acd7-158f40ac8d25"/>
+    <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:22:52+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:22:52+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">206068</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a2d73ede-9475-4bff-b5c4-a575de23b494">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Standorte der Lichtzeichenanlagen (Ampeln) in Düsseldorf </dct:title>
+    <dct:description><![CDATA[<p>JSON-Datei der Lichtzeichenanlagen (Ampeln) in Düsseldorf, Stand: 30.04.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a2d73ede-9475-4bff-b5c4-a575de23b494"/>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a2d73ede-9475-4bff-b5c4-a575de23b494"/>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:21:57+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:21:57+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.duesseldorf.de/dataset/standorte-der-lichtzeichenanlagen-ampeln-d%C3%BCsseldorf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Standorte der Lichtzeichenanlagen (Ampeln) in Düsseldorf</dct:title>
+    <dct:description><![CDATA[<p>Der Datensatz enthält die Standorte und Nummern der Lichtzeichenanlagen in Düsseldorf.</p>
+
+<p>Ampeln dienen zur Steuerung des Straßenverkehrs. Sie werden dort eingesetzt, wo eine andere sichere Verkehrsabwicklung aufgrund der Verkehrsdichte oder der örtlichen Gegebenheiten nicht mehr möglich ist.</p>
+
+<p>In Düsseldorf werden bestimmte Ampelanlagen verkehrsabhängig geschaltet, um sich den veränderten Verkehrssituationen bedarfsgerecht anpassen zu können. Dies bezieht sich im Besonderen auf den ÖPNV, der bedarfsorientiert eine Freigabe im Sinne der ÖPNV-Beschleunigung erhält. Um den Verkehr zügiger fließen zu lassen, gibt es Straßenabschnitte, auf denen  die Ampelanlagen als „Grüne Welle“ geschaltet werden.</p>
+
+<p>Düsseldorfer Fußgängerampeln haben eine Eigenart, die es nur hier gibt. Denn nur in Düsseldorf  haben Fußgängerampeln eine „Gelbzeit", wie es bei Auto-Ampeln der Fall ist. Das bedeutet, dass Fußgänger ohne Eile weitergehen können, wenn Sie auf dem Überweg sind. Sollten sie noch auf dem Bürgersteig stehen heißt es, stehen bleiben und den Überweg nicht mehr betreten. </p>
+
+<p>Bei Schäden an Ampelanlagen wenden Sie sich bitte an das Amt für Verkehrsmanagement, Telefon 0211 - 89 93 996.</p>
+
+<p>Die Datei „Lichtzeichenanlagen_Düsseldorf“ enthält folgende Spalteninformationen:</p>
+
+<ul>
+	<li>LATITUDE: Geographische Breite         </li>
+	<li>LONGITUDE: Geographische Länge</li>
+	<li>LZANR: Nummer der Lichtzeichenanlage</li>
+	<li>NAME: Standort der Lichtzeichenanlage (Straße)</li>
+	<li>BAULAST: für die Unterhaltung zuständige Behörde, hier:
+	<ul>
+		<li>LHD: Landeshauptstadt Düsseldorf</li>
+		<li>Straßen.NRW: Landesbetrieb Straßenbau Nordrhein-Westfalen</li>
+	</ul>
+	</li>
+</ul>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="http://www.bafg.de/php/DUESSELDORFRHEINW.htm"/>
+    </dcat:landingPage>
+    <dct:identifier>f93fc752-a90e-4ffd-b940-d36e21af75a8</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>bauen-und-wohnen</dcat:keyword>
+    <dcat:keyword>infrastruktur</dcat:keyword>
+    <dcat:keyword>transport-und-verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:54:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T14:55:12+01:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/standorte-der-lichtzeichenanlagen-ampeln-d%C3%BCsseldorf"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N1b750876d5304cb5bef61738f71f74e3">
+        <vcard:fn>Open-Data-Team der Landeshauptstadt Düsseldorf</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@duesseldorf.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/6860d913-ec66-4970-b239-a6dcecf428c4">
+        <foaf:name>Düsseldorf</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N102a94dd9c5445dcbbef0d35d76fb0ef">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a2d73ede-9475-4bff-b5c4-a575de23b494"/>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/b1dde6e0-eb89-4cb2-99dc-2c5ad5a03c22"/>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/887ab8e6-cd57-4d7d-acd7-158f40ac8d25"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a4dff2f2-8d54-4de7-a557-45fcb69f5d99">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Standorte der Lichtzeichenanlagen (Ampeln) in Düsseldorf</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Lichtzeichenanlagen (Ampeln) in Düsseldorf, Stand: 30.04.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a4dff2f2-8d54-4de7-a557-45fcb69f5d99"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Lichtzeichenanlagen_D%C3%BCsseldorf_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a4dff2f2-8d54-4de7-a557-45fcb69f5d99"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:14:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-25T15:18:58+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">46578</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://opendata.duesseldorf.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Lichtzeichenanlagen_D%C3%BCsseldorf_0.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+</rdf:RDF>

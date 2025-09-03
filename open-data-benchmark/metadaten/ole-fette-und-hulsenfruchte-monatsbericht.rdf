@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://open-data.ble.de/dataset/84b3b1da-c1bb-46c7-affe-dde1d492aeb8">
+    <dct:title>Öle, Fette und Hülsenfrüchte: Monatsbericht</dct:title>
+    <dct:description>Der Monatsbericht enthält Daten zur Erfassung und Verarbeitung von Ölsaaten und Hülsenfrüchten. Dazu gehören Angaben über die Anlieferung und Verarbeitung von Raps und anderen Ölsaaten sowie der gängigen Hülsenfrüchte. Ferner werden Ergebnisse zur Herstellung von pflanzlichen Ölen und Fetten aus der Verarbeitung von Raps und anderen Ölsaaten und deren Nebenprodukten Ölkuchen, Expeller und Extraktionsschroten dargestellt.&#13;
+Veröffentlicht werden darüber hinaus Daten zur Herstellung von Margarine und Speisefetten und der Absatz von Speiseölen. Zusatzinformationen liefern die Monatsbestände an Ölsaaten, Ölen und Fetten bei den Ölmühlen. Die Bestände an Hülsenfrüchten bei den Schälmühlen und Mischfutterherstellern werden ebenfalls monatlich ausgewiesen.&#13;
+&#13;
+Anmerkung: Die Datentabellen werden monatlich aktualisiert und zu Beginn eines neuen Berichtsmonats überschrieben; Jahresmelder sind im Monat 13 zusammengefasst.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.bmel-statistik.de/agrarmarkt/oele-fette-und-huelsenfruechte"/>
+    </dcat:landingPage>
+    <dct:identifier>84b3b1da-c1bb-46c7-affe-dde1d492aeb8</dct:identifier>
+    <dcat:keyword>fette</dcat:keyword>
+    <dcat:keyword>hülsenfrüchte</dcat:keyword>
+    <dcat:keyword>öle</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-04T09:48:10.472374</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-25T07:50:18.416346</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N4952834149824b0d9d547f8e308b891f">
+        <vcard:fn>Bundesanstalt für Landwirtschaft und Ernährung</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@ble.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://open-data.ble.de/organization/fa771554-fbc4-4e91-81e8-185eeebb8dc4">
+        <foaf:name>BLE</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N8ecefa01f7b4486aa7e4ecfd38799319">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N9af4521c440c45b687b2b8a8b5d1740e">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.ble.de/dataset/84b3b1da-c1bb-46c7-affe-dde1d492aeb8/resource/1d887dc7-eab6-4e3a-afc3-6f191acd5459">
+        <dct:title>Öle, Fette und Hülsenfrüchte.csv</dct:title>
+        <dct:description>Monatsbericht ab 2023</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://blecloud.prod.se.ble.de/index.php/s/SaAWEem5NA7KJTd"/>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-04T09:49:13.505246</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-27T07:58:09.977412</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">172690</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.ble.de/dataset/84b3b1da-c1bb-46c7-affe-dde1d492aeb8/resource/e914b686-3a56-48d1-94bf-16723083cc1d">
+        <dct:title>Öle, Fette und Hülsenfrüchte.xlsx</dct:title>
+        <dct:description>Monatsbericht ab 2023</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://blecloud.prod.se.ble.de/index.php/s/PF2RqSAeaCzkbXY"/>
+        <dct:format>XLSX</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-04T09:49:24.743847</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-27T07:58:29.885519</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">68103</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesministeriumFuerErnaehrungUndLandwirtschaft"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N50ed0670b27344289c93c6b18da9dfb3">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://blecloud.prod.se.ble.de/index.php/s/SaAWEem5NA7KJTd"/>
+  <rdfs:Resource rdf:about="https://blecloud.prod.se.ble.de/index.php/s/PF2RqSAeaCzkbXY"/>
+</rdf:RDF>

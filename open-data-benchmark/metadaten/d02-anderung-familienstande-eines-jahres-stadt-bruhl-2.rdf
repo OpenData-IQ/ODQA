@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/5cdaeef7-cfc1-46eb-bb43">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2014</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2014</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/5cdaeef7-cfc1-46eb-bb43"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2014_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/5cdaeef7-cfc1-46eb-bb43"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:11:25+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:11:25+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/78d9619a-880e-4777-9ae0">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2013</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2013</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/78d9619a-880e-4777-9ae0"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2013_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/78d9619a-880e-4777-9ae0"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:10:06+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:10:06+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/cd3baf91-64fc-46b7-905f">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2012</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/cd3baf91-64fc-46b7-905f"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2012_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/cd3baf91-64fc-46b7-905f"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:08:45+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:08:45+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/4ce47b50-8e37-4664-a3da">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2010</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2010</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/4ce47b50-8e37-4664-a3da"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2010_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/4ce47b50-8e37-4664-a3da"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:06:04+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:06:04+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/6cf2d013-9e87-48ff-8caa">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände Stadt Brühl 2019</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für die Stadt Brühl für das Jahr 2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/6cf2d013-9e87-48ff-8caa"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/6cf2d013-9e87-48ff-8caa"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:30:31+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:30:31+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">470</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/f227344d-ea72-4412-bc7e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2016</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2016</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/f227344d-ea72-4412-bc7e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20170201.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/f227344d-ea72-4412-bc7e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T10:10:35+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T10:10:35+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/3c362b4c-6122-473c-b817">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände Stadt Brühl 2020</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für die Stadt Brühl für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/3c362b4c-6122-473c-b817"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/3c362b4c-6122-473c-b817"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:44:53+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:44:53+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">470</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/25f0783e-8fea-4f13-914b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2015</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/25f0783e-8fea-4f13-914b"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2015_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/25f0783e-8fea-4f13-914b"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:13:11+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:13:11+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/b5d8e1fa-c048-4297-922e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände der Stadt Brühl 2009</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/b5d8e1fa-c048-4297-922e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2009_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/b5d8e1fa-c048-4297-922e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:04:35+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:04:35+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/2f9b250c-39aa-474c-ab0b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Änderung Familienstände Stadt Brühl 2017</dct:title>
+    <dct:description><![CDATA[<p>Änderungen der Familienstände für die Stadt Brühl für das Jahr 2017</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/2f9b250c-39aa-474c-ab0b"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20180116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/2f9b250c-39aa-474c-ab0b"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T12:53:29+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T12:53:29+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D02 Änderung Familienstände eines Jahres Stadt Brühl</dct:title>
+    <dct:description><![CDATA[<p>Zahlen zu Veränderungen der Familienstände. Folgende Änderungen sind aufgelistet: Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Ehescheidung, Eheschließung, Tod des Ehegatten, Tod des Lebenspartners</p>
+]]></dct:description>
+    <dct:identifier>a7741c70-5489-4bbb-80b5-8065e51e7758</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:54:53+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nab49bc73252841a5a1512d1a7a3e2f41">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/6cf2d013-9e87-48ff-8caa"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/06a3ae5f-b0b6-4058-a17f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Änderung Familienstände Stadt Brühl 2021</dct:title>
+        <dct:description><![CDATA[<p>Änderungen der Familienstände für die Stadt Brühl für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/06a3ae5f-b0b6-4058-a17f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/06a3ae5f-b0b6-4058-a17f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:54:53+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:54:53+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">470</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N23c1f84a83704d33aa289d057d05c376">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">37f3584f46ae8495e7db30a4387cdac1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/190a4bc2-b3eb-4fbf-b1d6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Änderung Familienstände der Stadt Brühl 2011</dct:title>
+        <dct:description><![CDATA[<p>Änderungen der Familienstände für&nbsp;die Stadt Brühl&nbsp;für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/190a4bc2-b3eb-4fbf-b1d6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2011_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/190a4bc2-b3eb-4fbf-b1d6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:07:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:07:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/c4127f4f-f59e-40e1-92fa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Änderung Familienstände Stadt Brühl 2018</dct:title>
+        <dct:description><![CDATA[<p>Änderungen der Familienstände für die Stadt Brühl für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/c4127f4f-f59e-40e1-92fa"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/c4127f4f-f59e-40e1-92fa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-02T14:55:19+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-11T07:10:35+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">470</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/b5d8e1fa-c048-4297-922e"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/3c362b4c-6122-473c-b817"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/25f0783e-8fea-4f13-914b"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/f227344d-ea72-4412-bc7e"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/5cdaeef7-cfc1-46eb-bb43"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/2f9b250c-39aa-474c-ab0b"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/4ce47b50-8e37-4664-a3da"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/cd3baf91-64fc-46b7-905f"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl/resource/78d9619a-880e-4777-9ae0"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412-2011_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat412_20190116.csv"/>
+</rdf:RDF>

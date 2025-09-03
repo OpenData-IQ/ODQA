@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0046",
+  "run_at": "2025-08-31T22:17:57.514674Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "es ist keine angegeben",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'Recursion limit of 25 reached'. This indicates a technical problem during the generation of the answer. Therefore, it falls under the 'problem_answers' category."
+  }
+}

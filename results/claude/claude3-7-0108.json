@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0108",
+  "run_at": "2025-09-01T14:59:24.153922Z",
+  "question_id": 108,
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": " (Öffentliche Toiletten im Stadtgebiet Soest 2025)"
+}

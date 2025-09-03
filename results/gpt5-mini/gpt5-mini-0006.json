@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0006",
+  "run_at": "2025-08-31T09:58:25.316018Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf dem Großmarkt?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

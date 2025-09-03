@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://datenregister.berlin.de/dataset/f90b3f13-b3bf-4420-88d0-c6397efc62b9">
+    <dct:title>Kurse der Berliner Volkshochschulen</dct:title>
+    <dct:description>Der Datensatz wird jede Stunde aktualisiert.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.berlin.de/vhs/kurse/"/>
+    </dcat:landingPage>
+    <dct:identifier>f90b3f13-b3bf-4420-88d0-c6397efc62b9</dct:identifier>
+    <dcat:keyword>dienstleistungen-im-bereich-bildung</dcat:keyword>
+    <dcat:keyword>volkshochschule</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-26T11:20:24.097394</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-05T06:51:43.127980</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/2.0/"/>
+    </dct:conformsTo>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N68ff42a993e84088893deae6977819f7">
+        <vcard:fn>Servicezentrum der Berliner Volkshochschulen</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:VHS-IT@vhs-servicezentrum.berlin.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N788cf23f4e4f4f71a3321c0a8ce68a23">
+        <foaf:name>Servicezentrum der Berliner Volkshochschulen</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/f90b3f13-b3bf-4420-88d0-c6397efc62b9/resource/824cf326-fa97-4acb-9cca-4fff9f56b296">
+        <dct:title>Aktuelle Berliner Volkshochschul Kurse</dct:title>
+        <dct:description>Dieser Kursdatensatz wird an jedem Montag erstellt. Er enhällt die Kurse der Berliner Volkshochschulen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://vhsit.berlin.de/VHSKURSE/OpenData/Kurse.json"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-10T06:35:26.430994</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-10T06:35:26.430994</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://datenregister.berlin.de/dataset/f90b3f13-b3bf-4420-88d0-c6397efc62b9/resource/d8a7c60f-e58c-47e4-9cd7-d7f74c247004">
+        <dct:title>Aktuelle Berliner Volkshochschul Kurse</dct:title>
+        <dct:description>Dieser Kursdatensatz wird an jedem Montag neu erstellt. Er enhällt die Kurse der Berliner Volkshochschulen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by"/>
+        <dcat:accessURL rdf:resource="https://vhsit.berlin.de/VHSKURSE/OpenData/Kurse.xml"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-18T06:23:48.035561</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-18T06:23:48.035561</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/state"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/berlinOpenData"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/stateKey/11"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N3288f27f52a04c7fb849ca2c944196c4">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/stateKey/11"/>
+      </dct:Location>
+    </dct:spatial>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://vhsit.berlin.de/VHSKURSE/OpenData/Kurse.xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <rdfs:Resource rdf:about="https://vhsit.berlin.de/VHSKURSE/OpenData/Kurse.json"/>
+</rdf:RDF>

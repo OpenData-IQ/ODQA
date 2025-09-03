@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0043",
+  "run_at": "2025-09-01T11:12:54.825057Z",
+  "question_id": 43,
+  "question": "Für wie viele Flüsse in Sachsen-Anhalt gibt es Messwerte zu Stoffeinträgen in Gewässern zwischen 1983 und 2016?",
+  "answer": "97",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

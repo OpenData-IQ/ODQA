@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Distribution rdf:about="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/29bb9f47-fd86-475a-bc17">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Anleitung zur Benutzung der XML-Schnittstelle</dct:title>
+    <dct:description><![CDATA[<p>PDF-Datei: Schnittstellenbeschreibung Flugplandaten</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/29bb9f47-fd86-475a-bc17"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.stadt-muenster.de/sites/default/files/Schnittstellenbeschreibung%20Flugplandaten.pdf"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/29bb9f47-fd86-475a-bc17"/>
+    <dcat:mediaType>application/pdf</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:09:05+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:12:50+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">332312</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Flugplandaten des Flughafen Münster/Osnabrück (FMO)</dct:title>
+    <dct:description><![CDATA[<p>Der Flughafen Münster/Osnabrück stellt über diesen Datensatz Informationen zur aktuellen Ankunfts- und Abflugsituation am FMO zur Verfügung. Die Daten werden als maschinenlesbare XML-Schnittstelle bereitgestellt.<br />
+<br />
+<b>Aktualisierung der Flugdaten</b><br />
+Die Flugdaten werden bei jeder Änderung aktualisiert und in der Schnittstelle zur Verfügung gestellt. Die über die XML-Schnittstelle abrufbaren Informationen stellen somit jeweils die aktuelle Situation am Flughafen dar.<br />
+<br />
+<b>Weitere Informationen</b><br />
+Eine Dokumentation der in der Schnittstelle verwendeten XML-Felder erhalten Sie bei Klick auf die XML-Icons (s.o.) oder in der PDF-Datei "Anleitung zur Benutzung der XML-Schnittstelle". Bei sonstigen Fragen zur Schnittstelle oder bei Fragen zum Open-Data-Portal wenden Sie sich bitte an die Open-Data-Koordination der Stadt Münster (Kontakt unten). Weitere Informationen zum Flughafen Münster/Osnabrück finden Sie auf der Flughafen-Homepage unter <a href="https://www.fmo.de">www.fmo.de</a></p>
+
+<p>Die FMO Flughafen Münster/Osnabrück GmbH stellt Daten nach bestem Wissen und Gewissen zur Verfügung. Teilweise werden Daten Dritter über den Flughafen veröffentlicht. Die Haftung des Flughafens ist beschränkt auf Vorsatz und grobe Fahrlässigkeit.</p>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.fmo.de/abflug-ankunft/"/>
+    </dcat:landingPage>
+    <dct:identifier>be4cfdea-99ac-42fa-8dc5-f3acb706d735</dct:identifier>
+    <dcat:keyword>freizeit</dcat:keyword>
+    <dcat:keyword>kultur</dcat:keyword>
+    <dcat:keyword>sport-und-tourismus</dcat:keyword>
+    <dcat:keyword>transport-und-verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:27:12+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-06T14:42:42+02:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N368f4a2409cc4c98a90e9b833cb8b9c7">
+        <vcard:fn>Open Data Koordination der Stadt Münster</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@citeq.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/74914aad-dcf1-4df9-9e70-c3319902651c">
+        <foaf:name>Münster</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N6a30dbb9003b486b9c7d6ae92aecc687">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/79054aed-5eaf-4aba-9239">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>XML-Schnittstelle Ankunft- und Abflugdaten FMO</dct:title>
+        <dct:description><![CDATA[<p>Für eine Erklärung der in den Ankunfts- und Abflugdaten enthaltenen Felder nutzen Sie bitte die folgende Liste.</p>
+
+<p><b>Feldbeschreibungen:</b></p>
+
+<pre>
+&lt;ID&gt;       Laufende Nummer
+&lt;STD_DATE&gt; Geplantes Datum Landung/Start
+&lt;STD_TIME&gt; Geplante Zeit Landung/Start
+&lt;ETD_DATE&gt; Erwartetes Datum Landung/Start
+&lt;ETD_TIME&gt; Erwartete Zeit Landung/Start
+&lt;ATD_DATE&gt; Tatsächliches Datum Landung/Start
+&lt;ATD_TIME&gt; Tatsächliche Zeit Landung/Start 
+&lt;FNR&gt;      Flugnummer
+&lt;CITY3&gt;    IATA 3-Letter-Code Herkunftsort/Ziel
+&lt;VIA3&gt;     IATA 3-Letter-Code Zwischenflughafen Herkunftsort/Ziel 
+&lt;FTYP&gt;     Flugtyp: A=Arrival, D=Departure
+&lt;CITY&gt;     Herkunftsort/Ziel
+&lt;VIA&gt;      Zwischenflughafen 
+&lt;REM_CODE&gt; Flugstatus:
+
+     GTO=Gate open /Gate geöffnet
+     BOR=Boarding/Einsteigen
+     GCL=Gate closed/Gate geschlossen
+     DEP=Departure/Abgeflogen
+     LND=Landed/ Gelandet
+     CXX?=Cancelled/Gestrichen [?=Buchstabe für Grund]
+     VSP=Delayed/Verspätet
+     DLY=Delayed/Verspätet
+     INFO=More Information/Weitere Informationen
+</pre>
+
+<p><b>Link zum Datensatz:</b></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/79054aed-5eaf-4aba-9239"/>
+        <foaf:page rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/79054aed-5eaf-4aba-9239"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:08:06+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:12:50+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/b7212669-1e08-4683-b4ec">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>XML-Schnittstelle Ankunftsdaten FMO</dct:title>
+        <dct:description><![CDATA[<p>Für eine Erklärung der in den Ankunftsdaten enthaltenen Felder nutzen Sie bitte die folgende Liste.</p>
+
+<p><b>Feldbeschreibungen:</b></p>
+
+<pre>
+&lt;ID&gt;       Laufende Nummer
+&lt;STD_DATE&gt; Geplantes Datum Landung/Start
+&lt;STD_TIME&gt; Geplante Zeit Landung/Start
+&lt;ETD_DATE&gt; Erwartetes Datum Landung/Start
+&lt;ETD_TIME&gt; Erwartete Zeit Landung/Start
+&lt;ATD_DATE&gt; Tatsächliches Datum Landung/Start
+&lt;ATD_TIME&gt; Tatsächliche Zeit Landung/Start 
+&lt;FNR&gt;      Flugnummer
+&lt;CITY3&gt;    IATA 3-Letter-Code Herkunftsort/Ziel
+&lt;VIA3&gt;     IATA 3-Letter-Code Zwischenflughafen Herkunftsort/Ziel 
+&lt;FTYP&gt;     Flugtyp: A=Arrival, D=Departure
+&lt;CITY&gt;     Herkunftsort/Ziel
+&lt;VIA&gt;      Zwischenflughafen 
+&lt;REM_CODE&gt; Flugstatus:
+
+     GTO=Gate open /Gate geöffnet
+     BOR=Boarding/Einsteigen
+     GCL=Gate closed/Gate geschlossen
+     DEP=Departure/Abgeflogen
+     LND=Landed/ Gelandet
+     CXX?=Cancelled/Gestrichen [?=Buchstabe für Grund]
+     VSP=Delayed/Verspätet
+     DLY=Delayed/Verspätet
+     INFO=More Information/Weitere Informationen
+</pre>
+
+<p><b>Link zum Datensatz:</b></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/b7212669-1e08-4683-b4ec"/>
+        <foaf:page rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/b7212669-1e08-4683-b4ec"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:07:14+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:12:50+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/29bb9f47-fd86-475a-bc17"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/1207da27-22ed-41e2-a095">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>XML-Schnittstelle Abflugdaten FMO</dct:title>
+        <dct:description><![CDATA[<p>Für eine Erklärung der in den Abflugdaten enthaltenen Felder nutzen Sie bitte die folgende Liste.</p>
+
+<p><b>Feldbeschreibungen:</b></p>
+
+<pre>
+&lt;ID&gt;       Laufende Nummer
+&lt;STD_DATE&gt; Geplantes Datum Landung/Start
+&lt;STD_TIME&gt; Geplante Zeit Landung/Start
+&lt;ETD_DATE&gt; Erwartetes Datum Landung/Start
+&lt;ETD_TIME&gt; Erwartete Zeit Landung/Start
+&lt;ATD_DATE&gt; Tatsächliches Datum Landung/Start
+&lt;ATD_TIME&gt; Tatsächliche Zeit Landung/Start 
+&lt;FNR&gt;      Flugnummer
+&lt;CITY3&gt;    IATA 3-Letter-Code Herkunftsort/Ziel
+&lt;VIA3&gt;     IATA 3-Letter-Code Zwischenflughafen Herkunftsort/Ziel 
+&lt;FTYP&gt;     Flugtyp: A=Arrival, D=Departure
+&lt;CITY&gt;     Herkunftsort/Ziel
+&lt;VIA&gt;      Zwischenflughafen 
+&lt;REM_CODE&gt; Flugstatus:
+
+     GTO=Gate open /Gate geöffnet
+     BOR=Boarding/Einsteigen
+     GCL=Gate closed/Gate geschlossen
+     DEP=Departure/Abgeflogen
+     LND=Landed/ Gelandet
+     CXX?=Cancelled/Gestrichen [?=Buchstabe für Grund]
+     VSP=Delayed/Verspätet
+     DLY=Delayed/Verspätet
+     INFO=More Information/Weitere Informationen
+</pre>
+
+<p><b>Link zum Datensatz:</b></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/1207da27-22ed-41e2-a095"/>
+        <foaf:page rdf:resource="https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/1207da27-22ed-41e2-a095"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:02:37+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-09T15:12:50+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://opendata.stadt-muenster.de/"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05515"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N72731f9e564c4bbab9e55141cf404e91">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05515"/>
+      </dct:Location>
+    </dct:spatial>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+</rdf:RDF>

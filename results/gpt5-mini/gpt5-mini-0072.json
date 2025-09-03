@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0072",
+  "run_at": "2025-08-31T11:26:51.011147Z",
+  "question_id": 72,
+  "question": "Gab es 2019 in Berlin Neukölln mehr männliche oder mehr weibliche minderjährige Kinder in Familien?",
+  "answer": "mehr männliche",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": ""
+}

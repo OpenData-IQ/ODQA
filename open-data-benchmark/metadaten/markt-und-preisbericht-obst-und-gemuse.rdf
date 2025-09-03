@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://open-data.ble.de/dataset/10824baf-7569-470c-95f2-c78f4facf5f1">
+    <dct:title>Markt- und Preisbericht Obst und Gemuese</dct:title>
+    <dct:description>Preise der wichtigsten auf den Großmärkten in Deutschland gehandelten Warenarten werden in einem wöchentlichen Bericht zusammengestellt. </dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.bmel-statistik.de/preise/obst-und-gemuese"/>
+    </dcat:landingPage>
+    <dct:identifier>10824baf-7569-470c-95f2-c78f4facf5f1</dct:identifier>
+    <dcat:keyword>gemüse</dcat:keyword>
+    <dcat:keyword>großmarkt</dcat:keyword>
+    <dcat:keyword>markt</dcat:keyword>
+    <dcat:keyword>obst</dcat:keyword>
+    <dcat:keyword>preise</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-28T08:54:39.599421</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-17T07:26:36.822422</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N6a4ac98ae67b44da85fbbc269f4b1797">
+        <vcard:fn>Bundesanstalt für Landwirtschaft und Ernährung</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:open-data@ble.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://open-data.ble.de/organization/fa771554-fbc4-4e91-81e8-185eeebb8dc4">
+        <foaf:name>BLE</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="Nd067858d90d9454a9541de564e8632d8">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>open-data@ble.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N1952fb06638e451bb02496a4f0b7b12e">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>open-data@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.ble.de/dataset/10824baf-7569-470c-95f2-c78f4facf5f1/resource/d92b81a6-af6a-482f-b1bc-0a7138bf11d1">
+        <dct:title>Markt und Preisbericht Obst und Gemüse.csv</dct:title>
+        <dct:description>Wöchentlicher Bericht ab 2022.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://blecloud.prod.se.ble.de/index.php/s/iFKCaHTBgfxoBpa"/>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-28T09:13:08.852719</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-23T12:35:32.116973</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13990114</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.ble.de/dataset/10824baf-7569-470c-95f2-c78f4facf5f1/resource/208584ee-b782-4f0d-9f70-3eec57494090">
+        <dct:title>Markt und Preisbericht Obst und Gemüse.xlsx</dct:title>
+        <dct:description>Wöchentlicher Bericht ab 2022.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://blecloud.prod.se.ble.de/index.php/s/9eSspzC75L3mdAL"/>
+        <dct:format>XLSX</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-28T09:13:28.057284</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-23T12:35:56.343678</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5560542</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesministeriumFuerErnaehrungUndLandwirtschaft"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N7b985adddf314d3281ad0785f0a3150f">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>open-data@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://blecloud.prod.se.ble.de/index.php/s/iFKCaHTBgfxoBpa"/>
+  <rdfs:Resource rdf:about="https://blecloud.prod.se.ble.de/index.php/s/9eSspzC75L3mdAL"/>
+</rdf:RDF>

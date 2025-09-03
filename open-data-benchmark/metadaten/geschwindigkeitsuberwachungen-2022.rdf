@@ -1,0 +1,1742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/174156f8-a7bc-4c07-8754-054edf7b54b1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2022 KW36</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW36</p>
+<p>In der 36. Kalenderwoche (05.09.2022 - 11.09.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>05.09.2022 - 11.09.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/174156f8-a7bc-4c07-8754-054edf7b54b1"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW36.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/174156f8-a7bc-4c07-8754-054edf7b54b1"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-05T09:06:46+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-05T09:06:46+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6613</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N1a1024687ec247d7b9f038bf4587b338">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a86e3be64500c5386bc00ed2ff781d3f</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/c28e8f53-9c82-4ea9-8f99-25c633737a1c">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW46</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW46</p>
+<p>In der 46. Kalenderwoche (14.11.2022 - 20.11.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    14.11.2022 - 20.11.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/c28e8f53-9c82-4ea9-8f99-25c633737a1c"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW46.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/c28e8f53-9c82-4ea9-8f99-25c633737a1c"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-10T14:41:32+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-10T14:41:32+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5966</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nc6320807fa6841b98cb2f8b1bedb2ffa">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f20f744aa52cf7e6ef062c5126c3f4f2</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+<p> </p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/95468097-0a50-4793-9fdc-02866b358d7d">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW25</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW25</p>
+<p>In der 25. Kalenderwoche (20.06.2022 - 26.06.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   20.06.2022 - 26.06.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/95468097-0a50-4793-9fdc-02866b358d7d"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW25.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/95468097-0a50-4793-9fdc-02866b358d7d"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-20T08:30:29+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-20T08:30:29+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6775</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N3efcf76ace324360bb4736fe5ffa32bd">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">994d67ebd981b75bd3753100ccbbb576</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/3b5d6a97-e051-4c18-9b4b-ff5aa3677ecb">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW28</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW28</p>
+<p>In der 28. Kalenderwoche (11.07.2022 - 17.07.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   11.07.2022 - 17.07.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/3b5d6a97-e051-4c18-9b4b-ff5aa3677ecb"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW28.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/3b5d6a97-e051-4c18-9b4b-ff5aa3677ecb"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T08:31:33+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T08:31:33+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6763</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N3aac9217aa0f42b19b27b4ddef22f316">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f03e29996b26ac77f9caf48d70ffea1a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/00ab7661-b7fb-418b-a113-a6b26c0ff451">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2022 KW06</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW06</p>
+<p>In der 6. Kalenderwoche (07.02.2022 - 13.02.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   07.02.2022 - 13.02.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/00ab7661-b7fb-418b-a113-a6b26c0ff451"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW06.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/00ab7661-b7fb-418b-a113-a6b26c0ff451"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-04T09:40:46+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-04T09:41:10+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5351</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N79ef1b684fd94b4c912aedf758df9374">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2c931dabbad97fe7ee6285bdc736b02c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d08e31fc-b167-4ba1-ae4f-26ea0bf6d995">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW08</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW08</p>
+<p>In der 8. Kalenderwoche (21.02.2022 - 27.02.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   21.02.2022 - 27.02.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d08e31fc-b167-4ba1-ae4f-26ea0bf6d995"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW08.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d08e31fc-b167-4ba1-ae4f-26ea0bf6d995"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-18T10:27:22+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-18T10:27:22+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5880</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nc3aa8276b77947c995823bbc1b89c0e0">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">fd57c424d3cabfd91444d5f52a38dfa8</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9022bd7-6479-4cef-be6f-6d71e75ac10a">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2022 KW52</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW52</p>
+<p>In der 52. Kalenderwoche (26.12.2022 - 01.01.2023) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   26.12.2022 - 01.01.2023: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9022bd7-6479-4cef-be6f-6d71e75ac10a"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW52.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9022bd7-6479-4cef-be6f-6d71e75ac10a"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-19T09:43:10+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-19T09:43:10+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1702</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nf734f1d27ef441389f5a20e8726574b3">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a9f83b14dad7949cf7cbbdb12bf884f5</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a13db0b1-ec00-42bf-8aa6-d6773db35c05">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW09</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW09</p>
+<p>In der 9. Kalenderwoche (28.02.2022 - 06.03.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   28.02.2022 - 06.03.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a13db0b1-ec00-42bf-8aa6-d6773db35c05"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW09.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a13db0b1-ec00-42bf-8aa6-d6773db35c05"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-28T12:13:31+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-28T12:13:31+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5579</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Ncd3a5a5c423b4139bb28f8c76d2764ed">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">152039a52983a939ff1765297024f1fb</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f7ef5660-613f-4210-b8c0-772441c71ae4">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW17</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW17</p>
+<p>In der 17. Kalenderwoche (25.04.2022 - 01.05.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   25.04.2022 - 01.05.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f7ef5660-613f-4210-b8c0-772441c71ae4"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW17.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f7ef5660-613f-4210-b8c0-772441c71ae4"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-25T09:14:05+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-25T09:14:05+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6093</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N6071d54d63fd406c8365d113a183bac4">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e23b34b7df5f13e3c3055384419649cb</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2022 KW23</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW23</p>
+<p>In der 23. Kalenderwoche (06.06.2022 - 12.06.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   06.06.2022 - 12.06.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW23.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-02T08:57:30+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-02T08:57:30+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6697</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N8d37d7d0c8dd4142bf21b7d0463d5e3f">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">067298beb7507b19bdfc02464ede8724</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a02b51c2-94db-40e6-94a3-d10e0bf89064">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2022 KW43</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW43</p>
+<p>In der 43. Kalenderwoche (24.10.2022 - 30.10.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    24.10.2022 - 30.10.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a02b51c2-94db-40e6-94a3-d10e0bf89064"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW43.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a02b51c2-94db-40e6-94a3-d10e0bf89064"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-24T13:49:55+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-24T13:49:55+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6021</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N9aa0c905a27143ea82e17b723299c355">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">be62b2806b302e7cee427dc9deca3189</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b3494020-88a0-4a13-93c8-ca9a33b76021">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2022 KW48</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW48</p>
+<p>In der 48. Kalenderwoche (28.11.2022 - 04.12.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    28.11.2022 - 04.12.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b3494020-88a0-4a13-93c8-ca9a33b76021"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW48.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b3494020-88a0-4a13-93c8-ca9a33b76021"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28T09:03:05+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28T09:03:05+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6313</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N33ab9b1b4d2f43f49e599b88e33c78cd">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d54a51e5dede77c6bf5e2fafe028b646</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Geschwindigkeitsüberwachungen 2022</dct:title>
+    <dct:description><![CDATA[<p>Geschwindigkeitsüberwachungen des Ordnungsamtes Essen im Jahr 2022</p>
+<p>Maßnahmen zur Geschwindigkeitsüberwachung dienen der Verkehrssicherheit, insbesondere der Verhütung von Verkehrsunfällen mit schweren Folgen. Die Verkehrsüberwachung führt aus diesem Grunde Geschwindigkeitskontrollen durch.</p>
+<p>Die aufgeführten Ressourcen stellen Daten der vorgesehenen mobilen Messbereiche der jeweiligen Kalenderwoche des Jahres dar.</p>
+<p> </p>
+<p>Quelle: Ordnungsamt</p>
+]]></dct:description>
+    <dct:identifier>73d1e7ce-1e0b-459c-a3ab-ac5bb99a1bfc</dct:identifier>
+    <dcat:keyword>transport-und-verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:38:12+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-19T09:43:51+01:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/79af368d-4fd6-4c11-8d87-fafc7613bcbf">
+        <foaf:name>Essen</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N169799e78b7a402c989f26b715db89ec">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae3a7615-08b8-4fc6-ba72-10a1334e2479">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW41</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW41</p>
+<p>In der 41. Kalenderwoche (10.10.2022 - 16.10.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    10.10.2022 - 16.10.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae3a7615-08b8-4fc6-ba72-10a1334e2479"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW41_3.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae3a7615-08b8-4fc6-ba72-10a1334e2479"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-06T14:10:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-06T14:18:43+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6181</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7d473c24270247d380c1f4a8ba63f23f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">23ed4b21a7ca37f7a16715f88adde834</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d56aed07-ddfc-4fc9-93e9-0b356c68cd28">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW24</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW24</p>
+<p>In der 24. Kalenderwoche (13.06.2022 - 19.06.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   13.06.2022 - 19.06.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d56aed07-ddfc-4fc9-93e9-0b356c68cd28"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW24_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d56aed07-ddfc-4fc9-93e9-0b356c68cd28"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-10T08:30:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-10T08:33:54+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5187</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na6badd01aedb4dfabce86b42f9a2834a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e521408c2187422d8f9aa592edcd04b4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f62920b3-18f3-47b6-a623-82f6adcbce60">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW40</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW40</p>
+<p>In der 40. Kalenderwoche (03.10.2022 - 09.10.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<ul>
+<li>03.10.2022 - 09.10.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</li>
+</ul>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f62920b3-18f3-47b6-a623-82f6adcbce60"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW40.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f62920b3-18f3-47b6-a623-82f6adcbce60"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-30T16:46:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-30T16:46:07+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5215</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N5973280a77b04545ac866276601b1a8b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3f0a7eac9fedba03a51111c8f65211e4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/3b5d6a97-e051-4c18-9b4b-ff5aa3677ecb"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ef6b9c3f-667c-418c-bc6c-87999a37073f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW38</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW38</p>
+<p>In der 38. Kalenderwoche (19.09.2022 - 25.09.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<ul>
+<li>19.09.2022 - 25.09.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</li>
+</ul>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ef6b9c3f-667c-418c-bc6c-87999a37073f"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW38.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ef6b9c3f-667c-418c-bc6c-87999a37073f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-14T14:41:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-14T14:41:18+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6521</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf6dc7bf7884e408ca33d56f0b599ea7a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">904b0c163598707101b6d12f0044f604</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/95468097-0a50-4793-9fdc-02866b358d7d"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/91f47b9d-1e9e-4f20-bcd1-239f97f2319b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW05</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW05</p>
+<p>In der 5. Kalenderwoche (31.01.2022 - 06.02.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   31.01.2022 - 06.02.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/91f47b9d-1e9e-4f20-bcd1-239f97f2319b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW05.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/91f47b9d-1e9e-4f20-bcd1-239f97f2319b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-28T11:19:47+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-28T11:19:47+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5672</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc48159b331aa46b8b82a27fc09e270b6">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d05c8d9f50adbdb54399803c995801d7</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7afd5224-91a4-42fd-bf3c-eeb0fc8cf3fa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW21</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW21</p>
+<p>In der 21. Kalenderwoche (23.05.2022 - 29.05.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   23.05.2022 - 29.05.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7afd5224-91a4-42fd-bf3c-eeb0fc8cf3fa"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW21.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7afd5224-91a4-42fd-bf3c-eeb0fc8cf3fa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-19T15:30:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-19T15:30:49+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5622</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N31b0713db10b4cc49ea00b6b12fb8233">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">28fba327df043029fa27f5838db81514</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ee10fff7-5f92-44e2-bae8-dc120f0cbc3d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW22</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW22</p>
+<p>In der 22. Kalenderwoche (30.05.2022 - 05.06.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   30.05.2022 - 05.06.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ee10fff7-5f92-44e2-bae8-dc120f0cbc3d"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW22.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ee10fff7-5f92-44e2-bae8-dc120f0cbc3d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-25T13:03:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-25T13:03:28+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6377</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1885e0caa0114a68960d6a935709170c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1bbe64a70b06f3e19c7f6413b45b4f08</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/da588e51-bf46-4e40-a119-eb81c8fbb8ce">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW49</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW49</p>
+<p>In der 49. Kalenderwoche (05.12.2022 - 11.12.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    05.12.2022 - 11.12.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/da588e51-bf46-4e40-a119-eb81c8fbb8ce"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW49.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/da588e51-bf46-4e40-a119-eb81c8fbb8ce"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-05T11:09:37+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-05T11:09:37+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6427</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N0eab7bb258bc4bc9b50a6c713621e065">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c3725c94f51fb61f37ad112a6774ddf6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/900eab89-c1d7-47f6-b2c2-a1c538bbd2ee">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW12</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW12</p>
+<p>In der 12. Kalenderwoche (21.03.2022 - 27.03.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   21.03.2022 - 27.03.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/900eab89-c1d7-47f6-b2c2-a1c538bbd2ee"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW12.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/900eab89-c1d7-47f6-b2c2-a1c538bbd2ee"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-18T09:16:27+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-18T09:16:27+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6141</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3cda973cf5034fc580247a48a3f2b747">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">751866e095ca439038748aabc46ed73a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/032ce5ef-ed83-4328-bd7a-f050e22450e8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW13</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW13</p>
+<p>In der 13. Kalenderwoche (28.03.2022 - 03.04.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   28.03.2022 - 03.04.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/032ce5ef-ed83-4328-bd7a-f050e22450e8"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW13.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/032ce5ef-ed83-4328-bd7a-f050e22450e8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-25T10:19:21+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-25T10:19:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5919</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9fa24f50799548de97c91542357f9c95">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">20f356ff76ceb012925a13ef215c0d30</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a02b51c2-94db-40e6-94a3-d10e0bf89064"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ea3d9399-c680-4a1c-8f9b-5600963ac598">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW01</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW01</p>
+<p>In der 1. Kalenderwoche (03.01.2022 - 09.01.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   03.01.2022 - 09.01.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ea3d9399-c680-4a1c-8f9b-5600963ac598"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW01_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ea3d9399-c680-4a1c-8f9b-5600963ac598"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-04T08:53:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-04T08:53:01+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5569</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9b6814e2fd2b4ab697219bb263ab5cf7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">53eeef3e10ea2a672f9118154500e0dc</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7e042169-c01a-4101-9072-b79c29ef6592">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW10</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW10</p>
+<p>In der 10. Kalenderwoche (07.03.2022 - 13.03.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   07.03.2022 - 13.03.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7e042169-c01a-4101-9072-b79c29ef6592"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW10.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7e042169-c01a-4101-9072-b79c29ef6592"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-03T09:36:25+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-03T09:36:25+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5709</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6643cf6679a54e11a85cb13a358fc9bc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b4670aad13115aa2a9124db37f3056d4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/10f5a526-e9d1-4b30-a699-901d53714c1e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW51</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW51</p>
+<p>In der 51. Kalenderwoche (19.12.2022 - 25.12.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   19.12.2022 - 25.12.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/10f5a526-e9d1-4b30-a699-901d53714c1e"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW51.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/10f5a526-e9d1-4b30-a699-901d53714c1e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-14T14:46:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-14T14:46:02+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5991</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N52cd707c7dac4d1ba4783a202753b719">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">369dccd4fc4dcf42ff13f782f00d71aa</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/174156f8-a7bc-4c07-8754-054edf7b54b1"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b6deae59-e924-489f-aa07-8b0de4b54883">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW15</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW15</p>
+<p>In der 15. Kalenderwoche (11.04.2022 - 17.04.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   11.04.2022 - 17.04.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b6deae59-e924-489f-aa07-8b0de4b54883"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW15.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b6deae59-e924-489f-aa07-8b0de4b54883"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-08T11:20:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-08T11:20:37+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4940</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N97471b8a8ce246a980030fa09c8eb456">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">dc99a1d1c051eaba3caf3c02cb5af274</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/6be4e670-6b96-4a80-8c00-6e90f0a931e9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW44</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW44</p>
+<p>In der 44. Kalenderwoche (31.10.2022 - 06.11.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    31.10.2022 - 06.11.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/6be4e670-6b96-4a80-8c00-6e90f0a931e9"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW44.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/6be4e670-6b96-4a80-8c00-6e90f0a931e9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-28T11:12:56+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-28T11:12:56+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4981</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf36aba32bd3d45e193185129d8cacce2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3222188be3649d2cee325231450ed0a4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7015cf1c-ee84-4b20-874f-ab942e77f696">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW31</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW31</p>
+<p>In der 31. Kalenderwoche (01.08.2022 - 07.08.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>01.08.2022 - 07.08.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7015cf1c-ee84-4b20-874f-ab942e77f696"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW31_2.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/7015cf1c-ee84-4b20-874f-ab942e77f696"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-29T07:03:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-04T07:27:05+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6185</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9ecd846a9d6a438abc730f3398bee477">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6c003b03187bff2323d1529ef4ec4015</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b484d1f-aa07-4701-b2f0-0cb24d0c55cb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW35</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW35</p>
+<p>In der 35. Kalenderwoche (29.08.2022 - 04.09.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>29.08.2022 - 04.09.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b484d1f-aa07-4701-b2f0-0cb24d0c55cb"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW35.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b484d1f-aa07-4701-b2f0-0cb24d0c55cb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-29T10:57:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-29T10:57:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6567</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1ee23fa328da458692e228fdccacbd54">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">42d22739058e01b5b551db269876ffc9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ca374b37-0f10-4f48-ae0c-4a16a0098a93">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW19</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW19</p>
+<p>In der 19. Kalenderwoche (09.05.2022 - 15.05.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   09.05.2022 - 15.05.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ca374b37-0f10-4f48-ae0c-4a16a0098a93"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW19.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ca374b37-0f10-4f48-ae0c-4a16a0098a93"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-10T11:06:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-10T11:06:17+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6491</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N628867dd98204d3581f14e3d38b3b949">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">92510ba48cd89a538be3d187d8880730</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/42135e2d-f0f1-4827-ab22-432f5b087844">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW03 </dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW03</p>
+<p>In der 3. Kalenderwoche (17.01.2022 - 23.01.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   17.01.2022 - 23.01.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/42135e2d-f0f1-4827-ab22-432f5b087844"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW03.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/42135e2d-f0f1-4827-ab22-432f5b087844"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-13T12:36:51+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-13T12:36:51+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5598</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6e28ffe3c5584fbfa655fcda6c58faa6">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">07696354ba48829f196d30bd23f32419</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/88561804-02e0-4b5a-a135-8fdc97e01fb3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW42</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW42</p>
+<p>In der 42. Kalenderwoche (17.10.2022 - 23.10.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    17.10.2022 - 23.10.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/88561804-02e0-4b5a-a135-8fdc97e01fb3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW42.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/88561804-02e0-4b5a-a135-8fdc97e01fb3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-17T08:51:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-17T08:51:07+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6793</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N59151d1d332c42e2be14c4dd51b8747c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f3af5b0d11c5528d647a4684cb76d0b7</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/4fa1a6fc-d673-4201-85a0-bf95f18fe88b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW32</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW32</p>
+<p>In der 32. Kalenderwoche (08.08.2022 - 14.08.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>08.08.2022 - 14.08.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/4fa1a6fc-d673-4201-85a0-bf95f18fe88b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW32.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/4fa1a6fc-d673-4201-85a0-bf95f18fe88b"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-04T07:22:41+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-04T07:28:34+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6009</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9dda20538a1f4408ba190bf0489fece9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">163089f11a4491da4517ce7e82f556bd</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/0ebdac49-e919-4999-af04-2f2c16f8f7f5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW20</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW20</p>
+<p>In der 20. Kalenderwoche (16.05.2022 - 22.05.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   16.05.2022 - 22.05.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/0ebdac49-e919-4999-af04-2f2c16f8f7f5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW20.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/0ebdac49-e919-4999-af04-2f2c16f8f7f5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-13T08:59:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-13T08:59:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6513</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbbe0f90270b44edaa1236e2c0ac1859b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ecba03a80e15e4c42006db2c8e923c17</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/16768a61-1d45-40da-8284-4da0604acc58">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW45</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW45</p>
+<p>In der 45. Kalenderwoche (07.11.2022 - 13.11.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    07.11.2022 - 13.11.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/16768a61-1d45-40da-8284-4da0604acc58"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW45.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/16768a61-1d45-40da-8284-4da0604acc58"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-04T09:02:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-04T09:02:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5919</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N5f5beb55a9f9421f934d9e2f27523297">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8932e5a3ae973ca35bf14526ff56d9d4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a8dc9c59-452e-42a2-9813-1ae3078d5254">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW27</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW27</p>
+<p>In der 27. Kalenderwoche (04.07.2022 - 10.07.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   04.07.2022 - 10.07.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a8dc9c59-452e-42a2-9813-1ae3078d5254"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW27.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a8dc9c59-452e-42a2-9813-1ae3078d5254"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-04T09:05:24+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-04T09:05:24+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6696</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N486b174bada44e24a8e709f042fdcfbf">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">992fad1a0548c0c111a6f186a55e7956</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ed7f1cb0-e39d-4db7-9783-494a1d569c67">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW04</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW04</p>
+<p>In der 4. Kalenderwoche (24.01.2022 - 30.01.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   24.01.2022 - 30.01.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ed7f1cb0-e39d-4db7-9783-494a1d569c67"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW04_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ed7f1cb0-e39d-4db7-9783-494a1d569c67"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-20T10:28:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-20T10:29:22+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5120</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nfb1e15094af24c5c922920ca3635a6fb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">67e7198f2d43a774579cb6ba6db75e91</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fd9c3c95-2f9a-4c00-a555-6375702475e0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW30</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW30</p>
+<p>In der 30. Kalenderwoche (25.07.2022 - 31.07.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   25.07.2022 - 31.07.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fd9c3c95-2f9a-4c00-a555-6375702475e0"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW30.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fd9c3c95-2f9a-4c00-a555-6375702475e0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-21T14:29:23+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-21T14:29:44+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6608</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd9ec0b0f337946b3bda8083171bb8db5">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8ad8a788b459174fad573b2b9037ab64</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b3494020-88a0-4a13-93c8-ca9a33b76021"/>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9022bd7-6479-4cef-be6f-6d71e75ac10a"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/58945f9e-5f1b-4583-b3b5-4444338f6e56">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW11</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW11</p>
+<p>In der 11. Kalenderwoche (14.03.2022 - 20.03.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   14.03.2022 - 20.03.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/58945f9e-5f1b-4583-b3b5-4444338f6e56"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW11.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/58945f9e-5f1b-4583-b3b5-4444338f6e56"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-15T09:00:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-15T09:00:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5958</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nfd04d91a90a14bb2ba5926c49d87eaa7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7efdb8609f34d97109cc0628db2b3581</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fcc3d371-9706-4cc1-86c7-c40fd6df7d20">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW02</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW02</p>
+<p>In der 2. Kalenderwoche (10.01.2022 - 16.01.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   10.01.2022 - 16.01.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fcc3d371-9706-4cc1-86c7-c40fd6df7d20"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW02.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/fcc3d371-9706-4cc1-86c7-c40fd6df7d20"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-07T10:48:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-07T10:48:24+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5558</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ndab93c42e664481db387ca263c310ae1">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">363af31ccd74b13bfefbf56de73c3486</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b35f0ca-736a-4a12-9e3d-63ba367668d3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW16</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW16</p>
+<p>In der 16. Kalenderwoche (18.04.2022 - 24.04.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   18.04.2022 - 24.04.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b35f0ca-736a-4a12-9e3d-63ba367668d3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW16.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/8b35f0ca-736a-4a12-9e3d-63ba367668d3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-25T09:11:44+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-25T09:11:44+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5601</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4e7a23f39c1848f59c52b837bed272fa">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">054c6dcb50e5d43a21743f1b5ec47bef</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9444a1d-0635-47ee-960f-8e1b5949241c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW07</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW07</p>
+<p>In der 7. Kalenderwoche (14.02.2022 - 20.02.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   14.02.2022 - 20.02.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9444a1d-0635-47ee-960f-8e1b5949241c"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW07.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a9444a1d-0635-47ee-960f-8e1b5949241c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-11T11:46:04+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-11T11:46:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5334</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9c3f616e330647e3935b4ac51907cb6b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1bb26f566cf3cd95973aeef07ef4417d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d08e31fc-b167-4ba1-ae4f-26ea0bf6d995"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/54afce4e-e84e-4563-897c-684670f82591">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW33</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW33</p>
+<p>In der 33. Kalenderwoche (15.08.2022 - 21.08.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>15.08.2022 - 21.08.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/54afce4e-e84e-4563-897c-684670f82591"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW33.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/54afce4e-e84e-4563-897c-684670f82591"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-11T09:15:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-11T09:15:03+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6688</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nebf946136d6f434986240baf579d95e5">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a30862b5e73d0751cdd419a9db60f0eb</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/c28e8f53-9c82-4ea9-8f99-25c633737a1c"/>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/00ab7661-b7fb-418b-a113-a6b26c0ff451"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/426de3ed-0d5c-40f7-bca1-be31aaaf89be">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW34</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW34</p>
+<p>In der 34. Kalenderwoche (22.08.2022 - 28.08.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>22.08.2022 - 28.08.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/426de3ed-0d5c-40f7-bca1-be31aaaf89be"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW34.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/426de3ed-0d5c-40f7-bca1-be31aaaf89be"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-22T09:04:54+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-22T09:04:54+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6744</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N09d703b356b841909e419accf9e764b3">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ac5e178c930a627e486b70a82f17dd0f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d0c44adf-8d4d-44a8-baa2-438a900ae1a7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW37</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW37</p>
+<p>In der 37. Kalenderwoche (12.09.2022 - 18.09.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p> </p>
+<p>12.09.2022 - 18.09.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d0c44adf-8d4d-44a8-baa2-438a900ae1a7"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW37.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/d0c44adf-8d4d-44a8-baa2-438a900ae1a7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-12T08:44:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-12T08:44:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6584</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nff4d78ed2ad844d899fb7a4e88e83fdb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f951e6ed146e2e9302463d559d2068b7</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79cadd00-332e-4a12-803f-0bbce460dd07">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW39</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW39</p>
+<p>In der 39. Kalenderwoche (26.09.2022 - 02.10.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<ul>
+<li>26.09.2022 - 02.10.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</li>
+</ul>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79cadd00-332e-4a12-803f-0bbce460dd07"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW39.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79cadd00-332e-4a12-803f-0bbce460dd07"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-28T09:07:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-30T16:45:15+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6077</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1a73ab583d594e9f9ef09d02253f5d1e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">eb5b030afa00ba4dc1531588f6e96155</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae417374-daa4-437f-8829-d9fdf35d6dd9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW47</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW47</p>
+<p>In der 47. Kalenderwoche (21.11.2022 - 27.11.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    21.11.2022 - 27.11.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae417374-daa4-437f-8829-d9fdf35d6dd9"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW47.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/ae417374-daa4-437f-8829-d9fdf35d6dd9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28T09:00:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28T09:00:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6396</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N476357a7f4444b9c8306d15ef654841f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4ecfe72d3b65eadaf622a43a81aa3085</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79fc69db-9ae8-4424-889a-d0113c2902d5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW14</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW14</p>
+<p>In der 14. Kalenderwoche (04.04.2022 - 10.04.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   04.04.2022 - 10.04.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79fc69db-9ae8-4424-889a-d0113c2902d5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW14.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/79fc69db-9ae8-4424-889a-d0113c2902d5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-06T09:38:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-06T09:38:03+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6009</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na60bd5e0ed5d4e14982296b243869356">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">79aedf72cca0aedd0edefdb946a9ee63</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/dc7b253b-b454-422b-bd10-3bc269a0384c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW29</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW29</p>
+<p>In der 29. Kalenderwoche (18.07.2022 - 24.07.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   18.07.2022 - 24.07.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/dc7b253b-b454-422b-bd10-3bc269a0384c"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW29.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/dc7b253b-b454-422b-bd10-3bc269a0384c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-14T15:44:45+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-14T15:44:45+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6539</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4a1e66758e4b475aa6274ecaade5a508">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">beec20188fbb19cb50d0ee39ebc155be</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b7fcf527-969e-4e34-bef5-d744e564b3de">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW26</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW26</p>
+<p>In der 26. Kalenderwoche (27.06.2022 - 03.07.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   27.06.2022 - 03.07.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b7fcf527-969e-4e34-bef5-d744e564b3de"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW26.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/b7fcf527-969e-4e34-bef5-d744e564b3de"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-27T09:05:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-27T09:05:29+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6686</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7ef4576f9e1c465db7ac0f45c66900ca">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f34dea761f24dfb7b2b70e4367a29120</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/f7ef5660-613f-4210-b8c0-772441c71ae4"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/05497c67-3ba0-4ee4-af33-7fcf7917a8e0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2022 KW50</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW50</p>
+<p>In der 50. Kalenderwoche (12.12.2022 - 18.12.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   12.12.2022 - 18.12.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/05497c67-3ba0-4ee4-af33-7fcf7917a8e0"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW50.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/05497c67-3ba0-4ee4-af33-7fcf7917a8e0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-12T10:51:32+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-12T10:51:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5884</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N69bed68d9a4c4de1b23b50636e5db08a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">fdb1d9280ebfc2f19e24dab6657b1406</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/a13db0b1-ec00-42bf-8aa6-d6773db35c05"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/872c8e6e-7848-49ca-aa0c-e39d3f8e67e0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2022 KW18</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2022 KW18</p>
+<p>In der 18. Kalenderwoche (02.05.2022 - 08.05.2022) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>   02.05.2022 - 08.05.2022: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/872c8e6e-7848-49ca-aa0c-e39d3f8e67e0"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW18.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/872c8e6e-7848-49ca-aa0c-e39d3f8e67e0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-28T09:02:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-28T09:02:49+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6392</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4d59266ca3384254a898430b3ebdbafc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bcb221d647d3499d0ae3e4ab430dbecb</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://opendata.essen.de/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW20.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW05.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW50.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW37.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW04_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW03.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW47.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW12.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW27.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW32.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW41_3.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW24_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW26.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW33.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW44.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW34.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW07.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW30.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW31_2.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW01_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW42.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW14.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW22.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW18.csv"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW49.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW16.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW51.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW21.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW39.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW15.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW10.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW19.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW38.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW35.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW11.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW45.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW02.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW13.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW40.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202022%20KW29.csv"/>
+</rdf:RDF>

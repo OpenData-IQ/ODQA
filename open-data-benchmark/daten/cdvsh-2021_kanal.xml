@@ -1,0 +1,4021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://oamh.digicult-verbund.de/oai_files/oai2_original.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lido="http://www.lido-schema.org" xmlns:dex="http://schema.digicult-verbund.de/dex" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="
+	http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2025-06-02T14:01:56Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="lido">https://oamh.digicult-verbund.de/cv/cdvsh-2021</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-9</identifier>
+				<datestamp>2018-06-05T20:12:44Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-9</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Holtenau, Schleuse</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 9)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Ostsee-Schleuse bei Holtenau.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-9</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Kleine Schleuse in Holtenau wurde südlich der Mündung der Levensau als Doppelschleuse errichtet. Die beiden Schleusenkammern hatten eine Nutzlänge von 125 Meter, eine Nutzbreite von 22 Meter und die Tiefe betrug 9,8 Meter. Sie war eine offene Schleuse mit je Schleusenkammer als Stemmtore konstruierten 2 Ebbe- und 2 Fluttoren. Diese wurden nur bei Hochwasserlagen geschlossen. Stemmtore zum Verschließen von Schleusen und auch Docks bestehen überwiegend aus 2 Flügeln. In geschlossenem Zustand stehen die Flügel etwas nach außen, sodass bei anstehendem Wasserdruck diese am Stoß aneinander gepresst werden. Bis zur Kanalerweiterung 1914 nahm man Strömung und im Kanal wechselnde Wasserstände von bis zu 50 cm in Kauf. Die offizielle Eröffnung der Holtenauer Schleuse fand am 29.9.1894, die Inbetriebnahme am 21.6.1895 statt.
+Die Fotografie zeigt die auf beiden Seiten der Kammer etwas geöffneten Schleusentore.
+(Ortsalbum 202-9)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 157 cm, B: 22,2 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3155</lido:conceptID>
+						<lido:term>Kanalschleuse</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-9</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-9</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:10</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-9.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-9.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-8</identifier>
+				<datestamp>2018-06-05T20:12:44Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-8</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Fotografie</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal, Holtenau - Leuchtturm</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 8)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Leuchtthurm bei Holtenau)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-8</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Fotografie zeigt den Holtenauer Leuchtturm am Nord-Ostsee-Kanal.
+(Ortsalbum 202-8)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,9 cm, B: 21,8 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3105</lido:conceptID>
+						<lido:term>Leuchtturm</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-8</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-8</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:10</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-8.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-8.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-7</identifier>
+				<datestamp>2018-06-05T20:12:43Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-7</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Fotografie</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Holtenau, Binnenhafen</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 7)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Binnenhafen bei Holtenau, April 1895.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-7</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Der Holtenauer Binnenhafen umfasste das Gebiet des Kanals vor den Schleusen. Bis zur Kanalerweiterung von 1907 bis zum Juni 1914 gab es dort kaum genügend Platz. Erst der Ausbau des Nordhafens nach dem Ersten Weltkrieg schuf größere Kai- und Lagerflächen. 
+Die Fotografie zeigt den von Brunsbüttel aus kommend auf der Steuerbordseite befindlichen  Binnenhafen im Zustand von 1895. Auf der anderen Seite der Kieler Stadtteil Wik.
+(Ortsalbum 202-7)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 16 cm, B: 21,8 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2165</lido:conceptID>
+						<lido:term>Hafen</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-7</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-7</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-7.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-7.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-6</identifier>
+				<datestamp>2018-06-05T20:12:43Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-6</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal -  Bauarbeiten (1894), Hochbrücke Grünental</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 6)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Hochbrücke bei Grünthal mit Kanalsohle, 21. Dez. 1894.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-6</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die erste Grünentaler Hochbrücke wurde von 1891-1892 über den sich im Bau befindlichen Kaiser-Wilhelm-Kanal errichtet. Sie besaß zwei aus Backstein gemauerte und 1935 abgebrochene Brückentürme, eine Spannweite von 156,5 m und die für alle Kanalbrücken damals geltende lichte Höhe von 42 m. Von 1984-1986 wurde nördlich der alten Bogenbrücke die neue Fachwerkbalkenbrücke errichtet.
+Die Fotografie zeigt die Grünentaler Hochbrücke zwei Jahre nach ihrer Fertigstellung über den sich noch im Bau befindlichen Kanal. 
+(Ortsalbum 202-6)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,9 cm, B: 21,9 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1984</lido:earliestDate>
+							<lido:latestDate>1984</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Grünental</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00139</lido:conceptID>
+						<lido:term>Hochbrücke</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2950</lido:conceptID>
+						<lido:term>Arbeiter</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-6</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-6</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-6.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-6.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-5</identifier>
+				<datestamp>2018-06-05T20:12:42Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-5</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Bauarbeiten (1894), Schleusentor Brunsbüttel</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 5)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Sperrthore der Schleuse bei Brunsbüttelhafen, 4. Sept. 1894.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-5</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Am Kanalende in Brunsbüttel wurden 2 Schleusen von je einer Nutzlänge von 125 m und einer Nutzbreite von 22 m gebaut. Abgeschlossen wurden die Schleusenkammern von aus 2 Flügeln bestehenden sogenannten Stemmtoren. Jede Kammer besaß 2 Ebb- und 2 Fluttore. 1914 wurde diese kleine Doppelschleuse durch eine große ergänzt. 
+Die Fotografie zeigt den Bau eines der Mitteltore der Brunsbütteler Schleuse. Man benötigte die Mitteltore, um bei offenen Schleusen das durchströmende Wasser abzubremsen. Sie hatten große Öffnungen, die dann zugefahren wurden. Wenn das Wasser stand, konnte man dann die Außen- und Innenschleuse schließen. Mit diesem Verfahren der offenen Schleusen wurde bis 1914 auch der Wasserstand im Kanal geregelt. 
+(Ortsalbum 202-5)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,2 cm, B: 21,6 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1894</lido:earliestDate>
+							<lido:latestDate>1894</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3155</lido:conceptID>
+						<lido:term>Kanalschleuse</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-5</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-5</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-5.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-5.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-4</identifier>
+				<datestamp>2018-06-05T20:12:42Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-4</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Kanalarbeiter</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 4)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Kanalarbeiter.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-4</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Für den Kanalbau waren etwa 9000 Kanalarbeiter eingesetzt. Die Mehrzahl waren Wanderarbeiter, sogenannte Monarchen, aus den ost- und südeuropäischen Ländern.
+Die Fotografie zeigt zwei Kanalarbeiter, von denen der links abgebildete vermutlichaus einem alpenländischen Raum stammt.
+(Ortsalbum 202-4)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,9 cm, B: 21,7 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2950</lido:conceptID>
+						<lido:term>Bauarbeiter</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-4</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-4</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-4.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-4.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-3</identifier>
+				<datestamp>2018-06-05T20:12:41Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-3</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Bauarbeiten (1891), Moorauftreibung</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 3)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Moorauftreibung bei Burg i. Dithm., Okt. 1891.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-3</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Beim Bau des Nord-Ostsee-Kanals mussten die westholsteinischen Marschen, das moorreiche Gebiet der Niederung bei Kuden und Burg, die hochgelegene Wasserscheide zwischen Elbe und Eider durchquert werden.  Das Kanalufer musste dabei durch in das Moor hineingeschüttete Sanddämme gebildet werden. Dadurch erfolgten sogenannte Moorauftreibungen. 
+(Ortsalbum 202-3)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,9 cm, B: 21,5 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1891</lido:earliestDate>
+							<lido:latestDate>1891</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3177</lido:conceptID>
+						<lido:term>Sumpf, Moor, Marschland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2175</lido:conceptID>
+						<lido:term>Eisenbahnschienen</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-3</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-3</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-3.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-3.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-17</identifier>
+				<datestamp>2018-06-05T20:12:40Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-17</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Kriegsschiff und Marineakademie</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 17)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Kriegsschiff und Marineakademie (Kiel).)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-17</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Fotografie zeigt die Kieler Marineakademie, davor ein Kriegsschiff.Die Fotografie zeigt ein unbekanntes Kriegsschiff der Kaiserlichen Marine. Im Hintergrund am Heck des Schiffes didas Gebäude der Marineakademie, heute Schleswig-Holsteinischer Landtag.
+(Ortsalbum 202-17)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,6 cm, B: 21,6 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.19</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Kiel</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2165</lido:conceptID>
+						<lido:term>Hafen</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3211</lido:conceptID>
+						<lido:term>Kriegsschiff</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-17</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-17</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-17.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-17.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-2</identifier>
+				<datestamp>2018-06-05T20:12:40Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-2</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Nassbagger und Elevatoren</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 2)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Der alte Eiderkanal im Umbau, Juli 1891.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-2</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Mit der aufkommenden Dampfschifffahrt wurde der Eiderkanal zu klein, die Passage durch die sechs Schleusen war zu umständlich und so verlor er immer mehr an Bedeutung. Ein neuer, größerer Kanal wurde erforderlich. Unter Mitbenutzung der alten Linienführung des Eiderkanals wurde in achtjähriger Bauzeit der Nord-Ostsee-Kanal errichtet. Am 3.6.1887 erfolgte die Grundsteinlegung für das neue Bauwerk. 9.000 Arbeiter hoben 80 Mio. m³ Boden aus, bauten je eine Doppelschleuse in Brunsbüttel und Holtenau ("Kleine Schleusen"), zwei Hochbrücken, sechs bewegliche Brücken und 16 Fähren.
+Auf der Fotografie sind die Umbauarbeite auf einem Teilstück des alten Eiderkanals zum Nord-Ostsee-Kanal zu sehen.
+(Ortsalbum 202-2)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,3 cm, B: 20,7 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1891</lido:earliestDate>
+							<lido:latestDate>1891</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3156</lido:conceptID>
+						<lido:term>Kanalbau</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-2</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-2</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-2.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-2.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-16</identifier>
+				<datestamp>2018-06-05T20:12:39Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-16</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Hochbrücke Levensau</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 16)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Hochbrücke bei Levensau, Mai 1895.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-16</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Levensauer Hochbrücke ist eine kombinierte Straßen-/Eisenbahnbrücke und wurde von 1893 bis 1894 errichtet. Mit einer Spannweite von 163 Metern besitzt sie die größte Spannweite der ursprünglichen Kanalbrücken bei einer lichten Durchfahrthöhe von etwa 42 Metern. Ursprünglich bildeten vier Türme zwei Tore, deren architektonische Gestaltung der Archtitekt Hermann Muthesius entwarf. Dadurch gab es auf der Brücke ausreichend Platz für ein Restaurant und einen Bahnhof. Bis in die 1960er Jahre hielten hier die Züge. Die feierliche Eröffnung der Levensauer Hochbrücke fand im Beisein von Kaiser Wilhelm II. am 3.12.1894 statt. Der Kaiser lobte das Bauwerk als die schönste Brücke über Kanal und besuchte bis in den 1. Weltkrieg immer wieder sein Lieblingsbrückenbauwerk. Die Brücke wurde 1954 modernisiert, wobei der Geh- und Radweg seitlich verlagert wurde, sodass zwischen den Bögen ausreichend Platz für ein Eisenbahngleis und davon getrennt zwei Fahrspuren für den Autoverkehr entstanden. Im Rahmen dieser Maßnahmen wurden die Türme mit ihren Torbögen und das horizontal über den Bögen angeordnete Fachwerk entfernt. So blieben von der ursprünglichen Brücke nur noch die Brückenköpfe mit den Widerlagern und die eisernen Bögen erhalten. Bereits 1939 Pläne, die Brücke durch eine Neukonstruktion zu ersetzen. Heute bildet die Brücke eines der Nadelöhre im Nord-Ostsee-Kanal. Für die geplante Kanalerweiterung sowie Kanalbegradigung soll sie zurückgebaut werden und unter Nutzung des Südpfeilers und der vorhandenen Trasse ein Neubau entstehen. Eine Besonderheit der Levensauer Hochbrücke ist jedes Jahr die Überwinterung von mehreren tausend Fledermäusen, von denen der Große Abendsegler die größte Gruppe stellt. Zeigt einen der markanten Brückentürme und das Fachwerk über den Brückenbögen.
+(Ortsalbum 202-16)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 16 cm, B: 21,6 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Levensau</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00139</lido:conceptID>
+						<lido:term>Brücke</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-16</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-16</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-16.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-16.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-15</identifier>
+				<datestamp>2018-06-05T20:12:38Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-15</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Hochbrücke Levensau</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 15)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Hochbrücke bei Levensau, Mai 1895.
+Passagierdampfer Palatia der Hamburg-Amerika Linie mit dem Reichskanzler an Bord.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-15</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Levensauer Hochbrücke ist eine kombinierte Straßen-/Eisenbahnbrücke und wurde von 1893 bis 1894 errichtet. Mit einer Spannweite von 163 Metern besitzt sie die größte Spannweite der ursprünglichen Kanalbrücken bei einer lichten Durchfahrthöhe von etwa 42 Metern. Ursprünglich bildeten vier Türme zwei Tore, deren architektonische Gestaltung der Archtitekt Hermann Muthesius entwarf. Dadurch gab es auf der Brücke ausreichend Platz für ein Restaurant und einen Bahnhof. Bis in die 1960er Jahre hielten hier die Züge. Die feierliche Eröffnung der Levensauer Hochbrücke fand im Beisein von Kaiser Wilhelm II. am 3.12.1894 statt. Der Kaiser lobte das Bauwerk als die schönste Brücke über Kanal und besuchte bis in den 1. Weltkrieg immer wieder sein Lieblingsbrückenbauwerk. Die Brücke wurde 1954 modernisiert, wobei der Geh- und Radweg seitlich verlagert wurde, sodass zwischen den Bögen ausreichend Platz für ein Eisenbahngleis und davon getrennt zwei Fahrspuren für den Autoverkehr entstanden. Gleichzeitig wurden die Türme mit ihren Torbögen und das horizontal über den Bögen angeordnete Fachwerk entfernt. So blieben von der ursprünglichen Brücke nur noch die Brückenköpfe mit den Widerlagern und die eisernen Bögen erhalten. Heute bildet die Brücke eines der Nadelöhre im Nord-Ostsee-Kanal. Für die geplante Kanalerweiterung sowie Kanalbegradigung soll sie zurückgebaut werden und unter Nutzung des Südpfeilers und der vorhandenen Trasse ein Neubau entstehen. Eine Besonderheit der Levensauer Hochbrücke ist jedes Jahr die Überwinterung von mehreren tausend Fledermäusen, von denen der Große Abendsegler die größte Gruppe stellt.
+(Ortsalbum 202-15)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,9 cm, B: 22,3 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Levensau</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00139</lido:conceptID>
+						<lido:term>Hochbrücke</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1967</lido:conceptID>
+						<lido:term>Dampfschiff, Motorschiff</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1133</lido:conceptID>
+						<lido:term>Frachtkahn/Lastkahn</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-15</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-15</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-15.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-15.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-14</identifier>
+				<datestamp>2018-06-05T20:12:37Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-14</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Hochbrücke Grünental</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 14)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Hochbrücke bei Grünthal Passagierdampfer Palatia der Hamburg-Amerika Linie mit dem Reichskanzler an Bord.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-14</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Fotografie zeigt die Hochbrücke bei Grünental. Auf dem Nord-Ostsee-Kanal fährt der Passagierdampfer Palatia der Hamburg-Amerika Linie, mit ihm fährt der damalige Reichskanzler.
+(Ortsalbum 202-14)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 14,9 cm, B: 21,7 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Grünental</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00139</lido:conceptID>
+						<lido:term>Brücke</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00340</lido:conceptID>
+						<lido:term>Passagierschiff</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-14</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-14</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-14.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-14.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-13</identifier>
+				<datestamp>2018-06-05T20:12:36Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-13</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Hochbrücke Grünental</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 13)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Hochbrücke bei Grünthal, Mai 1895.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-13</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die erste Grünentaler Hochbrücke wurde von 1891-1892 über den sich im Bau befindlichen Kaiser-Wilhelm-Kanal errichtet. Sie besaß zwei aus Backstein gemauerte und 1935 abgebrochene Brückentürme, eine Spannweite von 156,5 m und die für alle Kanalbrücken damals geltende lichte Höhe von 42 m. Von 1984-1986 wurde nördlich der alten Bogenbrücke die neue Fachwerkbalkenbrücke errichtet.
+Die Fotografie zeigt die Grünentaler Hochbrücke mit dem fertigen Kanal etwa einen Monat vor seiner Eröffnung am 20.6.1895 durch Kaiser Wilhelm II. Unter der Brücke fährt ein kleiner Schleppverband.
+(Ortsalbum 202-13)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,7 cm, B: 22,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Grünental</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00139</lido:conceptID>
+						<lido:term>Brücke</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-13</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-13</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:09</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-13.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-13.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-12</identifier>
+				<datestamp>2018-06-05T20:12:36Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-12</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 12)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Der Nord-Ostsee-Kanal.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-12</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Fotografie zeigt den Nord-Ostsee-Kanal, genutzt von einem Segelschiff.
+(Ortsalbum 202-12)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 16 cm, B: 21,6 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1966</lido:conceptID>
+						<lido:term>Segelschiff</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-12</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-12</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:08</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-12.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-12.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-11</identifier>
+				<datestamp>2018-06-05T20:12:36Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-11</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Fähre</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 11)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Fähre.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-11</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Fotografie zeigt eine Fähre auf dem Nord-Ostsee-Kanal.
+(Ortsalbum 202-11)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,3 cm, B: 21,5 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate></lido:earliestDate>
+							<lido:latestDate></lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2672</lido:conceptID>
+						<lido:term>Fähre, Fährschiff</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-11</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-11</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:08</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-11.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-11.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-1</identifier>
+				<datestamp>2018-06-05T20:12:35Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-1</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Nassbagger und Elevatoren</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 1)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Nassbagger und Elevatoren im Betriebe, Mai 1891.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-1</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>In der Nassbaggerei kommen Eimerkettenbagger und Saugbagger verschiedener Bauart als selbstfahrende Fahrzeuge zum Einsatz. Heute finden Eimerkettenbagger nur in besonderen Situationen wie zum Beispiel zum Lösen sehr fester Bodenarten und vorwiegend auf Flüssen, Kanälen und in Häfen noch Verwendung. Beim Bau des Nord-Ostsee-Kanals wurden die damals gebräuchlichen Eimerkettenbagger eingesetzt, deren Baggergut durch Elevatoren an Land transportiert wurde. Die Bauart, ob Stetig- oder Unstetigförderer, ist nicht zu ermitteln.
+Auf der Fotografie sind deutlich die mit den Baggerschiffen verbundenen Elevatoren zu erkennen.
+(Ortsalbum 202-1)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,4 cm, B: 20,7 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1891</lido:earliestDate>
+							<lido:latestDate>1891</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3156</lido:conceptID>
+						<lido:term>Kanalbau</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1907</lido:conceptID>
+						<lido:term>Bautätigkeiten</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-1</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-1</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:08</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-1.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-1.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/Ortsalbum 202-10</identifier>
+				<datestamp>2018-06-05T20:12:35Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/Ortsalbum 202-10</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term> </lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.1138</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Nord-Ostsee-Kanal - Brunsbüttel, Schleuse</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (o. r.: 10)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt und datiert (u. M.: Nordsee-Schleuse bei Brunsbüttelhafen, Mai 1895.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>Signatur gedruckt (u. l.: Lichtdruck u. Verlag v. Constabel &amp; Knackstedt, Hamburg.)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">Ortsalbum 202-10</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Die Schleusenbauwerke in Brunsbüttel und Kiel sind sich mit geringen Unterschieden sehr ähnlich. waren, fiel der Bau der Anlagen dann doch sehr unterschiedlich aus. Das lag daran, dass zum Schutz vor Sturmfluten die Schleusen in Brunsbüttel höher gebaut werden mussten als in Kiel. Zum anderen konnte die Schleuse in Kiel komplett im Trocknen gebaut werden, was in Brunsbüttel nicht möglich war. Die Konstruktion als Doppelschleuse und die Abmessungen war den Schleusen in Kiel angeglichen. Die beiden Schleusenkammern hatten eine Nutzlänge von 125 Meter, eine Nutzbreite von 22 Meter und eine Tiefe von 10,2 Meter. Im Gegensatz zur Holtenauer Schleuse konnte hier aufgrund der in der Elbe vorherrschenden Tide keine offene Schleuse gebaut werden. Die Inbetriebnahme fand bei der Eröffnung des Kanals im Juni 1895 statt.  
+Die Fotografie zeigt die Schleuse in Brunsbüttel, die sog. Nordsee-Schleuse.
+(Ortsalbum 202-10)</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>Bildmaße: H: 15,7 cm, B: 22,1 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Kunstanstalt Constabel u. Knackstedt, Hamburg</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:date>
+							<lido:earliestDate>1895</lido:earliestDate>
+							<lido:latestDate>1895</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri"></lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Nord-Ostsee-Kanal</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.474</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Brunsbüttel</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.8</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.203</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Positivverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwarzweißfotografie</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.794</lido:conceptID>
+						<lido:term>Kanal</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3155</lido:conceptID>
+						<lido:term>Kanalschleuse</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_Ortsalbum 202-10</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/Ortsalbum 202-10</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-06-05 11:12:08</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/Ortsalbum-202-10.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-10.JPG</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

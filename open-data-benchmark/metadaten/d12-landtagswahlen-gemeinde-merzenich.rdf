@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/14d53b8a-b402-4ab0-a678-43bba2d74950">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2012 Stimmbezirk Ebene Gemeinde Merzenich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Stimmbezirk Ebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/14d53b8a-b402-4ab0-a678-43bba2d74950"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358040/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/14d53b8a-b402-4ab0-a678-43bba2d74950"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:55:51+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:55:51+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D12 Landtagswahlen Gemeinde Merzenich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Landtagswahlen. Beschreibungen zum Datensatzaufbau finden Sie unter Datensatzbeschreibung Wahlen(<a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen</a>)</p>
+]]></dct:description>
+    <dct:identifier>814e18cb-b598-4219-b9aa-b80dcd3433a2</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T16:01:09+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nfc08590abf394340a80004e05d54e525">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/52b670fb-643a-49be-92d9-e0a1521faf74">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2000 Gemeindeebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2000 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/52b670fb-643a-49be-92d9-e0a1521faf74"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358040/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/52b670fb-643a-49be-92d9-e0a1521faf74"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:48:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:48:41+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/c2e51455-d9d2-447d-ac68-f7681b4457b2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2010 Gemeindeebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/c2e51455-d9d2-447d-ac68-f7681b4457b2"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/c2e51455-d9d2-447d-ac68-f7681b4457b2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:57:25+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:57:25+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/81edfe7e-cf63-4313-b435-757dc07194cd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Gemeindeebene Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/81edfe7e-cf63-4313-b435-757dc07194cd"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW993.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/81edfe7e-cf63-4313-b435-757dc07194cd"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:10:15+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:10:15+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/2cc787ed-73b9-4f26-8b3a-7e7e40af969d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 1995 Stimmbezirk Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Stimmbezirksebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/2cc787ed-73b9-4f26-8b3a-7e7e40af969d"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358040/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/2cc787ed-73b9-4f26-8b3a-7e7e40af969d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:45:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:45:01+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/14d53b8a-b402-4ab0-a678-43bba2d74950"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/0bdc7791-d9b8-4649-89f9-5a4955e366b3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Ortsteil Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Ortsteil Ebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/0bdc7791-d9b8-4649-89f9-5a4955e366b3"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358040/html5/Landtagswahl_NRW8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/0bdc7791-d9b8-4649-89f9-5a4955e366b3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:53:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:53:50+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/d593c6b4-38a5-4124-a425-91a88ae0278b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Ortsteilebene Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Ortsteilebene&nbsp;für die Gemeinde Merzenich.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/d593c6b4-38a5-4124-a425-91a88ae0278b"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW998.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/d593c6b4-38a5-4124-a425-91a88ae0278b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:12:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:12:41+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/697280f7-a7cd-470b-8c4a-a3c2e2d91de5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2005 Stimmbezirk Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Stimmbezirksebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/697280f7-a7cd-470b-8c4a-a3c2e2d91de5"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358040/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/697280f7-a7cd-470b-8c4a-a3c2e2d91de5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:55:16+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:55:16+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e80e8a38-7930-4588-8c39-14a6ba916c87">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2000 Stimmbezirk Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2000 auf Stimmbezirksebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e80e8a38-7930-4588-8c39-14a6ba916c87"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358040/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e80e8a38-7930-4588-8c39-14a6ba916c87"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:50:53+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:50:53+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/ef4538eb-2475-41d2-8dbf-66a3bb23180e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2010 Ortsteil Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Ortsteil Ebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/ef4538eb-2475-41d2-8dbf-66a3bb23180e"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/ef4538eb-2475-41d2-8dbf-66a3bb23180e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T18:00:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T18:00:02+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e95548ad-2dcc-47e3-a1ce-11fc2c3935df">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Stimmbezirksebene Merzenich </dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Stimmbezirksebene für die Gemeinde Merzenich.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter wahlen).Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e95548ad-2dcc-47e3-a1ce-11fc2c3935df"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW996.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/e95548ad-2dcc-47e3-a1ce-11fc2c3935df"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:13:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:13:52+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/632532bb-f403-4540-b3d8-898b68a2e93b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2010 Stimmbezirk Ebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Stimmbezirksebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/632532bb-f403-4540-b3d8-898b68a2e93b"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/632532bb-f403-4540-b3d8-898b68a2e93b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T18:02:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T18:02:01+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/227cc56d-058e-43cf-979d-05462db10067">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 1995 Gemeindeebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/227cc56d-058e-43cf-979d-05462db10067"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358040/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/227cc56d-058e-43cf-979d-05462db10067"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:37:30+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:46:22+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/25875402-c77b-4a1c-b294-a44d7c36f6b4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Gemeindeebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/25875402-c77b-4a1c-b294-a44d7c36f6b4"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358040/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/25875402-c77b-4a1c-b294-a44d7c36f6b4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:51:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:51:30+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/a5e70cc2-50d8-47de-a41a-c01ae4a2c5a1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2005 Gemeindeebene Gemeinde Merzenich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Gemeindeebene für die Gemeinde Merzenich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/a5e70cc2-50d8-47de-a41a-c01ae4a2c5a1"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358040/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich/resource/a5e70cc2-50d8-47de-a41a-c01ae4a2c5a1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:53:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:53:05+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358040/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358040/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW998.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358040/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358040/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW996.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358040/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358040/html5/Landtagswahl_NRW8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358040/html5/Landtagswahl_NRW993.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358040/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358040/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358040/html5/Landtagswahl_NRW3.csv"/>
+</rdf:RDF>

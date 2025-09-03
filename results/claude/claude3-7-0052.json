@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0052",
+  "run_at": "2025-09-01T13:53:51.726619Z",
+  "question_id": 52,
+  "question": "Wurden 2023 mehr Patente für Solartechnik oder für Windkraftmaschinen angemeldet?",
+  "answer": "Solartechnik",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Jetzt habe ich die relevanten Daten für das Jahr 2023 extrahiert. Lassen Sie mich die Ergebnisse zusammenfassen.\n\nFinalAnswer:\n\nIm Jahr 2023 wurden mehr Patente für Solartechnik als für Windkraftmaschinen angemeldet. Die genauen Zahlen sind:\n- Solartechnik: 597 Patentanmeldungen\n- Windkraftmaschinen: 540 Patentanmeldungen\n\nDies zeigt, dass im Jahr 2023 die Patentanmeldungen im Bereich Solartechnik um 57 Anmeldungen (etwa 10,6%) höher lagen als im Bereich Windkraftmaschinen.\n\nQuelle: Datensatz \"Patentanmeldungen mit Wirkung für die Bundesrepublik Deutschland im Feld erneuerbare Energien 2020-2024\" (https://ckan.govdata.de/dataset/21f32509-2f63-4f69-a37f-42d3bd688ec4)"
+}

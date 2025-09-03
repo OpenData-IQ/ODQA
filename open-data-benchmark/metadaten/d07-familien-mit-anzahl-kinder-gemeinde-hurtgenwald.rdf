@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/474c129d-e773-4dae-a4a6">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2016</dct:title>
+    <dct:description><![CDATA[<p>uflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2016</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/474c129d-e773-4dae-a4a6"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20170101.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/474c129d-e773-4dae-a4a6"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T11:57:10+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T11:57:10+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">710</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a175ffe2-3f62-4242-b092">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2013</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a175ffe2-3f62-4242-b092"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2013_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a175ffe2-3f62-4242-b092"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:46:39+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:24:10+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4548</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/e6029613-9814-47fa-a571">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2017</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald bezogen auf Ortsteile zum Stichtag 31.12.2017</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/e6029613-9814-47fa-a571"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20180101.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/e6029613-9814-47fa-a571"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:54:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:54:00+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4551</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/57df4973-9eb0-4c37-9fc5">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2015</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/57df4973-9eb0-4c37-9fc5"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2015_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/57df4973-9eb0-4c37-9fc5"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:52:47+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:26:15+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4549</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D07 Familien mit Anzahl Kinder Gemeinde Hürtgenwald</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach Unterteilung 1 Kind bis 15 Kinder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag.</p>
+
+<p>Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>0e1eb70f-a48d-4e01-8b2a-42367ed04250</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T12:40:14+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N11556b755c0349309753f92795d9e8e5">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/9ad39a93-9718-4730-bd5c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/9ad39a93-9718-4730-bd5c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/9ad39a93-9718-4730-bd5c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:45:07+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:23:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5002</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/57df4973-9eb0-4c37-9fc5"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7ffffa7c-030b-4752-83c6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald bezogen auf das gesamte Gemeindegebiet zum Stichtag 31.12.2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7ffffa7c-030b-4752-83c6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7ffffa7c-030b-4752-83c6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:40:29+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:40:29+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">711</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/b0ece12b-5bbc-46b8-ad73">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hütgenwald bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/b0ece12b-5bbc-46b8-ad73"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/b0ece12b-5bbc-46b8-ad73"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T12:40:14+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T12:40:14+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">711</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7072ba64b8524a36845fe8770a33f9bd">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2d5e5829ad3a2e450648ab37b9e5558d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/474c129d-e773-4dae-a4a6"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/4ca9ff83-2126-465b-bc6d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Hürtgenwald Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/4ca9ff83-2126-465b-bc6d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/4ca9ff83-2126-465b-bc6d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:48:56+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:48:56+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4550</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/de3391e9-4a10-4f18-ad0a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/de3391e9-4a10-4f18-ad0a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/de3391e9-4a10-4f18-ad0a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T11:46:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T11:46:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4549</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/396d9eab-0ddf-4c02-a424">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/396d9eab-0ddf-4c02-a424"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/396d9eab-0ddf-4c02-a424"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:50:15+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:25:12+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4548</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/659806ac-22dc-4d11-aa03">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald bezogen auf das gesamte Gemeindegebiet zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/659806ac-22dc-4d11-aa03"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/659806ac-22dc-4d11-aa03"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:56:37+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:56:37+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">709</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/628782e2-fd71-4102-807e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/628782e2-fd71-4102-807e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2011_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/628782e2-fd71-4102-807e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:38:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:21:45+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4547</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/77a9a90e-141c-45c7-b756">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald bezogen auf Ortsteile zum Stichtag 31.12.2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/77a9a90e-141c-45c7-b756"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/77a9a90e-141c-45c7-b756"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:40:12+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:40:12+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4638</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a4206649-55ac-415d-92ed">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a4206649-55ac-415d-92ed"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2015_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a4206649-55ac-415d-92ed"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T12:06:09+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:35:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">709</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7bc16a76-0083-41a8-b0c4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7bc16a76-0083-41a8-b0c4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/7bc16a76-0083-41a8-b0c4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:54:36+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:27:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">707</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/ae5a8768-eb16-415f-abbe">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/ae5a8768-eb16-415f-abbe"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2013_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/ae5a8768-eb16-415f-abbe"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:59:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:33:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">709</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/6c5dec8d-3f3d-4da6-910e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/6c5dec8d-3f3d-4da6-910e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2012_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/6c5dec8d-3f3d-4da6-910e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:57:25+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:29:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">707</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c2bacbb4-0a91-49e5-b1bf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c2bacbb4-0a91-49e5-b1bf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2014_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c2bacbb4-0a91-49e5-b1bf"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T12:04:43+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:34:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">709</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1e55d291-4ccc-4157-9b86">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Hürtgenwald gesamt 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1e55d291-4ccc-4157-9b86"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20200106.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1e55d291-4ccc-4157-9b86"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T11:47:53+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T11:47:53+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">710</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/69a9eff6-8432-4ef5-a2bd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/69a9eff6-8432-4ef5-a2bd"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2010_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/69a9eff6-8432-4ef5-a2bd"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:37:00+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:20:49+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4546</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/e6029613-9814-47fa-a571"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc9d1776-1edb-4e1a-afd8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Hürtgenwald gesamt 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc9d1776-1edb-4e1a-afd8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc9d1776-1edb-4e1a-afd8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:48:46+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:48:46+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">711</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1406cf24-2ed7-4a69-9743">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald gesamt 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Gemeinde Hürtgenwald&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1406cf24-2ed7-4a69-9743"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2011_20161121.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/1406cf24-2ed7-4a69-9743"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T11:56:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-22T13:28:33+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">708</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c26c1899-c1cf-4069-8c15">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Hürtgenwald Ortsteile 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c26c1899-c1cf-4069-8c15"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/c26c1899-c1cf-4069-8c15"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T12:38:47+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T12:38:47+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4181</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6d455cdc5e6e4b97970840e4e78df47e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">982e07c6ab4f088f4b9c4f6395d7f64a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/a175ffe2-3f62-4242-b092"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc4b0a6a-d283-492c-8d36">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Hürtgenwald Ortsteile 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Hürtgenwald&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc4b0a6a-d283-492c-8d36"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20200106.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-h%C3%BCrtgenwald/resource/bc4b0a6a-d283-492c-8d36"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T11:46:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T11:46:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4183</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2014_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20200106.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20210104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20200106.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2011_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2013_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20210104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2012_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2011_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2014_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227-2010_20161121.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat227_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat228-2015_20161121.csv"/>
+</rdf:RDF>

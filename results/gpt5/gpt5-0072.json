@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0072",
+  "run_at": "2025-08-31T23:12:57.381104Z",
+  "question_id": 72,
+  "question": "Gab es 2019 in Berlin Neukölln mehr männliche oder mehr weibliche minderjährige Kinder in Familien?",
+  "answer": "mehr männliche",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

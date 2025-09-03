@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0179",
+  "run_at": "2025-09-01T03:21:29.202636Z",
+  "question_id": 179,
+  "question": "Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?",
+  "answer": "Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nBegründung: Im Geburtenregister 2012 des Standesamtes Düsseldorf gibt es nur die Kategorien „lebend“, „tot“ und „vertraulich“ – keine Einhörner. Quelle: Auswertungen_G_2012.csv (Statistik Geburtenregister des Standesamtes Düsseldorf)"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0176",
+  "run_at": "2025-09-03T14:01:28.494921Z",
+  "question_id": 176,
+  "question": "Wie viele Einwohner der Stadtmitte waren 2019 über 100 Jahre alt und arbeiteten als Astronauten?",
+  "answer": "Es gibt keine Angaben zu Einwohnern über 100 Jahren, die als Astronauten arbeiten. Diese Information ist nicht vorhanden und es ist äußerst unwahrscheinlich, dass es solche Fälle in der Stadtmitte gibt.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "Die Datei gibt gar keine Informationen über Alter und Beruf.",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

@@ -1,0 +1,16 @@
+# 6-Wochen-Vorhersage vom 2025-08-07
+# Quelle: Bundesanstalt fuer Gewaesserkunde <vorhersage@bafg.de>
+# Wasserstand in cm
+# Wochenmittelwerte
+# Boxplot-Quantile
+# ENS (Spalte 2-6) = aktuelle Vorhersage des Wasserstandes auf Grundlage der ECMWF-ENS extended Wettervorhersage (rot)
+# ESP (Spalte 7-11) = modellierte Szenarien des Wasserstandes auf Basis der Klimatologie von 1991-2020 (blau)
+# OBS (Spalte 12-16) = langjaehrige Mittel der historisch beobachteten Wasserstaende der Jahre 1991-2020 (schwarz)
+Kaub
+Woche;ENS_5%;ENS_25%;ENS_50%;ENS_75%;ENS_95%;ESP_5%;ESP_25%;ESP_50%;ESP_75%;ESP_95%;OBS_5%;OBS_25%;OBS_50%;OBS_75%;OBS_95%
+07.08.2025 - 13.08.2025;201;210;217;224;234;220;228;237;248;272;89;157;194;229;323
+14.08.2025 - 20.08.2025;121;136;148;160;178;151;173;203;260;324;84;144;181;227;314
+21.08.2025 - 27.08.2025;93;118;138;160;193;120;149;177;241;273;82;139;176;220;319
+28.08.2025 - 03.09.2025;74;102;125;151;192;109;147;173;210;309;83;142;169;214;282
+04.09.2025 - 10.09.2025;70;101;125;153;197;120;154;185;224;247;78;139;169;215;274
+11.09.2025 - 17.09.2025;71;105;134;167;220;107;135;181;226;304;77;138;169;212;253

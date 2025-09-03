@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0180",
+  "run_at": "2025-09-01T03:23:33.831052Z",
+  "question_id": 180,
+  "question": "Wie viele Einwohner der Gemeinde Langerwehe sind im Jahr 2019 nach Hogwarts umgezogen?",
+  "answer": "Es sind keine Einwohner der Gemeinde Langerwehe im Jahr 2019 nach Hogwarts umgezogen, da Hogwarts eine fiktive Schule aus der Harry-Potter-Welt ist und nicht als reales Zuzugsziel existiert.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nQuelle: Einzelnachweise Zu- und Wegzüge 2019, Gemeinde Langerwehe\nhttps://offenedaten.kdvz.nrw/dataset/d10-einzelnachweise-zu-und-wegz%C3%BCge-eines-jahres-gemeinde-langerwehe"
+}

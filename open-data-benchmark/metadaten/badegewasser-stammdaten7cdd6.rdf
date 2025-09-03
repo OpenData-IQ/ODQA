@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/baa7c235-a6fa-4249-9d18-35e67047ba42">
+    <dct:title>Badegewässer Stammdaten</dct:title>
+    <dct:description>Stammdaten der Badegewässer in Schleswig-Holstein&#13;
+&#13;
+Folgende Spalten sind enthalten:&#13;
+&#13;
+ - `BADEGEWAESSERID` – Allgemein gültiger Identifikations-Code des Badegewässers&#13;
+ - `BADEGEWAESSERNAME` – Vollständiger Name des Badegewässers&#13;
+ - `KURZNAME` – Kurzname des Badegewässers&#13;
+ - `ALLGEMEIN_GEBRAEUCHL_NAME` – allgemein gebräuchlicher Name des Badegewässers&#13;
+ - `GEWAESSERKATEGORIE` – Art des Wasserkörpers, in dem das Badegewässer liegt&#13;
+ - `KUESTENGEWAESSER` – zugehöriges Küstengewässer (Nordsee oder Ostsee)&#13;
+ - `BADEGEWAESSERTYP` – Status des Badegewässers (bestehendes oder neues)&#13;
+ - `WEITEREBESCHREIBUNG` – weitere Beschreibung des Badegewässers&#13;
+ - `BADESTELLENLAENGE` - Länge der Uferlinie der Badestelle in Metern&#13;
+ - `EUANMELDUNG` – Zeitpunkt der Anmeldung bei der EU&#13;
+ - `EUABMELDUNG` – Zeitpunkt der Abmeldung bei der EU&#13;
+ - `FLUSSGEBIETSEINHEITID` – ID der Flussgebietseinheit, zu der das Badegewässer gehört; Angabe gemäß Berichterstattung nach WRRL&#13;
+ - `FLUSSGEBIETSEINHEITNAME` – Name der Flussgebietseinheit, zu der das Badegewässer gehört; Angabe gemäß Berichterstattung nach WRRL&#13;
+ - `WASSERKOERPERID` – ID des Wasserkörpers, zu dem das Badegewässer gehört; Angabe gemäß Berichterstattung nach WRRL&#13;
+ - `WASSERKOERPERNAME` – Name des Wasserkörpers, zu dem das Badegewässer gehört; Angabe gemäß Berichterstattung nach WRRL&#13;
+ - `NATWASSERKOERPERID` – ID der nationalen Wassereinheit, zu der das Badegewässer gehört&#13;
+ - `NATWASSERKOERPERNAME` – Name der nationalen Wassereinheit, zu der das Badegewässer gehört&#13;
+ - `SCHLUESSELWOERTER` – zur Suche des Badegewässers in WISE (Water Information System for Europe)&#13;
+ - `KREISNR` – interne Nummer des Kreises oder der kreisfreien Stadt, der oder die für die Überwachung des Badegewässers zuständig ist&#13;
+ - `KREIS` – Name des Kreises oder der kreisfreien Stadt, der oder die für die Überwachung des Badegewässers zuständig ist&#13;
+ - `GEMEINDENR` – interne Nummer der Gemeinde, in der das Badegewässer liegt&#13;
+ - `GEMEINDE` – Name der Gemeinde, in der das Badegewässer liegt&#13;
+ - `UTM_OST` – Rechtswert der Lage des Badegewässers im KBS (EPSG:4647, ETRS89 / UTM zone N32)&#13;
+ - `UTM_NORD` – Hochwert der Lage des Badegewässers im KBS (EPSG:4647, ETRS89 / UTM zone N32)&#13;
+ - `GEOGR_LAENGE` - Längengrad der Lage des Badegewässers im KBS (EPSG:4326, WGS 84)&#13;
+ - `GEOGR_BREITE` - Breitengrad der Lage des Badegewässers im KBS (EPSG:4326, WGS 84)&#13;
+ - `BADESTELLENINFORMATION` – Touristische Informationen zum Badegewässer&#13;
+ - `AUSWIRKUNGEN_AUF_BADEGEWAESSER` – Angabe, ob das Badegewässer anfällig für Beeinträchtigungen ist&#13;
+ - `MOEGLICHEBELASTUNGEN` – Angabe möglicher Belastungsquellen für das Badegewässer&#13;
+&#13;
+Zeichensatz ist ISO-8859-1, Spaltentrenner ist senkrechter Strich (pipe), Zeichenketten-Trenner ist das doppelte Anführungszeichen (").&#13;
+&#13;
+----&#13;
+&#13;
+Für eine komplette Sicht auf die Badegewässerqualität in Schleswig-Holstein sollten diese fünf Datensätze einbezogen werden:&#13;
+&#13;
+- [Stammdaten](/collection/badegewasser-stammdaten/aktuell)&#13;
+- [Einstufung der Badegewässerqualität](/dataset/badegewasser-einstufung)&#13;
+- [Informationen zur vorhandenen Infrastruktur](/collection/badegewasser-infrastruktur/aktuell)&#13;
+- [Saisondauer](/dataset/badegewasser-saisondauer)&#13;
+- [Messungen](/dataset/badegewasser-messungen)&#13;
+</dct:description>
+    <dct:identifier>baa7c235-a6fa-4249-9d18-35e67047ba42</dct:identifier>
+    <dcat:keyword>badeanstalten</dcat:keyword>
+    <dcat:keyword>badegewässer</dcat:keyword>
+    <dcat:keyword>badegewässerqualität</dcat:keyword>
+    <dcat:keyword>badestelle</dcat:keyword>
+    <dcat:keyword>strand</dcat:keyword>
+    <dcat:keyword>strände</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T08:00:30.981237</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T08:00:30.981237</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:isVersionOf rdf:resource="https://opendata.schleswig-holstein.de/dataset/de8fd861-d764-48c7-bdb8-93e43d1e8c1a"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/f366e103-8d40-488e-a0a5-0083d534026f">
+        <foaf:name>Ministerium für Justiz und Gesundheit</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N5d66a9360e874f7e83d8a25a3b447583">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-02T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T08:00:30.981263</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+        <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((7.8690 53.3600, 7.8690 55.0583, 11.3126 55.0583, 11.3126 53.3600, 7.8690 53.3600))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/baa7c235-a6fa-4249-9d18-35e67047ba42/resource/d4534d43-e378-40c8-9466-5bf1bff76794">
+        <dct:title>badegewasser-stammdaten.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/baa7c235-a6fa-4249-9d18-35e67047ba42/resource/d4534d43-e378-40c8-9466-5bf1bff76794/download/badegewasser-stammdaten.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T06:00:32.181541</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T06:00:32.132724</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">238127</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbded8f722bba424eaf4c27d3c90bfcb9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9798aef5058e4569baae45fac721cf7b</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText>Sozialministerium S-H</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/baa7c235-a6fa-4249-9d18-35e67047ba42/resource/d4534d43-e378-40c8-9466-5bf1bff76794/download/badegewasser-stammdaten.csv"/>
+</rdf:RDF>

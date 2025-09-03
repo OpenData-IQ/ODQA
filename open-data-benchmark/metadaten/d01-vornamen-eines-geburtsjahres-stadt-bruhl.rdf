@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/77c5d06e-11be-4ae6-bce4-783ca9da304e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Brühl 2017</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2017</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/77c5d06e-11be-4ae6-bce4-783ca9da304e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20180116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/77c5d06e-11be-4ae6-bce4-783ca9da304e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T12:51:15+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T12:51:15+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">26799</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/186525db-63a1-4d83-86d3-7057df460ff6">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Brühl 2013</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2013</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/186525db-63a1-4d83-86d3-7057df460ff6"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2013_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/186525db-63a1-4d83-86d3-7057df460ff6"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:57:49+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:57:49+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22781</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/38ea4823-fb15-4eeb-8a1f-f54d6354fe40">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Brühl 2010</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2010</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/38ea4823-fb15-4eeb-8a1f-f54d6354fe40"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2010_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/38ea4823-fb15-4eeb-8a1f-f54d6354fe40"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:52:54+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:55:27+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23708</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/c2929f8d-1fdf-4bdc-bcde-b1445d24f957">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Brühl 2021</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/c2929f8d-1fdf-4bdc-bcde-b1445d24f957"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20220116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/c2929f8d-1fdf-4bdc-bcde-b1445d24f957"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:53:23+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:53:23+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24057</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N4824faf36abf48258ee702892f052b1e">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ab6d403453b8d1f8fa17441b543d06ed</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/85a61587-f161-4327-b902-caafdcfc223c">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Stadt Brühl 2012</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/85a61587-f161-4327-b902-caafdcfc223c"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2012_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/85a61587-f161-4327-b902-caafdcfc223c"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:56:31+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:56:31+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23332</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D01 Vornamen eines Geburtsjahres Stadt Brühl</dct:title>
+    <dct:description><![CDATA[<p>Auflistung&nbsp;vergebender Vornamen eines Geburtsjahres mit Angabe zum Geschlecht.</p>
+]]></dct:description>
+    <dct:identifier>e865e5e2-fe15-402e-a6ee-cf226febbd8c</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T10:53:23+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N84ea0ec6329c43c3b32fe32648c6c63f">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/18a86a07-50fd-4e12-9476-1ecccee967cf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2011</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/18a86a07-50fd-4e12-9476-1ecccee967cf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2011_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/18a86a07-50fd-4e12-9476-1ecccee967cf"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:54:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:54:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24019</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/35af732b-bb77-43bd-9c78-1b1949aac8c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2015</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/35af732b-bb77-43bd-9c78-1b1949aac8c3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2015_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/35af732b-bb77-43bd-9c78-1b1949aac8c3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:00:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:00:35+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24727</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/3e320f41-726d-4daf-8a84-795797f84248">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2014</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/3e320f41-726d-4daf-8a84-795797f84248"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2014_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/3e320f41-726d-4daf-8a84-795797f84248"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:59:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:59:15+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25548</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/c2929f8d-1fdf-4bdc-bcde-b1445d24f957"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9795f3ab-425b-47e0-8390-0dfe3571d6e3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2020</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9795f3ab-425b-47e0-8390-0dfe3571d6e3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9795f3ab-425b-47e0-8390-0dfe3571d6e3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:44:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:44:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24045</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/38ea4823-fb15-4eeb-8a1f-f54d6354fe40"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/186525db-63a1-4d83-86d3-7057df460ff6"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9254f9ce-fed6-4947-9a9a-683f23a2fde6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2016</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9254f9ce-fed6-4947-9a9a-683f23a2fde6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9254f9ce-fed6-4947-9a9a-683f23a2fde6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T09:35:55+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T09:35:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25200</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/ecc606d1-542c-4a3e-b4eb-2e1280d23813">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2009</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/ecc606d1-542c-4a3e-b4eb-2e1280d23813"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2009_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/ecc606d1-542c-4a3e-b4eb-2e1280d23813"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:47:59+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T14:47:59+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23580</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/85a61587-f161-4327-b902-caafdcfc223c"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/df382e5b-d6a0-4339-a2ed-a00ff397b604">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2018</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/df382e5b-d6a0-4339-a2ed-a00ff397b604"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/df382e5b-d6a0-4339-a2ed-a00ff397b604"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-02T14:28:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-11T07:10:19+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25063</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/d44251b4-5bfd-498e-ad0b-7acbe2390adf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Stadt Brühl 2019</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/d44251b4-5bfd-498e-ad0b-7acbe2390adf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/d44251b4-5bfd-498e-ad0b-7acbe2390adf"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:26:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:27:15+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23369</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/77c5d06e-11be-4ae6-bce4-783ca9da304e"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2011_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2014_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2009_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat411-2015_20160920.csv"/>
+</rdf:RDF>

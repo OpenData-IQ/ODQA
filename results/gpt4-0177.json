@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0177",
+  "run_at": "2025-09-03T14:01:28.802189Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

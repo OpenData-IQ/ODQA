@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/45f4c828-27c5-4ddf-a6e0-db4202666495">
+    <dct:title>Fotografien - Der Bau des Nord-Ostsee-Kanals</dct:title>
+    <dct:description>Das Ortsalbum 202 enthält Fotografien aus der Bauzeit des Nord-Ostsee-Kanals, sowie wichtige Stationen entlang der 100 Kilometer langen Wasserstraße, die bis heute Nord- und Ostsee miteinander verbindet. &#13;
+&#13;
+Signatur: Ortsalbum 202&#13;
+&#13;
+In den Metadaten sind nur Vorschaubilder verlinkt. Die Bilder in voller Auflösung liegen unter https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-foto/Nordostseekanal_Bauarbeiten-Ortsalbum_202/.&#13;
+&#13;
+Beispielsweise ist das Foto mit der Vorschau http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/Ortsalbum-202-6.JPG unter der Adresse https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-foto/Nordostseekanal_Bauarbeiten-Ortsalbum_202/Ortsalbum%20202-6.JPG zu finden.&#13;
+&#13;
+Die Metadaten stehen unter der Lizenz CC-zero (CC0) und die Bilddateien unter der Lizenz CC-BY-SA 4.0 (Schleswig-Holsteinische Landesbibliothek) zur Verfügung.</dct:description>
+    <dct:identifier>45f4c828-27c5-4ddf-a6e0-db4202666495</dct:identifier>
+    <dcat:keyword>baufertigstellung</dcat:keyword>
+    <dcat:keyword>coding-da-vinci-2021</dcat:keyword>
+    <dcat:keyword>nord-ostsee-kanal</dcat:keyword>
+    <dcat:keyword>schiffsverkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-06T08:41:50.846436</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/a77be7e7-d9d2-4bc8-af70-fe8a29d41660">
+        <foaf:name>Schleswig-Holsteinische Landesbibliothek</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Nae827f64d5864e8286fb618d3d10fa2a">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1895-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1895-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+        <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((7.8690 53.3600, 7.8690 55.0583, 11.3126 55.0583, 11.3126 53.3600, 7.8690 53.3600))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/45f4c828-27c5-4ddf-a6e0-db4202666495/resource/37eb735e-f4a1-4ca4-8b6a-1c29cf28c40b">
+        <dct:title>Metadaten im LIDO-Format </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by-sa/4.0"/>
+        <dcat:accessURL rdf:resource="https://oamh.digicult-verbund.de/cv/cdvsh-2021?verb=ListRecords&amp;set=http://digicult.vocnet.org/terminology/ter03087"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T12:32:15.482921</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T12:32:15.482921</dct:modified>
+        <dcatde:licenseAttributionByText>Schleswig-Holsteinische Landesbibliothek</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by-sa/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <rdfs:Resource rdf:about="https://oamh.digicult-verbund.de/cv/cdvsh-2021?verb=ListRecords&amp;set=http://digicult.vocnet.org/terminology/ter03087"/>
+</rdf:RDF>

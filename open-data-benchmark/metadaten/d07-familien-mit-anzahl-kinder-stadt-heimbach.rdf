@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3bfdabda-7c46-45d0-a6f9-0d171de0f57d">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2011</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2011</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3bfdabda-7c46-45d0-a6f9-0d171de0f57d"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2011_20161104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3bfdabda-7c46-45d0-a6f9-0d171de0f57d"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:20:53+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">660</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/f5a3b08b-6278-4080-9082-4a9882ac85a1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2011</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/f5a3b08b-6278-4080-9082-4a9882ac85a1"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2011_20161104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/f5a3b08b-6278-4080-9082-4a9882ac85a1"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:11:04+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2514</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/b03d1322-a961-40cc-8514-e13120b90dec">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2012</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/b03d1322-a961-40cc-8514-e13120b90dec"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2012_20161104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/b03d1322-a961-40cc-8514-e13120b90dec"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:12:41+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2515</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/2833fd3b-97c4-4e72-8ecb-09d38ee4a232">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2014</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2014</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/2833fd3b-97c4-4e72-8ecb-09d38ee4a232"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2014_20161104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/2833fd3b-97c4-4e72-8ecb-09d38ee4a232"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:25:26+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">661</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/0fcd51e0-dd62-45d8-8d8e-73064bc2b8e7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2012</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/0fcd51e0-dd62-45d8-8d8e-73064bc2b8e7"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2012_20161104.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/0fcd51e0-dd62-45d8-8d8e-73064bc2b8e7"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:22:22+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">660</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D07 Familien mit Anzahl Kinder Stadt Heimbach</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach Unterteilung 1 Kind bis 15 Kinder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag.</p>
+
+<p>Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>3a056ef2-3d3a-4864-a5d1-e06acc4f6100</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T09:54:54+02:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Ne674be759e734937a0fcabfe69abf059">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/b03d1322-a961-40cc-8514-e13120b90dec"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/47353fac-9a1e-4beb-8b83-570867a284f1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/47353fac-9a1e-4beb-8b83-570867a284f1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2015_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/47353fac-9a1e-4beb-8b83-570867a284f1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:17:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2515</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/a8695f66-506d-44ec-9bd2-3aa75200c1ea">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/a8695f66-506d-44ec-9bd2-3aa75200c1ea"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2014_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/a8695f66-506d-44ec-9bd2-3aa75200c1ea"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:15:44+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2517</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/418391bc-8c99-49f7-9bb8-e468d8c2e9a0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/418391bc-8c99-49f7-9bb8-e468d8c2e9a0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2013_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/418391bc-8c99-49f7-9bb8-e468d8c2e9a0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:14:16+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2516</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/2833fd3b-97c4-4e72-8ecb-09d38ee4a232"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/ae09e332-f4ea-44d9-b9ac-3a1f183b890b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/ae09e332-f4ea-44d9-b9ac-3a1f183b890b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2013_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/ae09e332-f4ea-44d9-b9ac-3a1f183b890b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:23:59+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">662</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/0fcd51e0-dd62-45d8-8d8e-73064bc2b8e7"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3bfdabda-7c46-45d0-a6f9-0d171de0f57d"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/13b83c27-e855-47c6-8535-d97cb3c87e12">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Heimbach Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Heimbach bezogen auf Ortsteile zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/13b83c27-e855-47c6-8535-d97cb3c87e12"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/13b83c27-e855-47c6-8535-d97cb3c87e12"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:23:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:26:30+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2515</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3fe1cd06-301c-4f6d-a726-d2d52a8e7331">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3fe1cd06-301c-4f6d-a726-d2d52a8e7331"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2010_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/3fe1cd06-301c-4f6d-a726-d2d52a8e7331"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:19:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">660</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/f5a3b08b-6278-4080-9082-4a9882ac85a1"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/7bdf5483-f107-4c41-b093-eebe145b730a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/7bdf5483-f107-4c41-b093-eebe145b730a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/7bdf5483-f107-4c41-b093-eebe145b730a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:24:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:28:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">660</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/beb0d37e-31f3-4dd5-9426-05ee16e35675">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach Ortsteile 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/beb0d37e-31f3-4dd5-9426-05ee16e35675"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2010_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/beb0d37e-31f3-4dd5-9426-05ee16e35675"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:09:30+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2513</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/dc57e197-c014-426c-844e-abe7fea36dfd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Heimbach gesamt 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Heimbach&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/dc57e197-c014-426c-844e-abe7fea36dfd"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2015_20161104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/dc57e197-c014-426c-844e-abe7fea36dfd"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T11:27:04+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T12:49:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">660</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2015_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2013_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2014_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2010_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2015_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2013_20161104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat198-2010_20161104.csv"/>
+</rdf:RDF>

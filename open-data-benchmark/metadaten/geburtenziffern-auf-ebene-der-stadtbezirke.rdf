@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Geburtenziffern auf Ebene der Stadtbezirke</dct:title>
+    <dct:description>Geburtenziffern auf Ebene der Stadtbezirke</dct:description>
+    <dct:identifier>3746</dct:identifier>
+    <dcat:keyword>bevölkerungsbewegungen---allgemeine-geburtenziffer-gfr-general-fertility-rate</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---allgemeine-geburtenziffer-gfr-general-fertility-rate-deutscher-frauen</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---allgemeine-geburtenziffer-gfr-general-fertility-rate-nicht-deutscher-frauen</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---durchschnittsalter-der-mütter-bei-der-geburt-langzeitmittel</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---durchschnittsalter-deutscher-mütter-bei-der-geburt-langzeitmittel</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---durchschnittsalter-nicht-deutscher-mütter-bei-der-geburt-langzeitmittel</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---zusammengefasste-geburtenziffer-tfr-total-fertility-rate</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---zusammengefasste-geburtenziffer-tfr-total-fertility-rate---jahresscharf</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---zusammengefasste-geburtenziffer-tfr-total-fertility-rate-deutscher-frauen</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---zusammengefasste-geburtenziffer-tfr-total-fertility-rate-deutscher-frauen--</dcat:keyword>
+    <dcat:keyword>bevölkerungsbewegungen---zusammengefasste-geburtenziffer-tfr-total-fertility-rate-nicht-deutscher-fr</dcat:keyword>
+    <dcat:keyword>jahr</dcat:keyword>
+    <dcat:keyword>stadtbezirk</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-20T01:15:32.394732</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-20</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N6f85a3cebe1e42149e6f7dbadc30e1f7">
+        <vcard:fn>Sören Werner</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:statistik@freiburg.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N939e93f84e1b458da771cfc67cabb3d5">
+        <foaf:name>Stadt Freiburg i. Br.</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N168e8b13e8094bdbae249b21bd7ace9b">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1995-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke#dist-csv">
+        <dct:title>Geburtenziffern auf Ebene der Stadtbezirke</dct:title>
+        <dct:description>de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke"/>
+        <dcat:downloadURL rdf:resource="https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke/content.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-20T01:15:32.396499</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-20</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/stadtFreiburgImBreisgau"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/083110000000"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nc7301f5ee9734a9d9b9b909e42aa3fd6">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/083110000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <dcatde:maintainer>
+      <foaf:Person rdf:nodeID="N434c937b13e849769ea2afa6a17e5904">
+        <foaf:name>Sören Werner</foaf:name>
+      </foaf:Person>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke/content.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+</rdf:RDF>

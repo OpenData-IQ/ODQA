@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0132",
+  "run_at": "2025-09-01T01:26:09.752121Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mehr Familien mit drei Kindern. Zum 31.12.2013 gab es in Nörvenich 79 Familien mit drei Kindern und 26 Familien mit vier Kindern.\n\nQuelle: Datensatz „Familien mit Anzahl Kinder – Gemeinde Nörvenich gesamt 2013“ (offenedaten.kdvz.nrw)"
+}

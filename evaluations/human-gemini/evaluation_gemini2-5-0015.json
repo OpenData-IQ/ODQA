@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0015",
+  "run_at": "2025-09-01T05:21:00.110147Z",
+  "question_id": 15,
+  "question": "Wie viele Apotheken gibt es in 22850 Norderstedt?",
+  "answer": "7",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "FinalAnswer: Es gibt 10 Apotheken in 22850 Norderstedt.\n\nQuelle: http://registry.gdi-de.org/id/de.sh/11dddf20-36cb-4ace-9849-77b3bff13c5d",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": ""
+  }
+}

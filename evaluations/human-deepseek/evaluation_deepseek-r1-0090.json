@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0090",
+  "run_at": "2025-09-01T21:36:22.846723Z",
+  "question_id": 90,
+  "question": "Welche Auswirkung hatte der Friedensvertrag von Versailles auf die Landkreise und Gemeinden in Bayern?",
+  "answer": "Durch den Friedensvertrag von Versailles wurden der Landkreis Sankt Ingbert, 11 Gemeinden des Landkreises Homburg und 15 Gemeinden des Landkreises Zweibrücken im Regierungsbezirk Pfalz dem Saargebiet zugeteilt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider sind in den verfügbaren Open-Data-Portalen keine spezifischen Datensätze zur unmittelbaren Auswirkung des Versailler Vertrags auf bayerische Landkreise und Gemeinden auffindbar. Historisch betrachtet wirkte sich der Vertrag indirekt durch:\n\n1. **Territoriale Veränderungen**  \n   - Rückgabe des Saargebiets (keine bayerischen Gebiete direkt betroffen)\n\n2. **Wirtschaftliche Belastungen**  \n   - Gesamtdutsche Reparationen (1919-1932: 38 Mrd. Goldmark)  \n   - Kommunale Steuerlasten stiegen bundesweit um 400% 1919-1923\n\nFür tiefergehende Analysen wären Archivrecherchen in kommunalen Verwaltungsakten der Weimarer Zeit (1919-1933) erforderlich, etwa im Bayerischen Hauptstaatsarchiv oder kommunalen Stadtarchiven.\n\n<FinalAnswer>\nDer Versailler Vertrag hatte keine direkt in Open Data dokumentierten Auswirkungen auf bayerische Gemeinden. Indirekte Effekte wie Reparationslasten und Hyperinflation 1923 betrafen jedoch alle Kommunen. Konkrete Lokaldaten liegen außerhalb digitalisierter Open-Data-Ressourcen.\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt die Abtrennung konkreter pfälzisch-bayerischer Landkreise/Gemeinden an das Saargebiet. Das LLM bestreitet direkte Auswirkungen und nennt falsche Details, wodurch die eigentliche Wirkung unerwähnt bleibt. Daher inhaltlich falsch."
+  }
+}

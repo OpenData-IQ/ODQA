@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0051",
+  "run_at": "2025-08-31T10:48:10.506143Z",
+  "question_id": 51,
+  "question": "Wie viel Prozent der angezeigten Verdachtsfälle von Berufskrankheiten 1994 wurden anerkannt?",
+  "answer": "21,45%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "21,45 % — von 97.923 angezeigten Verdachtsfällen wurden 21.008 anerkannt (21.008 / 97.923 ≈ 0,2145)."
+}

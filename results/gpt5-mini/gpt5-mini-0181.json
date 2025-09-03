@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0181",
+  "run_at": "2025-08-31T14:24:04.489101Z",
+  "question_id": 181,
+  "question": "Wie viele Radfahrer wurden im Jahr 2016 an der Dauerzählstelle Fleher Deich west stromabwärts während eines Sandsturms gezählt?",
+  "answer": "Im Jahr 2016 gab es an der Dauerzählstelle Fleher Deich west stromabwärts keinen Sandsturm, daher liegen dazu keine Zähldaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nIm Datensatz \"Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2016\" gibt es für die Dauerzählstelle \"Fleher Deich west stromabwärts\" keine Einträge mit dem Wetterwert \"Sandsturm\" — daher wurden während eines Sandsturms 2016 dort 0 Radfahrer gezählt."
+}

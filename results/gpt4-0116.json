@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0116",
+  "run_at": "2025-09-03T13:56:14.644699Z",
+  "question_id": 116,
+  "question": "Wie viele Teilnehmer*innen hatten die Tummelferien 2011 in Halle (Saale)?",
+  "answer": "Es sind 846 Teilnehmer*innen gelistet. Die Tummelferien haben allerdings nicht in Halle (Saale) stattgefunden, sondern in Moers.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Tummelferien 2011 in Halle (Saale) hatten insgesamt 846 Teilnehmer*innen."
+}

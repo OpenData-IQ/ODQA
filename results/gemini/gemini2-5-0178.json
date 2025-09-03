@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0178",
+  "run_at": "2025-09-01T08:32:31.286007Z",
+  "question_id": 178,
+  "question": "Wie viele Familien mit minus 3 Personen lebten 2010 in der Stadt Bergheim?",
+  "answer": "Eine Personenanzahl kann nicht negativ sein. Daher gibt es dazu keine Daten.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "/resource/646bb42f-ea7e-40fd-b0cf-347c31aa0522"
+}

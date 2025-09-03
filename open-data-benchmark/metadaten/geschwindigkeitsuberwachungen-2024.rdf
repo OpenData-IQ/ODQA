@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/7e4af6e6-6a78-4480-a7af-461ea89413e7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW05</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW05</p>
+<p>In der 5. Kalenderwoche (29.01.2024 - 04.02.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    29.01.2024 - 04.02.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/7e4af6e6-6a78-4480-a7af-461ea89413e7"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW05.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/7e4af6e6-6a78-4480-a7af-461ea89413e7"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T08:49:54+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T08:49:54+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6533</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N2149369dc3584685a1f0158197ceade0">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4f4638a821052c1c5e39ae870caa0876</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af7e2e6b-bcd6-4086-a4d8-873ebb29da86">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title> Messbereiche GSÜ 2024 KW45</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW45</p>
+<p>In der 45. Kalenderwoche (04.11.2024 - 10.11.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    04.11.2024 - 10.11.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af7e2e6b-bcd6-4086-a4d8-873ebb29da86"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW45.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af7e2e6b-bcd6-4086-a4d8-873ebb29da86"/>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-31T15:03:54+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-31T15:03:54+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6166</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N08a10200c7bd4703a9e4905360f76f59">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">df78fa3161e8bd6e61deea28987ae26b</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1c38a7e5-5dcc-4f2d-be63-adad924f609e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW42</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW42</p>
+<p>In der 42. Kalenderwoche (14.10.2024 - 20.10.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    14.10.2024 - 20.10.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1c38a7e5-5dcc-4f2d-be63-adad924f609e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW42.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1c38a7e5-5dcc-4f2d-be63-adad924f609e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-04T08:15:32+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-11T07:30:21+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6306</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nf51a3b832acc4a089100ec48a2982059">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">216fa18fe07a744581c70b58bca8152a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9abb030f-0240-42a8-9ce5-72245676807c">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW15</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW15</p>
+<p>In der 15. Kalenderwoche (08.04.2024 - 14.04.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    08.04.2024 - 14.04.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9abb030f-0240-42a8-9ce5-72245676807c"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW15.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9abb030f-0240-42a8-9ce5-72245676807c"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:34:46+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:34:46+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6091</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N832ddad2bdfa47988549ab3a0534bd00">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0d3335ec17466a629123b9f2ac9d1e2c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6007858a-9825-4ffd-b006-6dc478551697">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW22</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW22</p>
+<p>In der 22. Kalenderwoche (27.05.2024 - 02.06.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    27.05.2024 - 02.06.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6007858a-9825-4ffd-b006-6dc478551697"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW22.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6007858a-9825-4ffd-b006-6dc478551697"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:50:48+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:50:48+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5128</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N9255c91f99b840a2aa427430831b7cfe">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e16503712dafcc2ae4bee620996ce517</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/282d2b01-6538-4669-96cf-a47f652b7a7b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW12</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW12</p>
+<p>In der 12. Kalenderwoche (18.03.2024 - 24.03.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    18.03.2024 - 24.03.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/282d2b01-6538-4669-96cf-a47f652b7a7b"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW12.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/282d2b01-6538-4669-96cf-a47f652b7a7b"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-03-15T08:54:33+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-03-15T08:54:33+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6258</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nc60ecdab002b4998ad33a79ec5d3fa26">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d794b2db677af1b1ee0672d885abd7a3</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/48c07a0f-bf19-45ab-a0b3-7e556e42fb73">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW06</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW06</p>
+<p>In der 6. Kalenderwoche (05.02.2024 - 11.02.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    05.02.2024 - 11.02.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/48c07a0f-bf19-45ab-a0b3-7e556e42fb73"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW06.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/48c07a0f-bf19-45ab-a0b3-7e556e42fb73"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T08:50:53+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T08:50:53+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6247</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Ne023d3a4133541c7b59fe791a9ed64b3">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f7cec0295ea7b75d199df6c3b1c569ec</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/79dd4372-22af-4164-aa3b-73098f7f65cb">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW39</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW39</p>
+<p>In der 39. Kalenderwoche (23.09.2024 - 29.09.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    23.09.2024 - 29.09.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/79dd4372-22af-4164-aa3b-73098f7f65cb"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW39.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/79dd4372-22af-4164-aa3b-73098f7f65cb"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-20T11:52:45+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-20T11:52:45+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6224</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N8fd29d5e3db64fe7b422937eaf849f4f">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">309409ae517284567b5f37fbc943afc8</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/f00fe8bd-6678-430d-a9ea-f9cee371b55a">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Messbereiche GSÜ 2024 KW48</dct:title>
+    <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW48</p>
+<p>In der 48. Kalenderwoche (25.11.2024 - 01.12.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    25.11.2024 - 01.12.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/f00fe8bd-6678-430d-a9ea-f9cee371b55a"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%20GS%C3%9C%20KW48%202024.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/f00fe8bd-6678-430d-a9ea-f9cee371b55a"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-22T15:16:47+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-22T15:16:47+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6223</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N291d913c944e4076b49feee77339a6cc">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5dafe28d11a49fbe4d6d22b1a3724632</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Geschwindigkeitsüberwachungen 2024</dct:title>
+    <dct:description><![CDATA[<p>Geschwindigkeitsüberwachungen des Ordnungsamtes Essen im Jahr 2024</p>
+<p>Maßnahmen zur Geschwindigkeitsüberwachung dienen der Verkehrssicherheit, insbesondere der Verhütung von Verkehrsunfällen mit schweren Folgen. Die Verkehrsüberwachung führt aus diesem Grunde Geschwindigkeitskontrollen durch.</p>
+<p>Die aufgeführten Ressourcen stellen Daten der vorgesehenen mobilen Messbereiche der jeweiligen Kalenderwoche des Jahres dar.</p>
+<p>Quelle: Ordnungsamt</p>
+]]></dct:description>
+    <dct:identifier>3e8b10fe-79c9-4265-8340-3b82ca3f4403</dct:identifier>
+    <dcat:keyword>transport-und-verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:38:12+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-19T12:13:02+01:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/79af368d-4fd6-4c11-8d87-fafc7613bcbf">
+        <foaf:name>Essen</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Ndbbfb131e3f54080910d9443f4a9c304">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/b11c5abd-3045-4baa-8b2e-62498b13c84e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW25</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW25</p>
+<p>In der 25. Kalenderwoche (17.06.2024 - 23.06.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    17.06.2024 - 23.06.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/b11c5abd-3045-4baa-8b2e-62498b13c84e"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW25.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/b11c5abd-3045-4baa-8b2e-62498b13c84e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:03:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:03:07+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6241</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N424eece7d39840c182d718a3ae956318">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5fd248fa1d2b35197bc3a938cf3feb27</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af1e42b9-2749-4b74-a114-d19d5b6d1034">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW47</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW47</p>
+<p>In der 47. Kalenderwoche (18.11.2024 - 24.11.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    18.11.2024 - 24.11.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af1e42b9-2749-4b74-a114-d19d5b6d1034"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW47.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af1e42b9-2749-4b74-a114-d19d5b6d1034"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-18T07:05:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-18T07:05:28+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6369</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nff3936a566cf485d9ff5d47694a61f40">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ff1e2bd5edd73720a5e7fd3113e46eb9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1574db15-e68e-4a51-8a4a-a0719fbdf681">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW11</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW11</p>
+<p>In der 11. Kalenderwoche (11.03.2024 - 17.03.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    11.03.2024 - 17.03.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1574db15-e68e-4a51-8a4a-a0719fbdf681"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW11.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1574db15-e68e-4a51-8a4a-a0719fbdf681"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-03-12T15:13:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-03-12T15:13:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6307</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9b9486d762af434da8629d901b733454">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2e237a101c0e95658b9b015a3ca06974</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/7e4af6e6-6a78-4480-a7af-461ea89413e7"/>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/f00fe8bd-6678-430d-a9ea-f9cee371b55a"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/85727b49-8006-479a-9194-855bd46da850">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW28</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW28</p>
+<p>In der 28. Kalenderwoche (08.07.2024 - 14.07.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    08.07.2024 - 14.07.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/85727b49-8006-479a-9194-855bd46da850"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW28.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/85727b49-8006-479a-9194-855bd46da850"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:44:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:44:47+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6209</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N31ee21c1257046bab9072922e45007f7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6c81dfab39bd14234e6557cbac3b378d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ffd29825-c808-4931-ad6c-95d48d7728c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title> Messbereiche GSÜ 2024 KW43</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW43</p>
+<p>In der 43. Kalenderwoche (21.10.2024 - 28.10.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    21.10.2024 - 28.10.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ffd29825-c808-4931-ad6c-95d48d7728c3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW43.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ffd29825-c808-4931-ad6c-95d48d7728c3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-18T10:02:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-18T10:02:15+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6595</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2946a4a758704d469add1a8e3f8497ca">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8d883a97a0ab975445be24e01359d019</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/48c07a0f-bf19-45ab-a0b3-7e556e42fb73"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6bcfdbc0-45e1-4fc5-a4d9-2e3c9c369244">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW29</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW29</p>
+<p>In der 29. Kalenderwoche (15.07.2024 - 21.07.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    15.07.2024 - 21.07.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6bcfdbc0-45e1-4fc5-a4d9-2e3c9c369244"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW29.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6bcfdbc0-45e1-4fc5-a4d9-2e3c9c369244"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:45:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:45:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6337</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbf26e4258c48441bb479b27b9a3ce36f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">85fafeb7990b3dccf5400ffb43523fee</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1407aba-5e48-4240-b7e0-0ebe35f20ec0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW41</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW41</p>
+<p>In der 41. Kalenderwoche (07.10.2024 - 13.10.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    07.10.2024 - 13.10.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1407aba-5e48-4240-b7e0-0ebe35f20ec0"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW41.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1407aba-5e48-4240-b7e0-0ebe35f20ec0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-04T08:12:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-04T08:12:02+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6328</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N36461e4d33f24417b9bf5715d08ec2a9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">865ef24d82b214701bfb57e45b4d0c7d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6007858a-9825-4ffd-b006-6dc478551697"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ccb87af7-8cbb-4be5-b910-9e2b8a3e80c7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW27</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW27</p>
+<p>In der 27. Kalenderwoche (01.07.2024 - 07.07.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    01.07.2024 - 07.07.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ccb87af7-8cbb-4be5-b910-9e2b8a3e80c7"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW27.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ccb87af7-8cbb-4be5-b910-9e2b8a3e80c7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:04:42+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:04:42+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6153</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb32ffc3390684e7fa2f9868fd49bae84">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">78fa95a32f617d5bea1996cab05bda4b</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6439714e-33ef-4041-aeba-13d0ea2ea492">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW07</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW07</p>
+<p>In der 7. Kalenderwoche (12.02.2024 - 18.02.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    12.02.2024 - 18.02.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6439714e-33ef-4041-aeba-13d0ea2ea492"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW07.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6439714e-33ef-4041-aeba-13d0ea2ea492"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-13T13:33:22+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-13T13:33:22+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5570</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N47d763ed4d90420f869201aa5e4a4654">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f2a2e6e3cc43e5571ed157330e86c71e</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/dd6bd215-7bf6-4d65-afa8-cedf25582d81">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW21</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW21</p>
+<p>In der 21. Kalenderwoche (20.05.2024 - 26.05.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    20.05.2024 - 26.05.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/dd6bd215-7bf6-4d65-afa8-cedf25582d81"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW21.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/dd6bd215-7bf6-4d65-afa8-cedf25582d81"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:49:51+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:49:51+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5161</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbc651c28b3fa4f3690dc7307b4fe65bb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4ceb3613b899556ad3f3fd77d626f659</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d094737a-958b-4e89-ac17-8bb9993fc9a7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW51</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW51</p>
+<p>In der 51. Kalenderwoche (16.12.2024 - 22.12.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    16.12.2024 - 22.12.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d094737a-958b-4e89-ac17-8bb9993fc9a7"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW51.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d094737a-958b-4e89-ac17-8bb9993fc9a7"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-19T12:09:49+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-19T12:09:49+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6378</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N48086f67893649df805890e450a68dc2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">40cbb35abb948128553dbe3e44a1746b</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/575ab545-d9e6-4d18-8256-170eb9a202f9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW30</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW30</p>
+<p>In der 30. Kalenderwoche (22.07.2024 - 28.07.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    22.07.2024 - 28.07.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/575ab545-d9e6-4d18-8256-170eb9a202f9"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW30.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/575ab545-d9e6-4d18-8256-170eb9a202f9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:46:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T09:46:17+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6336</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N35b3c0c8785f46bd8633d7e25e8fd6c2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d1f5cb1dc6f7b14542bbd37445f10b82</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1c38a7e5-5dcc-4f2d-be63-adad924f609e"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c0a49c64-6ce6-40ef-949f-c0b98a2047ef">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW49</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW49</p>
+<p>In der 49. Kalenderwoche (02.12.2024 - 08.12.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    02.12.2024 - 08.12.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c0a49c64-6ce6-40ef-949f-c0b98a2047ef"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%20GS%C3%9C%20KW49%202024.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c0a49c64-6ce6-40ef-949f-c0b98a2047ef"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-29T12:05:25+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-29T12:05:25+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6265</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4d3c8b37a3cf400d88384a4eee2ac9f8">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9ceb6094d0e6ee161d831494801e8106</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/59edee60-ff02-4307-8e34-0be380718c99">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW13</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW13</p>
+<p>In der 13. Kalenderwoche (25.03.2024 - 31.03.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    25.03.2024 - 31.03.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/59edee60-ff02-4307-8e34-0be380718c99"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW13.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/59edee60-ff02-4307-8e34-0be380718c99"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:33:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:33:02+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5043</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N1ae721874e57404b8683d246e73e92b4">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bb702c3f1a5ba4b2de6a19b5fb90af55</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/eb0307fd-a3de-435c-b195-b5f122166d03">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW33</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW33</p>
+<p>In der 33. Kalenderwoche (12.08.2024 - 18.08.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    12.08.2024 - 18.08.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/eb0307fd-a3de-435c-b195-b5f122166d03"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW33.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/eb0307fd-a3de-435c-b195-b5f122166d03"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:37:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:37:01+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6379</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9bdd6a494af14bde8fda109ccedd0902">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">049782487239df150ce45b6c93acf25e</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9500e49d-560a-4d6e-b8f5-93518d91ab7e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW18</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW18</p>
+<p>In der 18. Kalenderwoche (29.04.2024 - 05.05.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    29.04.2024 - 05.05.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9500e49d-560a-4d6e-b8f5-93518d91ab7e"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW18.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9500e49d-560a-4d6e-b8f5-93518d91ab7e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:28:38+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:28:38+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5294</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2f064a5ae3da4be7bfb972338f51bbd8">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">faccae932ce62532a238f4672defa5bf</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/95a1297d-f61b-4492-aca6-970a1daa6db9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW14</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW14</p>
+<p>In der 14. Kalenderwoche (01.04.2024 - 07.04.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    01.04.2024 - 07.04.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/95a1297d-f61b-4492-aca6-970a1daa6db9"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW14.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/95a1297d-f61b-4492-aca6-970a1daa6db9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:33:57+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-09T07:33:57+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5210</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ne6bec451d58149edafe51b15b3e6f55b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">57a13ae724863ae882340cc965dbf944</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1fdcb6cc-cca5-4eb3-9c4b-49f283ddd2ba">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW01</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW01</p>
+<p>In der 1. Kalenderwoche (01.01.2024 - 07.01.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    01.01.2024 - 07.01.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1fdcb6cc-cca5-4eb3-9c4b-49f283ddd2ba"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW01.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/1fdcb6cc-cca5-4eb3-9c4b-49f283ddd2ba"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-02T10:27:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:56:24+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5632</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd78d4228752046518d8cf747f91c7072">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a0040f4ebd70fd7ecbe37afa244ee7b8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0cd61360-f012-46e5-a125-53e334284a60">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW52</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW52</p>
+<p>In der 52. Kalenderwoche (23.12.2024 - 29.12.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    23.12.2024 - 29.12.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0cd61360-f012-46e5-a125-53e334284a60"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW52.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0cd61360-f012-46e5-a125-53e334284a60"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-19T12:11:40+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-19T12:11:40+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1242</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N721e6d60a90f430a94b42aae7665972d">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f9326c6eb8f9a1bba9081f5f2c06d422</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/e0d28c18-068b-47fd-84c8-7c165b5116d5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW40</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW40</p>
+<p>In der 40. Kalenderwoche (30.09.2024 - 06.10.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    30.09.2024 - 06.10.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/e0d28c18-068b-47fd-84c8-7c165b5116d5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW40.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/e0d28c18-068b-47fd-84c8-7c165b5116d5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-27T07:34:52+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-27T07:34:52+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5290</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7ac3f7f652c847a8a67c0e2f2f41f66d">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">026192e337c46af69ca4cafc28ba7bbd</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/af7e2e6b-bcd6-4086-a4d8-873ebb29da86"/>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/9abb030f-0240-42a8-9ce5-72245676807c"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6d0186bd-b085-4bc1-ad29-748286f4ab19">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW19</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW19</p>
+<p>In der 19. Kalenderwoche (06.05.2024 - 12.05.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    06.05.2024 - 12.05.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6d0186bd-b085-4bc1-ad29-748286f4ab19"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW19.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6d0186bd-b085-4bc1-ad29-748286f4ab19"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:29:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:29:39+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5264</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N44a85628002449cd8190312580efb837">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2cc18bd22904203a2fb091451325ec61</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5196fc83-54ba-4d21-9d9a-c65c09dc4881">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW10</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW10</p>
+<p>In der 10. Kalenderwoche (04.03.2024 - 10.03.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    04.03.2024 - 10.03.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5196fc83-54ba-4d21-9d9a-c65c09dc4881"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW10.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5196fc83-54ba-4d21-9d9a-c65c09dc4881"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-29T08:14:21+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-29T08:14:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6369</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4d73caac54de423ba8dd15734f1aafec">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5e55cb3415d6fb34d1d897f9830edf34</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/a11fee21-bce4-4c93-ba00-98fcb3aaf9b5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW32</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW32</p>
+<p>In der 32. Kalenderwoche (05.08.2024 - 11.08.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    05.08.2024 - 11.08.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/a11fee21-bce4-4c93-ba00-98fcb3aaf9b5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW32.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/a11fee21-bce4-4c93-ba00-98fcb3aaf9b5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:36:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:36:17+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6408</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nca47c6e338524d57856dff47b876bb17">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">28f52b47428335ec50ae172b7ebe528e</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen<br />
+ </p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/54f897c7-60ca-4351-9300-4828d7b8ebac">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW50</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW50</p>
+<p>In der 50. Kalenderwoche (09.12.2024 - 15.12.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    09.12.2024 - 15.12.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/54f897c7-60ca-4351-9300-4828d7b8ebac"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW50.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/54f897c7-60ca-4351-9300-4828d7b8ebac"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-06T15:59:38+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-06T16:01:13+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6409</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N8ffa88572060401b932d0c73b555fd39">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">227195e7ef1681da669d8067e1bcaea9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36ac7d04-1c34-40f3-92b1-4b2e15006637">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW44</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW44</p>
+<p>In der 44. Kalenderwoche (28.10.2024 - 03.11.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    28.10.2024 - 03.11.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36ac7d04-1c34-40f3-92b1-4b2e15006637"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW44.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36ac7d04-1c34-40f3-92b1-4b2e15006637"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-31T15:02:13+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-31T15:04:30+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5524</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6cb5f0b9c4a94704b27769be4ccb0a2e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">37ea861aab2abc8144a5594f245de6ea</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36c7be3f-5492-4953-b635-b1435c336502">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW23</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW23</p>
+<p>In der 23. Kalenderwoche (03.06.2024 - 09.06.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    03.06.2024 - 09.06.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36c7be3f-5492-4953-b635-b1435c336502"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW23.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/36c7be3f-5492-4953-b635-b1435c336502"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:51:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:51:43+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6332</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N8d6ec8a20f23490c8494ce51c0a5608f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">97e00a797aae2de5fcf8865fcdec531c</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70a74fa3-0822-4613-83ac-5527505c9efa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW37</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW37</p>
+<p>In der 37. Kalenderwoche (09.09.2024 - 15.09.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    09.09.2024 - 15.09.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70a74fa3-0822-4613-83ac-5527505c9efa"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW37.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70a74fa3-0822-4613-83ac-5527505c9efa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:28:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:28:15+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6417</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ne9e6b6d74bfe4a399406dbc0d079fbec">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1fd889cdf1bd4c9746ed9c34c5999a56</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5dcf6f75-142a-4198-8902-3a3ea1d62977">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW02</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW02</p>
+<p>In der 2. Kalenderwoche (08.01.2024 - 14.01.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    08.01.2024 - 14.01.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5dcf6f75-142a-4198-8902-3a3ea1d62977"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW02.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/5dcf6f75-142a-4198-8902-3a3ea1d62977"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:54:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:55:59+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6111</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2a3014483db142c4b19c84cc9df2a104">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">fd0fb8acb6af17ff85391ecc7d6ab5ff</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/03553f6c-50fb-47dc-955b-305a6cac1775">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW26</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW26</p>
+<p>In der 26. Kalenderwoche (24.06.2024 - 30.06.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    24.06.2024 - 30.06.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/03553f6c-50fb-47dc-955b-305a6cac1775"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW26.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/03553f6c-50fb-47dc-955b-305a6cac1775"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:03:55+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:03:55+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6215</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4d32d88dc5404f6abbaceedf6091b26f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a9c20053d8c85ad2ced553a1d12ead5d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/79dd4372-22af-4164-aa3b-73098f7f65cb"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d24d4d6b-8d53-4329-af87-78545e610008">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW09</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW09</p>
+<p>In der 9. Kalenderwoche (26.02.2024 - 03.03.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    26.02.2024 - 03.03.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d24d4d6b-8d53-4329-af87-78545e610008"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW09.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d24d4d6b-8d53-4329-af87-78545e610008"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-29T07:43:58+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-29T07:43:58+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6347</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ne3828d298dc94d18bdbad73a22d741fb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9b10ba43740e9919a09ab5e73d40c4c1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/3acf2a05-4b12-4d59-9cfd-84e2fe57e406">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW38</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW38</p>
+<p>In der 38. Kalenderwoche (16.09.2024 - 22.09.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    16.09.2024 - 22.09.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/3acf2a05-4b12-4d59-9cfd-84e2fe57e406"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW38.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/3acf2a05-4b12-4d59-9cfd-84e2fe57e406"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-12T11:44:32+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-12T11:44:32+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6335</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N00004f96e08846a98a9a6a1740268698">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1ead69f221f0621b4262f117d60890e6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0a024379-cca9-4ef3-97cd-58344dac0c62">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW03</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW03</p>
+<p>In der 3. Kalenderwoche (15.01.2024 - 21.01.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    15.01.2024 - 21.01.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0a024379-cca9-4ef3-97cd-58344dac0c62"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW03.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/0a024379-cca9-4ef3-97cd-58344dac0c62"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:56:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:56:52+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6168</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N5a034c72009b4f2cbe02ac8aaa00d46f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2908c062641dcb0bf7d0c9f2b449b45d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/81c26854-9355-45da-9e24-848252330c2b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW36</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW36</p>
+<p>In der 36. Kalenderwoche (02.09.2024 - 08.09.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    02.09.2024 - 08.09.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/81c26854-9355-45da-9e24-848252330c2b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW36.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/81c26854-9355-45da-9e24-848252330c2b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:27:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:27:28+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6320</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N26202a4578a6486e9cf13d9edb7fa7d9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f9d25830b73ec2cf7f7d7da07133f360</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1830a6b-8045-487f-ab66-2c2fd96878dc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW34</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW34</p>
+<p>In der 34. Kalenderwoche (19.08.2024 - 25.08.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    19.08.2024 - 25.08.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+<p> </p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1830a6b-8045-487f-ab66-2c2fd96878dc"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW34.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/d1830a6b-8045-487f-ab66-2c2fd96878dc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:37:53+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-16T09:37:53+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6320</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N603c7d6e0a544cae9e030a3d3b3b91ea">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1329df03637af274a499127131a5eb10</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70f07543-7407-4278-815b-bc5720566489">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW08</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW08</p>
+<p>In der 8. Kalenderwoche (19.02.2024 - 25.02.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    19.02.2024 - 25.02.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70f07543-7407-4278-815b-bc5720566489"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW08.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/70f07543-7407-4278-815b-bc5720566489"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-20T07:02:59+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-20T07:02:59+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6296</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7bfd476cc30c4a4b9069ef11b231be56">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8504042c2d51145ff41b82b306896683</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/282d2b01-6538-4669-96cf-a47f652b7a7b"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/45da096e-6e63-45cc-b70c-59351a25c999">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW46</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW46</p>
+<p>In der 46. Kalenderwoche (11.11.2024 - 17.11.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    11.11.2024 - 17.11.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/45da096e-6e63-45cc-b70c-59351a25c999"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW46.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/45da096e-6e63-45cc-b70c-59351a25c999"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-18T07:04:22+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-18T07:06:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6169</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf3c1d6b2211f41e086024428fdd91a52">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a6372d7d9f1618ea67acd2636c998894</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/4e5bbba9-b9e1-43cb-8134-7fa0cd71419f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW17</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW17</p>
+<p>In der 17. Kalenderwoche (22.04.2024 - 28.04.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    22.04.2024 - 28.04.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/4e5bbba9-b9e1-43cb-8134-7fa0cd71419f"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW17.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/4e5bbba9-b9e1-43cb-8134-7fa0cd71419f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:27:25+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-08T13:27:25+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6093</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ndd3632fbd7e3446a96864ac922ee63ef">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f65e562f6da89cde599b34570ca19a79</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ea1653fd-6e05-49a0-b3d6-f40faa5e9742">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW31</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW31</p>
+<p>In der 31. Kalenderwoche (29.07.2024 - 04.08.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    29.07.2024 - 04.08.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ea1653fd-6e05-49a0-b3d6-f40faa5e9742"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW31_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/ea1653fd-6e05-49a0-b3d6-f40faa5e9742"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T10:01:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T10:01:12+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6536</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nc72cf30d12164315bee24a6fbaf77974">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0688c1ee8b3cd464e494b1a36de5b1f6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6740c0f9-967b-4b91-825f-f95f1c957ae9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW20</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW20</p>
+<p>In der 20. Kalenderwoche (13.05.2024 - 19.05.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    13.05.2024 - 19.05.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6740c0f9-967b-4b91-825f-f95f1c957ae9"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW20.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/6740c0f9-967b-4b91-825f-f95f1c957ae9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:48:53+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-04T13:48:53+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6119</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N66e789cfde8f415e86dc31efb2ca8c9f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">322a5e6b9cd4e502259eb90c796f4edc</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/30d71d94-5467-427a-ac12-67c050905e8e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW04</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW04</p>
+<p>In der 4. Kalenderwoche (22.01.2024 - 28.01.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    22.01.2024 - 28.01.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/30d71d94-5467-427a-ac12-67c050905e8e"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW04.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/30d71d94-5467-427a-ac12-67c050905e8e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:58:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-23T08:58:02+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6132</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbcb0bef8037e452b9e4d59a27812ede2">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e25c33e30e40a0789e477f9cebfcd993</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c8da4290-b5e5-4d78-b52a-04e98cc28706">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW24</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW24</p>
+<p>In der 24. Kalenderwoche (10.06.2024 - 16.06.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    10.06.2024 - 16.06.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c8da4290-b5e5-4d78-b52a-04e98cc28706"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW24.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c8da4290-b5e5-4d78-b52a-04e98cc28706"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:02:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-03T13:02:17+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5991</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N98d0c46bfb33499caf78aa60569ad175">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e2ce0218804ece8eb1c04047401fb065</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c4eb45b5-ac90-42a1-b919-d54dbd082b25">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Messbereiche GSÜ 2024 KW35</dct:title>
+        <dct:description><![CDATA[<p>Messbereiche Geschwindigkeitsüberwachung 2024 KW35</p>
+<p>In der 35. Kalenderwoche (26.08.2024 - 01.09.2024) vorgesehene Messbereiche der Geschwindigkeitsüberwachung.</p>
+<p>HINWEIS: Kurzfristige Änderungen bleiben vorbehalten!</p>
+<p>Quelle: Ordnungsamt</p>
+<p>Die Datei enthält folgende Spalteninformationen:</p>
+<p>    26.08.2024 - 01.09.2024: Messbereiche der Geschwindigkeitsüberwachung am jeweiligen Kalenderwochentag</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c4eb45b5-ac90-42a1-b919-d54dbd082b25"/>
+        <dcat:downloadURL rdf:resource="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW35.csv"/>
+        <foaf:page rdf:resource="https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/c4eb45b5-ac90-42a1-b919-d54dbd082b25"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:26:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-03T08:26:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6241</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nff57024fb79b47748c58bc62e8247a12">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4b8503f0cbf32f77f3a02f068666546a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText><![CDATA[<p>Stadt Essen</p>
+]]></dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://opendata.essen.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW29.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%20GS%C3%9C%20KW49%202024.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW51.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW14.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW23.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW10.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW47.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW32.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW46.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW26.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW04.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW35.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW20.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW07.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW28.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW50.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW17.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW40.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW09.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW41.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW36.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW03.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW18.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW43.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW34.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW31_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW27.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%20GSU%202024%20KW52.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW33.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW19.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW38.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW24.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW02.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW44.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW25.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW13.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW21.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW30.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW37.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW01.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW08.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.essen.de/sites/default/files/Messbereiche%202024%20KW11.csv"/>
+</rdf:RDF>

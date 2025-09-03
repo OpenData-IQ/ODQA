@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0022",
+  "run_at": "2025-09-01T05:22:05.339118Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "ja, es gibt sogar 6 direkt bei der Halle",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Nähe der Franklin Boulderhalle in Mannheim gibt es folgende E-Ladesäulen:\n\n*   **Franklin Boulderhalle:**\n    *   DE*MVV*E00048*R1 (frei)\n    *   DE*MVV*E00096*L1 (belegt)\n    *   DE*MVV*E00095*R1 (frei)\n    *   DE*MVV*E00096*R1 (belegt)\n    *   DE*MVV*E00095*L1 (frei)\n    *   DE*MVV*E00048*L1 (belegt)\n\n*   **Franklin - Ärztehaus:**\n    *   DE*MVV*E00127*L1 (belegt)\n    *   DE*MVV*E00127*R1 (belegt)\n\nQuelle: https://mannheim.opendatasoft.com/api/v2/catalog/datasets/e-ladeparkstande",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Bestätigt eindeutig die Verfügbarkeit und nennt exakt sechs Ladepunkte direkt an der Halle, ergänzt um weitere nahe Punkte und eine Quelle. Korrekt und sehr vollständig."
+  }
+}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://mcloud.de/ad7be96d-5f7f-42f6-a4b4-72f8c2298ea6">
+    <dct:title>Rundweg Im Alsterland</dct:title>
+    <dct:description>Rund- und Wanderwege&#13;
+Rundweg 1 - Im Alsterland&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, FB Natur und Landschaft&#13;
+&#13;
+Fortschreibung: bei Änderung / Stand: 01.01.2023</dct:description>
+    <dct:identifier>ad7be96d-5f7f-42f6-a4b4-72f8c2298ea6</dct:identifier>
+    <dcat:keyword>freizeit</dcat:keyword>
+    <dcat:keyword>freizeitbereich</dcat:keyword>
+    <dcat:keyword>freizeitnutzung</dcat:keyword>
+    <dcat:keyword>infocatalogueservice</dcat:keyword>
+    <dcat:keyword>infofeatureaccessservice</dcat:keyword>
+    <dcat:keyword>infomapaccessservice</dcat:keyword>
+    <dcat:keyword>mcloud_category_roads</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dcat:keyword>sport</dcat:keyword>
+    <dcat:keyword>verkehr</dcat:keyword>
+    <dcat:keyword>wanderweg</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-16T07:52:39+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-16T07:52:39+00:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://mcloud.de/ad7be96d-5f7f-42f6-a4b4-72f8c2298ea6#publisher">
+        <foaf:name>Norderstedt</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Nf078b0361f2a48a597b521f742511952">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-31</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nac91a8e8ab20493e82c0e5e517f67506">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((10.0070 53.7234, 10.0556 53.7234, 10.0556 53.6886, 10.0070 53.6886, 10.0070 53.7234))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=CSV#distribution">
+        <dct:title>Download als CSV</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=CSV"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=CSV"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T15:08:28+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.301390</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/rundweg1/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities#distribution">
+        <dct:title>WMS Rundweg Im Alsterland Stadt Norderstedt (Darstellungsdienst)</dct:title>
+        <dct:description>Rund- und Wanderwege&#13;
+Rundweg 1 - Im Alsterland&#13;
+&#13;
+Herausgeber: Stadt Norderstedt, FB Natur und Landschaft&#13;
+&#13;
+Fortschreibung: bei Änderung / Stand: 01.01.2023</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/rundweg1/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/rundweg1/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-16T07:52:39+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.301583</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities#distribution">
+        <dct:title>WFS Rundweg In der Tarpenbek Niederung Stadt Norderstedt (Downloaddienst)</dct:title>
+        <dct:description>Rund- und Wanderwege&#13;
+Rundweg 3 - Der Klänge (in Überarbeitung)&#13;
+&#13;
+Herausgeber: Stadt Norderstedt&#13;
+Fortschreibung: bei Änderung / Stand: 01.12.2022</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T15:08:30+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.301733</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=GML3#distribution">
+        <dct:title>Download als GML</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=GML3"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=GML3"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T15:08:28+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.301888</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=SHAPE-ZIP#distribution">
+        <dct:title>Download als Shape</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=SHAPE-ZIP"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=SHAPE-ZIP"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T15:08:28+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.302029</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=application/json#distribution">
+        <dct:title>Download als Geojson</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=application/json"/>
+        <dcat:downloadURL rdf:resource="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=application/json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-12T15:08:28+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:56:33.302162</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mCloud"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mobilithek"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=CSV"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=SHAPE-ZIP"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/rundweg1/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/wfs?SERVICE=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=GML3"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GML"/>
+  <rdfs:Resource rdf:about="https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=gru:rundweg1&amp;outputFormat=application/json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"/>
+</rdf:RDF>

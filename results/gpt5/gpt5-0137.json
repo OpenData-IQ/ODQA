@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0137",
+  "run_at": "2025-09-01T01:37:36.894145Z",
+  "question_id": 137,
+  "question": "Gibt es Daten dazu, wie viele Familien mit wie vielen Kindern es 2014 in den einzelnen Ortsteilen der Stadt Heimbach gab?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine Auflistung der Familien nach Anzahl der Kinder, unterteilt nach Ortsteilen der Stadt Heimbach zum Stichtag 31.12.2014.",
+  "llm_final": "Ja. Die KDVZ-Offene-Daten-Plattform stellt genau dafür Daten bereit:\n\n- Datensatz: „Familien mit Anzahl Kinder – Stadt Heimbach, Ortsteile 2014“ (Stichtag 31.12.2014)\n- Ressource/Ansicht: https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach/resource/a8695f66-506d-44ec-9bd2-3aa75200c1ea\n- Direkter CSV-Download: https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat197-2014_20161121.csv\n\nInhalt je Ortsteil (Spalten u. a.):\n- bezirk (Ortsteil)\n- anzahl_kinder_je_familie (1, 2, 3, …)\n- familien_mit_kindern (Anzahl Familien)\n- davon_alleinerziehende\n- kinder_in_familien_insgesamt\n- davon_bei_alleinerziehenden\n- alleinlebende_kinder\n\nBeispiel (Ortsteil Blens, 2014):\n- 1 Kind: 11 Familien (davon 6 alleinerziehend)\n- 2 Kinder: 12 Familien (davon 1 alleinerziehend)\n- 3 Kinder: 1 Familie\n\nWenn gewünscht, kann ich Ihnen die Zahlen für alle Ortsteile kompakt extrahieren."
+}

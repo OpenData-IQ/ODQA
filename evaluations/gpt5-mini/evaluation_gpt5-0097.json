@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0097",
+  "run_at": "2025-08-31T12:19:32.461919Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Container-Ausstattung enthält Handschuhe bei folgenden Veranstaltern (laut Datensatz \"Müllsammelaktionen — Containerstandorte\"):\n\n- NABU Mittleres Mecklenburg e.V. — Container-ID 10 (Aktion/Containerstellung: 21.09.2024)  \n- Rostock Müllfrei e.V. — Container-ID 2 (Aktion/Containerstellung: 20.–22.09.2024)\n\nQuelle: muellsammelaktionen_containerstandorte.csv, OpenData Hanse- und Universitätsstadt Rostock — https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.csv",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt die Veranstalter, die Container-IDs, die Aktionsdaten und die genaue Datenquelle mit URL."
+  }
+}

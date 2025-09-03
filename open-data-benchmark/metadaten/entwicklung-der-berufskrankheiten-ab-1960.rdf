@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/be0abdd8-dd35-4669-97b6-576d84f1ca62">
+    <dct:title>Entwicklung der Berufskrankheiten ab 1960</dct:title>
+    <dct:description>Die Tabelle enthält Auswertungen von Daten zu Entwicklung der Berufskrankheiten (BK). Dargestellt sind Gesamtzahlen zu angezeigten Verdachtsfällen, anerkannten BK, Zahl der BK-Renten an Versicherte am Ende des Vorjahres, neue Rentenfälle, berufliche Verursachung festgestellt, besondere versicherungsrechtliche Voraussetzungen nicht erfüllt, Todesfälle mit Tod infolge der BK differenziert für gewerbliche Berufsgenossenschaften ab 1960. &#13;
+Quelle: Unfallversicherungsträger&#13;
+</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.baua.de/DE/Angebote/Publikationen/Berichte/Suga-2016.html"/>
+    </dcat:landingPage>
+    <dct:identifier>be0abdd8-dd35-4669-97b6-576d84f1ca62</dct:identifier>
+    <dcat:keyword>Berufskrankheiten</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-16T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-26T16:49:59.193054</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N815f6c4748d84b9db342f2795d6cc8c5">
+        <vcard:fn>Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA); Fb 1.2 Arbeitsweltberichterstattung</vcard:fn>
+        <vcard:hasStreetAddress>Friedrich-Henkel-Weg 1-25</vcard:hasStreetAddress>
+        <vcard:hasLocality>Dortmund</vcard:hasLocality>
+        <vcard:hasPostalCode>44149</vcard:hasPostalCode>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nfc35e6af04794f0cbbcfa4f2ccd25040">
+        <foaf:name>Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA); Fb 6.2 Veröffentlichungen, Internet</foaf:name>
+        <foaf:mbox>internetredaktion@baua.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.baua.de"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N205029df32a5415a98b432ac0be688d8">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1960-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/be0abdd8-dd35-4669-97b6-576d84f1ca62/resource/aa09deb8-257a-4cdc-a8c9-4285738fd26e">
+        <dct:description>Entwicklung der Berufskrankheiten ab 1960</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2_0"/>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.baua.de/media/BAuAInternet/download/Tabelle_TM_08.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-16T17:20:19.450405</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-16T17:20:19.450405</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesanstaltFuerArbeitsschutzUndArbeitsmedizin"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ne368b91e868a430cbd16ebde161c355f"/>
+    </dct:spatial>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N6ddfd788faf1423cbb39b8216d7ba97d">
+        <foaf:name>Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA); Fb 1.2 Arbeitsweltberichterstattung</foaf:name>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N05f39b53b7f64bd8bbee68b50cdb1b7f">
+        <foaf:name>Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA); Fb 6.2 Veröffentlichungen, Internet</foaf:name>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2_0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+</rdf:RDF>

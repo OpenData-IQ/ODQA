@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Distribution rdf:about="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-ordnung_und_sicherheit#dist-csv">
+    <dct:title>Ordnung und Sicherheit</dct:title>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-03</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:description>de-bw-pforzheim-ordnung_und_sicherheit</dct:description>
+    <dcat:downloadURL rdf:resource="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-ordnung_und_sicherheit/content.csv"/>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dcat:accessURL>
+      <dcat:Dataset rdf:about="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-ordnung_und_sicherheit">
+        <dcat:keyword>Erfasste Rohheitsdelikte und Freiheitsberaubung</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Stadt Pforzheim</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>Feuerwher Alarmierungen</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Fahrpersonalgesetz</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Gefahrgutverordnung Straße</dcat:keyword>
+        <dct:spatial rdf:resource="http://www.geonames.org/2853969"/>
+        <dcat:keyword>Ordnungswiedrigkeit Straßengesetz BW</dcat:keyword>
+        <dcat:keyword>Aufgeklärte Rohheitsdelikte und Freiheitsberaubung</dcat:keyword>
+        <dct:description>Straftaten, Ordnungswidrigkeiten, erteilte Waffenscheine, sonst. waffenrechtliche Erlaubnisse, Fischerei- und Jagdscheine. Quelle: Polizeiliche Kriminalitätsstatistik.</dct:description>
+        <dcat:keyword>Ordnungswiedrigkeit Sozialgesetzbuch</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Bauordnung</dcat:keyword>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:keyword>Aufgeklärte Straftaten gegen die sexuelle Selbstbestimmung</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Schwarzarbeitsgesetz</dcat:keyword>
+        <dcat:keyword>Erfasster Diebstahl ohne erschw. Umstände</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Individual>
+            <vcard:hasEmail>statistik@pforzheim.de</vcard:hasEmail>
+            <vcard:fn>Kommunale Statistikstelle Stadt Pforzheim</vcard:fn>
+          </vcard:Individual>
+        </dcat:contactPoint>
+        <dcat:keyword>Fahren unter Alkohol</dcat:keyword>
+        <dcat:keyword>Erfasste Vermögens- und Fälschungsdelikte</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Sonstige</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Gaststättengesetz und Getränkeschankan</dcat:keyword>
+        <dcat:keyword>Parkverstöße</dcat:keyword>
+        <dcat:keyword>Feuerwehr Brandeinsätze</dcat:keyword>
+        <dcat:distribution rdf:resource="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-ordnung_und_sicherheit#dist-csv"/>
+        <dcat:keyword>Ordnungswiedrigkeit Schulgesetz</dcat:keyword>
+        <dcat:keyword>Aufgeklärter Diebstahl ohne erschw. Umstände</dcat:keyword>
+        <dcat:keyword>Erteilte sonstige waffenrechtliche Erlaubnisse</dcat:keyword>
+        <dcat:keyword>Erfasste Straftaten wider das Leben</dcat:keyword>
+        <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+        <dcat:keyword>Aufgeklärter Diebstahl unter erschw. Umstände</dcat:keyword>
+        <dcat:keyword>Feuerwehr Hilfeleistungsfehlalarme</dcat:keyword>
+        <dcat:keyword>Aufgeklärte Sonstige Straftaten gemäß StGB</dcat:keyword>
+        <dcat:keyword>Feuerwehr Brandfehlalarme</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Jugendschutzgesetz</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Lebensmittelrecht</dcat:keyword>
+        <dcat:keyword>Aufgeklärte Vermögens- und Fälschungsdelikte</dcat:keyword>
+        <dcat:keyword>Feuerwehr Hilfeleistungsalarme</dcat:keyword>
+        <dct:identifier>201</dct:identifier>
+        <dcat:keyword>Ordnungswiedrigkeit Polizeiverordnung städtische Satzungen</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Waffen- und Sprengstoffgesetz</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-03</dct:modified>
+        <dcat:keyword>Jahr</dcat:keyword>
+        <dcat:keyword>Erteilte Jagdscheine</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Gewerbeordnung</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Pflegeversicherung</dcat:keyword>
+        <dcat:keyword>Fahren unter Drogen</dcat:keyword>
+        <dcat:keyword>Aufgeklärte Straftaten wider das Leben</dcat:keyword>
+        <dcat:keyword>Feuerwehr Fehlalarme</dcat:keyword>
+        <dcat:keyword>Erfasste Vergehen im Wirtschaftssektor</dcat:keyword>
+        <dcat:keyword>Feuerwehr Hilfeleistungseinsätze</dcat:keyword>
+        <dcat:keyword>Verkehrsordnungswidrigkeiten Insgesamt</dcat:keyword>
+        <dct:title>Ordnung und Sicherheit</dct:title>
+        <dcat:keyword>Erfasste Sonstige Straftaten gemäß StGB</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dcat:keyword>Ordnungswiedrigkeit Meldegesetz</dcat:keyword>
+        <dcat:keyword>Ordnungswiedrigkeit Ausländer- und Asylverfahrensgesetz</dcat:keyword>
+        <dcat:keyword>Erfasster Diebstahl unter erschw. Umstände</dcat:keyword>
+        <dcat:keyword>Geschwindigkeitsverstöße</dcat:keyword>
+        <dcat:keyword>Erteilte Fischereischeine</dcat:keyword>
+        <dcat:keyword>Erteilte kleine Waffenscheine</dcat:keyword>
+        <dcat:keyword>Aufgeklärte Vergehen im Wirtschaftssektor</dcat:keyword>
+        <dcat:keyword>Feuerwehr Brandarlarme</dcat:keyword>
+        <dcat:keyword>Rotlichtverstöße</dcat:keyword>
+        <dcatde:maintainer>
+          <foaf:Person>
+            <foaf:name>Kommunale Statistikstelle Stadt Pforzheim</foaf:name>
+          </foaf:Person>
+        </dcatde:maintainer>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:keyword>Ordnungswiedrigkeit Abfall- und Naturschutzgesetz</dcat:keyword>
+        <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/082320000000"/>
+        <dcat:keyword>Fahrverbote</dcat:keyword>
+        <dcat:keyword>Erfasste Straftaten gegen die sexuelle Selbstbestimmung</dcat:keyword>
+      </dcat:Dataset>
+    </dcat:accessURL>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  </dcat:Distribution>
+</rdf:RDF>

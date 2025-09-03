@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0106",
+  "run_at": "2025-08-31T12:30:45.635539Z",
+  "question_id": 106,
+  "question": "Hatte die Stadt Oldenburg 2024 mehr oder weniger Einnahmen aus der Hundesteuer als 2014?",
+  "answer": "Die Stadt Oldenburg hatte 2024 mehr Einnahmen aus der Hundesteuer als 2014",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja — 2024 waren die Hundesteuereinnahmen höher.\n\n- 2014: 650.000 €  \n- 2024: 813.000 €  \n- Differenz: +163.000 € (≈ +25,1%)\n\nQuelle: Offene Daten der Stadt Oldenburg (Datensatz \"Hundesteuer\")."
+}

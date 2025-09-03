@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0010",
+  "run_at": "2025-09-03T17:40:33.910860Z",
+  "question_id": 10,
+  "question": "Welche Kommune hatte 2024 mehr verkaufsoffene Sonntage? Emmerich oder Geldern?",
+  "answer": "Geldern. Geldern hatte 2024 5 verkaufsoffene Sonntage und Emmerich 2",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2024 hatte Geldern mehr verkaufsoffene Sonntage als Emmerich. Geldern veranstaltete drei verkaufsoffene Sonntage:\n\n- 7. Januar 2024: Drachen- und Feuerfest\n- 29. September 2024: LandLebenSpaß\n- 8. Dezember 2024: Heiß auf Eis\n\n([worldday.de](https://worldday.de/verkaufsoffener-sonntag-geldern/?utm_source=openai))\n\nEmmerich hingegen hatte zwei verkaufsoffene Sonntage:\n\n- 14. April 2024: Emmericher Auto- und Mobilitätsshow\n- 8. Dezember 2024: Lichtermarkt\n\n([nrz.de](https://www.nrz.de/staedte/emmerich-rees-isselburg/article241955350/Emmerich-Diese-verkaufsoffenen-Sonntage-soll-es-2024-geben.html?utm_source=openai)) "
+}

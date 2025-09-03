@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0062",
+  "run_at": "2025-09-03T13:19:33.461616Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Linie 23 im Verkehrsverbund RNV hat die Farbe Orange, genauer den Farbcode **#E48F00**."
+}

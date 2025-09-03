@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0044",
+  "run_at": "2025-09-01T05:29:09.366877Z",
+  "question_id": 44,
+  "question": "Was ist der Durchschnitt der im Beruf Kanalbauer in den Jahren 2022 und 2023 abgeschlossenen Ausbildungsverträge?",
+  "answer": "112",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": " Daher kann der Durchschnitt der abgeschlossenen Ausbildungsverträge für diesen Beruf in den Jahren 2022 und 2023 nicht ermittelt werden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort ist 112. Das LLM behauptet, der Durchschnitt könne nicht ermittelt werden, was falsch ist und die Frage nicht beantwortet."
+  }
+}

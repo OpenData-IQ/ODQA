@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0036",
+  "run_at": "2025-09-03T13:08:25.221768Z",
+  "question_id": 36,
+  "question": "Wo genau befindet sich die Radzählstation in Kapellen im Rhein-Neuss-Kreis?",
+  "answer": "dort gibt es keine",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut den offenen Daten des Rhein-Kreises Neuss gibt es keine Radzählstation mit dem expliziten Namen \"Kapellen\". Die nächstgelegene Station ist in Grevenbroich, zu dem Kapellen als Stadtteil gehört.\n\n**Standort der Radzählstation Grevenbroich (Kapellen):**\n- Koordinaten: **51.098904, 6.60465**\n\nQuelle: [Rhein-Kreis Neuss: Radzählstationen](https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites)"
+}

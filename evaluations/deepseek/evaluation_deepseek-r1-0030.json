@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0030",
+  "run_at": "2025-09-03T07:07:41.984264Z",
+  "question_id": 30,
+  "question": "Wie viele Kehrmeter hat der Anne-Frank-Weg in Rostock?",
+  "answer": "369.21",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "**FinalAnswer:**  \nDer Anne-Frank-Weg in Rostock hat **0 Kehrmeter**, da er nicht in den Straßenreinigungsdaten der Hanse- und Universitätsstadt Rostock gelistet ist.  \nQuelle: [Straßenreinigung Datensatz](https://www.opendata-hro.de/dataset/42d758f4-acc9-47a5-a428-1911206c3aa5)  \n\n*Hinweis: Mögliche Gründe könnten eine Umbenennung der Straße, eine abweichende Zuständigkeit oder eine fehlende Erfassung in der Satzung sein. Für detaillierte Auskünfte kontaktieren Sie bitte das zuständige Amt.*",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der Goldstandard ist 369,21 Kehrmeter; die Antwort behauptet 0 Kehrmeter und „nicht gelistet“ – das ist falsch."
+  }
+}

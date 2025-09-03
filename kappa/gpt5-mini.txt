@@ -1,0 +1,5 @@
+Compared 48 items
+Unweighted κ       = 0.772
+Quadratic weighted κ = 0.810  CI95 = (0.639, 0.947)  -> ADOPT
+LLM distribution : {'perfect': 28, 'problem_answers': 18, 'acceptable': 2}
+Human distribution: {'perfect': 23, 'problem_answers': 22, 'partially': 2, 'acceptable': 1}

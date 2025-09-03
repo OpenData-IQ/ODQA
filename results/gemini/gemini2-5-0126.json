@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0126",
+  "run_at": "2025-09-01T06:07:53.225691Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The provided datasets do not contain information about emigration from Wesseling to the United States. They focus on naturalizations, asylum seekers, and foreign residents within Germany. Therefore, I cannot answer your question with the available data."
+}

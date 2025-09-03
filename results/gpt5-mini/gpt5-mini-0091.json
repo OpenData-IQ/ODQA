@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0091",
+  "run_at": "2025-08-31T12:13:45.720993Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

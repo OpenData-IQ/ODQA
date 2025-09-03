@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0099",
+  "run_at": "2025-09-03T13:50:22.893070Z",
+  "question_id": 99,
+  "question": "Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar?",
+  "answer": "80",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "csv auf englisch",
+  "llm_final": "Laut den verfügbaren offenen Daten gibt es einen Datensatz zu Poststationen in der Metropolregion Rhein-Neckar, der auch Informationen zur Barrierefreiheit (z.B. Rollstuhlgerechtigkeit) enthält. Die genaue Anzahl der uneingeschränkt mit dem Rollstuhl erreichbaren Poststationen kann durch Auswertung der Spalte „wheelchair“ (Wert: „yes“) in der CSV-Datei des Datensatzes ermittelt werden.\n\nHier finden Sie den Datensatz zum Download:\n[Poststationen in der Metropolregion Rhein-Neckar (CSV)](https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=metropolatlas%3AOSM_MRN_amenity_post_office_4326_Point&outputFormat=csv)\n\nEine konkrete Zahl kann ich Ihnen leider nicht direkt nennen, da eine technische Auswertung des Datensatzes aktuell nicht möglich war. Sie können jedoch die Datei herunterladen und nach dem Kriterium „wheelchair = yes“ filtern, um die genaue Anzahl zu erhalten."
+}

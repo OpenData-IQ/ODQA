@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3606800c-2b56-48a9-b727-fcf88231e9e4">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Jahreszahlen der Stadtteilbücherei Bilk</dct:title>
+    <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen in der Stadtteilbücherei Bilk</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3606800c-2b56-48a9-b727-fcf88231e9e4"/>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3606800c-2b56-48a9-b727-fcf88231e9e4"/>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:31:50+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:18:27+02:00</dct:modified>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/abeb20c4-63ff-41bb-becf-bab88af3be7f">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Jahreszahlen der Stadtteilbücherei Unterbach</dct:title>
+    <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Unterbach</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/abeb20c4-63ff-41bb-becf-bab88af3be7f"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/unterbach_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/abeb20c4-63ff-41bb-becf-bab88af3be7f"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:08:18+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:53:11+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">295</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/30c23678-8fa7-48db-9224-4fe95c086ab7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Jahreszahlen der Stadtteilbücherei Flingern</dct:title>
+    <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Flingern</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/30c23678-8fa7-48db-9224-4fe95c086ab7"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/flingern_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/30c23678-8fa7-48db-9224-4fe95c086ab7"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:12:41+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:58:14+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">305</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e87f4316-63f7-4d25-8d28-497b8b80346b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Jahreszahlen der Stadtteilbücherei Oberkassel</dct:title>
+    <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Oberkassel</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e87f4316-63f7-4d25-8d28-497b8b80346b"/>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e87f4316-63f7-4d25-8d28-497b8b80346b"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:42:27+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:24:42+02:00</dct:modified>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.duesseldorf.de/dataset/jahreszahlen-der-stadtb%C3%BCchereien-der-landeshauptstadt-d%C3%BCsseldorf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Jahreszahlen der Stadtbüchereien der Landeshauptstadt Düsseldorf</dct:title>
+    <dct:description><![CDATA[<p>Der Datensatz enthält die Angaben über den Bestand, die Ausleihen und die Besucherzahlen Stadtbüchereien in Düsseldorf getrennt nach den einzelnen Büchereistandorten.</p>
+
+<p> Die Stadtbüchereien in Düsseldorf sind auf <a href="http://opendata.duesseldorf.de/dataset/standorte-und-%C3%B6ffnungzeiten-der-d%C3%BCsseldorfer-stadtb%C3%BCchereien" target="_blank" title="Standorte und Öffnungszeiten">15 Standorte</a> aufgeteilt. Der Bücherbus hat zum Jahresende 2015 seinen Betrieb eingestellt.</p>
+
+<p>Den Internetauftritt der Stadtbüchereien finden sie hier: <a href="https://www.duesseldorf.de/stadtbuechereien.html" target="_blank" title="Startseite Stadtbüchereien">https://www.duesseldorf.de/stadtbuechereien.html</a></p>
+
+<p>Die Dateien der „Stadtteilbüchereien“ enthalten folgende Spalteninformationen:</p>
+
+<ul>
+	<li>Jahr: Jahr der Erhebung</li>
+	<li>Bestand: Anzahl der vorhandenen Medien</li>
+	<li>Ausleihe: Anzahl der entliehenen Medien</li>
+	<li>Besuche: Anzahl der Besucher</li>
+</ul>
+
+<p>Bei der Online-Bibliothek entfällt die Besucherzahl.</p>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.duesseldorf.de/stadtbuechereien/alles-ueber-uns/ueber-uns.html"/>
+    </dcat:landingPage>
+    <dct:identifier>1c3e7784-b823-4e06-9c30-39345b47ebb4</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>bildung-und-wissenschaft</dcat:keyword>
+    <dcat:keyword>freizeit</dcat:keyword>
+    <dcat:keyword>kultur</dcat:keyword>
+    <dcat:keyword>sport-und-tourismus</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:54:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:28:30+02:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/jahreszahlen-der-stadtb%C3%BCchereien-der-landeshauptstadt-d%C3%BCsseldorf"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nffff5f01246748699207a6b13f59df7e">
+        <vcard:fn>Open-Data-Team der Landeshauptstadt Düsseldorf</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@duesseldorf.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/6860d913-ec66-4970-b239-a6dcecf428c4">
+        <foaf:name>Düsseldorf</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nf0df4c4a9d9f42c4b2c190ab28c0b415">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8476eaf8-30df-45d2-bea9-16e781387539">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Online Bibliothek</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand und die Ausleihen der Online Bibliothek</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8476eaf8-30df-45d2-bea9-16e781387539"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/online_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8476eaf8-30df-45d2-bea9-16e781387539"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:03:26+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:50:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">220</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b80287fa-c342-42cf-91ed-3b0be6181bec">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Rath</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Rath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b80287fa-c342-42cf-91ed-3b0be6181bec"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b80287fa-c342-42cf-91ed-3b0be6181bec"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:43:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:25:51+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/cbd5c180-eb70-4459-a722-4025f6c43fb3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Zentralbibliothek</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Zentralbibliothek</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/cbd5c180-eb70-4459-a722-4025f6c43fb3"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/cbd5c180-eb70-4459-a722-4025f6c43fb3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:28:54+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:16:22+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e9da41c7-34b6-4130-a0b4-298648509a38">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Eller</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Eller</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e9da41c7-34b6-4130-a0b4-298648509a38"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e9da41c7-34b6-4130-a0b4-298648509a38"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:35:38+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:20:46+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b8ff1074-5882-465f-a196-2a54256774b5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Garath</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Garath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b8ff1074-5882-465f-a196-2a54256774b5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/garath_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b8ff1074-5882-465f-a196-2a54256774b5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:12:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:57:34+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1c5f078d-89a4-4f43-87a9-3a467769f62e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Hassels</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Hassels</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1c5f078d-89a4-4f43-87a9-3a467769f62e"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1c5f078d-89a4-4f43-87a9-3a467769f62e"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:40:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:23:28+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/0da54650-cb82-461d-b21f-6c1f188b543a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Hassels</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Hassels</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/0da54650-cb82-461d-b21f-6c1f188b543a"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/hassels_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/0da54650-cb82-461d-b21f-6c1f188b543a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:11:06+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:56:05+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">270</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1db90be9-576a-4ad4-b9b9-a55015141c21">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Garath</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Garath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1db90be9-576a-4ad4-b9b9-a55015141c21"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1db90be9-576a-4ad4-b9b9-a55015141c21"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:38:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:22:18+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/37494822-579b-4d68-ad32-5724c3ae75ba">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Kaiserswerth</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Kaiserswerth</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/37494822-579b-4d68-ad32-5724c3ae75ba"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/37494822-579b-4d68-ad32-5724c3ae75ba"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:41:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:24:04+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d9a3b18a-20cd-427b-bc92-5a4439a27eee">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Gerresheim</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Gerresheim</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d9a3b18a-20cd-427b-bc92-5a4439a27eee"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d9a3b18a-20cd-427b-bc92-5a4439a27eee"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:39:14+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:22:54+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5c0c3e0b-31a3-4211-b8d8-1acd80c3af15">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Flingern</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Flingern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5c0c3e0b-31a3-4211-b8d8-1acd80c3af15"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5c0c3e0b-31a3-4211-b8d8-1acd80c3af15"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:37:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:21:19+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/30c23678-8fa7-48db-9224-4fe95c086ab7"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8e0c3509-d562-45b8-909d-1b49b9f9d045">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Oberkassel</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Oberkassel</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8e0c3509-d562-45b8-909d-1b49b9f9d045"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/oberkassel_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8e0c3509-d562-45b8-909d-1b49b9f9d045"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:09:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:54:43+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b3a804ba-85cf-4a84-97da-9eed5cffac37">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Benrath</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Benrath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b3a804ba-85cf-4a84-97da-9eed5cffac37"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Benrath_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/b3a804ba-85cf-4a84-97da-9eed5cffac37"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:16:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T13:20:34+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/837040f6-2ca7-4543-a15a-c5f6b37aa199">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Unterrath</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Unterrath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/837040f6-2ca7-4543-a15a-c5f6b37aa199"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/837040f6-2ca7-4543-a15a-c5f6b37aa199"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:45:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:27:12+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1e12329d-6c76-4640-9a28-7581087e61ca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Wersten</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Wersten</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1e12329d-6c76-4640-9a28-7581087e61ca"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/1e12329d-6c76-4640-9a28-7581087e61ca"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:46:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:28:00+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/abeb20c4-63ff-41bb-becf-bab88af3be7f"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8bfde7c1-4400-4c47-8a46-c049c417972b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen des Bücherbusses</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen des Bücherbusses -eingestellt-</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8bfde7c1-4400-4c47-8a46-c049c417972b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/B%C3%BCcherbus.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/8bfde7c1-4400-4c47-8a46-c049c417972b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:15:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-10T13:23:24+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">221</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/40c03f27-cf11-4b95-8c63-0f6b7323f363">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Gerresheim</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Gerresheim</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/40c03f27-cf11-4b95-8c63-0f6b7323f363"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/gerresheim_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/40c03f27-cf11-4b95-8c63-0f6b7323f363"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:11:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:56:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e87f4316-63f7-4d25-8d28-497b8b80346b"/>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3606800c-2b56-48a9-b727-fcf88231e9e4"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/2eaa9e66-436c-4b50-bd73-681acb685ef9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen des Bücherbusses</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen des Bücherbusses -eingestellt-</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/2eaa9e66-436c-4b50-bd73-681acb685ef9"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/2eaa9e66-436c-4b50-bd73-681acb685ef9"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:33:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:19:01+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/45b9ce1b-9ddf-452f-b5eb-276f4aaac6b9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Online Bibliothek</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand und die Ausleihen der Online Bibliothek</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/45b9ce1b-9ddf-452f-b5eb-276f4aaac6b9"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/45b9ce1b-9ddf-452f-b5eb-276f4aaac6b9"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:47:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:28:30+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/23dd45de-feb5-4241-b40e-60536135c3b3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Eller</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Eller</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/23dd45de-feb5-4241-b40e-60536135c3b3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/eller_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/23dd45de-feb5-4241-b40e-60536135c3b3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:13:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:58:52+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e57d765d-dfc2-43b9-ab92-e39006bed3c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Derendorf</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Derendorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e57d765d-dfc2-43b9-ab92-e39006bed3c3"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e57d765d-dfc2-43b9-ab92-e39006bed3c3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:34:25+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:20:08+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/74a2b7a5-a100-4c3e-8830-53421ebb19fc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Kaiserswerth</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Kaiserswerth</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/74a2b7a5-a100-4c3e-8830-53421ebb19fc"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/kaiserswerth_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/74a2b7a5-a100-4c3e-8830-53421ebb19fc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:10:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:55:24+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/86ce9223-762a-4b36-a451-815822b8bf0f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Derendorf</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Derendorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/86ce9223-762a-4b36-a451-815822b8bf0f"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/derendorf_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/86ce9223-762a-4b36-a451-815822b8bf0f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:13:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:59:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7bcf3b61-8986-41b8-8e4a-8ab01627a665">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Wersten</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Wersten</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7bcf3b61-8986-41b8-8e4a-8ab01627a665"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/wersten_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7bcf3b61-8986-41b8-8e4a-8ab01627a665"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:06:24+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:51:43+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">307</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3297808e-c5b3-42d7-9f52-995776c168c6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Rath</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Rath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3297808e-c5b3-42d7-9f52-995776c168c6"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/rath_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/3297808e-c5b3-42d7-9f52-995776c168c6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:09:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:54:32+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7a4e8d9d-7c38-4737-bed3-196d4099bb25">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Bilk</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Bilk</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7a4e8d9d-7c38-4737-bed3-196d4099bb25"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Bilk_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/7a4e8d9d-7c38-4737-bed3-196d4099bb25"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:16:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T13:19:05+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">305</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d6a4502e-aaf7-4e13-8c19-c35a6b983364">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Zentralbibliothek</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Zentralbibliothek</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d6a4502e-aaf7-4e13-8c19-c35a6b983364"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/zentralbibliothek_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/d6a4502e-aaf7-4e13-8c19-c35a6b983364"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:17:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T13:21:46+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">339</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5be0f6ea-7fe5-48c4-824c-1315c9a2a4d5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Benrath</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen in der Stadtteilbücherei Benrath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5be0f6ea-7fe5-48c4-824c-1315c9a2a4d5"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/5be0f6ea-7fe5-48c4-824c-1315c9a2a4d5"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:30:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:17:25+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/03bb4872-b315-421b-8821-237c6ec86457">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Unterrath</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Unterrath</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/03bb4872-b315-421b-8821-237c6ec86457"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/unterrath_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/03bb4872-b315-421b-8821-237c6ec86457"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T11:07:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T12:52:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">306</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/81ad3caa-4d9e-491d-81c3-637f350bd4f8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Jahreszahlen der Stadtteilbücherei Unterbach</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei der Angaben über den Bestand, die Ausleihen und die Besucherzahlen der Stadtteilbücherei Unterbach</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/81ad3caa-4d9e-491d-81c3-637f350bd4f8"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/81ad3caa-4d9e-491d-81c3-637f350bd4f8"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-16T12:44:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-25T09:26:24+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://opendata.duesseldorf.de/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/online_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Benrath_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/zentralbibliothek_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/rath_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/gerresheim_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/unterrath_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/garath_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Bilk_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/hassels_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/eller_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/B%C3%BCcherbus.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/kaiserswerth_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/oberkassel_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/wersten_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/derendorf_0.csv"/>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0089",
+  "run_at": "2025-08-31T23:59:09.048004Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 400000 tokens. However, you requested about 1780970 tokens (1780152 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

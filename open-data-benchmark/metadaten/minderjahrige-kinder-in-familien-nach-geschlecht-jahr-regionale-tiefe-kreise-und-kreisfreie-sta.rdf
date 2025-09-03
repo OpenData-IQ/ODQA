@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12211-Z-12_00.csv#dataset">
+    <dct:title>Minderjährige Kinder in Familien nach Geschlecht  - Jahr -regionale Tiefe: Kreise und kreisfreie Städte</dct:title>
+    <dct:description>Minderjährige Kinder in Familien nach Geschlecht  - Jahr -regionale Tiefe: Kreise und kreisfreie Städte</dct:description>
+    <dct:identifier rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12211-Z-12_00"/>
+    <dcat:keyword>geschlecht</dcat:keyword>
+    <dcat:keyword>grundprogramm-des-mikrozensus</dcat:keyword>
+    <dcat:keyword>jahr</dcat:keyword>
+    <dcat:keyword>kreise-und-kreisfreie-städte</dcat:keyword>
+    <dcat:keyword>minderjährige-kinder-in-familien</dcat:keyword>
+    <dcat:keyword>männlich</dcat:keyword>
+    <dcat:keyword>weiblich</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-08-17T10:43:02</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-11T14:04:24</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N1a44444649194a9da023f2fae0b95e15">
+        <vcard:fn>Statistische Ämter des Bundes und der Länder</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:regionaldatenbank@it.nrw.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/1e17f560-2061-4219-a37d-61e2fce75336">
+        <foaf:name>Regionalstatistik</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12211-Z-12_00.csv#distribution">
+        <dct:description>Minderjährige Kinder in Familien nach Geschlecht  - Jahr -regionale Tiefe: Kreise und kreisfreie Städte</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12211-Z-12_00.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-26T03:38:25.755979</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-28T07:41:57.438290</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/genesisDestatis"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/regionalstatistik"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N12c93ec5a0024fc5a7f19bf0b65b0c95">
+        <foaf:name>Statistische Ämter des Bundes und der Länder</foaf:name>
+        <foaf:mbox>regionaldatenbank@it.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="Statistische%20Ämter%20des%20Bundes%20und%20der%20Länder"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/12211-Z-12_00.csv"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

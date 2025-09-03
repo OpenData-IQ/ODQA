@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Dataset rdf:about="https://registry.gdi-de.org/id/de.bund.uba/082c25dd-208e-4696-80a5-fdbd3a60f960">
+    <dct:title>Visualisierung abfallwirtschaftlicher Best Practice Beispiele (Datensatz)</dct:title>
+    <dct:description>Zielstellung der Entwicklung ist es, Fachleuten und der interessierten Öffentlichkeit Projekttätigkeiten im Bereich des Abfalltechnologietransfers übersichtlich darzustellen. So werden in einer interaktiven Karte Projektträger, Projektstandorte und deren Wirkbereiche visualisiert. Zusätzlich können Informationen wie Kontaktdaten, Projektlaufzeiten oder Projektsteckbriefe über die Karte abgefragt und heruntergeladen werden. Durch dieses ressortübergreifende Angebot wird zudem die Abstimmung und Kooperation zwischen Projektbeteiligten erleichtert.</dct:description>
+    <dct:identifier>082c25dd-208e-4696-80a5-fdbd3a60f960</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequencyCode/notPlanned"/>
+    </dct:accrualPeriodicity>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword>abfall</dcat:keyword>
+    <dcat:keyword>abfallbeseitigung</dcat:keyword>
+    <dcat:keyword>abfallwirtschaft</dcat:keyword>
+    <dcat:keyword>abfälle</dcat:keyword>
+    <dcat:keyword>cleaner-production-germany</dcat:keyword>
+    <dcat:keyword>cpg</dcat:keyword>
+    <dcat:keyword>deutschland</dcat:keyword>
+    <dcat:keyword>global</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dcat:keyword>schadstoffe</dcat:keyword>
+    <dcat:keyword>umweltverschmutzung</dcat:keyword>
+    <dcat:keyword>umweltüberwachung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-27</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nf6d390e19d3c423ab28c66bc2424f428">
+        <vcard:fn>Umweltbundesamt</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:info@umweltbundesamt.de"/>
+        <vcard:hasURL rdf:resource="https://www.umweltbundesamt.de/"/>
+        <vcard:hasTelephone rdf:resource="tel:+0340-2103-0"/>
+        <vcard:hasStreetAddress>Wörlitzer Platz 1</vcard:hasStreetAddress>
+        <vcard:hasLocality>Dessau-Roßlau</vcard:hasLocality>
+        <vcard:hasPostalCode>06844</vcard:hasPostalCode>
+        <vcard:hasCountryName>Deutschland</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N50efad02897641e6867bc3b578e63cd5">
+        <foaf:name>Umweltbundesamt</foaf:name>
+        <foaf:mbox>info@umweltbundesamt.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.umweltbundesamt.de/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N35a96b4a34e344b081eb857741b17cc5">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-01-01</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-31</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ndce8d8ac562c49ba8feb8adf8bde9d1e">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((-17.6100 77.2500, 54.1300 77.2500, 54.1300 27.9000, -17.6100 27.9000, -17.6100 77.2500))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nd6d5fe09bde84835ad5cd77a3eaba045">
+        <rdfs:label>Es gelten keine Zugriffsbeschränkungen</rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_CSV.zip#distribution">
+        <dct:title>Datensatz herunterladen (ZIP/CSV)</dct:title>
+        <dct:description>Datensatz herunterladen (ZIP/CSV)</dct:description>
+        <dcat:accessURL rdf:resource="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_CSV.zip"/>
+        <dcat:downloadURL rdf:resource="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_CSV.zip"/>
+        <foaf:page rdf:resource="https://www.umweltbundesamt.de/publikationen/umwelttechnologietransfer-durch-gis-basierte-1"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-25T23:31:59.297570</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T23:31:41.512342</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_XLSX.zip#distribution">
+        <dct:title>Datensatz herunterladen (ZIP/XLSX)</dct:title>
+        <dct:description>Datensatz herunterladen (ZIP/XLSX)</dct:description>
+        <dcat:accessURL rdf:resource="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_XLSX.zip"/>
+        <dcat:downloadURL rdf:resource="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_XLSX.zip"/>
+        <foaf:page rdf:resource="https://www.umweltbundesamt.de/publikationen/umwelttechnologietransfer-durch-gis-basierte-1"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-25T23:31:59.297575</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-27T23:31:41.512475</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:identifier>082c25dd-208e-4696-80a5-fdbd3a60f960</adms:identifier>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/umweltbundesamt"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_XLSX.zip"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <foaf:Document rdf:about="https://www.umweltbundesamt.de/publikationen/umwelttechnologietransfer-durch-gis-basierte-1"/>
+  <rdfs:Resource rdf:about="https://gis.uba.de/daten/082c25dd-208e-4696-80a5-fdbd3a60f960_CSV.zip"/>
+</rdf:RDF>

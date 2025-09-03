@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0102",
+  "run_at": "2025-09-01T21:49:47.675075Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es im Zeitraum 2016-2019 in Dortmund mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: In Dortmund gab es in den Jahren 2016, 2017, 2018 und 2019 mehr als 2500 Eheschließungen. Quelle: https://open-data.dortmund.de/api/v2/catalog/datasets/fb33-eheschliessungen-in-dortmund-seit-2016.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "In der LLM-Antwort ist der korrekte Zeitraum aufgeführt."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0080",
+  "run_at": "2025-09-01T21:27:20.380298Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nDie Daten zu Heizungsarten in neuen Wohngebäuden für 2023 sind in den aktuell verfügbaren Datensätzen nicht direkt abrufbar. Die durchsuchten Datensätze enthalten Informationen zu Bauaktivitäten, Wohnungszahlen und Gebäudearten, aber keine spezifischen Angaben zur Heizenergie. Für bundesweite Statistiken empfiehlt sich die Datenbank des Statistischen Bundesamtes (Destatis), z. B. Tabelle *31121-0001: Baufertigstellungen im Hochbau*.  \n**Quelle:** [Statistisches Bundesamt](https://www-genesis.destatis.de) – Dataset URI nicht direkt verfügbar, bitte über Destatis suchen."
+}

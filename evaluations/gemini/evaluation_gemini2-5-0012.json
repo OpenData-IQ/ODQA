@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0012",
+  "run_at": "2025-09-01T05:20:35.768602Z",
+  "question_id": 12,
+  "question": "Welche Leistung haben die Vestas Windkraftanlagen in Stormarn Feldhorst?",
+  "answer": "es gibt dort keine von vestas",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Die Vestas Windkraftanlage in Stormarn Feldhorst hat eine Leistung von 3450 kW.\n\nQuelle: https://opendata.schleswig-holstein.de/dataset/f574406d-f8ff-4780-b847-69cda67ca417",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort stellt klar, dass es dort keine Vestas-Anlagen gibt. Das LLM behauptet dennoch eine Leistung von 3450 kW und liegt damit inhaltlich falsch."
+  }
+}

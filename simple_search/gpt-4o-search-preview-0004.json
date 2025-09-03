@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0004",
+  "run_at": "2025-09-03T17:39:46.443742Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Für den Kreis Nordfriesland liegen keine spezifischen Daten zur Anzahl der untergebrachten wohnungslosen Frauen im Jahr 2024 vor. Auf Landesebene meldete Niedersachsen zum Stichtag 31. Januar 2024 insgesamt rund 33.000 untergebrachte wohnungslose Personen, davon 14.735 Frauen (45 %). ([statistik.niedersachsen.de](https://www.statistik.niedersachsen.de/presse/33-000-kinder-frauen-und-manner-ende-januar-2024-in-niedersachen-wegen-wohnungslosigkeit-untergebracht-236274.html?utm_source=openai)) Auf Bundesebene waren zum gleichen Zeitpunkt etwa 439.500 Personen untergebracht, wobei 43 % Frauen waren. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_282_229.html?utm_source=openai)) "
+}

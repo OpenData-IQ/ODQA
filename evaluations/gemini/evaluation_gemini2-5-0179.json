@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0179",
+  "run_at": "2025-09-01T08:34:47.209008Z",
+  "question_id": 179,
+  "question": "Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?",
+  "answer": "Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": " The datasets contain information about human births and population statistics, but not about mythical creatures.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort impliziert zwar korrekt, dass Fabelwesen nicht erfasst werden, nennt aber nicht explizit die geforderte Zahl („keine“). Sie beantwortet die Frage daher nur indirekt und bleibt vage."
+  }
+}

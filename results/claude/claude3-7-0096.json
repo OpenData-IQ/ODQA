@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0096",
+  "run_at": "2025-09-01T14:48:41.787456Z",
+  "question_id": 96,
+  "question": "In welchen Kölner Stadtteilen gibt es Betriebshöfe zur Abgabe von Elektrokleingeräten?",
+  "answer": "Kalk, Bayenthal, Ehrenfeld",
+  "question_type": "set",
+  "source": "2",
+  "remark": "xml ist nur über 9805db02-fa3a-49b1-87ec-0cbc293ff25a.html zu finden",
+  "llm_final": "Ich habe die Daten zu den Betriebshöfen in Köln analysiert und kann Ihre Frage nun beantworten.\n\n**FinalAnswer:**\n\nIn Köln gibt es Betriebshöfe zur Abgabe von Elektrokleingeräten in folgenden Stadtteilen:\n\n1. Kalk - Betriebshof Christian-Sünner-Straße 21, 51105 Köln\n2. Bayenthal (im Stadtbezirk Rodenkirchen) - Betriebshof Alteburger Straße 141, 50968 Köln\n3. Ehrenfeld - Betriebshof Maarweg 271, 50825 Köln\n\nAlle drei Betriebshöfe haben die gleichen Öffnungszeiten für die Abgabe von Elektrokleingeräten:\n- Montag bis Donnerstag: 08:00 - 16:00 Uhr\n- Freitag: 07:00 - 12:00 Uhr\n\nQuelle: https://offenedaten-koeln.de/dataset/betriebsh%C3%B6fe-k%C3%B6ln"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0152",
+  "run_at": "2025-09-01T22:59:02.859669Z",
+  "question_id": 152,
+  "question": "Welche Arten von Änderungen des Familienstands wurden im Jahr 2017 in der Gemeinde Hürtgenwald erfasst?",
+  "answer": "Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Eheschließung, Ehescheidung, Tod des Ehegatten, Tod des Lebenspartners",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "<FinalAnswer>\nIm Jahr 2017 wurden in der Gemeinde Hürtgenwald folgende Änderungen des Familienstands erfasst:  \n- Eheschließungen  \n- Ehescheidungen  \n- Tod des Ehegatten  \n- Begründung von Lebenspartnerschaften  \n- Aufhebung von Lebenspartnerschaften  \n\nQuelle: [Dataset URI](https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-gemeinde-h%C3%BCrtgenwald)\n</FinalAnswer>",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort listet fünf der sechs Kategorien korrekt auf, lässt jedoch „Tod des Lebenspartners“ aus. Ansonsten inhaltlich passend, aber unvollständig."
+  }
+}

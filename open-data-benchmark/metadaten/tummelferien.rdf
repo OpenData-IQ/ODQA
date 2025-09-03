@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d">
+    <dct:title>Tummelferien</dct:title>
+    <dct:description>Der Datensatz enthält die Teilnehmerzahlen der einzelnen Spielpunkte der Tummelferien in Moers.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="http://www.offenedaten.moers.de"/>
+    </dcat:landingPage>
+    <dct:identifier>8711a0fa-45b0-4761-9754-fccfd8f5ff1d</dct:identifier>
+    <dcat:keyword>jugend</dcat:keyword>
+    <dcat:keyword>kinder</dcat:keyword>
+    <dcat:keyword>tummelferien</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-10-11T12:36:39.728630</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-28T11:17:31.730159</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Na087a7ff16c94779a8e6fc4dafa6ad99">
+        <vcard:fn>Lena Brandau</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:Lena.Brandau@moers.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.ruhr/organization/aa98d7be-6412-4eb6-bf4d-fcc1bdbed886">
+        <foaf:name>Moers</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N49a324012945460aaa449b7260031ba1">
+        <foaf:name>Stadt Moers</foaf:name>
+        <foaf:mbox>offenedaten@moers.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N8782fdce62244b948ebbbb645ce2d997">
+        <foaf:name>Stadt Moers</foaf:name>
+        <foaf:mbox>offenedaten@moers.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/aa47f01a-a652-457b-9716-2639f00f845a">
+        <dct:title>Tummelferien 2011</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/aa47f01a-a652-457b-9716-2639f00f845a/download/tummelferien2011.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-06T14:25:26.428992</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T08:01:29.619758</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/ecd5d615-3d7f-436d-90d4-6db36b25c00d">
+        <dct:title>Tummelferien 2014</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/ecd5d615-3d7f-436d-90d4-6db36b25c00d/download/tummelferien2014.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-06T14:27:53.387465</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T08:00:49.407268</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/766a84d7-d66c-4bf8-b36b-764b4ae95fe5">
+        <dct:title>Tummelferien 2013</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/766a84d7-d66c-4bf8-b36b-764b4ae95fe5/download/tummelferien2013.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-06T14:26:54.932981</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T08:01:02.750995</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/0f8ac725-9395-42c6-85d6-ce75dd39a93e">
+        <dct:title>Tummelferien 2016</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert. </dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/0f8ac725-9395-42c6-85d6-ce75dd39a93e/download/anmeldungentummelferien2016.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T09:50:35.083312</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T07:56:53.024750</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/06b2b4fe-2f19-4355-874f-551dc3b17f39">
+        <dct:title>Tummelferien 2015</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert. </dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/06b2b4fe-2f19-4355-874f-551dc3b17f39/download/anmeldungentummelferien2015.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T09:49:46.435119</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T07:57:11.869618</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7b10511f-1e6a-4a38-b46a-d188a48cbbb1">
+        <dct:title>Tummelferien 2010</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7b10511f-1e6a-4a38-b46a-d188a48cbbb1/download/tummelferien-2010.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-06T13:19:45.209635</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T08:03:17.022517</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7d131217-cda4-4104-a5eb-e0a0ab5be9af">
+        <dct:title>Tummelferien 2012</dct:title>
+        <dct:description>Die Daten sind nach Spielpunkten sortiert.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7d131217-cda4-4104-a5eb-e0a0ab5be9af/download/tummelferien2012.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-06T14:26:15.403312</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-07T08:01:16.189011</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7e878710-53bb-4e03-b1cb-0734d5c3c14e">
+        <dct:title>All resource data</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7e878710-53bb-4e03-b1cb-0734d5c3c14e/download/tummelferien-1pv00vo4.zip"/>
+        <dcat:mediaType>application/zip</dcat:mediaType>
+        <dct:format>ZIP</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-08-11T15:29:53.495666</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-08-11T15:29:53.454673</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3116</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N1aa8855a25ba47308c16ade51ee1cd13">
+        <foaf:name>Lena Brandau</foaf:name>
+        <foaf:mbox>Lena.Brandau@moers.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/0f8ac725-9395-42c6-85d6-ce75dd39a93e/download/anmeldungentummelferien2016.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7b10511f-1e6a-4a38-b46a-d188a48cbbb1/download/tummelferien-2010.csv"/>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7d131217-cda4-4104-a5eb-e0a0ab5be9af/download/tummelferien2012.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.ruhr/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/7e878710-53bb-4e03-b1cb-0734d5c3c14e/download/tummelferien-1pv00vo4.zip"/>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/ecd5d615-3d7f-436d-90d4-6db36b25c00d/download/tummelferien2014.csv"/>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/766a84d7-d66c-4bf8-b36b-764b4ae95fe5/download/tummelferien2013.csv"/>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/aa47f01a-a652-457b-9716-2639f00f845a/download/tummelferien2011.csv"/>
+  <rdfs:Resource rdf:about="https://www.offenesdatenportal.de/dataset/8711a0fa-45b0-4761-9754-fccfd8f5ff1d/resource/06b2b4fe-2f19-4355-874f-551dc3b17f39/download/anmeldungentummelferien2015.csv"/>
+</rdf:RDF>

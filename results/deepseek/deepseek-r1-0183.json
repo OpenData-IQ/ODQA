@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0183",
+  "run_at": "2025-09-03T07:40:09.583262Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Anzahl der Eheschließungen im Jahr 2015 in der Gemeinde Titz lässt sich **nicht direkt aus den bereitgestellten Daten ableiten**. \n\n### Gründe für die fehlende Information:\n1. **Keine spezifischen Datensätze für 2015**: Die unter dem Dataset *D27 Statistiken Standesamt Titz* gelisteten Daten zu Eheregistern (z. B. \"Statistiken Standesamt Eheregister Titz 2017/2018\") decken nur die Jahre **2017 und 2018** ab. Für 2015 sind keine vergleichbaren Einträge vorhanden.\n2. **Fokus auf andere Register**: Die verfügbaren Statistiken für 2015 beziehen sich auf Sterbe- und Geburtenregister sowie besondere Beurkundungen (z. B. Namensänderungen), nicht jedoch auf Eheschließungen.\n\n### Empfehlung:\n- **Direkte Anfrage an die Gemeinde Titz**: Für genaue Zahlen zu Eheschließungen im Jahr 2015 sollte das Standesamt der Gemeinde Titz kontaktiert werden.\n- **Überprüfung externer Quellen**: Statistische Landesämter (z. B. IT.NRW für Nordrhein-Westfalen) veröffentlichen oft kommunale Daten, die solche Informationen enthalten könnten.\n\n**Hinweis**: Die hier analysierten Daten stammen aus dem Open-Data-Portal der Gemeinde Titz ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw))."
+}

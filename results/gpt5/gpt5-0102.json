@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0102",
+  "run_at": "2025-09-01T00:19:03.200028Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2016, 2017, 2018 und 2019.\n\nQuelle: Open Data Dortmund – Eheschließungen in Dortmund seit 2016\nhttps://open-data.dortmund.de/api/v2/catalog/datasets/fb33-eheschliessungen-in-dortmund-seit-2016"
+}

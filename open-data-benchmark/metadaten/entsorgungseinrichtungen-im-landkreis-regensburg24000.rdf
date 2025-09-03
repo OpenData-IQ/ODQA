@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://open.bydata.de/api/hub/repo/datasets/https-lk-regensburg-bydata-de-dataset-enstsorgungseinrichtungen">
+    <dct:title>Entsorgungseinrichtungen im Landkreis Regensburg</dct:title>
+    <dct:description>
+Die Daten beinhalten die Standorte von Entsorgungseinrichtungen der Abfallwirtschaft im Landkreis Regensburg.
+                </dct:description>
+    <dct:identifier rdf:resource="https://open.bydata.de/api/hub/repo/datasets/https-lk-regensburg-bydata-de-dataset-enstsorgungseinrichtungen"/>
+    <dcat:keyword>dosencontainer</dcat:keyword>
+    <dcat:keyword>entsorgungseinrichtungen</dcat:keyword>
+    <dcat:keyword>entsorgungsfachfirmen</dcat:keyword>
+    <dcat:keyword>glascontainer</dcat:keyword>
+    <dcat:keyword>grüngutsammelplatz</dcat:keyword>
+    <dcat:keyword>ver--und-entsorgung</dcat:keyword>
+    <dcat:keyword>wertstoffhof</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Na59103b518e84028976a09571c7c339c">
+        <vcard:fn> Landkreis Regensburg </vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:%20gis@landratsamt-regensburg.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.landkreis-regensburg.de/buergerservice/online-services/landkreisatlas/opendata/">
+        <foaf:name> Landkreis Regensburg</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/27f9ac52-4171-4c95-a839-9c6510f1f16a">
+        <dct:title> OGCAPI (GeoJSON) </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/entsorgungseinrichtungen/collections/Entsorgungseinrichtungen/items?bulk=true&amp;f=json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/48630867-12a9-4fd4-b469-496b9acdf26b">
+        <dct:title> OGCAPI (GML) </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/entsorgungseinrichtungen/collections/Entsorgungseinrichtungen/items?bulk=true&amp;f=xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBayern"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/entsorgungseinrichtungen/collections/Entsorgungseinrichtungen/items?bulk=true&amp;f=xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/entsorgungseinrichtungen/collections/Entsorgungseinrichtungen/items?bulk=true&amp;f=json"/>
+</rdf:RDF>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/0b883012-92f9-4283-9a79-647596007069">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Stadt Brühl 2021</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Brühl zum Stichtag 31.12.2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/0b883012-92f9-4283-9a79-647596007069"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20220116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/0b883012-92f9-4283-9a79-647596007069"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T11:01:19+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T11:01:19+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nd5b626eb265e440da68fa18e7540cb23">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3eb253e051ded3194dcdd5c8cea0a683</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/771bd6b4-ddcc-4754-b3cf-b139c0e17676">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt der Stadt Brühl 2010</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2010</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/771bd6b4-ddcc-4754-b3cf-b139c0e17676"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2010_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/771bd6b4-ddcc-4754-b3cf-b139c0e17676"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:51:40+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:51:40+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/98e0913f-f4db-4149-8820-f3862792823b">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt der Stadt Brühl 2013</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2013</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/98e0913f-f4db-4149-8820-f3862792823b"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2013_20160920.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/98e0913f-f4db-4149-8820-f3862792823b"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:55:36+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:55:36+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/3c901a1c-6e9d-42dd-8edc-33e504863ceb">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt der Stadt Brühl 2009</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/3c901a1c-6e9d-42dd-8edc-33e504863ceb"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2009_20161108.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/3c901a1c-6e9d-42dd-8edc-33e504863ceb"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:50:07+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T14:49:41+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D05 Einwohner gesamt Stadt Brühl</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner einer Kommune unterteilt nach Ausländer und Deutsche zu einem Stichtag.</p>
+]]></dct:description>
+    <dct:identifier>4c691aac-53e5-486f-ac5b-9176a0b877b0</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-10T11:01:19+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N2fef2f44b6904a498855371af6c0cc13">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/d8446f2b-e855-4a9d-be8c-dd545d33720e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Brühl 2019</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Brühl zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/d8446f2b-e855-4a9d-be8c-dd545d33720e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/d8446f2b-e855-4a9d-be8c-dd545d33720e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:33:21+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T10:33:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/98e0913f-f4db-4149-8820-f3862792823b"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/0b883012-92f9-4283-9a79-647596007069"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/ad1c587d-5379-494f-939d-ab085a413c78">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2015</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/ad1c587d-5379-494f-939d-ab085a413c78"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2015_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/ad1c587d-5379-494f-939d-ab085a413c78"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T16:00:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T16:00:39+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/c69de968-e156-47cf-955f-f6f58840ac49">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2011</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/c69de968-e156-47cf-955f-f6f58840ac49"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2011_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/c69de968-e156-47cf-955f-f6f58840ac49"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:53:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:53:08+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/afe9b7b4-63d4-4a85-873c-1b28b8387d0d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2012</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/afe9b7b4-63d4-4a85-873c-1b28b8387d0d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2012_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/afe9b7b4-63d4-4a85-873c-1b28b8387d0d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:54:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:54:18+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/aa5b2c88-b8be-4f3d-a4d2-1c0ef4e01c2b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Brühl 2020</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Brühl zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/aa5b2c88-b8be-4f3d-a4d2-1c0ef4e01c2b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/aa5b2c88-b8be-4f3d-a4d2-1c0ef4e01c2b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:47:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:47:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/a0b59534-7889-45b5-b61e-c62c51573300">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2017</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der Stadt Brühl zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/a0b59534-7889-45b5-b61e-c62c51573300"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/a0b59534-7889-45b5-b61e-c62c51573300"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T13:00:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T13:00:23+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/640a1734-04d6-4335-a63a-55d989fa5005">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Stadt Brühl 2018</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Stadt Brühl&nbsp;zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/640a1734-04d6-4335-a63a-55d989fa5005"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/640a1734-04d6-4335-a63a-55d989fa5005"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T10:19:19+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-11T07:11:25+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/1eebc893-57d2-461c-8011-9f91db7fabca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2014</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/1eebc893-57d2-461c-8011-9f91db7fabca"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2014_20160920.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/1eebc893-57d2-461c-8011-9f91db7fabca"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:57:34+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T15:57:34+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/3c901a1c-6e9d-42dd-8edc-33e504863ceb"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/771bd6b4-ddcc-4754-b3cf-b139c0e17676"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/277f41e0-7837-4fe8-a185-43cfca66a530">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt der Stadt Brühl 2016</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Stadt Brühl&nbsp;zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/277f41e0-7837-4fe8-a185-43cfca66a530"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-stadt-br%C3%BChl/resource/277f41e0-7837-4fe8-a185-43cfca66a530"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T10:18:17+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T10:18:17+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20190116.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2014_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2011_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2015_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415-2012_20160920.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat415_20170201.csv"/>
+</rdf:RDF>

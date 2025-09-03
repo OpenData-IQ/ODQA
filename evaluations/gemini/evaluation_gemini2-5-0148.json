@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0148",
+  "run_at": "2025-09-01T07:52:45.142896Z",
+  "question_id": 148,
+  "question": "Gab es 2018 mehr Zuzüge nach Linnich aus Deutschland oder mehr Wegzüge aus Linnich nach Deutschland?",
+  "answer": "mehr Zuzüge aus Deutschland",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The provided dataset does not contain information about Linnich. It contains data about \"Ausländer: Deutschland, Jahre, Geschlecht, Altersjahre, Registerzu- und abgänge (Bund), Ländergruppierungen/Staatsangehörigkeit\". Therefore, I cannot answer your question.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das Modell behauptet, die nötigen Daten zu Linnich seien nicht vorhanden und beantwortet die Frage daher nicht. Damit weicht es von der vorliegenden Goldantwort ab. Dies fällt unter 'not found'."
+  }
+}

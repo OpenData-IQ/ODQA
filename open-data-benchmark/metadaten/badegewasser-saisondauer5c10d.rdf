@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/49bc7061-399c-4c95-8e6e-6ccea0514854">
+    <dct:title>Badegewässer Saisondauer</dct:title>
+    <dct:description>Dauer der Saison und Angaben über die Öffnung der Badestellen in Schleswig-Holstein&#13;
+&#13;
+Hintergrundinformationen zum Thema [Badegewässerqualität](https://www.schleswig-holstein.de/DE/Themen/B/badegewaesser.html) im Landesportal&#13;
+&#13;
+Folgende Spalten sind enthalten:&#13;
+&#13;
+ - `BADEGEWAESSERID` - eindeutige Kennung des Badegewässers, siehe [Datensatz Stammdaten](/collection/badegewasser-stammdaten/aktuell)&#13;
+ - `SAISONBEGINN` - Datum im Format DD.MM.YYYY&#13;
+ - `SAISONENDE` - Datum im Format DD.MM.YYYY &#13;
+ - `GESCHLOSSEN` - Angabe, ob die Badestelle geschlossen ist/war&#13;
+ &#13;
+Zeichensatz ist ISO-8859-1, Spaltentrenner ist Pipe, Zeichenketten-Trenner ist das doppelte Anführungszeichen (").&#13;
+&#13;
+----&#13;
+&#13;
+Für eine komplette Sicht auf die Badegewässerqualität in Schleswig-Holstein sollten diese fünf Datensätze einbezogen werden:&#13;
+&#13;
+- [Stammdaten](/collection/badegewasser-stammdaten/aktuell)&#13;
+- [Einstufung der Badegewässerqualität](/dataset/badegewasser-einstufung)&#13;
+- [Informationen zur vorhandenen Infrastruktur](/collection/badegewasser-infrastruktur/aktuell)&#13;
+- [Saisondauer](/dataset/badegewasser-saisondauer)&#13;
+- [Messungen](/dataset/badegewasser-messungen)&#13;
+</dct:description>
+    <dct:identifier>49bc7061-399c-4c95-8e6e-6ccea0514854</dct:identifier>
+    <dcat:keyword>badeanstalten</dcat:keyword>
+    <dcat:keyword>badegewässer</dcat:keyword>
+    <dcat:keyword>badegewässerqualität</dcat:keyword>
+    <dcat:keyword>badestelle</dcat:keyword>
+    <dcat:keyword>strand</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-06T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-08T08:00:50.990718</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/f366e103-8d40-488e-a0a5-0083d534026f">
+        <foaf:name>Ministerium für Justiz und Gesundheit</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N03446ada36c54bae9a4b2fb90617ef02">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-08T08:00:50.990777</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-08T08:00:50.990777</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+        <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((7.8690 53.3600, 7.8690 55.0583, 11.3126 55.0583, 11.3126 53.3600, 7.8690 53.3600))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/badegewasser-saisondauer/resource/1">
+        <dct:title>v_badesaison_odata.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="http://efi2.schleswig-holstein.de/bg/opendata/v_badesaison_odata.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-05-29T07:26:24.848152</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-08T06:00:51.069161</dct:modified>
+        <dcatde:licenseAttributionByText>Sozialministerium S-H</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="http://efi2.schleswig-holstein.de/bg/opendata/v_badesaison_odata.csv"/>
+</rdf:RDF>

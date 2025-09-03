@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status">
+    <dct:title>VRN-Nextbike</dct:title>
+    <dct:description>Status der verfügbaren VRNNextbike Fahrräder an den Stationen in Mannheim.Weitere Infos unter:[https://www.nextbike.de/de/](https://www.nextbike.de/de/)[](https://www.nextbike.de/de/)oder kundenservice@nextbike.de</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://mannheim.opendatasoft.com/explore/dataset/free_bike_status/"/>
+    </dcat:landingPage>
+    <dct:identifier>free_bike_status@mannheim</dct:identifier>
+    <dcat:keyword>bikesharing</dcat:keyword>
+    <dcat:keyword>fahrrad</dcat:keyword>
+    <dcat:keyword>green-mbility</dcat:keyword>
+    <dcat:keyword>nextbike</dcat:keyword>
+    <dcat:keyword>standorte</dcat:keyword>
+    <dcat:keyword>vrn</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="https://mannheim.opendatasoft.com/explore/?refine.theme=Transport%2C+Movements"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Ned6e63991c494dfc812a4a880f6f4c94">
+        <foaf:name>nextbike GmbH</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status-csv">
+        <dct:title>csv</dct:title>
+        <dct:description>VRN-Nextbike (csv)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/csv?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status-json">
+        <dct:title>json</dct:title>
+        <dct:description>VRN-Nextbike (json)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status-geojson">
+        <dct:title>geojson</dct:title>
+        <dct:description>VRN-Nextbike (geojson)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/geojson"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-13T00:50:09.207000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/datenBW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/json"/>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/csv?use_labels=true"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/free_bike_status/exports/geojson"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+</rdf:RDF>

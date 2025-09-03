@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1">
+    <dct:title>Denkmalliste Stadt Neumünster</dct:title>
+    <dct:description>Kulturdenkmale sind gesetzlich geschützt und nachrichtlich in ein Verzeichnis, die sog. Denkmalliste, einzutragen. Von der Aufnahme in die Denkmalliste werden die betroffenen Eigentümerinnen und Eigentümer benachrichtigt. Gleichzeitig wird die Denkmalliste hier veröffentlicht und wöchentlich aktualisiert. Die Denkmalliste ist nicht abschließend, sondern wird ständig überprüft, ergänzt und bereinigt.&#13;
+&#13;
+Alle bisher nach dem Denkmalschutzgesetz von vor 2015 in das alte „Denkmalbuch“ eingetragenen „Kulturdenkmale von besonderer Bedeutung“ sind automatisch in die neue Denkmalliste übernommen worden, ihre Darstellungen konnten aber noch nicht abschließend aktualisiert werden (Beschreibung, Schutzumfang).&#13;
+&#13;
+Die Listen der Kreise gliedern sich in alphabetischer Reihe ihrer Gemeinden und innerhalb der Gemeinden (und kreisfreien Städten) nach&#13;
+- Denkmalbereiche&#13;
+- Sachgesamtheiten&#13;
+- Mehrheiten von baulichen Anlagen&#13;
+- Bauliche Anlagen (Einzeldenkmale)&#13;
+- Teile von baulichen Anlagen&#13;
+- Gründenkmale&#13;
+- Bewegliche Kulturdenkmale&#13;
+- Sonstige Kulturdenkmale&#13;
+</dct:description>
+    <dct:identifier>1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1</dct:identifier>
+    <dcat:keyword>denkmal</dcat:keyword>
+    <dcat:keyword>denkmalliste</dcat:keyword>
+    <dcat:keyword>denkmäler</dcat:keyword>
+    <dcat:keyword>kultur</dcat:keyword>
+    <dcat:keyword>kulturdenkmal</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T07:55:05.833356</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T07:55:05.833356</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:isVersionOf rdf:resource="https://opendata.schleswig-holstein.de/dataset/bb428e2c-871d-4ef7-bb40-00eb5734e643"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/c9dc88bd-fc52-403c-a08c-b703949d9815">
+        <foaf:name>Landesamt für Denkmalpflege</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Na4a0f0d0302040f38823eafd67c80e58">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T07:55:05.833381</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/districtKey/01004">
+        <skos:prefLabel>Stadt Neumünster</skos:prefLabel>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/9e091a29-2a22-494b-b0a3-e0e73f6754bf">
+        <dct:title>Stadt Neumünster-latin1.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/9e091a29-2a22-494b-b0a3-e0e73f6754bf/download/stadt-neumunster-latin1.csv"/>
+        <dcat:downloadURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/9e091a29-2a22-494b-b0a3-e0e73f6754bf/download/stadt-neumunster-latin1.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:09.016943</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:08.992108</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">168737</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N985db62d193d42cf83e6006b376796c1">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">99f741bfcf04aab1e6982b5c942ae2e4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText>Landesamt für Denkmalpflege Schleswig-Holstein</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/441c0e47-be7a-461d-ae83-1634636a7bc1">
+        <dct:title>Stadt Neumünster.csv</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/441c0e47-be7a-461d-ae83-1634636a7bc1/download/stadt-neumunster.csv"/>
+        <dcat:downloadURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/441c0e47-be7a-461d-ae83-1634636a7bc1/download/stadt-neumunster.csv"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:08.422064</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:08.402912</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">171827</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Naba23a8316924cbd8cee9929a1667dda">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4f8938b927fff8da8a839a61d46fbd02</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText>Landesamt für Denkmalpflege Schleswig-Holstein</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/969bcc39-6ef8-4ded-a9c6-be71ab0ffff1">
+        <dct:title>Stadt Neumünster.json</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/969bcc39-6ef8-4ded-a9c6-be71ab0ffff1/download/stadt-neumunster.json"/>
+        <dcat:downloadURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/969bcc39-6ef8-4ded-a9c6-be71ab0ffff1/download/stadt-neumunster.json"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:07.835746</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:07.816820</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">225541</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3b6725be719f4509a62d96ec0d98f3e6">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">00a25159b4d9f8ffd1362f612d26c573</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText>Landesamt für Denkmalpflege Schleswig-Holstein</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/8e5797ec-2f69-4f7a-befd-edb186c4e32d">
+        <dct:title>Stadt Neumünster.pdf</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/8e5797ec-2f69-4f7a-befd-edb186c4e32d/download/stadt-neumunster.pdf"/>
+        <dcat:downloadURL rdf:resource="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/8e5797ec-2f69-4f7a-befd-edb186c4e32d/download/stadt-neumunster.pdf"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/pdf"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:06.939765</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-12T05:55:06.920567</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">693866</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nccf30860ea22407b9a0e949572aac33a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2d17dd8ff25b1847a429afaad8f60506</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:licenseAttributionByText>Landesamt für Denkmalpflege Schleswig-Holstein</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+    <dct:references rdf:resource="https://musterdatenkatalog.de/def/musterdatensatz/kultur/denkmaeler"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/9e091a29-2a22-494b-b0a3-e0e73f6754bf/download/stadt-neumunster-latin1.csv"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/pdf"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/8e5797ec-2f69-4f7a-befd-edb186c4e32d/download/stadt-neumunster.pdf"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/969bcc39-6ef8-4ded-a9c6-be71ab0ffff1/download/stadt-neumunster.json"/>
+  <rdfs:Resource rdf:about="https://opendata.schleswig-holstein.de/dataset/1e2e1d81-9c8a-4610-bca7-80cc8b2b24c1/resource/441c0e47-be7a-461d-ae83-1634636a7bc1/download/stadt-neumunster.csv"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/json"/>
+</rdf:RDF>

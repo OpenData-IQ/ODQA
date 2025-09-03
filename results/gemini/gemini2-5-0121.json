@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0121",
+  "run_at": "2025-09-01T06:02:35.306277Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The downloaded dataset contains the number of \"Eheschließung\" (marriages) for the \"Ganzes Stadtgebiet\" (whole city area) of Brühl in 2020.\n\nThe number of marriages in Brühl in 2020 was 241.\nFinalAnswer: 241 Eheschließungen gab es 2020 in Brühl.\n\nSource: https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl"
+}

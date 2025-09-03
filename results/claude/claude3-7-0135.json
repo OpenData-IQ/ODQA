@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0135",
+  "run_at": "2025-09-01T16:55:32.866585Z",
+  "question_id": 135,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Basierend auf den heruntergeladenen Daten kann ich nun Ihre Frage zur Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich beantworten.\n\nFinalAnswer:\n\nBei der Landtagswahl 1995 in der Gemeinde Merzenich betrug die Wahlbeteiligung 66,19%. Von insgesamt 6.696 Wahlberechtigten haben 4.432 Personen ihre Stimme abgegeben. Davon waren 4.400 Stimmen gültig und 32 Stimmen ungültig. Die stärkste Partei war die SPD mit 47,82% der Stimmen, gefolgt von der CDU mit 39,00%. Die Daten stammen aus dem offiziellen Datensatz der Landtagswahlen für die Gemeinde Merzenich, der unter https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich verfügbar ist."
+}

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/642b8645-0393-4ae3-9a63-12f21dbb4be2">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Linnich 2015</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/642b8645-0393-4ae3-9a63-12f21dbb4be2"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2015_20161107.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/642b8645-0393-4ae3-9a63-12f21dbb4be2"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:36:18+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:13:33+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">568</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/3733f5e2-bbc7-49cf-8029-024d252db338">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Linnich 2019</dct:title>
+    <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Linnich unterteilt nach Ortsteilen zum Stichtag 31.12.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/3733f5e2-bbc7-49cf-8029-024d252db338"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/3733f5e2-bbc7-49cf-8029-024d252db338"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:46:30+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:46:30+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">564</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D04 Einwohner nach Ortsteilen Linnich</dct:title>
+    <dct:description><![CDATA[<p align="LEFT" dir="LTR"><font color="#333333" face="Calibri" size="3"><font color="#333333" face="Calibri" size="3"><font color="#333333" face="Calibri" size="3">Die aktuellen Einwohnerzahlen　einer Kommune　sortiert nach Ortsteilen mit Unterscheidung von Deutschen und </font></font></font><font color="#333333" face="Mangal" size="3"><font color="#333333" face="Mangal" size="3"><font color="#333333" face="Mangal" size="3">Ausländern zu einem bestimmten Stichtag.</font></font></font></p>
+]]></dct:description>
+    <dct:identifier>da5a1227-92c9-48f0-8866-b5e946a7d202</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:19:00+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nddace4d65fb24fe0a073e3e4bca4fd32">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/0422f5f2-d401-4f2b-8acb-713cb137d931">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Linnich 2021</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/0422f5f2-d401-4f2b-8acb-713cb137d931"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/0422f5f2-d401-4f2b-8acb-713cb137d931"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:19:00+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T11:19:00+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">609</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9cab598d8a3840ad89d6fcbb2ebd5f2b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">96779a755e27993102c0a348fe8f3bf8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/b95c84e6-9b14-480f-81e3-12349e3645db">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Linnich 2020</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Linnich unterteilt nach Ortsteilen zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/b95c84e6-9b14-480f-81e3-12349e3645db"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/b95c84e6-9b14-480f-81e3-12349e3645db"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T15:07:22+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T15:07:22+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">610</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/02d3bdfe-fd34-4fd9-ae35-8e308295c573">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2016</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/02d3bdfe-fd34-4fd9-ae35-8e308295c573"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/02d3bdfe-fd34-4fd9-ae35-8e308295c573"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T15:55:22+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T15:55:22+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">568</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/3733f5e2-bbc7-49cf-8029-024d252db338"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d63d34ac-6ab7-4ef5-9e1d-1d28ec11f8a8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2009</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d63d34ac-6ab7-4ef5-9e1d-1d28ec11f8a8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2009_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d63d34ac-6ab7-4ef5-9e1d-1d28ec11f8a8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:26:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:08:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">609</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/a70d76a1-5d0b-4ccd-b588-b7c2323bf640">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2014</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/a70d76a1-5d0b-4ccd-b588-b7c2323bf640"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2014_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/a70d76a1-5d0b-4ccd-b588-b7c2323bf640"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:35:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:12:47+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">568</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/53742f1a-9d15-4a89-b722-aa3a4df2d3fa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2011</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/53742f1a-9d15-4a89-b722-aa3a4df2d3fa"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2011_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/53742f1a-9d15-4a89-b722-aa3a4df2d3fa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:29:38+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:10:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">566</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/642b8645-0393-4ae3-9a63-12f21dbb4be2"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/633563f5-a1d3-4e89-a3f2-32986f32cda0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2010</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/633563f5-a1d3-4e89-a3f2-32986f32cda0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2010_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/633563f5-a1d3-4e89-a3f2-32986f32cda0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:28:15+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:09:12+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">610</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/59717095-72aa-4d0f-a2f8-23c6531a6009">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2012</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/59717095-72aa-4d0f-a2f8-23c6531a6009"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2012_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/59717095-72aa-4d0f-a2f8-23c6531a6009"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:32:15+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:11:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">611</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/607c6d28-164a-4bbe-a023-f465b8c14673">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2013</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Linnich&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/607c6d28-164a-4bbe-a023-f465b8c14673"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2013_20161107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/607c6d28-164a-4bbe-a023-f465b8c14673"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T22:33:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-07T16:12:00+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">566</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d5439d65-da7a-43dc-b002-51d3f395cf54">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2018</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Linnich unterteilt nach Ortsteilen zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d5439d65-da7a-43dc-b002-51d3f395cf54"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/d5439d65-da7a-43dc-b002-51d3f395cf54"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T09:02:14+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T11:10:23+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">568</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/9b9c149c-58b9-43a9-8247-c0c9f80419f5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Linnich 2017</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der Stadt Linnich unterteilt nach Ortsteilen zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/9b9c149c-58b9-43a9-8247-c0c9f80419f5"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-linnich/resource/9b9c149c-58b9-43a9-8247-c0c9f80419f5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T08:51:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T08:51:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">567</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20180116.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2014_20161107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2013_20161107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2010_20161107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2011_20161107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2009_20161107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat274-2012_20161107.csv"/>
+</rdf:RDF>

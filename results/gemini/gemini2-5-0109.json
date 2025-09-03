@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0109",
+  "run_at": "2025-09-01T05:57:33.144787Z",
+  "question_id": 109,
+  "question": "Wo steht, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten?",
+  "answer": "https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Die Grundschulempfehlungen für Fünftklässler*innen in Soest sind in der folgenden Tabelle aufgeführt:\n\n| Schule | Hauptschule (Anzahl) | Hauptschule (%) | Hauptschule / eingeschr. RS (Anzahl) | Hauptschule / eingeschr. RS (%) | Realschule (Anzahl) | Realschule (%) | Realschule / eingeschr. Gymnasium (Anzahl) | Realschule / eingeschr. Gymnasium (%) | Gymnasium (Anzahl) | Gymnasium (%) | Ohne Schulformempfehlung (Anzahl) | Ohne Schulformempfehlung (%) | Insgesamt (Anzahl) |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Sekundarschule | 30 | 38 | 19 | 24,1 | 18 | 22,8 | 3 | 3,8 | 0 | 0 | 9 | 11,4 | 79 |\n| Christian-Rohlfs-Realschule | 1 | 0,9 | 17 | 15,9 | 71 | 66,4 | 15 | 14 | 1 | 0,9 | 2 | 1,9 | 107 |\n| Aldegrever-Gymnasium | 0 | 0 | 0 | 0 | 2 | 1,6 | 26 | 21,1 | 94 | 76,4 | 1 | 0,8 | 123 |\n| Archigymnasium | 0 | 0 | 0 | 0 | 12 | 13,2 | 11 | 12,1 | 67 | 73,6 | 1 | 1,1 | 91 |\n| Conrad-von-Soest-Gymnasium | 0 | 0 | 0 | 0 | 14 | 14,7 | 18 | 18,9 | 63 | 66,3 | 0 | 0 | 95 |\n| Hannah-Arendt-Gesamtschule | 11 | 10,1 | 16 | 14,7 | 54 | 49,5 | 14 | 12,8 | 7 | 6,4 | 7 | 6,4 | 109 |\n| Insgesamt | 42 | 7 | 52 | 8,6 | 171 | 28,3 | 87 | 14,4 | 232 | 38,4 | 20 | 3,3 | 604 |\n\nQuelle: https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5"
+}

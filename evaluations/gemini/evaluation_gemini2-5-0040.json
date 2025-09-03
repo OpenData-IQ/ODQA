@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0040",
+  "run_at": "2025-09-01T11:11:33.109705Z",
+  "question_id": 40,
+  "question": "Welche radioaktiven Schwebstoffe wurden im Februar und März 2025 im Blankenese Strom der Elbe nachgewiesen?",
+  "answer": "Cäsium, Kalium, Beryllium",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n\nEs liegen keine Daten zu radioaktiven Schwebstoffen im Blankenese Strom der Elbe für Februar und März 2025 vor.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt Cäsium, Kalium, Beryllium. Das LLM behauptet fälschlich, es gebe keine Daten. Daher ist die Antwort eindeutig falsch."
+  }
+}

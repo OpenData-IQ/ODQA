@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0153",
+  "run_at": "2025-09-01T23:00:34.875453Z",
+  "question_id": 153,
+  "question": "Mit wie vielen Kindern pro Familie gibt es in Heimbach Familien?",
+  "answer": "1, 2, 3, 4, 5",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 163840 tokens. However, you requested about 210069 tokens (209251 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die LLM-Antwort zeigt einen Kontextlängen-/Tokenlimit-Fehler (HTTP 400). Es wurde keine inhaltliche Antwort gegeben."
+  }
+}

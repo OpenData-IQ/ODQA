@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D27 Statistiken Standesamt Wesseling</dct:title>
+    <dct:description><![CDATA[<p>Über die verschiedenen geführten Register im Standesamt gibt es die Möglichkeit Statistiken über diese Register für ein Jahr aufzubauen. Folgende Register werden gepflegt: - Geburtenregister - Sterberegister - Eheregister - Lebenspartnerschaftsregister - Besondere Beurkundungen. Diese Statistiken wurden ab 2009 mit der Einführung des elektronischen Personenstandsregister aufgebaut. Zusätzlich gibt es noch eine Vornamensstatistik.</p>
+]]></dct:description>
+    <dct:identifier>4c05040f-8905-4cea-8e4e-597a36cdab92</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-26T14:18:24+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T19:34:35+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N4c2a5228c994415f889edf5f480ac93f">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/50410f05-50d7-4271-a36b-fa7e69c5e686">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/50410f05-50d7-4271-a36b-fa7e69c5e686"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_9.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/50410f05-50d7-4271-a36b-fa7e69c5e686"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:38:06+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:38:06+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1663</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/89c3f98c-6454-426c-ba42-b8c85e867caf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/89c3f98c-6454-426c-ba42-b8c85e867caf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/89c3f98c-6454-426c-ba42-b8c85e867caf"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:47:32+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:47:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8066</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/136c51d3-7352-4d0e-a971-9a5468438e80">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/136c51d3-7352-4d0e-a971-9a5468438e80"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/136c51d3-7352-4d0e-a971-9a5468438e80"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:40:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:40:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2198</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/867728a1-fb50-4838-8645-dd5c51bfea6d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Testamentsverzeichnis<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/867728a1-fb50-4838-8645-dd5c51bfea6d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/867728a1-fb50-4838-8645-dd5c51bfea6d"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:43:56+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:43:56+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9379</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9c455b90-9c2d-42cb-8692-386697856ada">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9c455b90-9c2d-42cb-8692-386697856ada"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_9.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9c455b90-9c2d-42cb-8692-386697856ada"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:43:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:43:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10262</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/050d82f8-8981-4a80-b81b-c5329912adf7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/050d82f8-8981-4a80-b81b-c5329912adf7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/050d82f8-8981-4a80-b81b-c5329912adf7"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:44:24+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:56:30+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7334</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/3a2b470b-f57d-42a7-863e-b274ab9129e7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Lebenspartnershaftsregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/3a2b470b-f57d-42a7-863e-b274ab9129e7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/3a2b470b-f57d-42a7-863e-b274ab9129e7"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:50:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:50:52+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4230</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/82d93296-d8e6-4ea2-bfca-92fd6ac72312">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Sterberegister enthalten:<br />
+&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/82d93296-d8e6-4ea2-bfca-92fd6ac72312"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/82d93296-d8e6-4ea2-bfca-92fd6ac72312"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:56:07+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:56:07+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4790</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/366ecfe7-96ac-4737-b468-d44def3591c4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Lebenspartnershaftsregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/366ecfe7-96ac-4737-b468-d44def3591c4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/366ecfe7-96ac-4737-b468-d44def3591c4"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:50:10+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:50:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3671</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/00516890-e42d-4f84-9294-52bf8493bbf1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/00516890-e42d-4f84-9294-52bf8493bbf1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_9.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/00516890-e42d-4f84-9294-52bf8493bbf1"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:42:55+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:42:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9921</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9e890eb2-a357-400e-a9a5-3ccd2da7fdcc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Testamentsverzeichnis<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9e890eb2-a357-400e-a9a5-3ccd2da7fdcc"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/9e890eb2-a357-400e-a9a5-3ccd2da7fdcc"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:43:30+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:43:30+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11412</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/28c929dd-0207-4aee-9fcb-f15019d75bc1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/28c929dd-0207-4aee-9fcb-f15019d75bc1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/28c929dd-0207-4aee-9fcb-f15019d75bc1"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:42:00+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:42:00+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8686</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8b98e89b-001c-484b-b60c-2085fc215362">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8b98e89b-001c-484b-b60c-2085fc215362"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8b98e89b-001c-484b-b60c-2085fc215362"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:41:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:41:39+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2380</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/cf8e23db-340f-4bdc-b4d4-e8832fa0db81">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Lebenspartnershaftsregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/cf8e23db-340f-4bdc-b4d4-e8832fa0db81"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/cf8e23db-340f-4bdc-b4d4-e8832fa0db81"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:49:30+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:55:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9223</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c81a152b-f50e-45d5-8bf7-bd25e8c64193">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundugen<br />
+&nbsp;&nbsp;&nbsp; Nacherfassungen<br />
+&nbsp;&nbsp;&nbsp; Fortführungen<br />
+&nbsp;&nbsp;&nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp;&nbsp;&nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp;&nbsp;&nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c81a152b-f50e-45d5-8bf7-bd25e8c64193"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_9.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c81a152b-f50e-45d5-8bf7-bd25e8c64193"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:52:45+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:52:45+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5986</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5df2a1f1-1e4b-473d-aef5-9ca04c9090e4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5df2a1f1-1e4b-473d-aef5-9ca04c9090e4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_10.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5df2a1f1-1e4b-473d-aef5-9ca04c9090e4"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:46:32+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:46:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8417</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b03b4990-76b8-453c-883a-5cc3f9e13491">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b03b4990-76b8-453c-883a-5cc3f9e13491"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_10.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b03b4990-76b8-453c-883a-5cc3f9e13491"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:38:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:38:46+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1962</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c7779600-ae95-4c43-89e9-7f773af6ef47">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Lebenspartnerschaftsregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c7779600-ae95-4c43-89e9-7f773af6ef47"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/c7779600-ae95-4c43-89e9-7f773af6ef47"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:45:07+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:45:07+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4226</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d70ca394-1964-4f27-a94e-ee3b749f1141">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Lebenspartnershaftsregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d70ca394-1964-4f27-a94e-ee3b749f1141"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_9.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d70ca394-1964-4f27-a94e-ee3b749f1141"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:48:57+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:48:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8904</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5c7127eb-81dc-40c1-8886-05457c1093cb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5c7127eb-81dc-40c1-8886-05457c1093cb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/5c7127eb-81dc-40c1-8886-05457c1093cb"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:41:33+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:41:33+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11004</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8769352d-f9ba-4edd-a59a-4ba408891943">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Sterberegister enthalten:<br />
+&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8769352d-f9ba-4edd-a59a-4ba408891943"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/8769352d-f9ba-4edd-a59a-4ba408891943"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:46:40+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:46:40+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5918</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b0f6922e-f897-4f6b-9856-4abb4d0ab495">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundugen<br />
+&nbsp;&nbsp;&nbsp; Nacherfassungen<br />
+&nbsp;&nbsp;&nbsp; Fortführungen<br />
+&nbsp;&nbsp;&nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp;&nbsp;&nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp;&nbsp;&nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b0f6922e-f897-4f6b-9856-4abb4d0ab495"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b0f6922e-f897-4f6b-9856-4abb4d0ab495"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:54:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:54:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4793</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b5350bc9-f1b1-4703-8a4c-20b942425b24">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp; &nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp; &nbsp; Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp; &nbsp; Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b5350bc9-f1b1-4703-8a4c-20b942425b24"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b5350bc9-f1b1-4703-8a4c-20b942425b24"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:40:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:40:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2380</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b568c5c9-01ce-4a05-894a-1d9e99c36f0f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b568c5c9-01ce-4a05-894a-1d9e99c36f0f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/b568c5c9-01ce-4a05-894a-1d9e99c36f0f"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:48:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:48:02+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9404</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/4dd4fbc2-0e58-4fdf-9007-d5ac2fc20567">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundugen<br />
+&nbsp;&nbsp;&nbsp; Nacherfassungen<br />
+&nbsp;&nbsp;&nbsp; Fortführungen<br />
+&nbsp;&nbsp;&nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp;&nbsp;&nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp;&nbsp;&nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/4dd4fbc2-0e58-4fdf-9007-d5ac2fc20567"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_10.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/4dd4fbc2-0e58-4fdf-9007-d5ac2fc20567"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:52:18+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:52:18+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5760</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/31826061-d68c-4d71-ab6d-431d0a14fe81">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundugen<br />
+&nbsp;&nbsp;&nbsp; Nacherfassungen<br />
+&nbsp;&nbsp;&nbsp; Fortführungen<br />
+&nbsp;&nbsp;&nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp;&nbsp;&nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp;&nbsp;&nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/31826061-d68c-4d71-ab6d-431d0a14fe81"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/31826061-d68c-4d71-ab6d-431d0a14fe81"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:53:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:53:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4095</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/dee65b22-58d0-40dd-9b44-81aad4f51509">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2017 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/dee65b22-58d0-40dd-9b44-81aad4f51509"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_9.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/dee65b22-58d0-40dd-9b44-81aad4f51509"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:46:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:46:02+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8134</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/308b4a64-e96a-486d-bc6e-c22cc2aef368">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende Fälle im Lebenspartnerschaftsregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/308b4a64-e96a-486d-bc6e-c22cc2aef368"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/308b4a64-e96a-486d-bc6e-c22cc2aef368"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:44:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:44:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5077</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/1d5dd862-d709-4116-a5c4-bb46c3853c64">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2019&nbsp;folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp; &nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp; &nbsp; Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp; &nbsp; Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/1d5dd862-d709-4116-a5c4-bb46c3853c64"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_8.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/1d5dd862-d709-4116-a5c4-bb46c3853c64"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:40:10+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T14:40:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2444</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d26f33b3-ffec-470d-9291-89df866d4620">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Stadt Wesseling sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d26f33b3-ffec-470d-9291-89df866d4620"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_8.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling/resource/d26f33b3-ffec-470d-9291-89df866d4620"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:44:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-02-27T11:56:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8688</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_9.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_9.json"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_10.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_9.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_8.xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_10.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_9.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_8.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_10.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_8.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_9.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_9.xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+</rdf:RDF>

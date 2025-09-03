@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://ckan.open.nrw.de/dataset/1a55d8bb-5ef3-4dc3-b45f-ba09a9f13b2a">
+    <dct:title>Verkaufsoffene Sonntage ab 2024 nach Rechtsverordnung § 6 Abs. 1 S. 2 LÖG NRW</dct:title>
+    <dct:description>Der Datensatz enthält eine Übersicht über die Anzahl der verkaufsoffenen Sonn- und Feiertage ab 2024 auf Ebene der Kommunen in Nordrhein-Westfalen. Zudem sind Informationen zu den herangezogenen Sachgründen, zur Freigabe aufgrund von Dauerverordnungen und zu Streitfällen sowie weitere Erläuterungen enthalten.</dct:description>
+    <dct:identifier>bd93b7d3-2a9f-5741-a4a7-135c04b985b8</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>handel</dcat:keyword>
+    <dcat:keyword>verkaufsoffen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-11T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-22T08:46:12+00:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N72ddb2b7e6f34430a3867e4339c61124">
+        <vcard:fn>Ministerium für Wirtschaft, Innovation, Klimaschutz und Energie des Landes NRW</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:referat822@mwike.nrw.de"/>
+        <vcard:hasURL rdf:resource="https://www.wirtschaft.nrw/"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N225d3445a897410e82bc3829a13468f3">
+        <foaf:name>Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW</foaf:name>
+        <foaf:mbox>referat822@mwike.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.wirtschaft.nrw/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.open.nrw.de/dataset/1a55d8bb-5ef3-4dc3-b45f-ba09a9f13b2a/resource/3615f2f3-05d4-406b-828d-bfdd8ae94c9c">
+        <dct:description>Der Datensatz als CSV-Datei ist hier zu finden:</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://www.wirtschaft.nrw/system/files/media/document/file/verkaufsoffene_sonntage_2024_nrw_nach_rechtsverordnung_ss_6_abs_1_s_2_loeg_nrw.csv"/>
+        <foaf:page rdf:resource="https://www.wirtschaft.nrw/themen/digitalisierung/open-government-und-open-data/open-data-des-mwike-nrw"/>
+        <foaf:page rdf:resource="https://www.wirtschaft.nrw/ladenoeffnungsgesetz"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-22T08:48:07.948972</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-11T08:46:12+00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.open.nrw.de/dataset/1a55d8bb-5ef3-4dc3-b45f-ba09a9f13b2a/resource/2ea80e26-8f4a-40e7-b5b4-ec71bf522666">
+        <dct:description>Der Datensatz als XLSX-Datei ist hier zu finden:</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://www.wirtschaft.nrw/system/files/media/document/file/verkaufsoffene_sonntage-2024_nach_rechtsverordnung_ss_6_abs_1_s_2_loeg_nrw.xlsx"/>
+        <foaf:page rdf:resource="https://www.wirtschaft.nrw/themen/digitalisierung/open-government-und-open-data/open-data-des-mwike-nrw"/>
+        <foaf:page rdf:resource="https://www.wirtschaft.nrw/ladenoeffnungsgesetz"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-22T08:48:07.948968</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-11T08:46:12+00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N33efeab3721a4dbea1d299921deb9319">
+        <foaf:name>Ministerium für Wirtschaft, Innovation, Klimaschutz und Energie des Landes NRW</foaf:name>
+        <foaf:mbox>referat822@mwike.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.wirtschaft.nrw/"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <foaf:Document rdf:about="https://www.wirtschaft.nrw/themen/digitalisierung/open-government-und-open-data/open-data-des-mwike-nrw"/>
+  <rdfs:Resource rdf:about="https://www.wirtschaft.nrw/system/files/media/document/file/verkaufsoffene_sonntage-2024_nach_rechtsverordnung_ss_6_abs_1_s_2_loeg_nrw.xlsx"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+  <rdfs:Resource rdf:about="https://www.wirtschaft.nrw/system/files/media/document/file/verkaufsoffene_sonntage_2024_nrw_nach_rechtsverordnung_ss_6_abs_1_s_2_loeg_nrw.csv"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <foaf:Document rdf:about="https://www.wirtschaft.nrw/ladenoeffnungsgesetz"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/csv"/>
+</rdf:RDF>

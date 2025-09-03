@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/6e70aa11-fdfa-4857-83c2-09958d44b8dc#distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Pflegeheime (GeoJSON)</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dnursing_home. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/odbl">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/6e70aa11-fdfa-4857-83c2-09958d44b8dc#distribution"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_amenity_nursing_home_4326_Point&amp;outputFormat=application%2Fjson"/>
+    </dcat:downloadURL>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:37:18.257332</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:50:05.338574</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75#dataset">
+    <dct:title>Pflegeheime</dct:title>
+    <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dnursing_home. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+    <dct:identifier rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75#dataset"/>
+    <dcat:keyword>verkehrsmodell</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-05T12:06:15.992955</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:50:05.313019</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.m-r-n.com">
+        <foaf:name>Metropolregion Rhein-Neckar</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/6e70aa11-fdfa-4857-83c2-09958d44b8dc#distribution"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/f1777b3b-9e5b-4264-ab2b-b0e2bf4d75bf#distribution">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Pflegeheime (CSV)</dct:title>
+        <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dnursing_home. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+        <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/f1777b3b-9e5b-4264-ab2b-b0e2bf4d75bf#distribution"/>
+        <dcat:downloadURL rdf:resource="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_amenity_nursing_home_4326_Point&amp;outputFormat=csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:37:18.257330</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:50:05.338909</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/87134920-1284-4f27-bba4-0c1079af9e3a#distribution">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Pflegeheime (GPKG)</dct:title>
+        <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dnursing_home. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+        <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/87134920-1284-4f27-bba4-0c1079af9e3a#distribution"/>
+        <dcat:downloadURL rdf:resource="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_amenity_nursing_home_4326_Point&amp;outputFormat=application%2Fx-gpkg"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GPKG"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:37:18.257320</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:50:05.339085</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/026e266e-20f9-4365-bd0e-aaf6de04908f#distribution">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Pflegeheime (WMS)</dct:title>
+        <dct:description>Weitere Informationen: https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dnursing_home. Diese Ressource wurde automatisch generiert, melden Sie sich bitte bei Fehlern oder Fragen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/odbl"/>
+        <dcat:accessURL rdf:resource="https://daten.digitale-mrn.de/dataset/008d2866-7b4e-4297-bb23-fa876bea2d75/resource/026e266e-20f9-4365-bd0e-aaf6de04908f#distribution"/>
+        <dcat:downloadURL rdf:resource="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/OSM_MRN_amenity_nursing_home_4326_Point/wms?request=GetCapabilities"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-27T12:37:18.257328</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-29T10:50:05.339233</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/metropolregionRheinNeckar"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_amenity_nursing_home_4326_Point&amp;outputFormat=csv"/>
+  <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=metropolatlas%3AOSM_MRN_amenity_nursing_home_4326_Point&amp;outputFormat=application%2Fx-gpkg"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GPKG"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+  <rdfs:Resource rdf:about="https://geoserver.digitale-mrn.de/geoserver/metropolatlas/OSM_MRN_amenity_nursing_home_4326_Point/wms?request=GetCapabilities"/>
+</rdf:RDF>

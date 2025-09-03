@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://piveau.offene.daten-brandenburg.de/api/hub/repo/datasets/behoerdenverzeichnisparagraf10log">
+    <dct:title>Behördenverzeichnis nach § 10 LOG</dct:title>
+    <dct:description>Die für Landesorganisation zuständige oberste Landesbehörde veröffentlicht in elektronischer Form ein Verzeichnis der Behörden und Einrichtungen des Landes sowie der Landesbetriebe (Behördenverzeichnis). In dieses Verzeichnis sind auch die mit anderen Verwaltungsträgern errichteten gemeinsamen Behörden sowie die Behörden anderer Verwaltungsträger, die Aufgaben des Landes durchführen, aufzunehmen. Das Verzeichnis enthält Angaben über die Art und Bezeichnung der Organisationseinheit, ihren Sitz und ihren Zuständigkeitsbezirk. Die Eintragungen nach Satz 3 begründen keine Vermutung ihrer Richtigkeit.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://service.brandenburg.de/service/de/adressen/behoerdenverzeichnis/log-10/">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+      </foaf:Document>
+    </dcat:landingPage>
+    <dct:identifier rdf:resource="https://piveau.offene.daten-brandenburg.de/api/hub/repo/datasets/behoerdenverzeichnisparagraf10log"/>
+    <dcat:keyword>log-behördenverzeichnis-brandenburg</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T12:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T12:00:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nfaee53635e794f51a4a2490db058af0b">
+        <vcard:fn>Referat 12</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:org.land@mik.brandenburg.de"/>
+        <vcard:hasURL rdf:resource="https://mik.brandenburg.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N8a673e2d5b754d0eb0287449d46262ad">
+        <foaf:name>Ministerium des Innern und für Kommunales</foaf:name>
+        <foaf:mbox>org.land@mik.brandenburg.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://piveau.offene.daten-brandenburg.de/api/hub/repo/distributions/079b5a7b-310b-4c30-91b6-c204c9e7cb39">
+        <dct:title>Behördenverzeichnis nach §10 LOG zum Mitnehmen</dct:title>
+        <dct:description>Behördenverzeichnis nach §10 LOG zum Mitnehmen als CSV-Datei</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://service.brandenburg.de/service/de/adressen/behoerdenverzeichnis/log-10/"/>
+        <dcat:downloadURL rdf:resource="https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/log10daten.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T12:00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-09T02:27:42.747554</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/landBrandenburg"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBrandenburg"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/log10daten.csv"/>
+</rdf:RDF>

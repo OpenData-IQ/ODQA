@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0157",
+  "run_at": "2025-09-01T17:53:22.223349Z",
+  "question_id": 157,
+  "question": "Hat die Stadt Aachen im November 2021 oder im Dezember 2021 mehr Verstöße bei Geschwindigkeitskontrollen gemessen?",
+  "answer": "Im November 2021 wurden 3298 Verstöße verzeichnet, wohingegen es im Dezember nur 2800 waren.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "In beiden Dateien muss erst eine Summe errechnet werden, die dann mit der jeweils anderen verglichen wird.",
+  "llm_final": "ERROR: {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"input length and `max_tokens` exceed context limit: 172996 + 64000 > 204658, decrease input length or `max_tokens` and try again\"}', 'provider_name': 'Amazon Bedrock'}}"
+}

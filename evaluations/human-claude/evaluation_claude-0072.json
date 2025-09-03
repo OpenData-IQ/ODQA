@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0072",
+  "run_at": "2025-09-01T14:14:49.222541Z",
+  "question_id": 72,
+  "question": "Gab es 2019 in Berlin Neukölln mehr männliche oder mehr weibliche minderjährige Kinder in Familien?",
+  "answer": "mehr männliche",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die LLM-Antwort meldet eindeutig einen Recursion-Limit-Fehler und liefert keine inhaltliche Antwort. Es handelt sich um ein technisches Problem, nicht um eine inhaltliche Bewertung."
+  }
+}

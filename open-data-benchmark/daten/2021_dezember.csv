@@ -1,0 +1,90 @@
+Datum;Messplatz;Fahrtrichtung;"Fahrzeuge 
+gesamt";Verstöße
+01.12.2021;Lütticher Straße;Hohenstaufenallee;671;54
+01.12.2021;Hirschgraben;Templergraben ;808;134
+01.12.2021;Joseph von Görres Straße;Europaplatz;613;9
+02.12.2021;Franzstraße;Karmeliterstraße;498;53
+02.12.2021;Reinhardstraße;Trierer Straße;183;11
+03.12.2021;Seffenter Weg;Pariser Ring;317;18
+06.12.2021;Franzstraße;Karmeliterstraße;595;51
+06.12.2021;Kornelimünster Weg;Hitfelder Straße;210;6
+07.12.2021;Löhergraben;Alexianergraben;1031;78
+07.12.2021;Kornelimünster Weg;Hitfelder Straße;533;19
+08.12.2021;Kaiser Friedrich Allee;Brüsseler Ring;99;13
+08.12.2021;Weißhausstraße;Salierallee;519;125
+08.12.2021;Kaiser Friedrich Allee;Aachen Münchener Allee;356;48
+08.12.2021;Krefelder Straße;Innenstadt;1888;26
+08.12.2021;Hergenrather Weg;Lütticher Straße;180;55
+09.12.2021;Aachen Münchener Allee;Hohenstaufenallee;673;12
+09.12.2021;Monheimsallee;Hansemannplatz;2018;360
+09.12.2021;Eupener Straße;Jahnplatz;458;32
+09.12.2021;Kaiser Friedrich Allee;Brüsseler Ring;163;19
+09.12.2021;Prager Ring;Krefelder Straße;1066;20
+10.12.2021;Krefelder Straße;Würselen;1564;29
+10.12.2021;Eupener Straße;Salierallee;677;11
+10.12.2021;Weißhausstraße;Salierallee;361;53
+10.12.2021;Königsberger Straße;Graunhof;188;13
+11.12.2021;Vaalser Straße;Innenstadt;1680;27
+11.12.2021;Jülicher Straße;Innenstadt;884;14
+13.12.2021;Karl Marx Allee;Friedrich Ebert Allee;635;17
+13.12.2021;Krefelder Straße;Würselen;1251;53
+13.12.2021;Königsberger Straße;Trierer Straße;107;2
+13.12.2021;Karl Marx Allee;Adenauerallee;521;39
+14.12.2021;Melatener Straße;Turmstraße;64;9
+14.12.2021;Branderhofer Weg;Adenauerallee;251;13
+14.12.2021;Franzstraße;Karmeliterstraße;705;73
+14.12.2021;Seffenter Weg;Pariser Ring;174;13
+14.12.2021;Am Bayerhaus;Von Coels Straße;133;7
+15.12.2021;Ronheider Weg;Weishausstraße;124;12
+15.12.2021;Josefstraße;Nirmerstraße;237;7
+15.12.2021;Josefstraße;Von Coels Straße;239;11
+15.12.2021;Schleidener Straße;Kornelimünster;205;3
+15.12.2021;Prager Ring;Krefelder Straße;1759;34
+16.12.2021;Franzstraße;Kleinmaschierstraße;954;120
+16.12.2021;Hüttenstraße;Philippstraße;523;73
+16.12.2021;Roermonder Straße;Laurensberg;340;0
+16.12.2021;Lütticher Straße;Belgien;821;5
+16.12.2021;Soerser Weg;Krefelder Straße;587;18
+16.12.2021;Laurensberger Straße;Rathausstraße;92;18
+17.12.2021;Krefelder Straße;Würselen;1734;64
+17.12.2021;Hochstraße;Trierer Straße;546;17
+17.12.2021;Aachener Straße;Hitfeld;555;18
+17.12.2021;Prämienstraße;Walheimer Straße;85;4
+17.12.2021;Prämienstraße;Schleidener Straße;171;9
+17.12.2021;Sittarder Straße;Königsbergerstraße;222;18
+17.12.2021;Sittarder Straße;Schopenhauerstraße;152;18
+17.12.2021;Peliserker Straße;Jülicher Straße;185;13
+18.12.2021;Trierer Straße;Brand;378;19
+18.12.2021;Eupener Straße;Grenze;1386;104
+19.12.2021;Vaalser Straße;Innenstadt;544;18
+19.12.2021;Lütticher Straße;Belgien;672;26
+20.12.2021;Friedenstraße;Strangenhäuschen;185;24
+20.12.2021;Friedenstraße;Hergelsbendenstraße;242;14
+20.12.2021;Severinstraße;Nirmerstraße;1655;9
+20.12.2021;Lütticher Straße;Belgien;303;5
+20.12.2021;Freunder Landstraße;Stolberg;469;3
+21.12.2021;Kalkbergstraße;Verlautenheide;306;13
+21.12.2021;Krefelder Straße;Würselen;1729;43
+21.12.2021;Franzstraße;Kleinmaschierstraße;855;72
+21.12.2021;Hirschgraben;Templergraben ;1051;66
+22.12.2021;Berensberger Straße;Roermonder Straße;365;23
+22.12.2021;Aureliusstraße;Theaterstraße;181;16
+23.12.2021;Münsterstraße;Brand;158;13
+23.12.2021;Nerscheider Weg ;Monschauer Straße;129;13
+23.12.2021;Nerscheider Weg ;Schleckheim;90;15
+23.12.2021;Kaiser Friedrich Allee;Brüsseler Ring;170;36
+23.12.2021;Jülicher Straße;Innenstadt;910;22
+27.12.2021;Trierer Straße;Innenstadt;1049;14
+27.12.2021;Vaalser Straße;Innenstadt;1403;22
+28.12.2021;Neuenhofstraße;Debystraße;274;0
+28.12.2021;Lütticher Straße;Belgien;255;4
+28.12.2021;Kellershaustraße;Kaubendenstraße;257;22
+28.12.2021;Kellershaustraße;Debystraße;184;21
+28.12.2021;Ardennenstraße;Frennetstraße;32;5
+29.12.2021;Kornelimünster Weg;Hitfelder Straße;235;9
+29.12.2021;Kornelimünster Weg;Adenauerallee;492;54
+29.12.2021;Prager Ring;Krefelder Straße;1033;21
+29.12.2021;Albert Einstein Straße;Aachener Straße;52;5
+29.12.2021;Krefelder Straße;Würselen;1549;79
+30.12.2021;Schleidener Straße;Kornelimünster;271;6
+30.12.2021;Prämienstraße;Schleidener Straße;84;6

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b">
+    <dct:title>Bestand an Saatkrähen in Soest</dct:title>
+    <dct:description>Bestand an Saatkrähen in Soest</dct:description>
+    <dct:identifier>ba6457dc-aceb-435f-a8e5-d12bb55ab27b</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-28T11:36:19.952432</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-13T08:00:09.781774</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.soest.de/organization/30a929e4-a372-4ca5-bb18-3b1ba6cf40db">
+        <foaf:name>Stadt Soest</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b/resource/87c2ed8d-73ce-4c90-83f4-e92f921c0289">
+        <dct:title>Bestand an Saatkrähen in Soest</dct:title>
+        <dct:description>Bestand an Saatkrähen in Soest</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b/resource/87c2ed8d-73ce-4c90-83f4-e92f921c0289/download/3024_saatkrahen.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-28T11:36:43.009910</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-28T11:36:42.992280</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">360</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b/resource/87c2ed8d-73ce-4c90-83f4-e92f921c0289/download/3024_saatkrahen.csv"/>
+</rdf:RDF>

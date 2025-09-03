@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0113",
+  "run_at": "2025-09-01T15:03:43.124192Z",
+  "question_id": 113,
+  "question": "Wo finde ich die amtlichen Ergebnisse zur Bundestagswahl 2013?",
+  "answer": "https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Basierend auf den heruntergeladenen Daten kann ich Ihnen nun die amtlichen Ergebnisse der Bundestagswahl 2013 präsentieren.\n\n**FinalAnswer:**\n\nDie amtlichen Ergebnisse der Bundestagswahl 2013 finden Sie beim Bundeswahlleiter. Laut den offiziellen Daten waren bei der Bundestagswahl 2013 insgesamt 61.946.900 Bürgerinnen und Bürger wahlberechtigt. An der Wahl teilgenommen haben 44.309.925 Personen, was einer Wahlbeteiligung von 71,5% entspricht.\n\nDie Verteilung der Zweitstimmen für die wichtigsten Parteien war wie folgt:\n- CDU: 14.921.877 Stimmen (34,1%)\n- SPD: 11.252.215 Stimmen (25,7%)\n- DIE LINKE: 3.755.699 Stimmen (8,6%)\n- GRÜNE: 3.694.057 Stimmen (8,4%)\n- CSU: 3.243.569 Stimmen (7,4%)\n- FDP: 2.083.533 Stimmen (4,8%)\n- AfD: 2.056.985 Stimmen (4,7%)\n- PIRATEN: 959.177 Stimmen (2,2%)\n\nDie CDU/CSU-Union erreichte zusammen 41,5% der Stimmen und bildete anschließend eine Große Koalition mit der SPD. Die FDP scheiterte mit 4,8% an der 5%-Hürde und war damit erstmals seit 1949 nicht mehr im Bundestag vertreten. Auch die AfD verpasste bei ihrer ersten Bundestagswahl mit 4,7% knapp den Einzug ins Parlament.\n\nQuelle: Bundeswahlleiter, Datensatz \"Bundestagswahl 2013\" (https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f)"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0024",
+  "run_at": "2025-09-01T20:00:56.761923Z",
+  "question_id": 24,
+  "question": "Wann wurden die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim gezählt?",
+  "answer": "Am 15.10.2018 um 15 Uhr, da waren es 320",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Leider konnte kein spezifisches Dataset für die Zählstelle an der Konrad-Adenauer-Brücke (Süd) in Mannheim gefunden werden. Die Suchergebnisse beziehen sich hauptsächlich auf Zählstellen in Stuttgart und Heidelberg. Bitte überprüfen Sie die Verfügbarkeit der Daten direkt beim [Mobilitätsdatenportal Baden-Württemberg](https://mobidata-bw.de/). Quelle: https://mobidata-bw.de/dataset/a98dccd5-fb8d-402a-9884-c9d1b3178288"
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://open.bydata.de/api/hub/repo/datasets/12411-000-09171">
+    <dct:title>Altötting (Lkr): Bevölkerung</dct:title>
+    <dct:description>Bevölkerung: Gemeinden, amtliche Einwohnerzahl aktuell(jährlich, vierteljährlich)</dct:description>
+    <dct:identifier>12411-000-09171</dct:identifier>
+    <dcat:keyword>1.-quartal-31.03.</dcat:keyword>
+    <dcat:keyword>2.-quartal-30.06.</dcat:keyword>
+    <dcat:keyword>3.-quartal-30.09.</dcat:keyword>
+    <dcat:keyword>4.-quartal-31.12.</dcat:keyword>
+    <dcat:keyword>aktuell-jährliche-fortschreibung</dcat:keyword>
+    <dcat:keyword>aktuell-vierteljährliche-fortschreibung</dcat:keyword>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dcat:keyword>fortschreibung-des-bevölkerungsstandes</dcat:keyword>
+    <dcat:keyword>gemeinden-bayerns-einschl.-gemeindefreie-gebiete</dcat:keyword>
+    <dcat:keyword>quartale-stichtag-am-quartalsende</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T17:08:08</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T17:08:08</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:relation>
+      <rdfs:Resource rdf:about="https://open.bydata.de/datasets/12411-000-d"/>
+    </dct:relation>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N348f8687007d42c98116f5d569531fe6">
+        <vcard:fn>Bayerisches Landesamt für Statistik</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:info@statistik.bayern.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nf280d4c65edc4f68ab66fb74eb003a8d">
+        <foaf:name>Bayerisches Landesamt für Statistik</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/3e742b56-4778-45cb-9798-e9c643aa7119">
+        <dct:title>Bevölkerung - XLSX</dct:title>
+        <dct:description>Bevölkerung: Gemeinden, amtliche Einwohnerzahl aktuell(jährlich, vierteljährlich)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://www.statistikdaten.bayern.de/genesis/online?operation=download&amp;code=12411-000&amp;option=xlsx&amp;regionalschluessel=09171%2A"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/xlsx"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/xls"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-18T06:02:15.964316</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T17:08:11</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/48d10ab9-d62e-442f-baa0-3087e07a3e48">
+        <dct:title>Bevölkerung - XML</dct:title>
+        <dct:description>Bevölkerung: Gemeinden, amtliche Einwohnerzahl aktuell(jährlich, vierteljährlich)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://www.statistikdaten.bayern.de/genesis/online?operation=download&amp;code=12411-000&amp;option=xml&amp;regionalschluessel=09171%2A"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/xml"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-18T06:02:15.964321</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T17:08:11</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/genesisDestatis"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBayern"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/xml"/>
+  <rdfs:Resource rdf:about="https://www.statistikdaten.bayern.de/genesis/online?operation=download&amp;code=12411-000&amp;option=xlsx&amp;regionalschluessel=09171%2A"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/xls"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+  <rdfs:Resource rdf:about="https://www.statistikdaten.bayern.de/genesis/online?operation=download&amp;code=12411-000&amp;option=xml&amp;regionalschluessel=09171%2A"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/xlsx"/>
+</rdf:RDF>

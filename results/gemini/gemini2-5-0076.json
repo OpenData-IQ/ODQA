@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0076",
+  "run_at": "2025-09-01T05:39:05.863511Z",
+  "question_id": 76,
+  "question": "Wo gab es 2023 die meisten Abfälle aus der Biotonne? In Wuppertal, im Wetteraukreis oder im Landkreis Roth?",
+  "answer": "Wetteraukreis",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Wetteraukreis gab es 2023 mit 26983 Tonnen die meisten Abfälle aus der Biotonne, gefolgt von Wuppertal mit 13251 Tonnen. Der Landkreis Roth ist in den Daten nicht enthalten.\n\nQuelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/32121-01-02-4_00.csv#dataset"
+}

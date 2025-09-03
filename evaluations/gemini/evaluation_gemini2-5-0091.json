@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0091",
+  "run_at": "2025-09-01T05:54:53.665844Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider konnte ich keine spezifischen Agrarorganisationen für lebende Pflanzen in der Nähe von Sommerhausen (97286) finden. Die verfügbaren Datensätze beziehen sich hauptsächlich auf Im- und Exportstatistiken, Außenhandel, Seegüterumschlag und allgemeine landwirtschaftliche Betriebsdaten auf Bundeslandebene. Es gibt keine Daten, die eine direkte Suche nach lokalen Organisationen ermöglichen.\n\nFinalAnswer: Es konnten keine spezifischen Agrarorganisationen für lebende Pflanzen in der Nähe von Sommerhausen (97286) gefunden werden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Goldantwort nennt die „Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.“. Das LLM behauptet jedoch, keine passende Organisation zu finden, statt die korrekte zu nennen."
+  }
+}

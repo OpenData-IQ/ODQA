@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0110",
+  "run_at": "2025-09-01T00:34:31.592715Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

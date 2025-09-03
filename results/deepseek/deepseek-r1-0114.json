@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0114",
+  "run_at": "2025-09-01T22:06:06.380729Z",
+  "question_id": 114,
+  "question": "Wo sind öffentliche Toiletten in Wien, Österreich?",
+  "answer": "das ist nicht in deutschland",
+  "question_type": "false premise",
+  "source": "1",
+  "remark": "das ist nicht in deutschland",
+  "llm_final": "**FinalAnswer:**  \nDerzeit sind keine öffentlichen Datensätze zu öffentlichen Toiletten in Wien, Österreich, über das GovData-Portal verfügbar. Bitte prüfen Sie die offizielle Website der Stadt Wien oder das [Wiener Open Data Portal](https://open.wien.gv.at/) für aktuelle Informationen.  \n**Quelle:** Kein passender Datensatz gefunden."
+}

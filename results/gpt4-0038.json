@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0038",
+  "run_at": "2025-09-03T13:09:16.320239Z",
+  "question_id": 38,
+  "question": "Ist die Mehrheit der öffentlichen Toiletten im Bezirk Lichtenberg kostenlos oder kostenpflichtig?",
+  "answer": "kostenlos",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Die Mehrheit ist kostenlos: 44 Toiletten kostenlos vs. 31 kostenpflichtig (weitere 9 „auf Nachfrage“)",
+  "llm_final": "Die Mehrheit der öffentlichen Toiletten im Bezirk Lichtenberg ist kostenlos. Laut den aktuellen Daten gibt es:\n\n- 44 kostenlose Toiletten\n- 31 kostenpflichtige Toiletten\n- 9 Toiletten, die \"auf Nachfrage\" zugänglich sind\n\nDamit sind die meisten öffentlichen Toiletten im Bezirk Lichtenberg kostenlos."
+}

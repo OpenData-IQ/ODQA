@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0005",
+  "run_at": "2025-08-31T09:57:06.974142Z",
+  "question_id": 5,
+  "question": "Wie viele Geschwindigkeitsüberschreitungen gab es in Aachen im Jahr 2021?",
+  "answer": "67949",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut dem Open‑Data‑Datensatz \"Bußgelder fließender Verkehr 2021\" der Stadt Aachen gab es 67.949 erfasste Geschwindigkeitsüberschreitungen im Jahr 2021 (Anzahl der Datensatzzeilen / Bußgeldfälle).\n\nQuelle: Stadt Aachen — Bußgelder fließender Verkehr 2021 (CSV)\nhttps://offenedaten.aachen.de/dataset/14a0e75f-b040-41d7-91f3-2d3c33d3ea35/resource/dfd6ff8c-469d-4164-88be-ca38f932c176/download/2021_bussgelder-fliessender-verkehr-geschwindigkeitsubertretungen.csv"
+}

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D24 Ratswahlen Bedburg</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Ratswahlen</p>
+]]></dct:description>
+    <dct:identifier>8ebd8c22-6f33-48ab-9b8b-135e3ba303d3</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T13:11:22+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nf56c261849094a5595c3a926c811c0ba">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/b3565a81-21d5-40e3-ac17-8bc0e542a920">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahllokale Ratswahl 2020 Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahllokale zur Ratswahl 2020 für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz und eine Auflistung der Parteien finden Sie unter <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/b3565a81-21d5-40e3-ac17-8bc0e542a920"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/opendata-wahllokale.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/b3565a81-21d5-40e3-ac17-8bc0e542a920"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T17:37:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T17:37:28+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/0409d1f3-aad0-4dcc-9b01-eb5d767aadf0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Straßenverzeichnis Ratswahl 2020 Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Straßenverzeichnisse zur Ratswahl 2020 für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz und eine Auflistung der Parteien finden Sie unter <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/0409d1f3-aad0-4dcc-9b01-eb5d767aadf0"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/opendata-strassen.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/0409d1f3-aad0-4dcc-9b01-eb5d767aadf0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T17:37:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T17:37:49+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/36940b76-933d-46aa-8490-b79f87cfe767">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Ratswahl 2020 Wahlbezirksebene Stadt Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Ratswahl 2020 auf Wahlbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/36940b76-933d-46aa-8490-b79f87cfe767"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1135.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/36940b76-933d-46aa-8490-b79f87cfe767"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:33:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:33:13+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/2916f59c-6d65-4783-b440-e52a6a3694b2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Ratswahl 2020 Stadtteilebene Stadt Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Ratswahl 2020 auf Stadtteilebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/2916f59c-6d65-4783-b440-e52a6a3694b2"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1138.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/2916f59c-6d65-4783-b440-e52a6a3694b2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:31:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:32:45+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/f17f6eb3-48ac-4e81-bdbf-7cbcf10c1c55">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Ratswahl 2020 Gemeindeebene Stadt Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Ratswahl 2020 auf Gemeindeebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/f17f6eb3-48ac-4e81-bdbf-7cbcf10c1c55"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1133.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/f17f6eb3-48ac-4e81-bdbf-7cbcf10c1c55"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:31:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:31:08+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/97a914ac-6e12-44cd-9d74-95f0d2553a41">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Ratswahl 2020 Stimmbezirksebene Stadt Bedburg</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Ratswahl 2020 auf Stimmbezirksebene für die Stadt Bedburg.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung <a href="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/OpenDataInfo.html">Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/97a914ac-6e12-44cd-9d74-95f0d2553a41"/>
+        <dcat:downloadURL rdf:resource="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1136.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg/resource/97a914ac-6e12-44cd-9d74-95f0d2553a41"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:33:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-12T14:33:31+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1136.csv"/>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/opendata-wahllokale.csv"/>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1133.csv"/>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/opendata-strassen.csv"/>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1135.csv"/>
+  <rdfs:Resource rdf:about="https://wahlen.kdvz-frechen.de/kdvz/kw2020/05362004/html5/Open-Data-Ratswahl-NRW1138.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+</rdf:RDF>

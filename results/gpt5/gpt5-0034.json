@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0034",
+  "run_at": "2025-08-31T21:58:26.275613Z",
+  "question_id": 34,
+  "question": "Was ist die Differenz zwischen dem Höchst- und Niedrigstand der Ruhr in Hattingen 2024?",
+  "answer": "394 cm",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

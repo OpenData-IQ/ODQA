@@ -1,0 +1,573 @@
+GENESIS-Tabelle: 12211-Z-12
+Minderjährige Kinder in Familien nach Geschlecht  - Jahr -;;;;;
+regionale Tiefe: Kreise und kreisfreie Städte;;;;;
+Grundprogramm des Mikrozensus;;;;;
+;;;Minderjährige Kinder in Familien;Minderjährige Kinder in Familien;Minderjährige Kinder in Familien
+;;;Insgesamt;männlich;weiblich
+;;;1000;1000;1000
+2019;DG;Deutschland;13504;6930;6574
+2019;01;  Schleswig-Holstein;462;237;225
+2019;01001;      Flensburg, kreisfreie Stadt;/;/;/
+2019;01002;      Kiel, Landeshauptstadt, kreisfreie Stadt;37;20;17
+2019;01003;      Lübeck, Hansestadt, kreisfreie Stadt;32;16;16
+2019;01004;      Neumünster, kreisfreie Stadt;12;/;/
+2019;01051;      Dithmarschen, Landkreis;23;11;12
+2019;01053;      Herzogtum Lauenburg, Landkreis;35;18;17
+2019;01054;      Nordfriesland, Landkreis;28;15;13
+2019;01055;      Ostholstein, Landkreis;29;14;15
+2019;01056;      Pinneberg, Landkreis;53;27;26
+2019;01057;      Plön, Landkreis;20;10;/
+2019;01058;      Rendsburg-Eckernförde, Landkreis;45;23;22
+2019;01059;      Schleswig-Flensburg, Landkreis;32;16;15
+2019;01060;      Segeberg, Landkreis;45;23;22
+2019;01061;      Steinburg, Landkreis;20;/;12
+2019;01062;      Stormarn, Landkreis;43;24;19
+2019;02;  Hamburg;307;158;148
+2019;03;  Niedersachsen;1311;670;640
+2019;031;    Braunschweig, Stat. Region;249;127;122
+2019;03101;      Braunschweig, kreisfreie Stadt;35;17;18
+2019;03102;      Salzgitter, kreisfreie Stadt;19;12;8
+2019;03103;      Wolfsburg, kreisfreie Stadt;22;11;11
+2019;03151;      Gifhorn, Landkreis;34;17;17
+2019;03152;      Göttingen, Landkreis;-;-;-
+2019;03153;      Goslar, Landkreis;18;10;8
+2019;03154;      Helmstedt, Landkreis;16;8;8
+2019;03155;      Northeim, Landkreis;20;10;10
+2019;03156;      Osterode am Harz, Landkreis;-;-;-
+2019;03157;      Peine, Landkreis;22;11;11
+2019;03158;      Wolfenbüttel, Landkreis;19;10;10
+2019;03159;      Göttingen, Landkreis;43;21;23
+2019;032;    Hannover, Stat. Region;339;168;171
+2019;03241;      Region Hannover, Landkreis;180;89;91
+2019;03241001;      Hannover, Landeshauptstadt;79;37;42
+2019;03251;      Diepholz, Landkreis;34;16;18
+2019;03252;      Hameln-Pyrmont, Landkreis;22;11;11
+2019;03254;      Hildesheim, Landkreis;42;20;22
+2019;03255;      Holzminden, Landkreis;10;5;/
+2019;03256;      Nienburg (Weser), Landkreis;23;12;11
+2019;03257;      Schaumburg, Landkreis;26;13;13
+2019;033;    Lüneburg, Stat. Region;284;149;135
+2019;03351;      Celle, Landkreis;29;16;13
+2019;03352;      Cuxhaven, Landkreis;33;16;17
+2019;03353;      Harburg, Landkreis;43;21;22
+2019;03354;      Lüchow-Dannenberg, Landkreis;/;/;/
+2019;03355;      Lüneburg, Landkreis;31;17;14
+2019;03356;      Osterholz, Landkreis;19;11;8
+2019;03357;      Rotenburg (Wümme), Landkreis;31;17;13
+2019;03358;      Heidekreis, Landkreis;21;12;9
+2019;03359;      Stade, Landkreis;35;19;16
+2019;03360;      Uelzen, Landkreis;/;/;/
+2019;03361;      Verden, Landkreis;23;12;11
+2019;034;    Weser-Ems, Stat. Region;438;226;212
+2019;03401;      Delmenhorst, kreisfreie Stadt;13;7;7
+2019;03402;      Emden, kreisfreie Stadt;/;/;/
+2019;03403;      Oldenburg (Oldenburg), kreisfreie Stadt;26;14;12
+2019;03404;      Osnabrück, kreisfreie Stadt;22;12;10
+2019;03405;      Wilhelmshaven, kreisfreie Stadt;12;6;5
+2019;03451;      Ammerland, Landkreis;22;11;11
+2019;03452;      Aurich, Landkreis;32;16;17
+2019;03453;      Cloppenburg, Landkreis;37;18;19
+2019;03454;      Emsland, Landkreis;64;34;30
+2019;03455;      Friesland, Landkreis;/;/;/
+2019;03456;      Grafschaft Bentheim, Landkreis;22;12;10
+2019;03457;      Leer, Landkreis;/;/;/
+2019;03458;      Oldenburg, Landkreis;25;12;13
+2019;03459;      Osnabrück, Landkreis;62;32;30
+2019;03460;      Vechta, Landkreis;27;14;13
+2019;03461;      Wesermarsch, Landkreis;14;7;7
+2019;03462;      Wittmund, Landkreis;/;/;/
+2019;04;  Bremen;110;56;54
+2019;04011;      Bremen, kreisfreie Stadt;-;-;-
+2019;04012;      Bremerhaven, kreisfreie Stadt;-;-;-
+2019;05;  Nordrhein-Westfalen;2975;1526;1449
+2019;051;    Düsseldorf, Regierungsbezirk;856;439;417
+2019;05111;      Düsseldorf, kreisfreie Stadt;97;50;47
+2019;05112;      Duisburg, kreisfreie Stadt;86;46;40
+2019;05113;      Essen, kreisfreie Stadt;92;48;44
+2019;05114;      Krefeld, kreisfreie Stadt;33;16;17
+2019;05116;      Mönchengladbach, kreisfreie Stadt;47;23;24
+2019;05117;      Mülheim an der Ruhr, kreisfreie Stadt;28;13;15
+2019;05119;      Oberhausen, kreisfreie Stadt;37;21;17
+2019;05120;      Remscheid, kreisfreie Stadt;15;8;6
+2019;05122;      Solingen, kreisfreie Stadt;22;12;10
+2019;05124;      Wuppertal, kreisfreie Stadt;63;31;32
+2019;05154;      Kleve, Kreis;58;30;29
+2019;05158;      Mettmann, Kreis;81;41;40
+2019;05162;      Rhein-Kreis Neuss;84;42;41
+2019;05166;      Viersen, Kreis;44;23;21
+2019;05170;      Wesel, Kreis;72;36;36
+2019;053;    Köln, Regierungsbezirk;736;378;359
+2019;05314;      Bonn, kreisfreie Stadt;61;31;30
+2019;05315;      Köln, kreisfreie Stadt;166;85;81
+2019;05316;      Leverkusen, kreisfreie Stadt;28;15;14
+2019;05334;      Städteregion Aachen (einschl. Stadt Aachen);83;45;39
+2019;05334002;      Aachen, krfr. Stadt;-;-;-
+2019;05354;      Aachen, Kreis;-;-;-
+2019;05358;      Düren, Kreis;42;20;22
+2019;05362;      Rhein-Erft-Kreis;78;41;37
+2019;05366;      Euskirchen, Kreis;34;17;18
+2019;05370;      Heinsberg, Kreis;46;22;25
+2019;05374;      Oberbergischer Kreis;44;23;21
+2019;05378;      Rheinisch-Bergischer Kreis;48;24;24
+2019;05382;      Rhein-Sieg-Kreis;105;55;49
+2019;055;    Münster, Regierungsbezirk;442;225;217
+2019;05512;      Bottrop, kreisfreie Stadt;20;10;10
+2019;05513;      Gelsenkirchen, kreisfreie Stadt;46;24;23
+2019;05515;      Münster, kreisfreie Stadt;48;26;22
+2019;05554;      Borken, Kreis;67;34;33
+2019;05558;      Coesfeld, Kreis;41;22;18
+2019;05562;      Recklinghausen, Kreis;94;47;47
+2019;05566;      Steinfurt, Kreis;76;38;39
+2019;05570;      Warendorf, Kreis;49;24;25
+2019;057;    Detmold, Regierungsbezirk;353;183;170
+2019;05711;      Bielefeld, kreisfreie Stadt;55;29;26
+2019;05754;      Gütersloh, Kreis;59;29;30
+2019;05758;      Herford, Kreis;45;23;22
+2019;05762;      Höxter, Kreis;18;9;9
+2019;05766;      Lippe, Kreis;64;33;31
+2019;05770;      Minden-Lübbecke, Kreis;59;31;29
+2019;05774;      Paderborn, Kreis;52;29;23
+2019;059;    Arnsberg, Regierungsbezirk;587;302;286
+2019;05911;      Bochum, kreisfreie Stadt;58;28;30
+2019;05913;      Dortmund, kreisfreie Stadt;91;48;43
+2019;05914;      Hagen, kreisfreie Stadt;31;16;15
+2019;05915;      Hamm, kreisfreie Stadt;34;18;16
+2019;05916;      Herne, kreisfreie Stadt;28;14;14
+2019;05954;      Ennepe-Ruhr-Kreis;50;24;26
+2019;05958;      Hochsauerlandkreis;42;21;20
+2019;05962;      Märkischer Kreis;65;34;31
+2019;05966;      Olpe, Kreis;24;12;12
+2019;05970;      Siegen-Wittgenstein, Kreis;48;24;24
+2019;05974;      Soest, Kreis;54;28;27
+2019;05978;      Unna, Kreis;63;36;28
+2019;06;  Hessen;1049;537;513
+2019;064;    Darmstadt, Regierungsbezirk;691;349;341
+2019;06411;      Darmstadt, kreisfreie Stadt;26;14;12
+2019;06412;      Frankfurt am Main, kreisfreie Stadt;130;67;63
+2019;06413;      Offenbach am Main, kreisfreie Stadt;26;13;13
+2019;06414;      Wiesbaden, Landeshauptstadt, kreisfreie Stadt;51;25;26
+2019;06431;      Bergstraße, Landkreis;48;26;23
+2019;06432;      Darmstadt-Dieburg, Landkreis;49;24;24
+2019;06433;      Groß-Gerau, Landkreis;50;24;26
+2019;06434;      Hochtaunuskreis;47;23;24
+2019;06435;      Main-Kinzig-Kreis;70;35;35
+2019;06436;      Main-Taunus-Kreis;41;23;18
+2019;06437;      Odenwaldkreis;14;7;7
+2019;06438;      Offenbach, Landkreis;59;26;33
+2019;06439;      Rheingau-Taunus-Kreis;27;15;12
+2019;06440;      Wetteraukreis;53;26;27
+2019;065;    Gießen, Regierungsbezirk;167;89;79
+2019;06531;      Gießen, Landkreis;39;20;19
+2019;06532;      Lahn-Dill-Kreis;43;21;22
+2019;06533;      Limburg-Weilburg, Landkreis;27;15;12
+2019;06534;      Marburg-Biedenkopf, Landkreis;42;24;18
+2019;06535;      Vogelsbergkreis;17;8;8
+2019;066;    Kassel, Regierungsbezirk;191;99;92
+2019;06611;      Kassel, kreisfreie Stadt;29;14;15
+2019;06631;      Fulda, Landkreis;37;18;19
+2019;06632;      Hersfeld-Rotenburg, Landkreis;15;7;8
+2019;06633;      Kassel, Landkreis;41;23;18
+2019;06634;      Schwalm-Eder-Kreis;28;14;14
+2019;06635;      Waldeck-Frankenberg, Landkreis;24;13;11
+2019;06636;      Werra-Meißner-Kreis;16;9;7
+2019;07;  Rheinland-Pfalz;658;340;318
+2019;071;    Koblenz, Stat. Region;235;123;112
+2019;07111;      Koblenz, kreisfreie Stadt;-;-;-
+2019;07131;      Ahrweiler, Landkreis;-;-;-
+2019;07132;      Altenkirchen (Westerwald), Landkreis;-;-;-
+2019;07133;      Bad Kreuznach, Landkreis;-;-;-
+2019;07134;      Birkenfeld, Landkreis;-;-;-
+2019;07135;      Cochem-Zell, Landkreis;-;-;-
+2019;07137;      Mayen-Koblenz, Landkreis;-;-;-
+2019;07138;      Neuwied, Landkreis;-;-;-
+2019;07140;      Rhein-Hunsrück-Kreis;-;-;-
+2019;07141;      Rhein-Lahn-Kreis;-;-;-
+2019;07143;      Westerwaldkreis;-;-;-
+2019;072;    Trier, Stat. Region;80;41;39
+2019;07211;      Trier, kreisfreie Stadt;-;-;-
+2019;07231;      Bernkastel-Wittlich, Landkreis;-;-;-
+2019;07232;      Eifelkreis Bitburg-Prüm;-;-;-
+2019;07233;      Vulkaneifel, Landkreis;-;-;-
+2019;07235;      Trier-Saarburg, Landkreis;-;-;-
+2019;073;    Rheinhessen-Pfalz, Stat. Region;342;176;166
+2019;07311;      Frankenthal (Pfalz), kreisfreie Stadt;-;-;-
+2019;07312;      Kaiserslautern, kreisfreie Stadt;-;-;-
+2019;07313;      Landau in der Pfalz, kreisfreie Stadt;-;-;-
+2019;07314;      Ludwigshafen am Rhein, kreisfreie Stadt;-;-;-
+2019;07315;      Mainz, kreisfreie Stadt;-;-;-
+2019;07316;      Neustadt an der Weinstraße, kreisfreie Stadt;-;-;-
+2019;07317;      Pirmasens, kreisfreie Stadt;-;-;-
+2019;07318;      Speyer, kreisfreie Stadt;-;-;-
+2019;07319;      Worms, kreisfreie Stadt;-;-;-
+2019;07320;      Zweibrücken, kreisfreie Stadt;-;-;-
+2019;07331;      Alzey-Worms, Landkreis;-;-;-
+2019;07332;      Bad Dürkheim, Landkreis;-;-;-
+2019;07333;      Donnersbergkreis;-;-;-
+2019;07334;      Germersheim, Landkreis;-;-;-
+2019;07335;      Kaiserslautern, Landkreis;-;-;-
+2019;07336;      Kusel, Landkreis;-;-;-
+2019;07337;      Südliche Weinstraße, Landkreis;-;-;-
+2019;07338;      Rhein-Pfalz-Kreis;-;-;-
+2019;07339;      Mainz-Bingen, Landkreis;-;-;-
+2019;07340;      Südwestpfalz, Landkreis;-;-;-
+2019;08;  Baden-Württemberg;1861;953;908
+2019;081;    Stuttgart, Regierungsbezirk;697;357;341
+2019;08111;      Stuttgart, Landeshauptstadt, Stadtkreis;-;-;-
+2019;08115;      Böblingen, Landkreis;-;-;-
+2019;08116;      Esslingen, Landkreis;-;-;-
+2019;08117;      Göppingen, Landkreis;-;-;-
+2019;08118;      Ludwigsburg, Landkreis;-;-;-
+2019;08119;      Rems-Murr-Kreis, Landkreis;-;-;-
+2019;08121;      Heilbronn, Universitätsstadt, Stadtkreis;-;-;-
+2019;08125;      Heilbronn, Landkreis;-;-;-
+2019;08126;      Hohenlohekreis, Landkreis;-;-;-
+2019;08127;      Schwäbisch Hall, Landkreis;-;-;-
+2019;08128;      Main-Tauber-Kreis, Landkreis;-;-;-
+2019;08135;      Heidenheim, Landkreis;-;-;-
+2019;08136;      Ostalbkreis, Landkreis;-;-;-
+2019;082;    Karlsruhe, Regierungsbezirk;455;234;222
+2019;08211;      Baden-Baden, Stadtkreis;-;-;-
+2019;08212;      Karlsruhe, Stadtkreis;-;-;-
+2019;08215;      Karlsruhe, Landkreis;-;-;-
+2019;08216;      Rastatt, Landkreis;-;-;-
+2019;08221;      Heidelberg, Stadtkreis;-;-;-
+2019;08222;      Mannheim, Stadtkreis;-;-;-
+2019;08225;      Neckar-Odenwald-Kreis, Landkreis;-;-;-
+2019;08226;      Rhein-Neckar-Kreis, Landkreis;-;-;-
+2019;08231;      Pforzheim, Stadtkreis;-;-;-
+2019;08235;      Calw, Landkreis;-;-;-
+2019;08236;      Enzkreis, Landkreis;-;-;-
+2019;08237;      Freudenstadt, Landkreis;-;-;-
+2019;083;    Freiburg, Regierungsbezirk;387;201;186
+2019;08311;      Freiburg im Breisgau, Stadtkreis;-;-;-
+2019;08315;      Breisgau-Hochschwarzwald, Landkreis;-;-;-
+2019;08316;      Emmendingen, Landkreis;-;-;-
+2019;08317;      Ortenaukreis, Landkreis;-;-;-
+2019;08325;      Rottweil, Landkreis;-;-;-
+2019;08326;      Schwarzwald-Baar-Kreis, Landkreis;-;-;-
+2019;08327;      Tuttlingen, Landkreis;-;-;-
+2019;08335;      Konstanz, Landkreis;-;-;-
+2019;08336;      Lörrach, Landkreis;-;-;-
+2019;08337;      Waldshut, Landkreis;-;-;-
+2019;084;    Tübingen, Regierungsbezirk;321;162;159
+2019;08415;      Reutlingen, Landkreis;-;-;-
+2019;08416;      Tübingen, Landkreis;-;-;-
+2019;08417;      Zollernalbkreis, Landkreis;-;-;-
+2019;08421;      Ulm, Stadtkreis;-;-;-
+2019;08425;      Alb-Donau-Kreis, Landkreis;-;-;-
+2019;08426;      Biberach, Landkreis;-;-;-
+2019;08435;      Bodenseekreis, Landkreis;-;-;-
+2019;08436;      Ravensburg, Landkreis;-;-;-
+2019;08437;      Sigmaringen, Landkreis;-;-;-
+2019;09;  Bayern;2133;1096;1038
+2019;091;    Oberbayern, Regierungsbezirk;792;410;382
+2019;09161;      Ingolstadt;-;-;-
+2019;09162;      München, Landeshauptstadt;-;-;-
+2019;09163;      Rosenheim;-;-;-
+2019;09171;      Altötting, Landkreis;-;-;-
+2019;09172;      Berchtesgadener Land, Landkreis;-;-;-
+2019;09173;      Bad Tölz-Wolfratshausen, Landkreis;-;-;-
+2019;09174;      Dachau, Landkreis;-;-;-
+2019;09175;      Ebersberg, Landkreis;-;-;-
+2019;09176;      Eichstätt, Landkreis;-;-;-
+2019;09177;      Erding, Landkreis;-;-;-
+2019;09178;      Freising, Landkreis;-;-;-
+2019;09179;      Fürstenfeldbruck, Landkreis;-;-;-
+2019;09180;      Garmisch-Partenkirchen, Landkreis;-;-;-
+2019;09181;      Landsberg am Lech, Landkreis;-;-;-
+2019;09182;      Miesbach, Landkreis;-;-;-
+2019;09183;      Mühldorf a.Inn, Landkreis;-;-;-
+2019;09184;      München, Landkreis;-;-;-
+2019;09185;      Neuburg-Schrobenhausen, Landkreis;-;-;-
+2019;09186;      Pfaffenhofen a.d.Ilm, Landkreis;-;-;-
+2019;09187;      Rosenheim, Landkreis;-;-;-
+2019;09188;      Starnberg, Landkreis;-;-;-
+2019;09189;      Traunstein, Landkreis;-;-;-
+2019;09190;      Weilheim-Schongau, Landkreis;-;-;-
+2019;092;    Niederbayern, Regierungsbezirk;205;105;100
+2019;09261;      Landshut;-;-;-
+2019;09262;      Passau;-;-;-
+2019;09263;      Straubing;-;-;-
+2019;09271;      Deggendorf, Landkreis;-;-;-
+2019;09272;      Freyung-Grafenau, Landkreis;-;-;-
+2019;09273;      Kelheim, Landkreis;-;-;-
+2019;09274;      Landshut, Landkreis;-;-;-
+2019;09275;      Passau, Landkreis;-;-;-
+2019;09276;      Regen, Landkreis;-;-;-
+2019;09277;      Rottal-Inn, Landkreis;-;-;-
+2019;09278;      Straubing-Bogen, Landkreis;-;-;-
+2019;09279;      Dingolfing-Landau, Landkreis;-;-;-
+2019;093;    Oberpfalz, Regierungsbezirk;174;88;87
+2019;09361;      Amberg;-;-;-
+2019;09362;      Regensburg;-;-;-
+2019;09363;      Weiden i.d.OPf.;-;-;-
+2019;09371;      Amberg-Sulzbach, Landkreis;-;-;-
+2019;09372;      Cham, Landkreis;-;-;-
+2019;09373;      Neumarkt i.d.OPf., Landkreis;-;-;-
+2019;09374;      Neustadt a.d.Waldnaab, Landkreis;-;-;-
+2019;09375;      Regensburg, Landkreis;-;-;-
+2019;09376;      Schwandorf, Landkreis;-;-;-
+2019;09377;      Tirschenreuth, Landkreis;-;-;-
+2019;094;    Oberfranken, Regierungsbezirk;164;87;77
+2019;09461;      Bamberg;-;-;-
+2019;09462;      Bayreuth;-;-;-
+2019;09463;      Coburg;-;-;-
+2019;09464;      Hof;-;-;-
+2019;09471;      Bamberg, Landkreis;-;-;-
+2019;09472;      Bayreuth, Landkreis;-;-;-
+2019;09473;      Coburg, Landkreis;-;-;-
+2019;09474;      Forchheim, Landkreis;-;-;-
+2019;09475;      Hof, Landkreis;-;-;-
+2019;09476;      Kronach, Landkreis;-;-;-
+2019;09477;      Kulmbach, Landkreis;-;-;-
+2019;09478;      Lichtenfels, Landkreis;-;-;-
+2019;09479;      Wunsiedel i.Fichtelgebirge, Landkreis;-;-;-
+2019;095;    Mittelfranken, Regierungsbezirk;286;147;138
+2019;09561;      Ansbach;-;-;-
+2019;09562;      Erlangen;-;-;-
+2019;09563;      Fürth;-;-;-
+2019;09564;      Nürnberg;-;-;-
+2019;09565;      Schwabach;-;-;-
+2019;09571;      Ansbach, Landkreis;-;-;-
+2019;09572;      Erlangen-Höchstadt, Landkreis;-;-;-
+2019;09573;      Fürth, Landkreis;-;-;-
+2019;09574;      Nürnberger Land, Landkreis;-;-;-
+2019;09575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;-;-;-
+2019;09576;      Roth, Landkreis;-;-;-
+2019;09577;      Weißenburg-Gunzenhausen, Landkreis;-;-;-
+2019;096;    Unterfranken, Regierungsbezirk;204;101;103
+2019;09661;      Aschaffenburg;-;-;-
+2019;09662;      Schweinfurt;-;-;-
+2019;09663;      Würzburg;-;-;-
+2019;09671;      Aschaffenburg, Landkreis;-;-;-
+2019;09672;      Bad Kissingen, Landkreis;-;-;-
+2019;09673;      Rhön-Grabfeld, Landkreis;-;-;-
+2019;09674;      Haßberge, Landkreis;-;-;-
+2019;09675;      Kitzingen, Landkreis;-;-;-
+2019;09676;      Miltenberg, Landkreis;-;-;-
+2019;09677;      Main-Spessart, Landkreis;-;-;-
+2019;09678;      Schweinfurt, Landkreis;-;-;-
+2019;09679;      Würzburg, Landkreis;-;-;-
+2019;097;    Schwaben, Regierungsbezirk;308;157;151
+2019;09761;      Augsburg;-;-;-
+2019;09762;      Kaufbeuren;-;-;-
+2019;09763;      Kempten (Allgäu);-;-;-
+2019;09764;      Memmingen;-;-;-
+2019;09771;      Aichach-Friedberg, Landkreis;-;-;-
+2019;09772;      Augsburg, Landkreis;-;-;-
+2019;09773;      Dillingen a.d.Donau, Landkreis;-;-;-
+2019;09774;      Günzburg, Landkreis;-;-;-
+2019;09775;      Neu-Ulm, Landkreis;-;-;-
+2019;09776;      Lindau (Bodensee), Landkreis;-;-;-
+2019;09777;      Ostallgäu, Landkreis;-;-;-
+2019;09778;      Unterallgäu, Landkreis;-;-;-
+2019;09779;      Donau-Ries, Landkreis;-;-;-
+2019;09780;      Oberallgäu, Landkreis;-;-;-
+2019;10;  Saarland;144;74;70
+2019;10041;      Saarbrücken, Regionalverband;46;24;21
+2019;10041100;      Saarbrücken, Landeshauptstadt;-;-;-
+2019;10042;      Merzig-Wadern, Landkreis;17;9;9
+2019;10043;      Neunkirchen, Landkreis;20;10;10
+2019;10044;      Saarlouis, Landkreis;26;13;13
+2019;10045;      Saarpfalz-Kreis;22;11;11
+2019;10046;      St. Wendel, Landkreis;13;8;6
+2019;11;  Berlin;590;305;285
+2019;11001001;      Berlin-Mitte;56;30;26
+2019;11002002;      Berlin-Friedrichshain-Kreuzberg;43;24;19
+2019;11003003;      Berlin-Pankow;68;33;35
+2019;11004004;      Berlin-Charlottenburg-Wilmersdorf;45;24;21
+2019;11005005;      Berlin-Spandau;44;23;22
+2019;11006006;      Berlin-Steglitz-Zehlendorf;48;24;24
+2019;11007007;      Berlin-Tempelhof-Schöneberg;51;26;25
+2019;11008008;      Berlin-Neukölln;53;27;26
+2019;11009009;      Berlin-Treptow-Köpenick;44;23;21
+2019;11010010;      Berlin-Marzahn-Hellersdorf;45;23;23
+2019;11011011;      Berlin-Lichtenberg;47;24;23
+2019;11012012;      Berlin-Reinickendorf;45;26;20
+2019;12;  Brandenburg;389;199;191
+2019;12051;      Brandenburg an der Havel, kreisfreie Stadt;10;7;/
+2019;12052;      Cottbus, kreisfreie Stadt;15;8;7
+2019;12053;      Frankfurt (Oder), kreisfreie Stadt;11;/;/
+2019;12054;      Potsdam, kreisfreie Stadt;25;14;11
+2019;12060;      Barnim, Landkreis;30;16;14
+2019;12061;      Dahme-Spreewald, Landkreis;25;13;12
+2019;12062;      Elbe-Elster, Landkreis;15;9;6
+2019;12063;      Havelland, Landkreis;24;13;11
+2019;12064;      Märkisch-Oderland, Landkreis;30;14;16
+2019;12065;      Oberhavel, Landkreis;34;16;19
+2019;12066;      Oberspreewald-Lausitz, Landkreis;18;9;9
+2019;12067;      Oder-Spree, Landkreis;30;16;15
+2019;12068;      Ostprignitz-Ruppin, Landkreis;15;6;9
+2019;12069;      Potsdam-Mittelmark, Landkreis;37;19;17
+2019;12070;      Prignitz, Landkreis;8;/;/
+2019;12071;      Spree-Neiße, Landkreis;17;8;9
+2019;12072;      Teltow-Fläming, Landkreis;29;14;15
+2019;12073;      Uckermark, Landkreis;15;7;7
+2019;13;  Mecklenburg-Vorpommern;242;124;118
+2019;13001;      Greifswald, Hansestadt, kreisfreie Stadt;-;-;-
+2019;13002;      Neubrandenburg, Stadt,  kreisfreie Stadt;-;-;-
+2019;13003;      Rostock, Hanse- und Universitätsstadt, kreisfreie Stadt;24;13;11
+2019;13004;      Schwerin, Landeshauptstadt, kreisfreie Stadt;17;10;7
+2019;13005;      Stralsund, Hansestadt,  kreisfreie Stadt;-;-;-
+2019;13006;      Wismar, Hansestadt,  kreisfreie Stadt;-;-;-
+2019;13051;      Bad Doberan, Landkreis;-;-;-
+2019;13052;      Landkreis Demmin;-;-;-
+2019;13053;      Güstrow, Landkreis;-;-;-
+2019;13054;      Landkreis Ludwigslust;-;-;-
+2019;13055;      Mecklenburg-Strelitz, Landkreis;-;-;-
+2019;13056;      Landkreis Müritz;-;-;-
+2019;13057;      Nordvorpommern, Landkreis;-;-;-
+2019;13058;      Landkreis Nordwestmecklenburg;-;-;-
+2019;13059;      Ostvorpommern, Landkreis;-;-;-
+2019;13060;      Landkreis Parchim;-;-;-
+2019;13061;      Rügen, Landkreis;-;-;-
+2019;13062;      Landkreis Uecker-Randow;-;-;-
+2019;13071;      Mecklenburgische Seenplatte, Landkreis;36;18;18
+2019;13072;      Landkreis Rostock;37;18;19
+2019;13073;      Vorpommern-Rügen, Landkreis;35;18;18
+2019;13074;      Landkreis Nordwestmecklenburg;21;11;9
+2019;13075;      Vorpommern-Greifswald, Landkreis;38;19;19
+2019;13076;      Landkreis Ludwigslust-Parchim;33;17;17
+2019;14;  Sachsen;637;326;311
+2019;141;    Chemnitz, Regierungsbezirk;-;-;-
+2019;14161;      Chemnitz, kreisfreie Stadt;-;-;-
+2019;14166;      Plauen, kreisfreie Stadt;-;-;-
+2019;14167;      Zwickau, kreisfreie Stadt;-;-;-
+2019;14171;      Annaberg, Landkreis;-;-;-
+2019;14173;      Chemnitzer Land, Landkreis;-;-;-
+2019;14177;      Freiberg, Landkreis;-;-;-
+2019;14178;      Vogtlandkreis;-;-;-
+2019;14181;      Mittlerer Erzgebirgskreis;-;-;-
+2019;14182;      Mittweida, Landkreis;-;-;-
+2019;14188;      Stollberg, Landkreis;-;-;-
+2019;14191;      Aue-Schwarzenberg, Landkreis;-;-;-
+2019;14193;      Zwickauer Land, Landkreis;-;-;-
+2019;142;    Dresden, Regierungsbezirk;-;-;-
+2019;14262;      Dresden, kreisfreie Stadt;-;-;-
+2019;14263;      Görlitz, kreisfreie Stadt;-;-;-
+2019;14264;      Hoyerswerda, kreisfreie Stadt;-;-;-
+2019;14272;      Bautzen, Landkreis;-;-;-
+2019;14280;      Meißen, Landkreis;-;-;-
+2019;14284;      Niederschlesischer Oberlausitzkreis;-;-;-
+2019;14285;      Riesa-Großenhain, Landkreis;-;-;-
+2019;14286;      Löbau-Zittau, Landkreis;-;-;-
+2019;14287;      Sächsische Schweiz, Landkreis;-;-;-
+2019;14290;      Weißeritzkreis;-;-;-
+2019;14292;      Kamenz, Landkreis;-;-;-
+2019;143;    Leipzig, Regierungsbezirk;-;-;-
+2019;14365;      Leipzig, kreisfreie Stadt;-;-;-
+2019;14374;      Delitzsch, Landkreis;-;-;-
+2019;14375;      Döbeln, Landkreis;-;-;-
+2019;14379;      Leipziger Land, Landkreis;-;-;-
+2019;14383;      Muldentalkreis;-;-;-
+2019;14389;      Torgau-Oschatz, Landkreis;-;-;-
+2019;145;    Chemnitz, Stat. Region;212;106;106
+2019;14511;      Chemnitz, Stadt;38;19;19
+2019;14521;      Erzgebirgskreis;54;25;29
+2019;14522;      Mittelsachsen, Landkreis;45;23;22
+2019;14523;      Vogtlandkreis;30;17;13
+2019;14524;      Zwickau, Landkreis;45;22;23
+2019;146;    Dresden, Stat. Region;259;131;128
+2019;14612;      Dresden, Stadt;94;47;47
+2019;14625;      Bautzen, Landkreis;52;28;25
+2019;14626;      Görlitz, Landkreis;36;17;19
+2019;14627;      Meißen, Landkreis;36;18;18
+2019;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;41;22;19
+2019;147;    Leipzig, Stat. Region;166;89;77
+2019;14713;      Leipzig, Stadt;92;52;40
+2019;14729;      Leipzig, Landkreis;38;19;19
+2019;14730;      Nordsachsen, Landkreis;36;18;18
+2019;15;  Sachsen-Anhalt;315;163;152
+2019;15001;      Dessau-Roßlau, kreisfreie Stadt;11;5;5
+2019;15002;      Halle (Saale), kreisfreie Stadt;36;19;17
+2019;15003;      Magdeburg, Landeshauptstadt, kreisfreie Stadt;34;16;18
+2019;15081;      Altmarkkreis Salzwedel;12;6;5
+2019;15082;      Anhalt-Bitterfeld, Landkreis;22;11;11
+2019;15083;      Börde, Landkreis;27;14;13
+2019;15084;      Burgenlandkreis;24;13;11
+2019;15085;      Harz, Landkreis;26;13;13
+2019;15086;      Jerichower Land, Landkreis;12;7;5
+2019;15087;      Mansfeld-Südharz, Landkreis;15;6;9
+2019;15088;      Saalekreis;33;17;16
+2019;15089;      Salzlandkreis;27;14;12
+2019;15090;      Stendal, Landkreis;18;11;7
+2019;15091;      Wittenberg, Landkreis;18;9;9
+2019;151;    Dessau, Stat. Region;-;-;-
+2019;15101;      Dessau, kreisfreie Stadt;-;-;-
+2019;15151;      Anhalt-Zerbst, Kreis;-;-;-
+2019;15153;      Bernburg, Kreis;-;-;-
+2019;15154;      Bitterfeld, Kreis;-;-;-
+2019;15159;      Köthen, Kreis;-;-;-
+2019;15171;      Wittenberg, Kreis;-;-;-
+2019;152;    Halle, Stat. Region;-;-;-
+2019;15202;      Halle (Saale), kreisfreie Stadt;-;-;-
+2019;15256;      Burgenlandkreis;-;-;-
+2019;15260;      Mansfelder Land, Kreis;-;-;-
+2019;15261;      Merseburg-Querfurt, Kreis;-;-;-
+2019;15265;      Saalkreis;-;-;-
+2019;15266;      Sangerhausen, Kreis;-;-;-
+2019;15268;      Weißenfels, Kreis;-;-;-
+2019;153;    Magdeburg, Stat. Region;-;-;-
+2019;15303;      Magdeburg, kreisfreie Stadt;-;-;-
+2019;15352;      Aschersleben-Staßfurt, Kreis;-;-;-
+2019;15355;      Bördekreis;-;-;-
+2019;15357;      Halberstadt, Kreis;-;-;-
+2019;15358;      Jerichower Land, Kreis;-;-;-
+2019;15362;      Ohrekreis;-;-;-
+2019;15363;      Stendal, Kreis;-;-;-
+2019;15364;      Quedlinburg, Kreis;-;-;-
+2019;15367;      Schönebeck, Kreis;-;-;-
+2019;15369;      Wernigerode, Kreis;-;-;-
+2019;15370;      Altmarkkreis Salzwedel, Kreis;-;-;-
+2019;16;  Thüringen;320;166;155
+2019;16051;      Erfurt, kreisfreie Stadt;33;16;17
+2019;16052;      Gera, kreisfreie Stadt;12;/;/
+2019;16053;      Jena, kreisfreie Stadt;20;9;10
+2019;16054;      Suhl, kreisfreie Stadt;/;/;/
+2019;16055;      Weimar, kreisfreie Stadt;13;8;/
+2019;16056;      Eisenach, kreisfreie Stadt;/;/;/
+2019;16061;      Eichsfeld, Kreis;16;8;8
+2019;16062;      Nordhausen, Kreis;13;/;/
+2019;16063;      Wartburgkreis;17;8;8
+2019;16064;      Unstrut-Hainich-Kreis;16;8;8
+2019;16065;      Kyffhäuserkreis;9;/;/
+2019;16066;      Schmalkalden-Meiningen, Kreis;19;10;9
+2019;16067;      Gotha, Kreis;19;10;9
+2019;16068;      Sömmerda, Kreis;12;8;/
+2019;16069;      Hildburghausen, Kreis;11;/;/
+2019;16070;      Ilm-Kreis;14;8;/
+2019;16071;      Weimarer Land, Kreis;13;/;/
+2019;16072;      Sonneberg, Kreis;/;/;/
+2019;16073;      Saalfeld-Rudolstadt, Kreis;15;7;8
+2019;16074;      Saale-Holzland-Kreis;14;8;/
+2019;16075;      Saale-Orla-Kreis;14;/;/
+2019;16076;      Greiz, Kreis;13;/;/
+2019;16077;      Altenburger Land, Kreis;11;/;/
+__________
+"Die Erstellung von Landesergebnissen sowie Ergebnissen von
+Regierungsbezirken/Statistischen Regionen erfolgt auf
+Basis der Standardhochrechnung.
+
+Die Erstellung von Ergebnissen für kreisfreie Städte und
+Kreise erfolgt auf Basis der gesonderten
+Hochrechnung."
+"Minderjährige Kinder in Familien/Lebensformen am
+Hauptwohnort der
+Familie/Lebensform
+
+Ab 2016: Durch Effekte der Umstellung auf eine neue
+Stichprobe im Berichtsjahr 2016 sowie durch Sondereffekte
+im Kontext der Bevölkerungsentwicklung ist die
+Vergleichbarkeit der Mikrozensusergebnisse für das
+Berichtsjahre 2016 mit den 
+Vorjahren eingeschränkt.
+
+Die zusammengefassten Ergebnisse zu den Landkreisen
+Lüchow-Dannenberg und Uelzen, Leer und Wittmund sowie
+kreisfreien Stadt Emden/Landkreis Friesland finden Sie hier:
+?https://www.regionalstatistik.de/genesis/misc/Mikrozensus_N
+iedersachen.pdf?"
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2023.
+Dieses Werk ist lizenziert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 28.06.2023 / 09:28:48

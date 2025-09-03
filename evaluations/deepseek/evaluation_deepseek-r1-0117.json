@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0117",
+  "run_at": "2025-09-01T22:17:08.340271Z",
+  "question_id": "117",
+  "question": "In welchem Stadtbereich Rostocks war der Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 am höchsten?",
+  "answer": "Im Stadtbereich Gartenstadt-Stadtweide lag der Anteil ausländischer Einwohnerinnen und Einwohner am 31.12.2010 mit 7,9 % am höchsten.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "<FinalAnswer>\nLeider konnte der spezifische Datensatz zu Rostocks Stadtbereichen und dem Ausländeranteil im Jahr 2010 nicht über das GovData-Portal gefunden werden. Die vorhandenen Ergebnisse beziehen sich auf Bremen, nicht auf Rostock. \n\n**Empfehlung:**  \nBitte wenden Sie sich direkt an das [Statistische Amt Rostock](https://www.rostock.de/statistik) oder durchsuchen Sie deren offizielle Veröffentlichungen, um die gewünschten Daten zu erhalten. \n\nQuelle: Keine passende Dataset-URI verfügbar.\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM sagt explizit, dass der Datensatz nicht gefunden wurde und verweist auf eine andere Stadt. Es beantwortet die Frage daher nicht. Kategorie: problem_answers/not found."
+  }
+}

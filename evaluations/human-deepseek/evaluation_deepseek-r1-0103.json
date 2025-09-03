@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0103",
+  "run_at": "2025-09-01T21:51:44.057060Z",
+  "question_id": 103,
+  "question": "Wann gab es in Frankfurt am Main prozentual die meisten Fehlalarme bei Feuermeldungen?",
+  "answer": "2024, mit 80,9%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Es liegt keine LLM-Antwort vor (llm_final ist leer). Daher kann der Inhalt nicht bewertet werden."
+  }
+}

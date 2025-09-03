@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0041",
+  "run_at": "2025-09-03T13:10:18.020337Z",
+  "question_id": 41,
+  "question": "Welche Hausnummer ist in Leipzig die häufigste?",
+  "answer": "3",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "2046 Vorkommen für die Hausnummer 3",
+  "llm_final": "Die häufigste Hausnummer in Leipzig ist die 3 – sie kommt 2.046 Mal vor. \n\nQuelle: Kommunale Gebietsgliederung Leipzig: Adressen (Open Data Leipzig)"
+}

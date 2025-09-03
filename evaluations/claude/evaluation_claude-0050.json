@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0050",
+  "run_at": "2025-09-01T13:52:36.141514Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Jetzt kann ich die Frage beantworten. Ich suche nach der Gesamtzahl der tödlichen Arbeits- und Wegeunfälle für das Jahr 2014.\n\nAus dem Datensatz kann ich folgende Informationen für das Jahr 2014 entnehmen:\n- Tödliche Arbeitsunfälle gesamt: 639\n- Tödliche Wegeunfälle gesamt: 332\n\nAlternativ kann ich auch die Gesamtsumme direkt aus der Zeile \"Tödliche Unfälle gesamt\" ablesen, die für 2014 einen Wert von 971 angibt.\n\n**FinalAnswer:** Im Jahr 2014 gab es insgesamt 971 tödliche Arbeits- und Wegeunfälle in Deutschland. Diese Zahl setzt sich zusammen aus 639 tödlichen Arbeitsunfällen und 332 tödlichen Wegeunfällen. \n\nQuelle: Datensatz \"Tödliche Unfälle (Arbeitsunfälle und Wegeunfälle) in den Jahren 2014 bis 2016\" (https://ckan.govdata.de/dataset/a516c245-d2e0-4cbe-bdd7-a25ac8985cb3)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt die korrekte Gesamtsumme 971 und erklärt sie nachvollziehbar durch die Teilsummen 639 und 332. Sie verweist zudem auf den zugrunde liegenden Datensatz. Vollständig und korrekt."
+  }
+}

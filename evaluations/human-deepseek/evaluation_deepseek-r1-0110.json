@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0110",
+  "run_at": "2025-09-01T22:01:47.957504Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "<FinalAnswer>\nEs konnten leider keine Datensätze zu Saatkrähen in Soest auf dem GovData-Portal gefunden werden. Möglicherweise existieren hierzu aktuell keine offen zugänglichen Daten. Für konkrete Anfragen können Sie sich direkt an die Umweltbehörde der Stadt Soest oder das Landesamt für Natur, Umwelt und Verbraucherschutz NRW wenden.\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der Goldstandard enthält einen konkreten Datensatz-Link zu Saatkrähen in Soest. Das LLM behauptet fälschlich, es seien keine Datensätze gefunden worden."
+  }
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Fraktionszuwendungen Ratsfraktionen Koeln</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Fraktionszuwendungen für die Ratsfraktionen aus den Jahren 2014-2021</p>
+]]></dct:description>
+    <dct:identifier>e782a007-e907-4e89-8dcb-e1eefa1f02f0</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/UNKNOWN"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:30:43+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-26T12:56:31+02:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <foaf:page rdf:resource="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N666e7c7711424a06b4317bf04aa92780">
+        <vcard:fn>Büro der Oberbürgermeisterin</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:oberbuergermeisterin@stadt-koeln.de"/>
+        <vcard:hasURL rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N4cffeecfeaf94b7c979d43c6de0bb66d">
+        <foaf:name>Redaktion offenedaten-koeln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.offenedaten-koeln.de/impressum"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N34db2e7238934063a6820b847e7b50b0">
+        <foaf:name>Stadt Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+        <dct:type>foaf:Agent</dct:type>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Na3aa860501eb46bd850f1a2cdbfc3b3e">
+        <foaf:name>Stadt Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N892842dc563345f8a7701a72bdc404f4">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dct:provenance>
+      <dct:ProvenanceStatement rdf:nodeID="N17552fcaf15345b39444e7bacf8a6c5e">
+        <rdfs:label>Nbde481d4d89d4174bef5ed3dad892471</rdfs:label>
+      </dct:ProvenanceStatement>
+    </dct:provenance>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/b4e5363d-0662-4109-a674-031df61a306c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Fraktionszuwendungen Ratsfraktionen Koeln</dct:title>
+        <dct:description><![CDATA[<p>Zeitraum: 2014 - 2021</p>
+<p>Information:</p>
+<p>11/2017 Auflösung der Ratgruppe Piraten<br />
+12/2017 Gründung der Ratsgruppe Bunt<br />
+04/2018 Auflösung der Ratsgruppe pro Köln<br />
+05/2018 Gründung der Ratgruppe Rot-Weiß<br />
+05/2019 Auflösung der  Ratsgruppe Bunt </p>
+]]></dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/b4e5363d-0662-4109-a674-031df61a306c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten-koeln.de/sites/default/files/Fraktionszuwendungen_Koeln_2014_2021.csv"/>
+        <foaf:page rdf:resource="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/b4e5363d-0662-4109-a674-031df61a306c"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="https://www.dcat-ap.de/def/dcatde/1.1/spec/specification.pdf"/>
+        <dct:rights rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-10T07:24:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-26T12:56:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1131</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nfa3bf504245042cc91fe3d4c2a9c5266">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c1a45d3086f135f9cd666a6a99b4b355</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/4783a751-f7d7-45e7-b6ba-18bd8344a0ac">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Fraktionszuwendungen Ratsfraktionen Koeln</dct:title>
+        <dct:description><![CDATA[<p>Zeitraum: 2014 - 2021</p>
+<p>Information:</p>
+<p>11/2017 Auflösung der Ratgruppe Piraten<br />
+12/2017 Gründung der Ratsgruppe Bunt<br />
+04/2018 Auflösung der Ratsgruppe pro Köln<br />
+05/2018 Gründung der Ratgruppe Rot-Weiß<br />
+05/2019 Auflösung der  Ratsgruppe Bunt </p>
+<p> </p>
+]]></dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/4783a751-f7d7-45e7-b6ba-18bd8344a0ac"/>
+        <foaf:page rdf:resource="https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln/resource/4783a751-f7d7-45e7-b6ba-18bd8344a0ac"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="https://www.dcat-ap.de/def/dcatde/1.1/spec/specification.pdf"/>
+        <dct:rights rdf:resource="https://www.govdata.de/dl-de/zero-2-0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-10T07:30:14+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-26T12:56:37+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten-koeln.de/"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05315"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ne46be53ac6694eb695c091fb504e94ce">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05315"/>
+      </dct:Location>
+    </dct:spatial>
+    <dcatde:originator>
+      <foaf:Organization rdf:nodeID="Nd8f341dc0e7e43a8a032c5e0208e04d1">
+        <foaf:name>Stadt Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:originator>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N58172cf8b1e04946b364117cc2bae845">
+        <foaf:name>Stadt Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:contributor>
+      <foaf:Organization rdf:nodeID="Nb540f12308e947b6a0bd2353d2b412ec">
+        <foaf:name>Stadt Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.stadt-koeln.de/politik-und-verwaltung/oberbuergermeister/index.html"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dct:contributor>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:Standard rdf:about="https://www.dcat-ap.de/def/dcatde/1.1/spec/specification.pdf"/>
+  <dct:RightsStatement rdf:about="https://www.govdata.de/dl-de/zero-2-0"/>
+  <rdfs:Resource rdf:about="https://offenedaten-koeln.de/sites/default/files/Fraktionszuwendungen_Koeln_2014_2021.csv"/>
+</rdf:RDF>

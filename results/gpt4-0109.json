@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0109",
+  "run_at": "2025-09-03T13:54:10.776385Z",
+  "question_id": 109,
+  "question": "Wo steht, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten?",
+  "answer": "https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Laut den verfügbaren offenen Daten gibt es keinen Datensatz, der explizit angibt, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten. Es sind weder für Soest noch für Nordrhein-Westfalen entsprechende Daten auf GovData.de veröffentlicht. \n\nDie Information ist also in den verfügbaren offenen Daten nicht enthalten."
+}

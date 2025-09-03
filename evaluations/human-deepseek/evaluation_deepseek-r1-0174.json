@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0174",
+  "run_at": "2025-09-01T23:33:13.837120Z",
+  "question_id": 174,
+  "question": "An welchem Tag der Kalenderwoche 23 im Jahr 2022 wurde auf der Marsstraße in Atlantis eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "Es gibt keine Marsstraße in Atlantis, daher liegen dazu keine Messdaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 110463 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 110463 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die Antwort ist eine Fehlermeldung wegen überschrittener Eingabelänge (Token-/Kontextlimit) und liefert keine inhaltliche Beantwortung."
+  }
+}

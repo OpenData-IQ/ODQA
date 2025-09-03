@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4b1a3f7-f7dd-4ba5-a4a2-832abc30b3ee">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Gemeinde Langerwehe 2009</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2009</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4b1a3f7-f7dd-4ba5-a4a2-832abc30b3ee"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2009_20161108.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4b1a3f7-f7dd-4ba5-a4a2-832abc30b3ee"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:26:30+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-10T12:26:22+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/e757fd22-9311-4b03-8919-b57d60ad1108">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Gemeinde Langerwehe 2015</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/e757fd22-9311-4b03-8919-b57d60ad1108"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2015_20161027.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/e757fd22-9311-4b03-8919-b57d60ad1108"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:34:44+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:34:44+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/13e501d4-99c0-4cc1-9d2b-a2148f23ac13">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Gemeinde Langerwehe 2014</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2014</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/13e501d4-99c0-4cc1-9d2b-a2148f23ac13"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2014_20161027.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/13e501d4-99c0-4cc1-9d2b-a2148f23ac13"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:33:28+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:33:28+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/c37e74a9-5d87-4bc5-b9ca-cf93e3540899">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner gesamt Gemeinde Langerwehe 2010</dct:title>
+    <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2010</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/c37e74a9-5d87-4bc5-b9ca-cf93e3540899"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2010_20161027.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/c37e74a9-5d87-4bc5-b9ca-cf93e3540899"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:28:14+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:28:14+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D05 Einwohner gesamt Gemeinde Langerwehe</dct:title>
+    <dct:description><![CDATA[<p>Die aktuellen Einwohnerzahlen&nbsp;einer Kommune&nbsp;sortiert nach Ortsteilen mit Unterscheidung von Deutschen und Ausländern zu einem bestimmten Stichtag.</p>
+]]></dct:description>
+    <dct:identifier>ec65a947-fb68-41da-bcbf-32031592e7e4</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:39:13+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N2953882275a54110b0e93a3eee8daf5d">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/7fa8c60d-bfbe-4c89-8bfb-0cd79fd93f3d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2017</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der Gemeinde Langerwehe zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/7fa8c60d-bfbe-4c89-8bfb-0cd79fd93f3d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/7fa8c60d-bfbe-4c89-8bfb-0cd79fd93f3d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T09:03:43+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T09:03:43+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/13e501d4-99c0-4cc1-9d2b-a2148f23ac13"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/e757fd22-9311-4b03-8919-b57d60ad1108"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/940f9e0b-c036-4f69-a922-f76781b21c46">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2011</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/940f9e0b-c036-4f69-a922-f76781b21c46"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2011_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/940f9e0b-c036-4f69-a922-f76781b21c46"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:29:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:29:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/2cd48b6e-423e-4803-872c-6e6fbfffa1c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2020</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Gemeinde Langerwehe zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/2cd48b6e-423e-4803-872c-6e6fbfffa1c3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/2cd48b6e-423e-4803-872c-6e6fbfffa1c3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:56:20+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:56:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/c37e74a9-5d87-4bc5-b9ca-cf93e3540899"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4fd42eb-d3aa-4b2e-8633-1a2b77480533">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2016</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4fd42eb-d3aa-4b2e-8633-1a2b77480533"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4fd42eb-d3aa-4b2e-8633-1a2b77480533"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T14:49:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T14:49:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/b4b1a3f7-f7dd-4ba5-a4a2-832abc30b3ee"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/3544d8c3-a987-4161-9aba-0a61ff0663aa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2021</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/3544d8c3-a987-4161-9aba-0a61ff0663aa"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/3544d8c3-a987-4161-9aba-0a61ff0663aa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:39:13+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:39:13+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ndc87038fbed643b990d2822cb8f27807">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7c150b2594063197b97d158db580064f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/4a99e476-6710-4bcd-8fa7-b4f8b34077c7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2012</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/4a99e476-6710-4bcd-8fa7-b4f8b34077c7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2012_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/4a99e476-6710-4bcd-8fa7-b4f8b34077c7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:30:53+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:30:53+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0ffb2e49-20af-4801-87fa-547ee8b3a464">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2019</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Gemeinde Langerwehe zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0ffb2e49-20af-4801-87fa-547ee8b3a464"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0ffb2e49-20af-4801-87fa-547ee8b3a464"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:37:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:37:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/a22e7ac2-14f8-419b-87f1-d3cba1dae261">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2013</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl&nbsp;der Einwohner der&nbsp;Gemeinde Langerwehe&nbsp;zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/a22e7ac2-14f8-419b-87f1-d3cba1dae261"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2013_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/a22e7ac2-14f8-419b-87f1-d3cba1dae261"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:32:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T16:32:12+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0c75430b-5d24-400f-b170-ddc7fc1519f4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner gesamt Gemeinde Langerwehe 2018</dct:title>
+        <dct:description><![CDATA[<p>Gesamtanzahl der Einwohner der Gemeinde Langerwehe zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0c75430b-5d24-400f-b170-ddc7fc1519f4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0c75430b-5d24-400f-b170-ddc7fc1519f4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T10:20:44+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:15:21+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20180116.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2013_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2012_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat265-2011_20161027.csv"/>
+</rdf:RDF>

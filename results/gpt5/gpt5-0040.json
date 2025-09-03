@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0040",
+  "run_at": "2025-08-31T22:07:56.525288Z",
+  "question_id": 40,
+  "question": "Welche radioaktiven Schwebstoffe wurden im Februar und März 2025 im Blankenese Strom der Elbe nachgewiesen?",
+  "answer": "Cäsium, Kalium, Beryllium",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

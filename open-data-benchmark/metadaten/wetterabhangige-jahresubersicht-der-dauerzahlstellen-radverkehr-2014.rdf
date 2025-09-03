@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/c05c5728-faf5-4231-a039-11a516518cb2">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Mannesmannufer 2014</dct:title>
+    <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Mannesmannufer für das Jahr 2014</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/c05c5728-faf5-4231-a039-11a516518cb2"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Mannesmann%20Ufer%202014_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/c05c5728-faf5-4231-a039-11a516518cb2"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:39:59+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">467964</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/38b10fff-99a3-41c5-9ea8-250e5af055c1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße einwärts vor Theodor-Litt-Straße 2014</dct:title>
+    <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße vor Theodor-Litt-Straße für das Jahr 2014</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/38b10fff-99a3-41c5-9ea8-250e5af055c1"/>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/38b10fff-99a3-41c5-9ea8-250e5af055c1"/>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:07:34+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://opendata.duesseldorf.de/dataset/wetterabh%C3%A4ngige-jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-2014">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2014</dct:title>
+    <dct:description><![CDATA[<p>Der Datensatz enthält die Daten der Zählstellen für den Radverkehr in Düsseldorf in Abhängigkeit zum Wetter für 2014. Die Messergebnisse werden im Stunden-Takt erfasst.</p>
+
+<p>Die erfassten Daten können im Jahresvergleich abweichen, da bei den Zahlen der Radfahrer auch immer das entsprechende Wetter am Messtag berücksichtigt werden muss. Sofern in der Darstellung Angaben fehlen, war die entsprechende Dauerzählstelle zum Messzeitpunkt außer Betrieb.</p>
+
+<p>Daten der Dauerzählstellen im 15-Minuten-Takt können im Datensatz <a href="https://opendata.duesseldorf.de/dataset/jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-seit-2012" target="_blank" title="Jahresübersicht der Dauerzählstellen Radverkehr seit 2012">Jahresübersicht der Dauerzählstellen Radverkehr seit 2012</a> abgerufen werden. Die Daten erhalten jedoch keine Angaben zum Wetter.</p>
+
+<p>Die Tagesaktuellen Zählwerte können auf der Seite des <a href="http://data.eco-counter.com/ParcPublic/?id=857#" target="_blank" title="EcoCounter">EcoCounter</a> abgerufen werden.</p>
+
+<p>Weitergehende Informationen zum Thema Radfahren in Düsseldorf finden Sie auf der Seite  <a href="https://www.duesseldorf.de/radschlag.html" target="_blank" title="RADschlag – Düsseldorf tritt an!">RADschlag – Düsseldorf tritt an!</a></p>
+
+<p>Die Datei „Wetterabhängige Jahresübersicht der Dauerzählstellen“ enthält folgende Spalteninformationen:</p>
+
+<ul>
+	<li>Datum: Tag der Messung</li>
+	<li>Stunde: Uhrzeit der Messung</li>
+	<li>Zählernahme: Anzahl der gezählten Räder im Zeitintervall</li>
+	<li>Wetter: Wetter zum Messzeitpunkt</li>
+	<li>Temperatur: aktuelle Temperatur zum Messzeitpunkt in °C</li>
+	<li>Luftfeuchtigkeit: Luftfeuchtigkeit zum Messzeitpunkt in %</li>
+	<li>Wolken: Wolkendecke zum Messzeitpunkt in %</li>
+	<li>Gefühlte Temperatur: gefühlte Temperatur zum Messzeitpunkt in °C</li>
+	<li>Regen: Niederschlagsmenge in mm</li>
+	<li>Wind: aktuelle Windstärke zum Messzeitpunkt in km/h</li>
+</ul>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="http://data.eco-counter.com/ParcPublic/?id=857"/>
+    </dcat:landingPage>
+    <dct:identifier>3715f4db-79e2-428f-b456-17da443ddc01</dct:identifier>
+    <dcat:keyword>freizeit</dcat:keyword>
+    <dcat:keyword>kultur</dcat:keyword>
+    <dcat:keyword>sport-und-tourismus</dcat:keyword>
+    <dcat:keyword>transport-und-verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:54:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-16T11:31:35+01:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/wetterabh%C3%A4ngige-jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-2014"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N689a1469427b440a8e2a202a192180b3">
+        <vcard:fn>Open-Data-Team der Landeshauptstadt Düsseldorf</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@duesseldorf.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/6860d913-ec66-4970-b239-a6dcecf428c4">
+        <foaf:name>Düsseldorf</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nd04b43072b9d44feb93aeb9d71f439d5">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/ab2823e6-1934-4ded-9b92-d85269f256ed">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße stadtauswärts 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße stadtauswärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/ab2823e6-1934-4ded-9b92-d85269f256ed"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/ab2823e6-1934-4ded-9b92-d85269f256ed"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:07:06+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a2cae273-fae1-4d9b-a9ac-61f634f34475">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Kö - Steinstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Kö - Steinstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a2cae273-fae1-4d9b-a9ac-61f634f34475"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/K%C3%B6%20Steinstra%C3%9Fe%202014_1.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a2cae273-fae1-4d9b-a9ac-61f634f34475"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:20:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">466293</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/1ef38537-5259-4e0f-aef3-99966ef7d4f6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße einwärts nach Theodor-Litt-Straße 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße nach Theodor-Litt-Straße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/1ef38537-5259-4e0f-aef3-99966ef7d4f6"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/1ef38537-5259-4e0f-aef3-99966ef7d4f6"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:08:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/2d92ebec-06b9-4fc7-95af-e5227c69df84">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Oberkasseler Brücke Nord 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Oberkasseler Brücke Nord für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/2d92ebec-06b9-4fc7-95af-e5227c69df84"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/2d92ebec-06b9-4fc7-95af-e5227c69df84"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:06:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/9dfe2c24-fff6-4884-b998-4f009bd67559">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Lohauser Deich 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Lohauser Deich für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/9dfe2c24-fff6-4884-b998-4f009bd67559"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Lohauser%20Deich%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/9dfe2c24-fff6-4884-b998-4f009bd67559"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:41:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">371493</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/edb3a15b-29cb-4871-a8f7-a3bcf6399621">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Oberkasseler Brücke Nord 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Oberkasseler Brücke Nord für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/edb3a15b-29cb-4871-a8f7-a3bcf6399621"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/OKB%20Nord%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/edb3a15b-29cb-4871-a8f7-a3bcf6399621"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:21:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">465875</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/b8405dae-d663-4be2-851f-79c839fd824f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Christophstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Christophstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/b8405dae-d663-4be2-851f-79c839fd824f"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Christophstra%C3%9Fe%202014_1.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/b8405dae-d663-4be2-851f-79c839fd824f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:43:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">449069</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/38b10fff-99a3-41c5-9ea8-250e5af055c1"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8dcfbf95-877f-43a4-bc46-ce535d5239d2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Bilker Allee OUT 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Bilker Allee OUT für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8dcfbf95-877f-43a4-bc46-ce535d5239d2"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8dcfbf95-877f-43a4-bc46-ce535d5239d2"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:09:27+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/d7537364-6897-47ac-aaae-c13bcefb69ca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße einwärts vor Theodor-Litt-Straße 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße vor Theodor-Litt-Straße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/d7537364-6897-47ac-aaae-c13bcefb69ca"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20einw%C3%A4rts%20vor%20TLS%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/d7537364-6897-47ac-aaae-c13bcefb69ca"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:25:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">460702</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e2698798-56f4-4986-81f9-cbee402975ab">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Fleher Deich west stromabwärts 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Fleher Deich west stromabwärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e2698798-56f4-4986-81f9-cbee402975ab"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e2698798-56f4-4986-81f9-cbee402975ab"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:10:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23214018-31ab-4e5b-a0d5-3e0401e78f8b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Bilker Allee IN 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Bilker Allee IN für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23214018-31ab-4e5b-a0d5-3e0401e78f8b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Bilker%20Allee%20IN%202014_1.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23214018-31ab-4e5b-a0d5-3e0401e78f8b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:27:23+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">462070</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/696af935-81cf-4f15-977f-a07cf29feccc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Oberkasseler Brücke Süd 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Oberkasseler Brücke Nord für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/696af935-81cf-4f15-977f-a07cf29feccc"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/OKB%20S%C3%BCd%202014_2.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/696af935-81cf-4f15-977f-a07cf29feccc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:22:42+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">463838</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/961eadc7-55e8-4f7f-b268-0bc76990fcba">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Lohauser Deich 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Lohauser Deich für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/961eadc7-55e8-4f7f-b268-0bc76990fcba"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/961eadc7-55e8-4f7f-b268-0bc76990fcba"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:12:10+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/c05c5728-faf5-4231-a039-11a516518cb2"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/5d0cac51-0ad5-4a7e-92ac-fcc9a720e422">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Kirchfeldstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Kirchfeldstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/5d0cac51-0ad5-4a7e-92ac-fcc9a720e422"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/5d0cac51-0ad5-4a7e-92ac-fcc9a720e422"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:09:55+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/59eafc22-a17f-464a-821f-17648d699e38">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Fleher Deich west stromabwärts 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Fleher Deich west stromabwärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/59eafc22-a17f-464a-821f-17648d699e38"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Fleher%20Deich%20west%20stromabw%C3%A4rts%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/59eafc22-a17f-464a-821f-17648d699e38"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:37:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">461941</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/463ccaa4-f3d9-40c4-943f-9a2cff82b22b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße einwärts nach Theodor-Litt-Straße 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße nach Theodor-Litt-Straße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/463ccaa4-f3d9-40c4-943f-9a2cff82b22b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20einw%C3%A4rts%20nach%20TLS%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/463ccaa4-f3d9-40c4-943f-9a2cff82b22b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:26:26+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">460441</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a12beb4a-2e0c-43f9-bf0f-54020011362d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Oberkasseler Brücke Süd 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Oberkasseler Brücke Süd für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a12beb4a-2e0c-43f9-bf0f-54020011362d"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/a12beb4a-2e0c-43f9-bf0f-54020011362d"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:06:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/31104391-dfd9-4ca4-a75f-f22fa4b04f8b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Bilker Allee OUT 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Bilker Allee OUT für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/31104391-dfd9-4ca4-a75f-f22fa4b04f8b"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Bilker%20Allee%20OUT%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/31104391-dfd9-4ca4-a75f-f22fa4b04f8b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:35:00+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">461568</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8c5a8bbc-d535-4417-892c-a3de34ac3763">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Kirchfeldstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Kirchfeldstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8c5a8bbc-d535-4417-892c-a3de34ac3763"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Kirchfeldstra%C3%9Fe%202014_1.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8c5a8bbc-d535-4417-892c-a3de34ac3763"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:36:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">465194</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/821a5cf6-5995-49c1-bdb2-f0642f6b0d74">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Mannesmannufer 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Mannesmannufer für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/821a5cf6-5995-49c1-bdb2-f0642f6b0d74"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/821a5cf6-5995-49c1-bdb2-f0642f6b0d74"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:11:42+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/acd35ad7-afe7-4841-9309-162398767dac">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Christophstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Christophstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/acd35ad7-afe7-4841-9309-162398767dac"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/acd35ad7-afe7-4841-9309-162398767dac"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:12:36+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23de9cc3-3864-4be2-8366-65a6e0587cb7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Bilker Allee IN 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Bilker Allee IN für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23de9cc3-3864-4be2-8366-65a6e0587cb7"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/23de9cc3-3864-4be2-8366-65a6e0587cb7"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:08:57+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/4a0e1252-9bbc-4ed9-83fb-34aa65df1f6d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Koblenzer Straße stadtauswärts 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Koblenzer Straße stadtauswärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/4a0e1252-9bbc-4ed9-83fb-34aa65df1f6d"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20stadtausw%C3%A4rts%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/4a0e1252-9bbc-4ed9-83fb-34aa65df1f6d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:24:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">461975</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e35d2ecd-c406-46d2-8dab-9c3a0ed7ffb3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Fleher Deich ost stromaufwärts 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Fleher Deich ost stromaufwärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e35d2ecd-c406-46d2-8dab-9c3a0ed7ffb3"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/e35d2ecd-c406-46d2-8dab-9c3a0ed7ffb3"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:10:51+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/0bf38c7e-cad1-428b-9807-36872b1030cb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Kö - Steinstraße 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Kö - Steinstraße für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/0bf38c7e-cad1-428b-9807-36872b1030cb"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/0bf38c7e-cad1-428b-9807-36872b1030cb"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-02T10:05:36+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8a61730a-c929-41ff-b666-f2443ccd0b05">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterabhängige Jahresübersicht Dauerzählstelle Fleher Deich ost stromaufwärts 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit der wetterabhängigen Anzahl der Radfahrer an der Dauerzählstelle Fleher Deich ost stromaufwärts für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8a61730a-c929-41ff-b666-f2443ccd0b05"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Fleher%20Deich%20Ost%20stromaufw%C3%A4rts%20%202014_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01/resource/8a61730a-c929-41ff-b666-f2443ccd0b05"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-26T15:38:20+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-15T12:04:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">461433</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://opendata.duesseldorf.de/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Christophstra%C3%9Fe%202014_1.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/OKB%20S%C3%BCd%202014_2.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20einw%C3%A4rts%20vor%20TLS%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Kirchfeldstra%C3%9Fe%202014_1.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20stadtausw%C3%A4rts%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Lohauser%20Deich%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Fleher%20Deich%20west%20stromabw%C3%A4rts%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Bilker%20Allee%20IN%202014_1.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Koblenzer%20einw%C3%A4rts%20nach%20TLS%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Fleher%20Deich%20Ost%20stromaufw%C3%A4rts%20%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/K%C3%B6%20Steinstra%C3%9Fe%202014_1.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/OKB%20Nord%202014_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Bilker%20Allee%20OUT%202014_0.csv"/>
+</rdf:RDF>

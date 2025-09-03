@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0055",
+  "run_at": "2025-08-31T10:53:18.961196Z",
+  "question_id": 55,
+  "question": "An welche IBAN soll ich meine Kraftfahrzeugssteuer entrichten, wenn ich nicht am Lastschrifteinzugsverfahren teilnehme und in Halle (Saale) wohne?",
+  "answer": "DE96 8600 0000 0086 0011 60",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Domänenwissen erforderlich: Halle gehört zur KfZ-Stelle Magdeburg",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM output clearly indicates that a recursion limit was reached. Therefore, no answer was generated due to this technical error."
+  }
+}

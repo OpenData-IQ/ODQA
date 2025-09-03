@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fdce7741-38fd">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2010</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2010</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fdce7741-38fd"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2010_20161121_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fdce7741-38fd"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:07:09+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:15:25+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">844272</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/379df4df-eabe">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2015</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/379df4df-eabe"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2015_20161121.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/379df4df-eabe"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:16:48+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:21:14+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1012986</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/bad2864e-8d4f">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2016</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2016</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/bad2864e-8d4f"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20170201.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/bad2864e-8d4f"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T11:02:40+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-10T11:02:40+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">961825</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/143f03c2-7a83">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2021</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Wesseling&nbsp;für das Jahr 2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/143f03c2-7a83"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20220116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/143f03c2-7a83"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-16T09:23:47+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-16T09:23:47+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">604628</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="Nc1a3f7aa5b384140ad57d4a108ae65e1">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">cb5e32964670064aa57036e9c5ac572a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fcb3413f-03eb">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2013</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2013</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fcb3413f-03eb"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2013_20161121_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fcb3413f-03eb"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:12:56+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:18:54+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">923287</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D09 Zu- und Wegzüge eines Jahres nach Ort und Alter Stadt Wesseling</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik aller Zu- und Wegzüge sortiert nach Herkunft / Ziel und Alter für die Stadt Wesseling.</p>
+]]></dct:description>
+    <dct:identifier>4edf8889-cddc-48e9-af71-93d7a96c95d4</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-16T09:23:47+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Naf0a9ed487a74739adbcc400f2469566">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fcb3413f-03eb"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/143f03c2-7a83"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/084530ee-70b9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2011</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/084530ee-70b9"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2011_20161121_0.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/084530ee-70b9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:09:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:16:34+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">863068</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0823b49-f5e1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2017</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Wesseling für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0823b49-f5e1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0823b49-f5e1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T13:48:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-14T13:48:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">965790</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/fdce7741-38fd"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b2a6386f-4631">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Wesseling 2018</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Wesseling&nbsp;für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b2a6386f-4631"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20190116_0.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b2a6386f-4631"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-11T07:38:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:36:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">900816</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/56c9fdb9-6396">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2014</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/56c9fdb9-6396"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2014_20161121_0.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/56c9fdb9-6396"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:14:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:19:56+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">992230</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/379df4df-eabe"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0773e6e-4c2e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2012</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0773e6e-4c2e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2012_20161121_0.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/b0773e6e-4c2e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:11:09+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:17:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">907516</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/d31a8ac3-398f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2009</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die&nbsp;Stadt Wesseling&nbsp;für das Jahr 2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/d31a8ac3-398f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2009_20161121_0.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/d31a8ac3-398f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T16:04:58+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-23T10:14:27+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">889874</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/bad2864e-8d4f"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/a0b3ef85-d89e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2020</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Wesseling für das Jahr 2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/a0b3ef85-d89e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/a0b3ef85-d89e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:55:55+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T09:55:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">560392</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/72f3af67-8d68">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2019</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Stadt Wesseling für das Jahr 2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/72f3af67-8d68"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling/resource/72f3af67-8d68"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T11:57:50+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T11:57:50+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">737180</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2014_20161121_0.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20190116_0.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2009_20161121_0.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2011_20161121_0.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B-2012_20161121_0.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20210116.csv"/>
+</rdf:RDF>

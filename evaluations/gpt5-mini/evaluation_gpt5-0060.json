@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0060",
+  "run_at": "2025-08-31T11:08:58.127272Z",
+  "question_id": 60,
+  "question": "Hat das Bürgerbüro Nord - Bremerhaven am Donnerstag oder am Freitag länger auf?",
+  "answer": "am Donnerstag",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM output clearly indicates that a recursion limit was reached, preventing a complete answer. Therefore, the category is 'problem_answers' with 'recursion limit' as the problem type."
+  }
+}

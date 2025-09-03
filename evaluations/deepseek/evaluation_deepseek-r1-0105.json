@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0105",
+  "run_at": "2025-09-01T21:54:55.143758Z",
+  "question_id": 105,
+  "question": "In welchem Bezirk von Freiburg im Breisgau war das Durchschnittsalter der Mütter bei Geburt in den Jahren 2003 bis 2007 im Mittelwert am niedrigsten?",
+  "answer": "Im Bezirk 232 Brühl-Industriegebiet",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Brühl-Industriegebiet hab ich gegoogelt, aus den Daten geht nur die Zahl 232 hervor",
+  "llm_final": "FinalAnswer>  \nDer Bezirk mit dem niedrigsten Durchschnittsalter der Mütter bei Geburt in Freiburg im Breisgau zwischen 2003 und 2007 war **Stadtbezirk 212** mit einem Durchschnittsalter von 30,6 Jahren.  \nQuelle: [Grunddaten zur Indikatorenbildung auf Ebene der Stadtbezirke - Geburtenziffern](https://fritz.freiburg.de:8443/duva2dcat/dataset/de-bw-freiburg-grunddaten_zur_indikatorenbildung_auf_ebene_der_stadtbezirke_-_geburtenziffern)\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt Bezirk 232 (Brühl-Industriegebiet). Das LLM gibt hingegen Stadtbezirk 212 an. Damit widerspricht es der Referenz und ist falsch."
+  }
+}

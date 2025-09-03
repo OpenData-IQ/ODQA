@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0048",
+  "run_at": "2025-08-31T22:21:24.559387Z",
+  "question_id": 48,
+  "question": "Sind 2023 im Land Bremen mehr Männer oder mehr Frauen gestorben?",
+  "answer": "mehr Männer",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2023 starben im Land Bremen 4.335 Männer und 4.193 Frauen",
+  "llm_final": "Mehr Männer. 2023 starben im Land Bremen 4.335 Männer und 4.193 Frauen.\n\nQuelle: Destatis, Gestorbene: Bundesländer, Jahre, Geschlecht (Tabelle 12613-0011) – https://www-genesis.destatis.de/genesis-old/downloads/00/tables/12613-0011_00.csv"
+}

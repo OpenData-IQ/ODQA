@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0098",
+  "run_at": "2025-08-31T12:20:39.754615Z",
+  "question_id": 98,
+  "question": "War das Budget des \"Bundesministeriums für Bildung und Forschung\" für Betriebliche Weiterbildung im Jahr 2015 oder 2016 höher?",
+  "answer": "2016 war es höher",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2016 war höher.  \nBetriebliche Weiterbildung (B10): 2015 = 11,1 Mrd. €, 2016 = 11,2 Mrd. €.  \nQuelle: BMBF-Datensatz \"Budget für Bildung, Forschung und Wissenschaft nach Bereichen\" (Tabelle 1.9.1)."
+}

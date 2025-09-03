@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+<address>
+  <uid>4108</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Am Urbacher Wall]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.87688424657885,7.0901702071976045</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle></maptitle>
+  <locationname><![CDATA[Parkplatz zwischen Hausnr. 59 und 61]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Urbach</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4072</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Heinrich-Lübke-Ufer]]></street>
+  <zipcode>50996</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.898918,6.986218</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle></maptitle>
+  <locationname><![CDATA[Parkplatz unter der Autobahnbrücke]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Rodenkirchen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4067</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Mülheim]]></area>
+  <street><![CDATA[An der Kemperwiese]]></street>
+  <zipcode>51069</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.975737002642305,7.0747405733667375</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[unbefestigter Teil]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Dellbrück</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4066</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Ostheimer Str.]]></street>
+  <zipcode>51107</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.9321036,7.0249124</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Markt- und Festplatz Vingst]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Vingst</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4065</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Lorenzstraße]]></street>
+  <zipcode>50679</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.9347433,6.9773173</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Gotenring]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Deutz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4063</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Silbermöwenweg 37]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.9672181,6.8733866</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[gegenüber Grünfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Vogelsang</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4062</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Goldammerweg 107]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.9611728,6.8711954</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[gegenüber Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Vogelsang</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4060</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Frohnhofstr.]]></street>
+  <zipcode>50999</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>,50.8617374,7.0077893</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parktasche vor dem Marktplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sürth</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4059</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Neusser Platz]]></street>
+  <zipcode>50670</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.954682,6.9570642</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Agneskirche / Nicht auf Wochenmarktflächen]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>4058</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Rathenauplatz]]></street>
+  <zipcode>50674</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.9314998,6.9336156</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>3095</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Ebertplatz]]></street>
+  <zipcode></zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.951006,6.957888</coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>3034</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Militärringstraße]]></street>
+  <zipcode>50937</zipcode>
+  <city><![CDATA[]]></city>
+  <coordinates>50.914108,6.895176 </coordinates>
+  <phone></phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Gleuelerstr. / Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>3033</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Heisterbachstr.]]></street>
+  <zipcode>50939</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.911692,6.928944</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Siebengebirgsallee]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>2871</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Nippes]]></area>
+  <street><![CDATA[Schillstraße]]></street>
+  <zipcode>50733</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.966225,6.951528</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Schillstr. Platzfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Nippes</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>2779</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Krefelder Wall]]></street>
+  <zipcode>50670</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.9542938,6.9541948</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[ Ecke Weißenburgstr. / Prälat-Otto-Müller-Platz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Innenstadt</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>2778</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Jägerstr.]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.8971767,7.0783057</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Grünfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Eil</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>2777</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Von-Sandt-Platz]]></street>
+  <zipcode>50675</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.9386166,6.9744183</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Deutz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>290</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Schmaler Wall 1]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.064539870065275,6.8653178215026855</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[geg. Kirche St. Pankratius]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Worringen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>289</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Bonner Str.]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.889467,7.074514</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Dortmunder Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Eil</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>288</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Grüngürtel]]></street>
+  <zipcode>50996</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.890595,7.010089</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Auenweg an der Hochwassermauer]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Rodenkirchen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>287</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Johannesstr.]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.893507,7.072548</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Leostr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Eil</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>286</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Heidekaul]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.894204,6.964133</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Faßbenderkaul]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Raderberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>285</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Frankfurter Str.]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.894641,7.078824</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Leidenhausener Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Eil</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>284</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Schillingsrotter Platz]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.895075,6.972519</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>283</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Von-Groote-Str.]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.899,6.967815</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Mittelallee]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>282</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Gilgaustr.]]></street>
+  <zipcode>51149</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.897754,7.028980</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Marktplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ensen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>281</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Markusstr.]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.900408,6.94676</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkanlage - Leichweg - südlich der Markusstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Raderthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>280</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Vochemer Str.]]></street>
+  <zipcode>50969</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.902813,6.941492</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platzfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zollstock</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>279</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Frankenplatz]]></street>
+  <zipcode>51149</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.903442,7.057514</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Frankenstr. (auf der Wiese)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Gremberghoven</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>278</uid>
+  <type>Sammelplätze Weihnachtsbäume </type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Bayenthalgürtel]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.904641,6.971683</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Goltseinstr. (Mittelallee)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>277</uid>
+  <type>Sammelplätze Weihnachtsbäume </type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Brohlerstr.]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.904641,6.971683</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platz / Mittelallee vom Platz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>276</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Bernkasteler Str.]]></street>
+  <zipcode>50969</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.909217,6.940669</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Höninger Weg (gepflasterte Fläche)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zollstock</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>275</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Marktstr.]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.910952,6.961694</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Bonner Str. / Grünfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Raderberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>273</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Koblenzer Str. 54]]></street>
+  <zipcode>50968</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.913451,6.96505</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bayenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>272</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Manderscheider Platz]]></street>
+  <zipcode>50937</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.914545,6.922686</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>271</uid>
+  <type>Sammelplätze Weihnachtsbäume (Rath/Heumar)</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Forststr.]]></street>
+  <zipcode>51107</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.915606,7.090154</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Röttgensweg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Rath/Heumar</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>270</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Neuenhöfer Allee]]></street>
+  <zipcode>50935</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.915667,6.912752</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Castellauner Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>268</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Teutoburger Str.]]></street>
+  <zipcode>50678</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.918403,6.960206</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Bonner Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>267</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Auerbachplatz]]></street>
+  <zipcode>50937</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.919218,6.919427</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[nicht auf Wochenmarktflächen]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>266</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Martin-Luther-Platz]]></street>
+  <zipcode>50677</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.919775,6.95287</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>265</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Arnulfstr.]]></street>
+  <zipcode>50937</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.920222,6.930097</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Konradstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Sülz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>263</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Severinskirchplatz]]></street>
+  <zipcode>50678</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.923273,6.960092</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Südseite / Nicht auf Wochenmarktflächen]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Altstadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>262</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Eifelplatz]]></street>
+  <zipcode>50677</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.923942,6.944249</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>261</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Kartäuserwall]]></street>
+  <zipcode>50676</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.926387,6.948426</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Am Trutzenberg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Altstadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>260</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Stüttgerhofweg]]></street>
+  <zipcode>50858</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.926513,6.868630 </coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Salzburgerweg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Junkersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>259</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Severinstr.]]></street>
+  <zipcode>50678</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.92902,6.957582</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[An St. Katharina]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Altstadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>258</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Rösrather Str.]]></street>
+  <zipcode>51107</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.929401,7.047791</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Hardtgenbuscher Kirchweg (Markt- u. Festplatz)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ostheim</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>257</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Kitschburger Str.]]></street>
+  <zipcode>50935</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.929443,6.901315</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platzfläche/Parkplatz, Eingang zum Wildpark]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lindenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>256</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Taunusstr.]]></street>
+  <zipcode>51105</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.930537,6.996405</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Marktplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Humboldt/Gremberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>255</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Zülpicher Platz]]></street>
+  <zipcode>50674</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.930684,6.940123</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Herz-Jesu Kirche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>254</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Karl-Schwerin-Platz]]></street>
+  <zipcode>50931</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.931957,6.917747</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Biggestr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lindenthal</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>253</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Junkersdorfer Str.]]></street>
+  <zipcode>50933</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.932636,6.881901</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Roman-Kühnel-Weg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Müngersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>252</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Vogelsanger Weg]]></street>
+  <zipcode>50858</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.932817,6.85372</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Am Weidenpesch]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Junkersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>251</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Potsdamer Str. 1a/b]]></street>
+  <zipcode>50859</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.93311,6.835953</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Weiden</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>250</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Arndtstr.]]></street>
+  <zipcode>50676</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.93374,6.943721</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[gegenüber Hausnr. 2]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Innenstadt</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>249</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Lindenstr.]]></street>
+  <zipcode>50674</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.933833,6.935988</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Händelstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>248</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Breslauer Str. 33]]></street>
+  <zipcode>50858</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.934296,6.843067</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Weiden</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>246</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Robert-Schumann-Str.]]></street>
+  <zipcode>51109</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.934887,7.062287</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[An St. Adelheid (Wendehammer)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neubrück</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>245</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Rondorfer Hauptstraße]]></street>
+  <zipcode>50997</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.871784,6.954258</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Pastoratsstr. / Freifläche gegenüber Hausnummer 2]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Rondorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>244</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Brüsseler Str.]]></street>
+  <zipcode>50670</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.938367,6.935055</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Agneskirche / Südostseite]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>242</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Kalk]]></area>
+  <street><![CDATA[Steprathstr.]]></street>
+  <zipcode>51103</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.940616,7.005946</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Markt / Thumbstr. neben dem Spielplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Kalk</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>241</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Gereonsdriesch]]></street>
+  <zipcode>50670</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.942949,6.946488</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Altstadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>240</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Stolberger Str.]]></street>
+  <zipcode>50933</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.94307,6.882754</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Wendelinstr. / Festplatz/Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Braunsfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>239</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Dr. Johannes-Honnef-Str.]]></street>
+  <zipcode>50859</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.945301,6.829266</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz vor der Kirche (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lövenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>238</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Lahnstr.]]></street>
+  <zipcode>50859</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.946213,6.818787</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[An der Ronne (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lövenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>237</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Fröbelplatz]]></street>
+  <zipcode>50823</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.946357,6.917594</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>236</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Neptunplatz]]></street>
+  <zipcode>50823</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.947462,6.919544</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platzfläche (nicht auf Wochenmarktflächen)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>235</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Eigelsteintorburg]]></street>
+  <zipcode>50668</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.949402,6.956922</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Nordseite]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>234</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Subbelrather Str]]></street>
+  <zipcode>50823</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.952408,6.923299</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Hüttenstr./Ottostr. Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>233</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Helmholtzplatz]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.954061,6.904088</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Ehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>232</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Beethovenstr.]]></street>
+  <zipcode>50674</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.95449,6.9578</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platzfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Altstadt-Süd</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>231</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Vogelsanger Markt]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.955311,6.880997</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Vogelsang</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>230</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Brandtsplatz]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.956318,6.920074</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neuehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>229</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Lenauplatz]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.957345,6.919237</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neuehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>228</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Venloer Str. 601-603]]></street>
+  <zipcode>50827</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.957616,6.900462</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz (nicht Marktfläche) am Westcenter]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bickendorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>227</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Akazienweg]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.95889,6.882433</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[geg. Reiherweg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Vogelsang</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>226</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Heidemannstr.]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.960332,6.918514</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ennenstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neuehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>225</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Takuplatz]]></street>
+  <zipcode>50825</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.960981,6.915654</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neuehrenfeld</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>224</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Grüner Brunnenweg]]></street>
+  <zipcode>50827</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.962561,6.897021</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Am Rosengarten]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bickendorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>222</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Neue Sandkaul]]></street>
+  <zipcode>50859</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.965764,6.836148</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[neben dem Containerstandort]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Widdersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>221</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Westendstr.]]></street>
+  <zipcode>50827</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.967701,6.879291</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz am Westfriedhof]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bickendorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>220</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Nippes]]></area>
+  <street><![CDATA[Escher Str.]]></street>
+  <zipcode>50739</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.968544,6.927883</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz/Parkgürtel]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bilderstöckchen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>219</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Lindenthal]]></area>
+  <street><![CDATA[Im Kamp]]></street>
+  <zipcode>50859</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.969672121717956,6.8284956336613005</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Feldhasenweg an der Baumscheibe]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Widdersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>218</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Nippes]]></area>
+  <street><![CDATA[Boltensternstr.]]></street>
+  <zipcode>50735</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.969714,6.978925</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz / geg. Barbarastr. (angrenzend an Kleingartenanlage)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Riehl</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>217</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Mülheim]]></area>
+  <street><![CDATA[Gerhard-Hauptmann-Str.]]></street>
+  <zipcode>51067</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.973346,7.049572</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[vor Nr. 31]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Holweide</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>216</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[Nattermannallee]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.977419,6.859309</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bocklemünd/Mengenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>215</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Ehrenfeld]]></area>
+  <street><![CDATA[EKZ Görlinger Zentrum]]></street>
+  <zipcode>50829</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.980223,6.867334</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[nicht Marktfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Bocklemünd/Mengenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>214</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Mülheim]]></area>
+  <street><![CDATA[Im Weidenbruch]]></street>
+  <zipcode>51061</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.984189,7.041533</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz (nähe Gesamtschule)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Höhenhaus</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>213</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Nippes]]></area>
+  <street><![CDATA[Altonaer Platz]]></street>
+  <zipcode>50737</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.994676,6.932984</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platzfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Longerich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>212</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Nippes]]></area>
+  <street><![CDATA[Neusser Str.]]></street>
+  <zipcode>50737</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.996242,6.937326</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz/Militärringstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Longerich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>211</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Ursulastr. 11]]></street>
+  <zipcode>50767</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.99835,6.882575</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Auf Platz gegenüber]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Pesch</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>210</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Doktorshof]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.003406,6.85263</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Auweiler Str. (auf Grünfläche)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Esch/Auweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>209</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Mülheim]]></area>
+  <street><![CDATA[Berliner Str.]]></street>
+  <zipcode>51069</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.003585,7.043751</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Festplatz / Dünnwalder Mauspfad ]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Dünnwald</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>208</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Martinusstr.]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.012985,6.848449</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Amselweg (Grünfläche und Parkbuchten geg. Grundschule)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Esch/Auweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>207</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Pescher Holzweg]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.013469,6.887904</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[neben dem Containerstandort]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lindweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>206</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Auf dem Driesch]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.014612,6.852786</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platz am Kreisverkehr]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Esch/Auweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>205</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Nettesheimer Str.]]></street>
+  <zipcode>50767</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.015263,6.900865</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Festplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Heimersdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>204</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Asternweg]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.017207,6.915872</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz Geranienhof ]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Seeberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>203</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Londoner Platz]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.020079,6.89836</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Chorweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>202</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Karl-Marx-Allee]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.020426,6.908812</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[zw. Henry Ford Realschule und Otto-Braun-Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Seeberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>201</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Damiansweg]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.021958,6.886075</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[geg. Wezelostr. (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Volkhoven/Weiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>200</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Causemannstr.]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.024371,6.9525</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Grünfläche am Bahnübergang (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Merkenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>199</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Weserplatz]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.026772,6.893768</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Chorweiler</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>198</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Schmiedshofsweg]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.036155,6.903431</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Neusser Landstr. (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Fühlingen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>197</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[S-Bahn Station "Blumenberg"]]></street>
+  <zipcode>50765</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.036941,6.882489</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Vorplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Blumenberg</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>196</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Rheinkasseler Weg]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.040788,6.935087</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz Amandusstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Merkenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>195</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Fortuinweg]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.044738,6.84497</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Roggendorf/Thenhoven</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>194</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Cohnenhofstr.]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.048436,6.920302</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Am Feldschlößchen]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Merkenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>193</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Am Königsweg]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.051095,6.912543</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[geg. Nr. 4 (neben dem Containerstandort)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Merkenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>192</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Chorweiler]]></area>
+  <street><![CDATA[Alte Str.]]></street>
+  <zipcode>50769</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>51.064526,6.848427</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Hackenbroicher Str. (auf der Grünfläche)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Worringen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>191</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Innenstadt]]></area>
+  <street><![CDATA[Brüsseler Platz]]></street>
+  <zipcode>50672</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.938644,6.93307</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Neben der Kirche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Neustadt-Nord</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>190</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Margaretenstr.]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.838168,7.06938</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Pastor-Huthmacher-Str. (Dorfplatz)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Libur</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>189</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Godorfer Hauptstr.]]></street>
+  <zipcode>50997</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.845896,6.97665</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Grünfläche im Bereich Wendehammer Industriestr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Godorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>188</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Lülsdorfer Str.]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.846076,7.004485</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Frongasse]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Langel</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>187</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Viehtrift]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.849629,7.104176</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[geg. Bäckerei Heisters]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Lind</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>186</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Nibelungenstr.]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.853356,7.103106</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Lindenweg und Guntherstr.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Wahnheide</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>185</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Engeldorfer Str.]]></street>
+  <zipcode>50997</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.856041,6.928384</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Festplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Meschenich</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>184</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Auf dem Loor]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.859157,7.029618</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Platz neben dem Containerstandort]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>181</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Houdainer Str.]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.865643,7.045929</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parktasche geg. KITA vor der Schule]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>180</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Gartenweg]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.86575,7.049029</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Wahner Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>179</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Asternweg 2-10]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.869783,7.049325</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[auf der Halbinsel]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>178</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Am Markt]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.86988,7.043585</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>177</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Dahlienweg]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.870071,7.051586</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[am Ende]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>176</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Barbarastr.]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.871578,7.104231</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Ecke Paul-Brätter-Str.]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Wahnheide</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>175</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Auf der Ruhr]]></street>
+  <zipcode>50999</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.873974,7.033197</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Weißer Hauptstr. (Platzfläche)]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Weiß</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>174</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Rosenstr.]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.874214,7.056591</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Irisweg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Zündorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>173</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Friedensstr.]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.875359,7.100279</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[An der Grundschule]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Grengel</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>172</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Friedrich-Hirsch-Str.]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.875727,7.081795</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Auf dem Stallberg]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Elsdorf</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>171</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Friedensstr.]]></street>
+  <zipcode>51147</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.876328,7.095698</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplätze an der Autobahn]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Grengel</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>170</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Am Urbacher Wall]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.876848,7.091406</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Wendeplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Urbach</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>169</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Concordiaplatz]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.880578,7.062572</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Porz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>167</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Am Schwanebitzer Hof]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.882319,7.080774</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Marktplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Urbach</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>166</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Am Maarhof]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.883231,7.083423</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Im Wendekreis]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Urbach</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>165</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Rodenkirchen]]></area>
+  <street><![CDATA[Ringstr.]]></street>
+  <zipcode>50996</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.885052,6.998403</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Sürther Str. / Platzfläche]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Rodenkirchen</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>164</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Rathausstr.]]></street>
+  <zipcode>51143</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.887227,7.05492</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[Parkplatz]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Porz</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+<address>
+  <uid>163</uid>
+  <type>Sammelplätze Weihnachtsbäume</type>
+  <name><![CDATA[Sammelplätze Weihnachtsbäume]]></name>
+  <area><![CDATA[Porz]]></area>
+  <street><![CDATA[Im Falkenhorst 2-12]]></street>
+  <zipcode>51145</zipcode>
+  <city><![CDATA[Köln]]></city>
+  <coordinates>50.888101,7.081319</coordinates>
+  <phone>keine Tel. Nr.</phone>
+  <openinghours><![CDATA[]]></openinghours>
+  <maptitle>Sammelplätze Weihnachtsbäume</maptitle>
+  <locationname><![CDATA[neben dem Containerstandort]]></locationname>
+  <www><![CDATA[]]></www>
+  <district>Urbach</district>
+  <duedate><![CDATA[]]></duedate>  <hint><![CDATA[]]></hint>
+
+</address>
+</addresses>

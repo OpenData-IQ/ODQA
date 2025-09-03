@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0063",
+  "run_at": "2025-08-31T22:49:19.816987Z",
+  "question_id": 63,
+  "question": "Welche der \"Biene Maja\" Illustrationen von Peter Christian Rasmussen sind Radierungen?",
+  "answer": "\"Die Wanze stinkt\", \"Empfang in Peppis Rosenhaus\", \"Überfall der Hornisse\", \"Majas Flucht\", \"Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens\", \"Im Spinnennetz\", \"Ich bin Kurt, aus der Familie der \"Rosenkäfer\"\", \"Begegnung mit dem Grashüpfer\", \"Schlacht der Bienen und Hornissen\", \"Lass doch bitte Hans Christoph frei!\"",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Alle zehn Illustrationen der Künstlermappe „Biene Maja“ (1920) von Peter Christian Rasmussen sind als Radierungen klassifiziert. Titel:\n- Lass doch bitte Hans Christoph frei!\n- Begegnung mit dem Grashüpfer\n- Ich bin Kurt, aus der Familie der „Rosenkäfer“\n- Im Spinnennetz\n- Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens\n- Majas Flucht\n- Die Wanze stinkt\n- Empfang in Peppis Rosenhaus\n- Überfall der Hornisse\n- Schlacht der Bienen und Hornissen\n\nQuelle: Metadaten (LIDO) der Schleswig-Holsteinischen Landesbibliothek über opendata.schleswig-holstein.de (Datensatz „‚Biene Maja‘ Illustrationen von Peter Christian Rasmussen“)."
+}

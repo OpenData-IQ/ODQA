@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0034",
+  "run_at": "2025-09-03T13:07:39.943965Z",
+  "question_id": 34,
+  "question": "Was ist die Differenz zwischen dem Höchst- und Niedrigstand der Ruhr in Hattingen 2024?",
+  "answer": "394 cm",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Die Differenz zwischen dem Höchst- und Niedrigstand der Ruhr in Hattingen im Jahr 2024 ergibt sich aus den geprüften Wasserstandsdaten des Landes NRW. Die exakten Werte für 2024 findest du im Datensatz „Ruhreinzugsgebiet Wasserstände NRW als CSV“ (Datei: Ruhreinzugsgebiet-NRW-W_2020-2029_EPSG25832_CSV.zip). Dort kannst du die Messstelle Hattingen auswählen und die Tageswerte für 2024 filtern. Die Differenz ist dann der höchste minus der niedrigste gemessene Wasserstand im Jahr 2024.\n\n**Direkter Download der Daten:**  \nhttps://www.opengeodata.nrw.de/produkte/umwelt_klima/wasser/oberflaechengewaesser/hydro/Ruhreinzugsgebiet-NRW-W_2020-2029_EPSG25832_CSV.zip\n\n**Vorgehen:**  \n1. Datei herunterladen und entpacken  \n2. Nach Messstelle „Hattingen“ filtern  \n3. Alle Werte für 2024 herausfiltern  \n4. Höchst- und Niedrigstand ablesen und Differenz berechnen\n\nEine konkrete Zahl kann ich dir hier nicht direkt nennen, da die Rohdaten erst ausgewertet werden müssen."
+}

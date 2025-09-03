@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4-B_00.csv#dataset">
+    <dct:title>Vollstationär behandelte Patienten nach Fachabteilungen undHauptdiagnose nach Wohnsitz - Jahr - regionale Ebenen (2016-2017)</dct:title>
+    <dct:description>Vollstationär behandelte Patienten nach Fachabteilungen undHauptdiagnose nach Wohnsitz - Jahr - regionale Ebenen (2016-2017)</dct:description>
+    <dct:identifier rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4-B_00"/>
+    <dcat:keyword>angeborene-fehlbildungen-deform.-u.-chromosomenanomalien</dcat:keyword>
+    <dcat:keyword>angiologie</dcat:keyword>
+    <dcat:keyword>augenheilkunde</dcat:keyword>
+    <dcat:keyword>best.-zustände-d.-i.-ursprung-i.-d.-perinatalperiode-haben</dcat:keyword>
+    <dcat:keyword>bestimmte-infektiöse-und-parasitäre-krankheiten</dcat:keyword>
+    <dcat:keyword>diagnose-unbekannt</dcat:keyword>
+    <dcat:keyword>diagnosen-der-krankenhauspatienten</dcat:keyword>
+    <dcat:keyword>endokrine-ernährungs-und-stoffwechselkrankheiten</dcat:keyword>
+    <dcat:keyword>endokrinologie</dcat:keyword>
+    <dcat:keyword>fachabteilung</dcat:keyword>
+    <dcat:keyword>fakt.-d.d.gesund.-beeinfl.-u.z.inansp.d.gesundheitsw.füh.</dcat:keyword>
+    <dcat:keyword>frauenheilkunde</dcat:keyword>
+    <dcat:keyword>gastroenterologie</dcat:keyword>
+    <dcat:keyword>geburtshilfe</dcat:keyword>
+    <dcat:keyword>gefäßchirurgie</dcat:keyword>
+    <dcat:keyword>geriatrie</dcat:keyword>
+    <dcat:keyword>hals--nasen--ohrenheilkunde</dcat:keyword>
+    <dcat:keyword>hauptdiagnoseklassen-icd-10</dcat:keyword>
+    <dcat:keyword>haut--und-geschlechtskrankheiten</dcat:keyword>
+    <dcat:keyword>hämatologie-und-internistische-onkologie</dcat:keyword>
+    <dcat:keyword>insgesamt</dcat:keyword>
+    <dcat:keyword>jahr</dcat:keyword>
+    <dcat:keyword>kardiologie</dcat:keyword>
+    <dcat:keyword>kinder-u.jugendpsychiatrie-u.-psychotherapie</dcat:keyword>
+    <dcat:keyword>kinderchirurgie</dcat:keyword>
+    <dcat:keyword>kinderkardiologie</dcat:keyword>
+    <dcat:keyword>krankheiten-der-haut-und-der-unterhaut</dcat:keyword>
+    <dcat:keyword>krankheiten-des-atmungssystems</dcat:keyword>
+    <dcat:keyword>krankheiten-des-auges-und-der-augenanhangsgebilde</dcat:keyword>
+    <dcat:keyword>krankheiten-des-blutes-und-der-blutbildenden-organe</dcat:keyword>
+    <dcat:keyword>krankheiten-des-kreislaufsystems</dcat:keyword>
+    <dcat:keyword>krankheiten-des-muskelskelettsystems-und-des-bindegewebes</dcat:keyword>
+    <dcat:keyword>krankheiten-des-nervensystems</dcat:keyword>
+    <dcat:keyword>krankheiten-des-ohres-und-des-warzenfortsatzes</dcat:keyword>
+    <dcat:keyword>krankheiten-des-urogenitalsystems</dcat:keyword>
+    <dcat:keyword>krankheiten-des-verdauungssystems</dcat:keyword>
+    <dcat:keyword>kreise-und-kreisfreie-städte</dcat:keyword>
+    <dcat:keyword>mund-kiefer-gesichtschirurgie</dcat:keyword>
+    <dcat:keyword>neonatologie</dcat:keyword>
+    <dcat:keyword>nephrologie</dcat:keyword>
+    <dcat:keyword>neubildungen</dcat:keyword>
+    <dcat:keyword>neurochirurgie</dcat:keyword>
+    <dcat:keyword>neurologie</dcat:keyword>
+    <dcat:keyword>nuklearmedizin</dcat:keyword>
+    <dcat:keyword>plastische-chirurgie</dcat:keyword>
+    <dcat:keyword>pneumologie</dcat:keyword>
+    <dcat:keyword>psychische-verhaltensstörungen</dcat:keyword>
+    <dcat:keyword>psychotherapeutische-medizin</dcat:keyword>
+    <dcat:keyword>rheumatologie-innere-medizin</dcat:keyword>
+    <dcat:keyword>rheumatologie-orthopädie</dcat:keyword>
+    <dcat:keyword>schlüsselnummern-für-besondere-zwecke</dcat:keyword>
+    <dcat:keyword>schwangerschaft-geburt-und-wochenbett</dcat:keyword>
+    <dcat:keyword>sonstige-fachbereiche</dcat:keyword>
+    <dcat:keyword>sonstige-frauenheilkunde-und-geburtshilfe</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-chirurgie</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-herzchirurgie</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-innere-medizin</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-kinderheilkunde</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-orthopädie</dcat:keyword>
+    <dcat:keyword>sonstige-und-allgemeine-psychiatrie-u.psychotherapie</dcat:keyword>
+    <dcat:keyword>strahlentherapie</dcat:keyword>
+    <dcat:keyword>sucht</dcat:keyword>
+    <dcat:keyword>sympt.u.abnorm.klin.u.laborbef.-d.andernorts-n.klassif.-sind</dcat:keyword>
+    <dcat:keyword>thoraxchirurgie</dcat:keyword>
+    <dcat:keyword>thoraxchirurgie-herz</dcat:keyword>
+    <dcat:keyword>unfallchirurgie</dcat:keyword>
+    <dcat:keyword>urologie</dcat:keyword>
+    <dcat:keyword>verletzungen-vergiftungen-u.best.and.-folgen-äuß.-ursachen</dcat:keyword>
+    <dcat:keyword>viszeralchirurgie</dcat:keyword>
+    <dcat:keyword>vollstationär-behandelte-patienten-in-krankenhäusern</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-05T08:01:57</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-04T08:30:57</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nbf49238f8de24055b2a478e6d54d4cbf">
+        <vcard:fn>Statistische Ämter des Bundes und der Länder</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:regionaldatenbank@it.nrw.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/1e17f560-2061-4219-a37d-61e2fce75336">
+        <foaf:name>Regionalstatistik</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4-B_00.csv#distribution">
+        <dct:description>Vollstationär behandelte Patienten nach Fachabteilungen undHauptdiagnose nach Wohnsitz - Jahr - regionale Ebenen (2016-2017)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4-B_00.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-05T09:56:12.666142</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-26T04:00:52.531979</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/genesisDestatis"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/regionalstatistik"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N1acc6feb06f348a69c5294071d0e74da">
+        <foaf:name>Statistische Ämter des Bundes und der Länder</foaf:name>
+        <foaf:mbox>regionaldatenbank@it.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="Statistische%20Ämter%20des%20Bundes%20und%20der%20Länder"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+  <rdfs:Resource rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4-B_00.csv"/>
+</rdf:RDF>

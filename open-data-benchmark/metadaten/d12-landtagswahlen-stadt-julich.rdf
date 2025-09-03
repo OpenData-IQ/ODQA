@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/03334ab2-639b-4167-b701-f63df965db4e">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2005 Stimmbezirk Ebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Stimmbezirksebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/03334ab2-639b-4167-b701-f63df965db4e"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358024/html5/Landtagswahl_NRW3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/03334ab2-639b-4167-b701-f63df965db4e"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:24:17+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:24:17+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/1b606ea9-52e2-4c1f-9281-69307b943028">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2010 Stimmbezirk Ebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Stimmbezirksebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/1b606ea9-52e2-4c1f-9281-69307b943028"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358024/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/1b606ea9-52e2-4c1f-9281-69307b943028"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:34:11+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:34:11+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/da87dd77-4e6b-4ad4-a1c5-116cd4bfe607">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 1995 Gemeindeebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Gemeindeebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/da87dd77-4e6b-4ad4-a1c5-116cd4bfe607"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358024/html5/Landtagswahl_NRW3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/da87dd77-4e6b-4ad4-a1c5-116cd4bfe607"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T16:59:48+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:10:09+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/f64b0fbc-2c65-4dc1-b933-d01389ce2fbd">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2012 Gemeindeebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Gemeindeebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/f64b0fbc-2c65-4dc1-b933-d01389ce2fbd"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358024/html5/Landtagswahl_NRW3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/f64b0fbc-2c65-4dc1-b933-d01389ce2fbd"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-25T13:38:50+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:07:47+02:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/374b88f6-364e-46a6-adb4-a5c36aa6c125">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2000 Stimmbezirk Ebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2000 auf Stimmbezirksebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/374b88f6-364e-46a6-adb4-a5c36aa6c125"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358024/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/374b88f6-364e-46a6-adb4-a5c36aa6c125"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:20:10+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:20:10+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/3cbf6c11-ac47-4622-b424-a47041ed10f0">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 1995 Stimmbezirk Ebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Stimmbezirksebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/3cbf6c11-ac47-4622-b424-a47041ed10f0"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358024/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/3cbf6c11-ac47-4622-b424-a47041ed10f0"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:13:16+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:13:16+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/98152388-022a-4318-8511-e0cf9121e834">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2017 Stimmbezirksebene Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Stimmbezirksebene für die Stadt Jülich.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter wahlen).Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/98152388-022a-4318-8511-e0cf9121e834"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358024/html5/Landtagswahl_NRW996.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/98152388-022a-4318-8511-e0cf9121e834"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:02:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T14:02:00+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/7dfc55c1-43ef-4f65-86f2-ce7594e627e9">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2010 Gemeindeebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Gemeindeebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/7dfc55c1-43ef-4f65-86f2-ce7594e627e9"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358024/html5/Landtagswahl_NRW3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/7dfc55c1-43ef-4f65-86f2-ce7594e627e9"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:26:29+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:26:29+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/8f496060-cc20-452e-934b-5d9daa871c48">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2010 Wahlbezirk Ebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Wahlbezirksebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/8f496060-cc20-452e-934b-5d9daa871c48"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358024/html5/Landtagswahl_NRW5.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/8f496060-cc20-452e-934b-5d9daa871c48"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:30:49+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:30:49+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/59052881-e87c-4cd2-8e72-b9c9ef20715d">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2005 Gemeindeebene Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Gemeindeebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/59052881-e87c-4cd2-8e72-b9c9ef20715d"/>
+    <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358024/html5/Landtagswahl_NRW3.csv"/>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/59052881-e87c-4cd2-8e72-b9c9ef20715d"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:22:31+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:22:31+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D12 Landtagswahlen Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Landtagswahlen. Beschreibungen zum Datensatzaufbau finden Sie unter Datensatzbeschreibung Wahlen(<a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen</a>)</p>
+]]></dct:description>
+    <dct:identifier>fb4b2ed5-d906-4447-b27e-22ba23f2c8cc</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T16:01:09+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N875dd1cdfaaf4dd79718bce272480e35">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/36cd9ec5-fdbf-4dfe-a00c-4cedcbff55db">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Stadtteil Ebene Stadt Jülich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Ortsteil- bzw. Stadtteil- Ebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/36cd9ec5-fdbf-4dfe-a00c-4cedcbff55db"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358024/html5/Landtagswahl_NRW8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/36cd9ec5-fdbf-4dfe-a00c-4cedcbff55db"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:19:20+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:32:04+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/7dfc55c1-43ef-4f65-86f2-ce7594e627e9"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/f64b0fbc-2c65-4dc1-b933-d01389ce2fbd"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/a8a4df56-164d-4d7d-a848-b790cab03194">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Gemeindeebene Jülich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Gemeindeebene für die Stadt Jülich</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/a8a4df56-164d-4d7d-a848-b790cab03194"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358024/html5/Landtagswahl_NRW993.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/a8a4df56-164d-4d7d-a848-b790cab03194"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T13:44:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T13:44:28+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/8f496060-cc20-452e-934b-5d9daa871c48"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/32ebe24b-7f1d-4bd9-a9e3-bb19a491edb2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Stimmbezirk Ebene Stadt Jülich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Stimmbezirk Ebene für die "Kommune".</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/32ebe24b-7f1d-4bd9-a9e3-bb19a491edb2"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358024/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/32ebe24b-7f1d-4bd9-a9e3-bb19a491edb2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:21:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T10:21:49+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/374b88f6-364e-46a6-adb4-a5c36aa6c125"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/03334ab2-639b-4167-b701-f63df965db4e"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/da87dd77-4e6b-4ad4-a1c5-116cd4bfe607"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/98152388-022a-4318-8511-e0cf9121e834"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/3cbf6c11-ac47-4622-b424-a47041ed10f0"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/6d62d8bb-39d4-48b5-a3fb-d42974e94bca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2000 Gemeindeebene Stadt Jülich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2000 auf Gemeindeebene für die Stadt Jülich.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/6d62d8bb-39d4-48b5-a3fb-d42974e94bca"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358024/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/6d62d8bb-39d4-48b5-a3fb-d42974e94bca"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:17:17+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-09T17:17:17+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/1b606ea9-52e2-4c1f-9281-69307b943028"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/59052881-e87c-4cd2-8e72-b9c9ef20715d"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/460e0ada-1c39-4c9c-bcd1-ea6ec12db9fc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Stadtteilebene Jülich</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Stadtteilebene für die Stadt Jülich.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/460e0ada-1c39-4c9c-bcd1-ea6ec12db9fc"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358024/html5/Landtagswahl_NRW998.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/460e0ada-1c39-4c9c-bcd1-ea6ec12db9fc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T13:55:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T13:55:02+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358024/html5/Landtagswahl_NRW998.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358024/html5/Landtagswahl_NRW8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358024/html5/Landtagswahl_NRW993.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358024/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358024/html5/Landtagswahl_NRW3.csv"/>
+</rdf:RDF>

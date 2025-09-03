@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.duesseldorf.de/dataset/wetterstationen-der-landeshauptstadt-d%C3%BCsseldorf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf</dct:title>
+    <dct:description><![CDATA[<p>Der Datensatz enthält die Daten der Wetterstationen der Landeshauptstadt Düsseldorf.</p>
+
+<p>Mit zwei stadteigenen Wetterstationen, einer Wetterstation der Messegesellschaft und der des Deutschen Wetterdienstes am Flughafen, verfügt Düsseldorf über ein Messnetz, mit dem die lokal sehr feinen Unterschiede des tagesaktuellen Wetters erfasst werden können. Darüber hinaus sind die Wetterstationen grundlegend für eine langfristig angelegte Klimafolgenforschung vor Ort.</p>
+
+<p>Die Dateien „City_Wetter“ und „Universität_Wetter“ enthalten folgende Spalteninformationen:</p>
+
+<ul>
+	<li>Datum: Tag der Messung</li>
+	<li>Tmin: Niedrigste Temperatur °C</li>
+	<li>Tmit: Mittlere Temperatur °C</li>
+	<li>Tmax: Höchste Temperatur °C</li>
+	<li>Sges: Gesamtdauer Sonnenschein Stunden</li>
+	<li>Rges: Gesamtregenmenge mm oder l/qm</li>
+	<li>Tbod: Minimum-Bodentemperatur °C</li>
+	<li>RFmin: Minimale Luftfeuchtigkeit %</li>
+	<li>RFmit: Mittlere Luftfeuchtigkeit %</li>
+	<li>RFmax: Maximale Luftfeuchtigkeit %</li>
+	<li>Wmit: Mittlerer Wind km/h</li>
+	<li>WBmax: Maximale Windboe km/h</li>
+</ul>
+]]></dct:description>
+    <dct:identifier>c53352bf-1a65-46f3-a5dc-d35fe0c7f965</dct:identifier>
+    <dcat:keyword>umwelt-und-klima</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:54:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:54:45+01:00</dct:modified>
+    <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/wetterstationen-der-landeshauptstadt-d%C3%BCsseldorf"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N8194d78e34524d91ac32e8fe0b8f894d">
+        <vcard:fn>Open-Data-Team der Landeshauptstadt Düsseldorf</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@duesseldorf.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/6860d913-ec66-4970-b239-a6dcecf428c4">
+        <foaf:name>Düsseldorf</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nc336355063424834b004190b2649aaa5">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/de62b8e3-56dc-4b7e-8c15-f73bf119bc71">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2013</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2013 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/de62b8e3-56dc-4b7e-8c15-f73bf119bc71"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/de62b8e3-56dc-4b7e-8c15-f73bf119bc71"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:43:23+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:06:16+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/3ba58eec-15b8-4651-b969-ea83e2a420df">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2023</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">CSV-Datei mit den Wetterstationsdaten Universität Wetter 2023 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/3ba58eec-15b8-4651-b969-ea83e2a420df"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2023_2.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/3ba58eec-15b8-4651-b969-ea83e2a420df"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:03:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:08:24+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19691</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na8b9d803a4e847d49627c256e1b484bc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">dcf56bbec9819edfa5468d459619bde6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ae96b4c9-a131-4a63-8915-333020223906">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2024</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ae96b4c9-a131-4a63-8915-333020223906"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ae96b4c9-a131-4a63-8915-333020223906"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:52:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:52:39+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/fe5bf362-3c9b-4c8b-9741-8510f1a59161">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2019</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2019 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/fe5bf362-3c9b-4c8b-9741-8510f1a59161"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2019.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/fe5bf362-3c9b-4c8b-9741-8510f1a59161"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:52:40+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:20:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19249</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N12db4e731ae04f878455ed11ddda15e4">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">45052aa4052ab71f6b98a87d84d64a0b</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/8bef5f32-249d-4b32-b72c-448b80e254b5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2020</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/8bef5f32-249d-4b32-b72c-448b80e254b5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2020.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/8bef5f32-249d-4b32-b72c-448b80e254b5"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:55:09+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:21:36+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20290</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3cedd43689064cf58716d79a86ece893">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bdd77acb8d93fa24ade8d3f52eb0a925</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/93d4ee5c-caed-4a6f-b6c3-8208dca1051a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2014 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/93d4ee5c-caed-4a6f-b6c3-8208dca1051a"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/93d4ee5c-caed-4a6f-b6c3-8208dca1051a"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T12:05:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T11:06:02+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ad37bc1c-5365-4e58-a113-7bd00b798c0e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2019</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2019 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ad37bc1c-5365-4e58-a113-7bd00b798c0e"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ad37bc1c-5365-4e58-a113-7bd00b798c0e"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:53:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:20:37+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3759db2-6203-4876-94aa-cffc22c8f410">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2020</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3759db2-6203-4876-94aa-cffc22c8f410"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3759db2-6203-4876-94aa-cffc22c8f410"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T10:00:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:33:08+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c135574f-8ae1-4516-9f59-94555338c8f7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2023</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2023 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c135574f-8ae1-4516-9f59-94555338c8f7"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2023.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c135574f-8ae1-4516-9f59-94555338c8f7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:45:20+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:45:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19689</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N5a7406a0fa544d4aa04a5a57842feee8">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c64d9ad0eb535216b51297689559d459</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/78a2819b-dd1d-4a0c-82ae-d26823e0efcf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2014 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/78a2819b-dd1d-4a0c-82ae-d26823e0efcf"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2014.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/78a2819b-dd1d-4a0c-82ae-d26823e0efcf"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:48:58+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:03:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19334</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9544aedafa604619a05cd1af644a2749">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">63a31f7fcab9d0308012936648cbfaa0</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f6001478-3451-4ec6-86d7-7fa5fafb42e3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2020</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f6001478-3451-4ec6-86d7-7fa5fafb42e3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2020.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f6001478-3451-4ec6-86d7-7fa5fafb42e3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T09:58:40+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:46:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20239</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N122646e97ae34b52b4bebdda7ab9c7da">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5b1b4382e9f9cc09ca01730b8a2cde08</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7694daf6-5ca0-425e-a019-269b4eee7ba2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2024</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">JSON-Datei mit den Wetterstationsdaten Universität Wetter 2024 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7694daf6-5ca0-425e-a019-269b4eee7ba2"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7694daf6-5ca0-425e-a019-269b4eee7ba2"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:14:50+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:14:50+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/69ba4108-7819-4de1-a0ec-037e68f5a095">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2017</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2017 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/69ba4108-7819-4de1-a0ec-037e68f5a095"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2017_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/69ba4108-7819-4de1-a0ec-037e68f5a095"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:46:07+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:16:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19366</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd7a4da0eb3e644e19b807ff443383a3b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7b7da47cace63e406a1271504b0dc51c</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/869cc42f-8979-4739-bbbe-9ce72af6ad78">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2014</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2014 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/869cc42f-8979-4739-bbbe-9ce72af6ad78"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2014.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/869cc42f-8979-4739-bbbe-9ce72af6ad78"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T12:03:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T11:08:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19412</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N28655bb4f4304cda82c579a4dd4b5b20">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0b37e3cad34a9360c86b3226e5b8dc68</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/086a396f-d34d-47ff-a31f-67dedaa07974">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2015</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2015 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/086a396f-d34d-47ff-a31f-67dedaa07974"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/086a396f-d34d-47ff-a31f-67dedaa07974"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:35:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:14:29+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2cd77c23-d96e-4d53-8020-1e48f637863a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2016</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2016 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2cd77c23-d96e-4d53-8020-1e48f637863a"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2cd77c23-d96e-4d53-8020-1e48f637863a"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:42:40+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T11:10:42+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/08ad7ed9-7281-4bf0-8ef0-6cbc0993f9c2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2012</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2012 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/08ad7ed9-7281-4bf0-8ef0-6cbc0993f9c2"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2012.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/08ad7ed9-7281-4bf0-8ef0-6cbc0993f9c2"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T11:54:20+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T13:23:43+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19554</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd68c7490e30c46d89109ac9f39f0d814">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">cd40ac52fa3529f979b807b65168f176</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/22c13b05-cdca-457c-bf93-900f89c88953">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2018</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2018 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/22c13b05-cdca-457c-bf93-900f89c88953"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/22c13b05-cdca-457c-bf93-900f89c88953"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T09:51:34+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:43:55+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b525f7ed-af59-4291-b67e-b265247fd813">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2021</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">CSV-Datei mit den Wetterstationsdaten Universität Wetter 2021 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b525f7ed-af59-4291-b67e-b265247fd813"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2021_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b525f7ed-af59-4291-b67e-b265247fd813"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T15:07:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:22:26+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19717</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N060172d34dad4937b2fda6d8eb55306b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">c36b0e0adc12b12c8b0d0b82312534a5</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f492c107-89aa-42b5-91e3-5b0e10959159">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2021</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2021 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f492c107-89aa-42b5-91e3-5b0e10959159"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2021.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f492c107-89aa-42b5-91e3-5b0e10959159"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:29:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:29:01+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19391</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N43367fe0a6a64964a485cc9b0dcd4a3c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">841fdde5757fdc73ccec5c8ac70c1b5f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/84c7737a-1ce8-4086-8061-94e46363dfef">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2022</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">CSV-Datei mit den Wetterstationsdaten Universität Wetter 2022 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/84c7737a-1ce8-4086-8061-94e46363dfef"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2022_0.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/84c7737a-1ce8-4086-8061-94e46363dfef"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T10:02:55+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:02:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19624</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2b7adad7951b498bbdc00dd51f37b8dc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7ff17402c7cf4450022b9c294970a7c4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f1e04163-fe86-499e-85e7-a5dd700db07d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2018</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2018 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f1e04163-fe86-499e-85e7-a5dd700db07d"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2018.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f1e04163-fe86-499e-85e7-a5dd700db07d"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T09:50:25+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:49:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20531</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf0ea9e3da9a745d1a874314e85848a4e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b126f7539139f6b80d51a03a9b70db82</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b2c58e8f-5cc6-417b-93a9-c63e86151216">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2012</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2012 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b2c58e8f-5cc6-417b-93a9-c63e86151216"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b2c58e8f-5cc6-417b-93a9-c63e86151216"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T11:55:46+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T13:24:39+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6242b4a4-8783-4572-b819-a5fb9aee5c24">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2016</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2016 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6242b4a4-8783-4572-b819-a5fb9aee5c24"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6242b4a4-8783-4572-b819-a5fb9aee5c24"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:23:22+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:57:54+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/bb1460f2-dd61-4aba-bc74-e6f80cfd1750">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2018</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2018 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/bb1460f2-dd61-4aba-bc74-e6f80cfd1750"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/bb1460f2-dd61-4aba-bc74-e6f80cfd1750"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:50:59+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:17:54+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/9cbacad3-f0c7-4066-80bc-6eecdf04089b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2022</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">JSON-Datei mit den Wetterstationsdaten Universität Wetter 2022 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/9cbacad3-f0c7-4066-80bc-6eecdf04089b"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/9cbacad3-f0c7-4066-80bc-6eecdf04089b"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T10:08:56+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T10:08:56+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b4cc6078-d8e1-4bb4-b85e-c2a66784b791">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2015</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2015 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b4cc6078-d8e1-4bb4-b85e-c2a66784b791"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b4cc6078-d8e1-4bb4-b85e-c2a66784b791"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:18:26+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:59:51+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/21ce55bf-7ac9-4409-a53b-632e01905cf9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2017</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2017 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/21ce55bf-7ac9-4409-a53b-632e01905cf9"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/21ce55bf-7ac9-4409-a53b-632e01905cf9"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:26:23+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:45:50+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7a8e5fe3-b511-48b7-8b81-8cc5d0ee3f52">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2017</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2017 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7a8e5fe3-b511-48b7-8b81-8cc5d0ee3f52"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7a8e5fe3-b511-48b7-8b81-8cc5d0ee3f52"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:47:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:15:44+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6ad243ac-b637-4a17-b2b9-e218d33a8432">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2022</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6ad243ac-b637-4a17-b2b9-e218d33a8432"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6ad243ac-b637-4a17-b2b9-e218d33a8432"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:38:46+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:38:46+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/43f417b2-c1be-4482-aad2-78e435c9f589">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2018</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2018 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/43f417b2-c1be-4482-aad2-78e435c9f589"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2018.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/43f417b2-c1be-4482-aad2-78e435c9f589"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:49:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:17:21+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4647</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N868f8c5530ac46ef928369c341380496">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ed16206b895491a7d6492f70cc567c11</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b06238f4-61e3-4059-a975-033a5a56a74d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2015</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2015 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b06238f4-61e3-4059-a975-033a5a56a74d"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2015.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/b06238f4-61e3-4059-a975-033a5a56a74d"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:16:19+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:01:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19501</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N158cc0c2d5ae4cce8182a0719140affc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">41e9eec4b5d05e94ba78ace51fab70c5</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/617cef4b-9ecf-4730-afae-067ba1624a73">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2013</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2013 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/617cef4b-9ecf-4730-afae-067ba1624a73"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/617cef4b-9ecf-4730-afae-067ba1624a73"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T12:02:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T08:47:25+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7750eeaf-620c-4b22-b438-87fcb0fba3c5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2024</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2024 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7750eeaf-620c-4b22-b438-87fcb0fba3c5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2024.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/7750eeaf-620c-4b22-b438-87fcb0fba3c5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:51:10+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:51:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19361</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbcf10a9515e1480888f33c1891b0cd1b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2e6537e78d4e0e616c19d0ad03acac8f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c1a595eb-c26e-49cd-9997-d26a1536ca88">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2013</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2013 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c1a595eb-c26e-49cd-9997-d26a1536ca88"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2013.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c1a595eb-c26e-49cd-9997-d26a1536ca88"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:41:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:05:44+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19416</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N707db6895ba04464b3b10d32ce35f26f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4e9760238f7132077dce6f379ddec98d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3d937a6-01f1-430d-9b5c-c248f03c07c8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2024</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">CSV-Datei mit den Wetterstationsdaten Universität Wetter 2024 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3d937a6-01f1-430d-9b5c-c248f03c07c8"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2024.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e3d937a6-01f1-430d-9b5c-c248f03c07c8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:13:04+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:13:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19591</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N41b958e46a134e3bb31a4f9aa6b7311c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">65f9a3300409439f852ccb3faef672f4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/efeb3781-3c4f-4565-b6cc-3a82b2642db5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2021</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2021 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/efeb3781-3c4f-4565-b6cc-3a82b2642db5"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/efeb3781-3c4f-4565-b6cc-3a82b2642db5"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:30:38+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:32:42+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/71d21e76-b0f6-4b31-b6a9-c32e2f30ab38">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2014</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2014 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/71d21e76-b0f6-4b31-b6a9-c32e2f30ab38"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/71d21e76-b0f6-4b31-b6a9-c32e2f30ab38"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:52:38+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:04:26+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e220d521-2e9f-4f71-be30-daf6b8c2de41">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2020</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2020 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e220d521-2e9f-4f71-be30-daf6b8c2de41"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/e220d521-2e9f-4f71-be30-daf6b8c2de41"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:57:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:22:10+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ca7ac0c5-705d-4d9a-89f7-b8cf088733d5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2016</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2016 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ca7ac0c5-705d-4d9a-89f7-b8cf088733d5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2016.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ca7ac0c5-705d-4d9a-89f7-b8cf088733d5"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:21:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:00:34+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19472</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N93d5f7e0cfa24656a30ce2c07d49b405">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b02e8cb8ed7ea20508bad8188c3a0f78</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef17bcf5-b081-4637-ad32-719e8e8dcdbd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2015</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationensdaten City Wetter 2015 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef17bcf5-b081-4637-ad32-719e8e8dcdbd"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2015.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef17bcf5-b081-4637-ad32-719e8e8dcdbd"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:33:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-23T12:16:09+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19427</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na9dd6de2cc6f452d9615bceeeb6bc40c">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4dc7b795160d1f5318b72ca8c3cd7a29</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/11b8790d-5599-4165-ad6e-1763d61ba83c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2016</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2016 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/11b8790d-5599-4165-ad6e-1763d61ba83c"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2016.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/11b8790d-5599-4165-ad6e-1763d61ba83c"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T12:40:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T11:11:23+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18854</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N3ab30e0f8dbf46d38c8baa0af8a1d951">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8c0f9daf40c3941599a9df4fbd52ddab</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/32a2b659-006d-4063-89a0-1d7708e4fa84">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2023</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">JSON-Datei mit den Wetterstationsdaten Universität Wetter 2023 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/32a2b659-006d-4063-89a0-1d7708e4fa84"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/32a2b659-006d-4063-89a0-1d7708e4fa84"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:10:01+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:10:01+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6e6b1cbc-87e3-4f34-a78b-c9005cec62fb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2017</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2017 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6e6b1cbc-87e3-4f34-a78b-c9005cec62fb"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2017.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6e6b1cbc-87e3-4f34-a78b-c9005cec62fb"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T14:24:58+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:49:59+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19428</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N61f87d72def842c5b2dc0abdaf65e5eb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f0b5aa3b4bed47ec4a21c65b26e43882</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/cbe4d0c1-dd59-4372-823c-6062b9e734a0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2013</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2013 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/cbe4d0c1-dd59-4372-823c-6062b9e734a0"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2013.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/cbe4d0c1-dd59-4372-823c-6062b9e734a0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T12:00:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T12:09:36+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19350</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N315f18cf7ddb41b8b4921e29add0c2a9">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6d1b89813a6f803afc34cdb363bd2620</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c07d8ab4-45ff-42bd-b2b7-b1f0e6f96916">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2022</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten City Wetter 2022 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c07d8ab4-45ff-42bd-b2b7-b1f0e6f96916"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2022.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c07d8ab4-45ff-42bd-b2b7-b1f0e6f96916"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:37:23+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:37:23+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19745</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6dbfad882ec846b6b628802412e47aff">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2ae751182d77dc09e0771e8a72c91055</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6b22edb6-acbf-43e8-8a73-85b2aac56d74">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2012</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2012 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6b22edb6-acbf-43e8-8a73-85b2aac56d74"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2012.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/6b22edb6-acbf-43e8-8a73-85b2aac56d74"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:05:39+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T13:21:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">16784</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N2b5d681672b24ea382a7db58edfb90f3">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">20b063dac030e5cef14fe9e9b8e90809</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/23d1cfcd-0fb1-4187-ab08-41209a88ac2c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2021</dct:title>
+        <dct:description><![CDATA[<p><span style="color: rgb(59, 59, 59);">JSON-Datei mit den Wetterstationsdaten City Wetter 2021 von Düsseldorf</span></p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/23d1cfcd-0fb1-4187-ab08-41209a88ac2c"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/23d1cfcd-0fb1-4187-ab08-41209a88ac2c"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T15:09:40+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:23:29+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef511941-9d30-489c-9fee-f4be55280c65">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2019</dct:title>
+        <dct:description><![CDATA[<p>CSV-Datei mit den Wetterstationsdaten Universität Wetter 2019 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef511941-9d30-489c-9fee-f4be55280c65"/>
+        <dcat:downloadURL rdf:resource="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2019.csv"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ef511941-9d30-489c-9fee-f4be55280c65"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T09:56:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:47:10+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20465</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N90224bd2fde647d6949a0a8e3c269dcc">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">2f2315bcb04de4a30171ca6b7b07b4e1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c15e7a54-2ecf-4937-b977-4acd970d2e47">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2023</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten City Wetter 2023 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c15e7a54-2ecf-4937-b977-4acd970d2e47"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/c15e7a54-2ecf-4937-b977-4acd970d2e47"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:46:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T13:47:19+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2a9c6106-02ca-4de3-bf08-a1c09ec264aa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2012</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2012 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2a9c6106-02ca-4de3-bf08-a1c09ec264aa"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/2a9c6106-02ca-4de3-bf08-a1c09ec264aa"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-05T13:10:44+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T13:22:06+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ecc13e28-301f-48dc-b6e6-c1e0397fd1a2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wetterstationen der Landeshauptstadt Düsseldorf 2019</dct:title>
+        <dct:description><![CDATA[<p>JSON-Datei mit den Wetterstationsdaten Universität Wetter 2019 von Düsseldorf</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ecc13e28-301f-48dc-b6e6-c1e0397fd1a2"/>
+        <foaf:page rdf:resource="https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/ecc13e28-301f-48dc-b6e6-c1e0397fd1a2"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-06T09:57:40+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T11:35:16+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://opendata.duesseldorf.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2014.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2018.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2020.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2024.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2022.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2016.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2018.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2019.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2013.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2017.csv"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2012.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2016.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2021_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2017_0.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2024.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2021.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2015.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2023_2.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2019.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2014.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2020.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2012.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2015.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/City_Wetter_2023.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2013.csv"/>
+  <rdfs:Resource rdf:about="https://opendata.duesseldorf.de/sites/default/files/Universit%C3%A4t_Wetter_2022_0.csv"/>
+</rdf:RDF>

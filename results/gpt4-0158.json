@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0158",
+  "run_at": "2025-09-03T14:01:23.894516Z",
+  "question_id": 158,
+  "question": "Wie hoch waren die Auszahlungen der Stadt Oldenburg für Schule und Bildung in den Jahren 2022 und 2023 insgesamt?",
+  "answer": "7775300€ insgesamt",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

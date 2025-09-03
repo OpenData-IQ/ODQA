@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0069",
+  "run_at": "2025-09-01T14:10:38.054668Z",
+  "question_id": 69,
+  "question": "In welchen Fachabteilungen wurden 2017 zehn oder mehr Patienten mit Krankheiten des Nervensystems, die ihren Hauptwohnsitz in der kreisfreien Stadt Trier haben,  vollstationär behandelt?",
+  "answer": "Hals-, Nasen-, Ohrenheilkunde, Kardiologie, Sonstige und allgemeine Innere Medizin, Geriatrie, Sonstige und allgemeine Kinderheilkunde, Neurochirurgie, Neurologie, sonstige Fachbereiche",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Antwort ist eine Fehlermeldung zum überschrittenen Rekursionslimit und enthält keine inhaltliche Beantwortung der Frage. Daher als Problemfall mit Typ recursion limit einzustufen."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude3-7-0005",
+  "run_at": "2025-09-01T04:50:34.220402Z",
+  "question_id": 5,
+  "question": "Wie viele Geschwindigkeitsüberschreitungen gab es in Aachen im Jahr 2021?",
+  "answer": "67949",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe ist eine Rekursionslimit-Fehlermeldung und beantwortet die Frage nicht. Daher liegt ein technisches Problem vor."
+  }
+}

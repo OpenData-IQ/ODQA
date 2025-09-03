@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0078",
+  "run_at": "2025-09-01T05:40:23.377550Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

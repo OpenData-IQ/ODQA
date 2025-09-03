@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f6862e0d-2c3c-4ba9-baf7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2019</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2019</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f6862e0d-2c3c-4ba9-baf7"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f6862e0d-2c3c-4ba9-baf7"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:34:48+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T07:34:48+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c621e812-8194-46b6-b974">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2011</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2011</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c621e812-8194-46b6-b974"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2011_20161027.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c621e812-8194-46b6-b974"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:41:43+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:41:43+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">638</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D03 Passierte Bewegungen eines Jahres Gemeinde Langerwehe</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in einer Kommune die eine Änderung der Einwohnerzahl zur Folge haben: Statuswechsel, Statuswechsel zu Hauptwohnsitz, Statuswechsel zu Nebenwohnsitz, Todesfall, Geburt, Umzug, Wegzug, Wegzug nach Unbekannt, Zuzug</p>
+]]></dct:description>
+    <dct:identifier>cbad735c-9406-4593-ae07-c9594916fb04</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:35:54+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Ncb5194b280774d34a6dc9d6d5d290a0c">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e307a02c-9cff-4c30-b76e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2014</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e307a02c-9cff-4c30-b76e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2014_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e307a02c-9cff-4c30-b76e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:45:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:45:28+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/9a224a1e-9b2f-4821-81d6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2020</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/9a224a1e-9b2f-4821-81d6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/9a224a1e-9b2f-4821-81d6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:55:20+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:55:20+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c313cbfd-88f3-4eb5-8a6b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2016</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c313cbfd-88f3-4eb5-8a6b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c313cbfd-88f3-4eb5-8a6b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T14:44:04+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T14:44:04+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f6862e0d-2c3c-4ba9-baf7"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/23af76ff-1d6e-40a8-82fa">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2010</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/23af76ff-1d6e-40a8-82fa"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2010_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/23af76ff-1d6e-40a8-82fa"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:40:27+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:40:27+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">638</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/55a65ee9-dd51-4d6a-b792">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2009</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/55a65ee9-dd51-4d6a-b792"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2009_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/55a65ee9-dd51-4d6a-b792"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:39:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:39:10+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">638</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e98ca5e3-ea14-4874-9b31">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2017</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e98ca5e3-ea14-4874-9b31"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/e98ca5e3-ea14-4874-9b31"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:58:37+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-07T08:58:37+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f10ef4e5-d999-4a74-aac0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2012</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f10ef4e5-d999-4a74-aac0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2012_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/f10ef4e5-d999-4a74-aac0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:43:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:43:01+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">638</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c621e812-8194-46b6-b974"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/dd73e4dc-b20e-42fe-9f35">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2015</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/dd73e4dc-b20e-42fe-9f35"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2015_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/dd73e4dc-b20e-42fe-9f35"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:46:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:46:43+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/81d087bb-1610-414e-9fe4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2018</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/81d087bb-1610-414e-9fe4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/81d087bb-1610-414e-9fe4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T08:51:41+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T10:14:38+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">639</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/cc3d26cc-8f0d-4f1d-9970">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2013</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/cc3d26cc-8f0d-4f1d-9970"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2013_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/cc3d26cc-8f0d-4f1d-9970"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:44:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-27T13:44:08+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">638</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c94833c1-0b51-41e2-bd82">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Gemeinde Langerwehe 2021</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Gemeinde Langerwehe, die eine Änderung der Einwohnerzahl zur Folge haben, für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c94833c1-0b51-41e2-bd82"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-gemeinde-langerwehe/resource/c94833c1-0b51-41e2-bd82"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:35:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T10:35:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">641</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N0c12f8c22b2742b582242e562ad7d625">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">22e4b9b56b46002d54b985b9d202ecd6</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20170201.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2014_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2009_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2013_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2012_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2015_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat263-2010_20161027.csv"/>
+</rdf:RDF>

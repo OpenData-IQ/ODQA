@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0029",
+  "run_at": "2025-09-01T13:24:25.616817Z",
+  "question_id": 29,
+  "question": "Wo finde ich den Link zu Weiterbildungsveranstaltungen in Berlin",
+  "answer": "https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "FinalAnswer:\n\nDer Link zu Weiterbildungsveranstaltungen in Berlin finden Sie auf der offiziellen Webseite der Berliner Senatsverwaltung für Arbeit unter:\n\nhttps://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/\n\nDiese Webseite bietet eine umfassende Datenbank mit anerkannten Weiterbildungsveranstaltungen in Berlin. Die Datenbank enthält aktuell fast 6.000 Veranstaltungen mit detaillierten Informationen zu:\n\n- Kurztitel und Beschreibung der Veranstaltung\n- Kategorie und Unterkategorie (z.B. Gesundheit, Pädagogik, Psychologie, Politische Bildung)\n- Datum (Beginn und Ende)\n- Veranstaltungsort\n- Name und Kontaktdaten des Veranstalters (Adresse, Telefon, E-Mail)\n- Zielgruppe/Teilnehmerkreis\n- Webseite des Veranstalters (falls vorhanden)\n\nSie können auf dieser Seite nach spezifischen Weiterbildungsthemen suchen und die für Sie relevanten Veranstaltungen finden.\n\nQuelle: https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8"
+}

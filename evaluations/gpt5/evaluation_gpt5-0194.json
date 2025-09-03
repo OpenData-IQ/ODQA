@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0194",
+  "run_at": "2025-09-01T03:47:25.070480Z",
+  "question_id": 194,
+  "question": "An wie vielen Tagen im Jahr 2020 lag die minimale Temperatur (Tmin) an der Wetterstation der Universität Düsseldorf unter 0 Grad Celsius?",
+  "answer": "An 19 Tagen lag die minimale Temperatur unter 0 Grad Celsius",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "19 Tage.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und prägnant. Sie gibt die exakte Anzahl der Tage an, die in der Goldstandard-Antwort erwartet wird."
+  }
+}

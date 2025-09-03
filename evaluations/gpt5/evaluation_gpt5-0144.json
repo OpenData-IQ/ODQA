@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0144",
+  "run_at": "2025-09-01T01:48:20.477116Z",
+  "question_id": 144,
+  "question": "Gibt es detaillierte Wahlergebnisse der Landtagswahl 2017 für die Gemeinde Titz, aufgeschlüsselt nach Stimmbezirken?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz mit den Wahlergebnissen der Landtagswahl 2017 für die Gemeinde Titz. Die Ergebnisse sind auf Stimmbezirksebene ausgewiesen und enthalten unter anderem Angaben zu Wahlbeteiligung, gültigen und ungültigen Stimmen sowie den Stimmenanteilen der einzelnen Parteien.",
+  "llm_final": "Ja. Es gibt detaillierte Ergebnisse der Landtagswahl 2017 für die Gemeinde Titz auf Stimmbezirksebene.\n\n- Datensatz: D12 Landtagswahlen Titz – „Wahlergebnisse Landtagswahl 2017 Stimmbezirksebene Titz“\n- Direktdownload (CSV): http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW996.csv\n- Datensatz-Seite: https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und enthält den primären Ressourcenlink, der in der Goldstandard-Antwort angegeben ist. Zusätzlich bietet sie einen direkten Download-Link und weitere relevante Informationen, was sie sehr umfassend macht."
+  }
+}

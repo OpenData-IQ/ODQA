@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0026",
+  "run_at": "2025-09-03T13:04:31.337267Z",
+  "question_id": 26,
+  "question": "Gibt es 2024 mehr Menschen türkischer Staatbürgerschaft in Frankfurt oder weniger als in 2018?",
+  "answer": "weniger",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut den offenen Daten der Stadt Frankfurt am Main gab es im Jahr 2018 insgesamt 25.395 Menschen mit türkischer Staatsangehörigkeit in Frankfurt. Für das Jahr 2024 sind in den verfügbaren Datensätzen keine Werte für die Anzahl der Menschen mit türkischer Staatsangehörigkeit eingetragen (die Spalte ist leer). Daher ist ein direkter Vergleich oder eine Aussage, ob es 2024 mehr oder weniger Menschen mit türkischer Staatsangehörigkeit in Frankfurt gibt als 2018, auf Basis der verfügbaren offenen Daten nicht möglich.\n\nQuelle: https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-staatsangehoerigkeit"
+}

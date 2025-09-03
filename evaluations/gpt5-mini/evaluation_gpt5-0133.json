@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0133",
+  "run_at": "2025-08-31T13:10:15.303186Z",
+  "question_id": 133,
+  "question": "In welche Länder sind im Jahr 2020 200 oder mehr Menschen aus Elsdorf im Rhein-Erft-Kreis weggezogen?",
+  "answer": "Deutschland, Kamerun, Ägypten, Pakistan, Thailand, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "The answer lists several countries, but it is highly unlikely that 200 or more people moved from Elsdorf to each of these countries in a single year. The answer seems to be a general list of countries rather than specific data for the given criteria."
+  }
+}

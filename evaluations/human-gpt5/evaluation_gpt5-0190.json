@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0190",
+  "run_at": "2025-09-01T03:39:35.644561Z",
+  "question_id": 190,
+  "question": "Wie viele verschiedene Straßen sind zum Stichtag 31.12.2022 in der Gemeinde Langerwehe verzeichnet?",
+  "answer": "Es sind 255 verschiedene Straßen in der Gemeinde Langerwehe verzeichnet.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "255\n\nQuelle: D28 Straßenverzeichnis Langerwehe 2022 (Stichtag 31.12.2022), CSV mit 255 Einträgen:\nhttps://offenedaten.kdvz.nrw/dataset/d28-stra%C3%9Fenverzeichnis-langerwehe",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und enthält die genaue Anzahl der Straßen. Zusätzlich wird die Quelle mit einem direkten Link angegeben, was die Antwort sehr vollständig macht."
+  }
+}

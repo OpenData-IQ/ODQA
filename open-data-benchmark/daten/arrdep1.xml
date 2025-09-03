@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Flights>
+    <!-- FMO -->
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>14:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>DI 6603</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402571</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>15:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>DI 6602</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402586</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>16:15</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6806</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402576</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>16:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2138</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402581</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>17:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6807</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402591</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>17:20</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2139</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402596</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>19:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2140</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402582</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>20:25</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2141</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402597</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>20:55</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7249</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402573</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>21:20</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7248</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402588</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>22:05</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 1450</FNR>
+       <CITY3>ALC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Alicante</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402572</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>22:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 1451</FNR>
+       <CITY3>ALC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Alicante</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402587</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>22:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6822</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402577</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>23:05</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2142</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402583</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>23:20</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 250</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402578</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>05.06.2025</STD_DATE>
+       <STD_TIME>23:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>4M 451</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402570</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>00:10</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 251</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402593</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>00:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>4M 452</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402585</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>01:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 254</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402579</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>01:50</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 255</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402594</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>02:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>PC 5074</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402688</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>02:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 256</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402676</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>03:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 257</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402693</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>05:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6823</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402690</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>06:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2143</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402696</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>08:35</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>VL 2134</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402680</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>09:15</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>VL 2135</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402697</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>13:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>DI 6603</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402667</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>14:10</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7249</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402668</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>14:35</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>DI 6602</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402683</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>14:35</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7248</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402684</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>16:15</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6806</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402672</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>16:35</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2138</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402677</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>17:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6807</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402689</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>17:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>GER651</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402687</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>17:15</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2139</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402694</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>19:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>IV 5240</FNR>
+       <CITY3>PRN</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Pristina</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402670</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>19:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2140</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402678</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>20:25</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2141</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402695</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>20:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7282</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402669</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>20:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>IV 5241</FNR>
+       <CITY3>PRN</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Pristina</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402686</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>20:55</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 7281</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402685</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>22:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6822</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402673</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>23:05</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2142</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402679</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>23:20</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 250</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402674</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>06.06.2025</STD_DATE>
+       <STD_TIME>23:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>4M 551</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402666</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>00:10</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 251</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402691</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>00:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>4M 552</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402682</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>01:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 254</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402675</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>01:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XC 5707</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402681</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>01:50</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 255</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402692</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>02:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XC 6708</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402831</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>02:45</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 256</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402814</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>03:40</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>XQ 257</FNR>
+       <CITY3>AYT</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Antalya</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402828</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>05:05</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>EW 6823</FNR>
+       <CITY3>PMI</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Palma d.M.</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402825</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>06:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>LH 2143</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402829</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>08:30</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>VL 2134</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402816</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>09:00</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 6969</FNR>
+       <CITY3>CFU</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>Korfu</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402806</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>09:15</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>VL 2135</FNR>
+       <CITY3>MUC</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>M&#252;nchen</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402830</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>09:35</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 6143</FNR>
+       <CITY3>STN</CITY3>
+       <VIA3></VIA3>
+       <FTYP>A</FTYP>
+       <CITY>London STN</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402808</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>09:55</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 6970</FNR>
+       <CITY3>CFU</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>Korfu</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402820</ID>
+    </Flight>
+    <Flight Priority="Normal">
+       <STD_DATE>07.06.2025</STD_DATE>
+       <STD_TIME>10:25</STD_TIME>
+       <ETD_DATE></ETD_DATE>
+       <ETD_TIME></ETD_TIME>
+       <ATD_DATE></ATD_DATE>
+       <ATD_TIME></ATD_TIME>
+       <FNR>FR 6142</FNR>
+       <CITY3>STN</CITY3>
+       <VIA3></VIA3>
+       <FTYP>D</FTYP>
+       <CITY>London STN</CITY>
+       <VIA></VIA>
+       <REM_CODE></REM_CODE>
+       <ID>1402822</ID>
+    </Flight>
+</Flights>

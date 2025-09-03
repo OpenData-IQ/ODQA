@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0022",
+  "run_at": "2025-09-03T13:00:16.679413Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "ja, es gibt sogar 6 direkt bei der Halle",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja, direkt an der Franklin Boulderhalle in Mannheim gibt es mehrere E-Ladesäulen. Die Standorte sind:\n\n- Franklin Boulderhalle, 49.518934, 8.535875\n- Franklin Boulderhalle, 49.518994, 8.535935\n- Franklin Boulderhalle, 49.518974, 8.535915\n- Franklin Boulderhalle, 49.519014, 8.535955\n- Franklin Boulderhalle, 49.518954, 8.535895\n- Franklin Boulderhalle, 49.518914, 8.535855\n\nIn der Nähe befindet sich außerdem das \"Franklin Ärztehaus\" mit weiteren Ladesäulen (49.515446, 8.526265 und 49.515466, 8.526285).\n\nDu kannst also direkt an der Boulderhalle oder in unmittelbarer Nähe dein E-Auto laden.\n\nQuelle: Open Data Mannheim (E-Ladeparkstände)"
+}

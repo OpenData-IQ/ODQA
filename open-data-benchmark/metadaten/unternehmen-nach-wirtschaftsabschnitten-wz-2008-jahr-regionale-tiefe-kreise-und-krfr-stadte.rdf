@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/52111-04-01-4_00.csv#dataset">
+    <dct:title>Rechtliche Einheiten nach ausgewählten Wirtschaftsabschnitten (WZ 2008) -Jahr - regionale Tiefe: Kreise und krfr. Städte</dct:title>
+    <dct:description>Rechtliche Einheiten nach ausgewählten Wirtschaftsabschnitten (WZ 2008) -Jahr - regionale Tiefe: Kreise und krfr. Städte</dct:description>
+    <dct:identifier rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/52111-04-01-4_00"/>
+    <dcat:keyword>baugewerbe-f</dcat:keyword>
+    <dcat:keyword>bergbau-und-gewinnung-von-steinen-und-erden-b</dcat:keyword>
+    <dcat:keyword>energieversorgung-d</dcat:keyword>
+    <dcat:keyword>erbringung-von-finanz--und-versicherungsdienstleistungen-k</dcat:keyword>
+    <dcat:keyword>erbringung-von-freiberuflichen-wissenschaftlichen-und-technischen-dienstleistungen-m</dcat:keyword>
+    <dcat:keyword>erbringung-von-sonstigen-dienstleistungen-s</dcat:keyword>
+    <dcat:keyword>erbringung-von-sonstigen-wirtschaftlichen-dienstleistungen-n</dcat:keyword>
+    <dcat:keyword>erziehung-und-unterricht-p</dcat:keyword>
+    <dcat:keyword>gastgewerbe-i</dcat:keyword>
+    <dcat:keyword>gesundheits--und-sozialwesen-q</dcat:keyword>
+    <dcat:keyword>grundstücks--und-wohnungswesen-l</dcat:keyword>
+    <dcat:keyword>handel-instandhaltung-und-reparatur-von-kraftfahrzeugen-g</dcat:keyword>
+    <dcat:keyword>information-und-kommunikation-j</dcat:keyword>
+    <dcat:keyword>insgesamt-wz2008-abschnitte-b-n-p-s</dcat:keyword>
+    <dcat:keyword>jahr</dcat:keyword>
+    <dcat:keyword>kreise-und-kreisfreie-städte</dcat:keyword>
+    <dcat:keyword>kunst-unterhaltung-und-erholung-r</dcat:keyword>
+    <dcat:keyword>rechtliche-einheiten</dcat:keyword>
+    <dcat:keyword>unternehmensregister-system-urs</dcat:keyword>
+    <dcat:keyword>verarbeitendes-gewerbe-c</dcat:keyword>
+    <dcat:keyword>verkehr-und-lagerei-h</dcat:keyword>
+    <dcat:keyword>wasserversorgung-e</dcat:keyword>
+    <dcat:keyword>wz-2008-urs---abschnitte</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-09-22T08:33:03</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-27T09:39:59</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nacd48328547f49409dd6c4e5bf04fca2">
+        <vcard:fn>Statistische Ämter des Bundes und der Länder</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:regionaldatenbank@it.nrw.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/1e17f560-2061-4219-a37d-61e2fce75336">
+        <foaf:name>Regionalstatistik</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/52111-04-01-4_00.csv#distribution">
+        <dct:description>Rechtliche Einheiten nach ausgewählten Wirtschaftsabschnitten (WZ 2008) -Jahr - regionale Tiefe: Kreise und krfr. Städte</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.regionalstatistik.de/genesisws/downloader/00/tables/52111-04-01-4_00.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-05T08:23:40.119205</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-26T04:13:08.807648</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/genesisDestatis"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/regionalstatistik"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N3fcb6962bd3c4951b0937d9481834c43">
+        <foaf:name>Statistische Ämter des Bundes und der Länder</foaf:name>
+        <foaf:mbox>regionaldatenbank@it.nrw.de</foaf:mbox>
+        <foaf:homepage rdf:resource="Statistische%20Ämter%20des%20Bundes%20und%20der%20Länder"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://www.regionalstatistik.de/genesisws/downloader/00/tables/52111-04-01-4_00.csv"/>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0021",
+  "run_at": "2025-09-01T19:59:27.681028Z",
+  "question_id": 21,
+  "question": "Wie viele Ballettaufführungen gab es in der Spielzeit 2022/23 in Frankfurt am Main?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nFür die Spielzeit 2022/2023 liegen in den aktuell veröffentlichten Datensätzen der Stadt Frankfurt am Main keine Angaben zu Ballettaufführungen vor. Die verfügbaren Daten zu städtischen Theatern reichen bis 2019/2020, während die Daten für nichtstädtische Theater bis 2017/2018 verfügbar sind. Bitte prüfen Sie die Quellen zu einem späteren Zeitpunkt auf Aktualisierungen.\n\nQuellen:  \n- https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-staedtische_theater_nach_buehnen  \n- https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-nichtstaedtische_theater"
+}

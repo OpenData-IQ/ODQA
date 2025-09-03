@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0027",
+  "run_at": "2025-09-01T13:22:49.487404Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe zeigt explizit einen Recursion-Limit-Fehler und keine inhaltliche Antwort. Daher ist es ein technischer Fehler (recursion limit)."
+  }
+}

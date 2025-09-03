@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0190",
+  "run_at": "2025-09-01T08:44:38.645557Z",
+  "question_id": 190,
+  "question": "Wie viele verschiedene Straßen sind zum Stichtag 31.12.2022 in der Gemeinde Langerwehe verzeichnet?",
+  "answer": "Es sind 255 verschiedene Straßen in der Gemeinde Langerwehe verzeichnet.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Suche nach \"Straßen Langerwehe 31.12.2022\" liefert keine relevanten Ergebnisse. Die gefundenen Datensätze beziehen sich auf automatische Zählstellen auf Autobahnen und Bundesstraßen in Bayern und enthalten keine Informationen über die Anzahl der Straßen in einer bestimmten Gemeinde. Es ist unwahrscheinlich, dass die gesuchte Information über die Anzahl der Straßen in einer spezifischen Gemeinde in diesem Datensatz zu finden ist."
+}

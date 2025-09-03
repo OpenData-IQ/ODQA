@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0144",
+  "run_at": "2025-09-03T14:01:20.552877Z",
+  "question_id": 144,
+  "question": "Gibt es detaillierte Wahlergebnisse der Landtagswahl 2017 für die Gemeinde Titz, aufgeschlüsselt nach Stimmbezirken?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz mit den Wahlergebnissen der Landtagswahl 2017 für die Gemeinde Titz. Die Ergebnisse sind auf Stimmbezirksebene ausgewiesen und enthalten unter anderem Angaben zu Wahlbeteiligung, gültigen und ungültigen Stimmen sowie den Stimmenanteilen der einzelnen Parteien.",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

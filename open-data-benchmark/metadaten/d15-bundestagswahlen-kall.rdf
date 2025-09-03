@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D15 Bundestagswahlen Kall</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Bundestagswahlen. Beschreibungen zum Datensatzaufbau finden Sie unter Datensatzbeschreibung Wahlen(<a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen</a>)</p>
+]]></dct:description>
+    <dct:identifier>a35ac5b9-a302-4707-b0ce-d8bbcf4f1fbe</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T11:00:00+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N60523d77639c4137be825a5ee16d0959">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/38c3e388-63eb-4525-a457-2fe4d6dc143c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2013 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2013 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/38c3e388-63eb-4525-a457-2fe4d6dc143c"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/38c3e388-63eb-4525-a457-2fe4d6dc143c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:20:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:20:10+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/ed202b09-b787-44c1-a1f4-c4f47428f7ba">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2013 Ortsteilebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2013 auf Stadtteilebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/ed202b09-b787-44c1-a1f4-c4f47428f7ba"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/ed202b09-b787-44c1-a1f4-c4f47428f7ba"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:22:05+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:22:05+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/198337c6-86d9-48ff-b291-8c6d1d7912c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahllokale Bundestagswahl 2017 Kall</dct:title>
+        <dct:description><![CDATA[<p>Auflistung aller Wahllokale mit Bezug zum Wahlbezirk für die Bundestagswahl 2017 für die Gemeinde Kall.</p>
+
+<p>Diese Datei wird schon für den Wahllokalfinder (<a href="http://www.wahllokale.online/">http://www.wahllokale.online/</a>) zur Bundestagswahl 2017 genutzt.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/198337c6-86d9-48ff-b291-8c6d1d7912c3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Kall_wahllokale.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/198337c6-86d9-48ff-b291-8c6d1d7912c3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T15:48:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T15:48:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1316</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/b8a13a1e-ba51-40a7-8298-7cde45bf4d28">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2005 Gemeindeebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2005 auf Gemeindeebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/b8a13a1e-ba51-40a7-8298-7cde45bf4d28"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05366024/html5/Bundestagswahl3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/b8a13a1e-ba51-40a7-8298-7cde45bf4d28"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:23:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:23:18+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8b71a2d1-e5af-488f-8b56-c577a91b52f0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2017 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8b71a2d1-e5af-488f-8b56-c577a91b52f0"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05366024/html5/Bundestagswahl1036.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8b71a2d1-e5af-488f-8b56-c577a91b52f0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:47:47+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:47:47+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/677523dc-f042-4fa8-b83d-796c7ae985c4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2002 Gemeindeebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2002 auf Gemeindeebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/677523dc-f042-4fa8-b83d-796c7ae985c4"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05366024/html5/Bundestagswahl3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/677523dc-f042-4fa8-b83d-796c7ae985c4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:26:04+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:26:04+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f33a90f5-6559-4298-8bc5-c83b6568803a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2009 Ortsteilebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Ortsteilebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f33a90f5-6559-4298-8bc5-c83b6568803a"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f33a90f5-6559-4298-8bc5-c83b6568803a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:18:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:18:01+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f687bec8-63ef-4d1d-87f4-a58ae0a831a3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2002 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2002 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f687bec8-63ef-4d1d-87f4-a58ae0a831a3"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05366024/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/f687bec8-63ef-4d1d-87f4-a58ae0a831a3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:27:50+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:27:50+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/85bb9727-2da3-4b51-813d-7e24e03a78dc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2017 Gemeindeebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017 auf Gemeindeebene für die Gemeinde Kall.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/85bb9727-2da3-4b51-813d-7e24e03a78dc"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05366024/html5/Bundestagswahl1033.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/85bb9727-2da3-4b51-813d-7e24e03a78dc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:46:56+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:46:56+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/58790793-a93d-47ba-9890-97ffe225b8f1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2017 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2017 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/58790793-a93d-47ba-9890-97ffe225b8f1"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05366024/html5/Bundestagswahl1036.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/58790793-a93d-47ba-9890-97ffe225b8f1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:47:47+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-20T09:47:47+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/42f9ff47-71d8-44a5-a333-8d66c1641e33">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Straßenverzeichnis Bundestagswahl 2017 Kall</dct:title>
+        <dct:description><![CDATA[<p>Straßenverzeichnis mit Angabe des Wahlbezirks für die Bundestagswahl 2017 für die Gemeinde Kall.</p>
+
+<p>Diese Datei wird schon für den Wahllokalfinder (<a href="http://www.wahllokale.online/">http://www.wahllokale.online/</a>) zur Bundestagswahl 2017 genutzt.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/42f9ff47-71d8-44a5-a333-8d66c1641e33"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Kall_adressen_strassen.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/42f9ff47-71d8-44a5-a333-8d66c1641e33"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T15:49:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-21T15:49:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">14374</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8951bb6b-ce47-4592-a663-bcfa91ee28de">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2005 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2005 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8951bb6b-ce47-4592-a663-bcfa91ee28de"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05366024/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/8951bb6b-ce47-4592-a663-bcfa91ee28de"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:24:33+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:24:33+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/3bcba3d5-ab66-440e-b0d2-5e95aaef600c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2013 Gemeindeebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2013 auf Gemeindeebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/3bcba3d5-ab66-440e-b0d2-5e95aaef600c"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/3bcba3d5-ab66-440e-b0d2-5e95aaef600c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:23:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-29T21:23:48+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/cf93615b-7fa0-47e9-82cf-f440344e4d97">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2009 Wahlbezirksebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Wahlbezirksebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/cf93615b-7fa0-47e9-82cf-f440344e4d97"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/cf93615b-7fa0-47e9-82cf-f440344e4d97"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:21:56+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:21:56+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/1587c8e1-28e1-4f08-9ddc-3914b6d2a573">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Bundestagswahl 2009 Gemeindeebene Kall</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Bundestagswahl 2009 auf Gemeindeebene für die Gemeinde Kall.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/1587c8e1-28e1-4f08-9ddc-3914b6d2a573"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall/resource/1587c8e1-28e1-4f08-9ddc-3914b6d2a573"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:16:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-12T14:16:35+02:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05366024/html5/Bundestagswahl6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05366024/html5/Bundestagswahl6.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl6.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2002/05366024/html5/Bundestagswahl3.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Kall_adressen_strassen.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2013/05366024/html5/Bundestagswahl8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2009/05366024/html5/Bundestagswahl8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05366024/html5/Bundestagswahl1033.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Kall_wahllokale.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2017/05366024/html5/Bundestagswahl1036.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/bw2005/05366024/html5/Bundestagswahl3.csv"/>
+</rdf:RDF>

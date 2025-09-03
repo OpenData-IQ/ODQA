@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://open-data.ble.de/dataset/a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef">
+    <dct:title>Agrarorganisationenregister</dct:title>
+    <dct:description>Ziel des Agrarorganisationenregister ist, bestimmte Daten von Erzeugerorganisationen aus verschiedenen Erzeugnisbereichen im Internet darzustellen und öffentlich zu verbreiten. Damit soll es Landwirten, welche sich einer Erzeugerorganisation anschließen wollen vereinfacht werden, eine geeignete Organisation zu finden. Es kann regional (z. B. PLZ, Ort), nach Erzeugnis (z. B. Milch und Milcherzeugnissen, Obst und Gemüse) oder auch nach Namen gesucht werden.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://aoreg.ble.de/agrarorganisationen/"/>
+    </dcat:landingPage>
+    <dct:identifier>a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef</dct:identifier>
+    <dcat:keyword>landwirtschaft</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-16T11:42:25.506230</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-16T11:44:27.032354</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N2913fa5fce5d489193aa26e0bfc5084d">
+        <vcard:fn>Bundesanstalt für Landwirtschaft und Ernährung</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:opendata@ble.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://open-data.ble.de/organization/fa771554-fbc4-4e91-81e8-185eeebb8dc4">
+        <foaf:name>BLE</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="Ne001a91fc7f34ddba10d10332785b9c5">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N25bfc94fd3be42cfb7487ffdd41a0dd8">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open-data.ble.de/dataset/a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef/resource/4e90e448-1195-4aac-8b9e-aa82a4cf1b89">
+        <dct:title>Agrarorganisationenregister</dct:title>
+        <dct:description>Liste der Agrarorganisationen und Erzeugerorganisationen.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://open-data.ble.de/dataset/a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef/resource/4e90e448-1195-4aac-8b9e-aa82a4cf1b89/download/datenexport-1.xml"/>
+        <dcat:mediaType>text/xml</dcat:mediaType>
+        <dct:format>XML</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-16T11:43:03.815585</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-16T11:43:03.790053</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">287922</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesministeriumFuerErnaehrungUndLandwirtschaft"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N3b862b613fb74a6eb3e7886d2498af78">
+        <foaf:name>Bundesanstalt für Landwirtschaft und Ernährung</foaf:name>
+        <foaf:mbox>opendata@ble.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://open-data.ble.de/dataset/a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef/resource/4e90e448-1195-4aac-8b9e-aa82a4cf1b89/download/datenexport-1.xml"/>
+</rdf:RDF>

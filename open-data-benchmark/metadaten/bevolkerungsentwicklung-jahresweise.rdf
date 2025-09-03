@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Bevölkerungsentwicklung (jahresweise)</dct:title>
+    <dct:description>Einwohner mit Hauptwohnsitz zum 31.12. nach bestimmten Merkmalen und Kennzahlen (Altersklassen, Geschlecht, Nationalität, AFR, TFR, Stadtteil, Geburten, Sterbefälle, Religion, Familienstand, Zuzug, Wegzug, Binnumzug, Haushalte). Quelle: Melderegister.</dct:description>
+    <dct:identifier>80</dct:identifier>
+    <dcat:keyword>18-bis-unter-65-jahre</dcat:keyword>
+    <dcat:keyword>18-bis-unter-65-jahre-deutsche</dcat:keyword>
+    <dcat:keyword>18-bis-unter-65-jahre-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>65-jahre-und-älter</dcat:keyword>
+    <dcat:keyword>65-jahre-und-älter-deutsche</dcat:keyword>
+    <dcat:keyword>65-jahre-und-älter-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>alleinerziehende</dcat:keyword>
+    <dcat:keyword>allgemeine-fruchtbarkeitsrate-afr</dcat:keyword>
+    <dcat:keyword>allgemeine-fruchtbarkeitsrate-afr-deutsche</dcat:keyword>
+    <dcat:keyword>allgemeine-fruchtbarkeitsrate-afr-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>au</dcat:keyword>
+    <dcat:keyword>brötzingen</dcat:keyword>
+    <dcat:keyword>buckenberg</dcat:keyword>
+    <dcat:keyword>büchenbronn</dcat:keyword>
+    <dcat:keyword>deutsche</dcat:keyword>
+    <dcat:keyword>dillweißenstein</dcat:keyword>
+    <dcat:keyword>ehepaare-mit-mindestens-einem-kind</dcat:keyword>
+    <dcat:keyword>ehepaare-ohne-kinder</dcat:keyword>
+    <dcat:keyword>einpersonenhaushalt</dcat:keyword>
+    <dcat:keyword>einwohnerzahl</dcat:keyword>
+    <dcat:keyword>einwohnerzahl-amtl.-ez.</dcat:keyword>
+    <dcat:keyword>eutingen</dcat:keyword>
+    <dcat:keyword>evangelisch</dcat:keyword>
+    <dcat:keyword>geburten</dcat:keyword>
+    <dcat:keyword>geburten-deutsche</dcat:keyword>
+    <dcat:keyword>geburten-männlich</dcat:keyword>
+    <dcat:keyword>geburten-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>geburten-weiblich</dcat:keyword>
+    <dcat:keyword>geschieden</dcat:keyword>
+    <dcat:keyword>haushalte</dcat:keyword>
+    <dcat:keyword>hohenwart</dcat:keyword>
+    <dcat:keyword>huchenfeld</dcat:keyword>
+    <dcat:keyword>innenstadt</dcat:keyword>
+    <dcat:keyword>innergemeindlicher-umzug</dcat:keyword>
+    <dcat:keyword>jahr</dcat:keyword>
+    <dcat:keyword>katholisch</dcat:keyword>
+    <dcat:keyword>ledig</dcat:keyword>
+    <dcat:keyword>männlich</dcat:keyword>
+    <dcat:keyword>männlich-amtl.-ez.</dcat:keyword>
+    <dcat:keyword>nebenwohnsitze</dcat:keyword>
+    <dcat:keyword>nebenwohnsitze-deutsche</dcat:keyword>
+    <dcat:keyword>nebenwohnsitze-frauen</dcat:keyword>
+    <dcat:keyword>nebenwohnsitze-männer</dcat:keyword>
+    <dcat:keyword>nebenwohnsitze-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>nichtdeutsche</dcat:keyword>
+    <dcat:keyword>nordstadt</dcat:keyword>
+    <dcat:keyword>oststadt</dcat:keyword>
+    <dcat:keyword>paar-in-nichtehelicher-lebensgemeinschaft-mit-mindestens-einem-kind</dcat:keyword>
+    <dcat:keyword>paar-in-nichtehelicher-lebensgemeinschaft-ohne-kinder</dcat:keyword>
+    <dcat:keyword>sonstige-haushaltsform</dcat:keyword>
+    <dcat:keyword>sonstiges-und-konfessionslos</dcat:keyword>
+    <dcat:keyword>sterbefälle</dcat:keyword>
+    <dcat:keyword>sterbefälle-deutsche</dcat:keyword>
+    <dcat:keyword>sterbefälle-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>südoststadt</dcat:keyword>
+    <dcat:keyword>südweststadt</dcat:keyword>
+    <dcat:keyword>unter-18-jahre</dcat:keyword>
+    <dcat:keyword>unter-18-jahre-deutsche</dcat:keyword>
+    <dcat:keyword>unter-18-jahre-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>verheiratet</dcat:keyword>
+    <dcat:keyword>verwitwet</dcat:keyword>
+    <dcat:keyword>wegzug-aus-pforzheim</dcat:keyword>
+    <dcat:keyword>wegzug-aus-pforzheim-deutsche</dcat:keyword>
+    <dcat:keyword>wegzug-aus-pforzheim-nichtdeutsche</dcat:keyword>
+    <dcat:keyword>weiblich</dcat:keyword>
+    <dcat:keyword>weiblich-amtl.-ez.</dcat:keyword>
+    <dcat:keyword>weststadt</dcat:keyword>
+    <dcat:keyword>würm</dcat:keyword>
+    <dcat:keyword>zusammengefasste-geburtenziffer-zgz</dcat:keyword>
+    <dcat:keyword>zuzug-nach-pforzheim</dcat:keyword>
+    <dcat:keyword>zuzug-nach-pforzheim-deutsche</dcat:keyword>
+    <dcat:keyword>zuzug-nach-pforzheim-nichtdeutsche</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-14T01:00:11.303618</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-28T00:00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N0b52613fa37549c6b5cd4cfaa6ce3e1b">
+        <vcard:fn>Kommunale Statistikstelle Stadt Pforzheim</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:statistik@pforzheim.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nf7303d6e1ddf4ad192b5259af1aacb76">
+        <foaf:name>Stadt Pforzheim</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Nc4bb13e29d0143b3bb10b74ee97088ca">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1964-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise#dist-csv">
+        <dct:title>Bevölkerungsentwicklung (jahresweise)</dct:title>
+        <dct:description>de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise"/>
+        <dcat:downloadURL rdf:resource="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise/content.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-14T01:00:11.306055</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-28T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/datenBW"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/082310000000"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nf1756c5c3770439ca303dc439c6767ad">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/082310000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <dcatde:maintainer>
+      <foaf:Person rdf:nodeID="Nd28fb0ea648e4750ba4473c1a0ce5db6">
+        <foaf:name>Kommunale Statistikstelle Stadt Pforzheim</foaf:name>
+      </foaf:Person>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise/content.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+</rdf:RDF>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Dataset rdf:about="https://opendata.oldenburg.de/dataset/hundesteuer">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Hundesteuer</dct:title>
+    <dct:description><![CDATA[<p>Der Datensatz weist die Entwicklung des Hundesteueraufkommens seit 1998 aus.</p>
+
+<p>Bei der Hundesteuer handelt es sich um eine Aufwandssteuer im Sinne des Artikels 105 Absatz. 2 a Grundgesetz (GG). Aufwandssteuern sollen einen besonderen Aufwand, also eine über die Befriedigung des allgemeinen Lebensbedarfes hinausgehende Verwendung von Einkommen und Vermögen erfassen. Gleichzeitig werden durch die Hundesteuer ordnungspolitische Gesichtspunkte verfolgt, um einer allzu umfangreichen Hundehaltung und den damit verbundenen Verunreinigungen und der erhöhten Gefährdung der Bevölkerung entgegenzuwirken. Aus diesen Gründen erhöht sich auch die Hundesteuer für Zweithunde und weitere Hunde.</p>
+
+<p>Nach der verfassungsrechtlich garantierten Autonomie und Finanzhoheit ist jede Kommune berechtigt, die Höhe der Aufwandssteuer für ihr Gebiet festzusetzen. Die Einkünfte aus dieser Steuer sind nicht zweckgebunden und werden als allgemeine Deckungsmittel zur Erfüllung der städtischen Aufgaben genutzt.</p>
+
+<p><em>Hinweise</em>:</p>
+
+<ul>
+	<li>Hunde mit Steuerermäßigung: z. B. Hunde zum Bewachen von Gebäuden.</li>
+	<li>Steuerfreie Hunde: Diensthunde kommunaler und staatlicher Stellen; Sanitäts- und Rettungshunde; Blindenführhunde und Hunde, die vorübergehend in Tierschutzanstalten untergebracht sind</li>
+</ul>
+]]></dct:description>
+    <dct:identifier>2ad1467b-4e5c-4d15-9760-bf3bccf206c6</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>aufwandssteuer</dcat:keyword>
+    <dcat:keyword>haushalt-und-steuern</dcat:keyword>
+    <dcat:keyword>hundesteuer</dcat:keyword>
+    <dcat:keyword>ordnungspolitisch</dcat:keyword>
+    <dcat:keyword>verwaltung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-11T08:43:10+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-19T10:51:59+02:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/hundesteuer"/>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N08e612d9f955483aba2a9dfe9f4a25ec">
+        <foaf:name>Stadt Oldenburg (Oldb)</foaf:name>
+        <foaf:homepage rdf:resource="https://opendata.oldenburg.de/www.oldenburg.de"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Na20c2d390d704221b118c3459ebc5245">
+        <rdfs:label>öffentlich </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.oldenburg.de/dataset/hundesteuer/resource/d12c85e6-e193-46f7-ba24-2f79358c41f5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Hundesteuer</dct:title>
+        <dct:description><![CDATA[<p>Spaltentitel:</p>
+
+<p>Jahr; Ersthunde; Zweithunde; weitere Hunde; Hunde mit Steuerermaessigung; steuerfreie Hunde; Anzahl gesamt; Steuereinnahmen in Euro</p>
+
+<p>wobei</p>
+
+<ul>
+	<li><span style="color: rgb(85, 85, 85); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">Hunde mit Steuerermäßigung: z. B. Hunde zum Bewachen von Gebäuden</span></li>
+	<li><span style="color: rgb(85, 85, 85); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">Steuerfreie Hunde: Diensthunde kommunaler und staatlicher Stellen; Sanitäts- und Rettungshunde; Blindenführhunde und Hunde, die vorübergehend in Tierschutzanstalten untergebracht sind</span></li>
+</ul>
+]]></dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.oldenburg.de/dataset/hundesteuer/resource/d12c85e6-e193-46f7-ba24-2f79358c41f5"/>
+        <dcat:downloadURL rdf:resource="https://opendata.oldenburg.de/sites/default/files/1109_Hundesteuer.csv"/>
+        <foaf:page rdf:resource="https://opendata.oldenburg.de/dataset/hundesteuer/resource/d12c85e6-e193-46f7-ba24-2f79358c41f5"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-11T08:48:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-19T10:51:59+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1090</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Naf58f18c142d4385b3e56d1f61cff3fb">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">815e322e36fc466f513866e1a3db7ac9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="https://opendata.oldenburg.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/stadtOldenburg"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/stateKey/03"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nc2c9a33ae2ea4c66a8d0bee1c322378e">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/stateKey/03"/>
+      </dct:Location>
+    </dct:spatial>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.oldenburg.de/sites/default/files/1109_Hundesteuer.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+</rdf:RDF>

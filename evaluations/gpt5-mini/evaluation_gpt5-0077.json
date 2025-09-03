@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0077",
+  "run_at": "2025-08-31T11:33:07.728105Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77) — dort starben 2023 deutlich mehr Männer als Frauen. Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Gute Frage — dafür brauche ich aber den konkreten Datensatz/Ort bzw. das Jahr. In der Suche gibt es mehrere Quellen („Gestorbene nach Geschlecht und Todesursachen“) (z. B. Köln, Landesdatenbank NRW, Leipzig, Schleswig‑Holstein etc.).\n\nWas möchtest du, dass ich auswerte?\n- Einen bestimmten Ort (z. B. Köln) — bitte nennen.  \n- Oder soll ich standardmäßig den Datensatz der Stadt Köln (Offenedaten Köln) verwenden?  \n- Oder mehrere Regionen vergleichen?\n\nHinweis: Ich berechne das Mortalitätsverhältnis als Verhältnis männlicher zu weiblichen Todesfälle (Männer/T Frauen). Kleinstzahlen können das Ergebnis verzerren — soll ich Grenzfälle (z. B. Werte < 5) ausschließen oder markieren?",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "The LLM indicates that it needs a specific dataset/location or year to answer the question. It asks for clarification on which data source to use, implying it cannot proceed without this information. Therefore, the data was not found or specified sufficiently."
+  }
+}

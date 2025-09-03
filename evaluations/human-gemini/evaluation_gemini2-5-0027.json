@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0027",
+  "run_at": "2025-09-01T05:22:57.349168Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden.",
+  "llm_final": "Von den 2733 Befragten in den Landesverwaltungen von NRW, die eine Angabe gemacht haben, nutzen 1431 Personen einen Bildschirmschoner, was 52,36% entspricht. 1063 Personen nutzen keinen Bildschirmschoner (38,89%) und 239 Personen haben keine Angabe gemacht (8,74%).\n\nQuelle: https://ckan.open.nrw.de/dataset/b86bb5d5-ca90-4374-b8a5-9f283128f9bd",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": ""
+  }
+}

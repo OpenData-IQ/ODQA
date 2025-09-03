@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0059",
+  "run_at": "2025-09-01T05:32:11.276794Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider konnte ich keine spezifischen Daten zur Veröffentlichung des Allgemeinen Teils der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 finden. Die Suche nach \"Masterprüfungsordnungen Hochschule Bremen\" lieferte allgemeine Datensätze zu Hochschulen und Bildung in Deutschland, aber keine spezifischen Dokumente oder Veröffentlichungsdaten zu Prüfungsordnungen.\n\nFinalAnswer: Es konnten keine Informationen zur Veröffentlichung des Allgemeinen Teils der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 gefunden werden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Frage verlangt ein konkretes Datum („am 24.04.2012“). Das LLM sagt, es habe keine Informationen gefunden, und gibt somit keine Antwort. Daher problem_answers mit problem_type „not found“."
+  }
+}

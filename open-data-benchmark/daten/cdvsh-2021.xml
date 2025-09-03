@@ -1,0 +1,2625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://oamh.digicult-verbund.de/oai_files/oai2_original.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lido="http://www.lido-schema.org" xmlns:dex="http://schema.digicult-verbund.de/dex" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="
+	http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2025-06-02T13:11:39Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="lido">https://oamh.digicult-verbund.de/cv/cdvsh-2021</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.7</identifier>
+				<datestamp>2021-03-26T21:47:44Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.7</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Die Wanze stinkt</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Die Wanze stinkt)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.7</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Die Wanze stinkt". Abgebildet ist die Honigbiene "Maja" auf einem Blatt sitzend, der Schmetterling namens "Fritz" und eine Wanze, die in den Geschichten nicht personifiziert ist. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2790</lido:conceptID>
+						<lido:term>Wiese, Weideland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3222</lido:conceptID>
+						<lido:term>Schmetterling</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3220</lido:conceptID>
+						<lido:term>Käfer</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.7</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.7</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:37:24</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.7.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.8</identifier>
+				<datestamp>2021-03-26T21:47:42Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.8</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Empfang in Peppis Rosenhaus</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Empfang in Peppis Rosenhaus)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.8</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Empfang in Peppis Rosenhaus". Abgebildet ist die Honigbiene "Maja", die mit dem Rosenkäfer namens "Peppi" in einer Blüte sitzt. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.818</lido:conceptID>
+						<lido:term>Blumen</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3220</lido:conceptID>
+						<lido:term>Käfer</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.8</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.8</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:38:21</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.8.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.8.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.9</identifier>
+				<datestamp>2021-03-26T21:47:40Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.9</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Überfall der Hornisse</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Überfall der Hornisse)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.9</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Überfall der Hornisse". Abgebildet ist die Honigbiene "Maja" auf einer Löwenzahnblüte, die von einer Hornisse ergriffen wird. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.818</lido:conceptID>
+						<lido:term>Blumen</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.9</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.9</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:39:26</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.9.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.9.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.6</identifier>
+				<datestamp>2021-03-26T21:47:38Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.6</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Majas Flucht</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Majas Flucht)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.6</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Majas Flucht". Abgebildet ist die fliegende Honigbiene "Maja", die in der Geschichte lieber die Natur und ihre Bewohner erkunden will, anstatt zu ihrem Volk zurückzukehren.  Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2790</lido:conceptID>
+						<lido:term>Wiese, Weideland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.6</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.6</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:36:45</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.6.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.6.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.5</identifier>
+				<datestamp>2021-03-26T21:47:35Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.5</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.5</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens". Abgebildet ist die Honigbiene "Maja" an einem Blumenstengel hängend und der Marienkäfer namens "Aloys Siebenpunkt". Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2790</lido:conceptID>
+						<lido:term>Wiese, Weideland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3220</lido:conceptID>
+						<lido:term>Käfer</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.5</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.5</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:36:06</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.5.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.5.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.4</identifier>
+				<datestamp>2021-03-26T21:47:33Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.4</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Im Spinnennetz</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Im Spinnennetz)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.4</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Im Spinnennetz". Abgebildet ist die Honigbiene "Maja", die sich im Netz der Kreuzspinne "Thekla" verfangen hat. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 21,5 cm, B: 21 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">/iko00214</lido:conceptID>
+						<lido:term>Spinnen</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.4</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.4</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:35:31</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.4.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.4.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.3</identifier>
+				<datestamp>2021-03-26T21:47:29Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.3</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Ich bin Kurt, aus der Familie der "Rosenkäfer"</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Ich bin Kurt, aus der Familie der "Rosenkäfer")</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.3</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Ich bin Kurt, aus der Familie der "Rosenkäfer". Abgebildet ist die Honigbiene "Maja" in einem Blütenkelch und der Mistkäfer namens "Kurt", der sich in der Geschichte als "Rosenkäfer" ausgibt. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2790</lido:conceptID>
+						<lido:term>Wiese, Weideland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3220</lido:conceptID>
+						<lido:term>Käfer</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.3</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.3</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:34:51</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.3.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.3.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.2</identifier>
+				<datestamp>2021-03-26T21:47:27Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.2</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Begegnung mit dem Grashüpfer</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Begegnung mit dem Grashüpfer)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.2</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Begegnung mit dem Grashüpfer". Abgebildet ist die Honigbiene "Maja" auf einer Löwenzahnblüte und ein ihr gegenüber sitzender Grashüpfer. Im Gegensatz zur modernen Zeichentrickfilmserie, war der Grashüpfer in der Originalsversion Bonsels von 1912 keine benannte Figur der Geschichten. Die heute bekannte Figur des Grashüpfers "Flip" wurde erst in den Siebziger Jahren entwickelt. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.2790</lido:conceptID>
+						<lido:term>Wiese, Weideland</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.2</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.2</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:33:03</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.2.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.2.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.10</identifier>
+				<datestamp>2021-03-26T21:47:24Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.10</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Schlacht der Bienen und Hornissen</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Schlacht der Bienen und Hornissen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.10</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Schlacht der Bienen und Hornissen". Abgebildet ist eine der finalen Ereignisse der Geschichte, als das Honigbienenvolk sich gegen einen Angriff des Hornissenschwarms zur Wehr setzen muss. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.10</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.10</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:40:10</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.10.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.10.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>DE-MUS-076111/lido/1990-111.1</identifier>
+				<datestamp>2021-03-26T21:47:22Z</datestamp>
+			</header>
+			<metadata>
+<lido:lido xmlns:lido="http://www.lido-schema.org" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="digiCULT Verbund e.G.">DE-MUS-076111/lido/1990-111.1</lido:lidoRecID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:term>Radierung</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/sachgruppe/1.519</lido:conceptID>
+					<lido:term lido:addedSearchTerm="yes" xml:lang="de">Bildwerke / Angewandte und Bildende Kunst</lido:term>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung / Grafik</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue>Lass doch bitte Hans Christoph frei!</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Signatur">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert und datiert (rechts unten: Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>nummeriert (links unten: 66/100)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Passepartout: Lass doch bitte Hans Christoph frei!)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>signiert, datiert und nummeriert (Impressumseite: 66 Rasmussen 1920)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue>betitelt (Einband: Biene Maja von Peter Christian Rasmussen)</lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri">info:isil/DE-MUS-076111</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">1990-111.1</lido:workID>
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Kiel</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:gml>
+							<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+								<gml:name>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </gml:name>
+								<gml:pos>54.321689 10.142464</gml:pos>
+							</gml:Point>
+						</lido:gml>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue>Radierung von Peter Christian Rasmussen (geb. 1897 in Berlin; gest. 1935 Birkerød) aus einer Künstlermappe mit dem Titel "Biene Maja" von 1920. Die Mappe umfasst insgesamt zehn Illustrationen des deutsch-dänischen Künstlers zum Roman "Die Biene Maja und ihre Abenteuer" vom Ahrensburger Schriftsteller Jakob Bonsels. Es existieren 100 Exemplare dieser Künstlermappen, von denen dieses die Nr. 66 ist. Diese Radierung hat den Titel "Lass doch bitte Hans Christoph frei!". Abgebildet ist die Libelle "Schnuck", die auf einem Schilfhalm sitzend, den Brummer "Hans Christoph" festhält. Die Honigbiene "Maja" sitzt auf einem Seerosenblatt darunter und bittet um die Freilassung der Fliege. Das Werk ist vom Künstler handschriftlich signiert. Die Beschriftung ist mit Steindrucktechnick erstellt worden.</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+				<lido:objectDescriptionSet lido:type="weitere Objektbezeichnung">
+					<lido:descriptiveNoteValue xml:lang="">Künstlermappe</lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements>H: 11,3 cm, B: 10 cm
+Papier: H: 27,5 cm, B: 21,4 cm
+Passepartout (außen): H: 27,5 cm, B: 21,4 cm</lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Rasmussen, Peter Christian</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1897</lido:earliestDate>
+									<lido:latestDate>1935</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Künstler</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Amsler und Ruthardt Berlin</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller</lido:term>
+							</lido:roleActor>
+													</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1920</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1920</lido:earliestDate>
+							<lido:latestDate>1920</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:place>
+							<lido:placeID lido:type="uri">http://digicult.vocnet.org/ort/6.10</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Material">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/material/7.70</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Papier</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Büttenpapier</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+					<lido:eventMaterialsTech>
+						<lido:materialsTech>
+							<lido:termMaterialsTech lido:type="Technik">
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/technik/8.102</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Druckverfahren</lido:term>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="de">Tiefdruck</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+							</lido:termMaterialsTech>
+						</lido:materialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+				<lido:subjectSet>
+					<lido:subject lido:type="Ikonographie">
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3219</lido:conceptID>
+						<lido:term>Insekten</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.1968</lido:conceptID>
+						<lido:term>Teich, Tümpel</lido:term>
+					</lido:subjectConcept>
+					<lido:subjectConcept>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://digicult.vocnet.org/ikonographie/3.3221</lido:conceptID>
+						<lido:term>Biene</lido:term>
+					</lido:subjectConcept>
+					</lido:subject>
+				</lido:subjectSet>
+			</lido:subjectWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">10010001542_1990-111.1</lido:recordID>
+			<lido:recordType>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.1</lido:recordInfoLink>
+				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2021-03-11 15:32:27</lido:recordMetadataDate>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceRepresentation lido:type="image_thumbnail">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.1.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_overview">
+					<lido:linkResource>http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.1.jpg</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+						<lido:term lido:pref="preferred">CC BY-SA 4.0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung </lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+
+
+
+
+
+
+
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

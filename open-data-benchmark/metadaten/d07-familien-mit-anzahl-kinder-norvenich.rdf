@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/55e05ac6-2845-452c-a013-6f00b0b4160a">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2021</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2021</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/55e05ac6-2845-452c-a013-6f00b0b4160a"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20220101.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/55e05ac6-2845-452c-a013-6f00b0b4160a"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:34:44+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:34:44+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7516</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N9f4921ce927e47668af26689a60e501e">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6ccfed3803eb54705f7dea462340909d</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/36c3a102-10a2-4512-9a67-ab95341f6a7f">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2015</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/36c3a102-10a2-4512-9a67-ab95341f6a7f"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2015_20170215.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/36c3a102-10a2-4512-9a67-ab95341f6a7f"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:14:59+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:12:32+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">714</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4d369dd4-558b-49cd-a3ba-ac0b6f0d0e25">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2012</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4d369dd4-558b-49cd-a3ba-ac0b6f0d0e25"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2012_20170215.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4d369dd4-558b-49cd-a3ba-ac0b6f0d0e25"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:05:06+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:04:33+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5408</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/a723c555-1748-4bee-a435-aaf4b5d39bab">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Nörvenich Ortsteile 2017</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2017</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/a723c555-1748-4bee-a435-aaf4b5d39bab"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20180101.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/a723c555-1748-4bee-a435-aaf4b5d39bab"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:42:07+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:42:07+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7978</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/bb194a40-4fc6-47c7-b5c0-abf72455a85f">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2021</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2021</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/bb194a40-4fc6-47c7-b5c0-abf72455a85f"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20220101.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/bb194a40-4fc6-47c7-b5c0-abf72455a85f"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:35:57+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:35:57+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">712</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N3a81194b0c5e433f8370c97437eb1e70">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">97c49dbc281a6252f3bab66c7525fc01</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2e1f3967-0a3e-4335-8505-dd61292da9b3">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Nörvenich gesamt 2019</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2019</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2e1f3967-0a3e-4335-8505-dd61292da9b3"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20200106.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2e1f3967-0a3e-4335-8505-dd61292da9b3"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-17T07:42:26+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-17T07:42:26+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">714</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D07 Familien mit Anzahl Kinder Nörvenich</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach Unterteilung 1 Kind bis 15 Kinder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag. Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>5ab7b9e9-de24-449e-8c3c-976713e9f3cb</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:46:34+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Ne4db0085e1b2415487f9f52b88eb010e">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9cd8ed0a-87f1-43f3-8c97-8a7ae6bdf88d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9cd8ed0a-87f1-43f3-8c97-8a7ae6bdf88d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2011_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9cd8ed0a-87f1-43f3-8c97-8a7ae6bdf88d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:04:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:04:02+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5409</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/769a0285-ce20-4fc2-8e75-fb527f37a3a0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Nörvenich gesamt 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Gemeindegebiet zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/769a0285-ce20-4fc2-8e75-fb527f37a3a0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/769a0285-ce20-4fc2-8e75-fb527f37a3a0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:44:56+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:44:56+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">715</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/ae20a8d7-74f4-4c30-a583-698d09a7fa08">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/ae20a8d7-74f4-4c30-a583-698d09a7fa08"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2012_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/ae20a8d7-74f4-4c30-a583-698d09a7fa08"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:11:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:09:49+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">713</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9f58dfe5-093b-4abe-bebb-4fe022711679">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9f58dfe5-093b-4abe-bebb-4fe022711679"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2015_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/9f58dfe5-093b-4abe-bebb-4fe022711679"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:07:08+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:06:35+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5409</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/a723c555-1748-4bee-a435-aaf4b5d39bab"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/65b117b3-d9dc-4f9a-a103-732fc14d9549">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/65b117b3-d9dc-4f9a-a103-732fc14d9549"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2016_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/65b117b3-d9dc-4f9a-a103-732fc14d9549"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:15:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:13:09+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">714</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5c13f03d-2108-4700-9af5-9262542b5c02">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Nörvenich Ortsteile 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5c13f03d-2108-4700-9af5-9262542b5c02"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20200106.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5c13f03d-2108-4700-9af5-9262542b5c02"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-17T07:41:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-17T07:41:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7969</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/c4d1f811-1f38-4631-8f48-57a9e813d07b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/c4d1f811-1f38-4631-8f48-57a9e813d07b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2014_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/c4d1f811-1f38-4631-8f48-57a9e813d07b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:06:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:05:54+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5414</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3e4589d5-0d4e-48e1-b746-da2302cb7fdf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3e4589d5-0d4e-48e1-b746-da2302cb7fdf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2014_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3e4589d5-0d4e-48e1-b746-da2302cb7fdf"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:14:03+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:11:47+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">711</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2e1f3967-0a3e-4335-8505-dd61292da9b3"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5364230f-fa4b-4055-9371-6696b8d1de0a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5364230f-fa4b-4055-9371-6696b8d1de0a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2013_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/5364230f-fa4b-4055-9371-6696b8d1de0a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:05:45+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:05:07+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5409</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/55e05ac6-2845-452c-a013-6f00b0b4160a"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/bb194a40-4fc6-47c7-b5c0-abf72455a85f"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/43752159-cb8a-4a16-a02f-c15075af7c7c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Nörvenich gesamt 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/43752159-cb8a-4a16-a02f-c15075af7c7c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/43752159-cb8a-4a16-a02f-c15075af7c7c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:58:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:58:30+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">714</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2f1cfa16-9138-4e40-9c0f-9dcafc57d5e5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2f1cfa16-9138-4e40-9c0f-9dcafc57d5e5"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2010_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/2f1cfa16-9138-4e40-9c0f-9dcafc57d5e5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:01:05+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:03:26+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5416</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/285bdeb3-6bbb-4afb-9c87-2758004b852b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/285bdeb3-6bbb-4afb-9c87-2758004b852b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2011_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/285bdeb3-6bbb-4afb-9c87-2758004b852b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:10:32+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:08:49+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">710</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/378057f1-7b67-4a62-8f4c-63424e5aba6a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/378057f1-7b67-4a62-8f4c-63424e5aba6a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2016_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/378057f1-7b67-4a62-8f4c-63424e5aba6a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:08:14+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:07:21+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5407</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/f3b1eff0-adf4-4ac3-8f2f-f9286c14aa5e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/f3b1eff0-adf4-4ac3-8f2f-f9286c14aa5e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2010_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/f3b1eff0-adf4-4ac3-8f2f-f9286c14aa5e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:09:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:08:03+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">713</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/36c3a102-10a2-4512-9a67-ab95341f6a7f"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3278f538-3115-406a-bb3c-675b6571aac3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich Ortsteile 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile zum Stichtag 31.12.2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3278f538-3115-406a-bb3c-675b6571aac3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20220101_1.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/3278f538-3115-406a-bb3c-675b6571aac3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:25:33+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:26:33+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7516</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb749b10b29474cc3b96908a4d78a837f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6ccfed3803eb54705f7dea462340909d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4d369dd4-558b-49cd-a3ba-ac0b6f0d0e25"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/8d138b6c-ab62-41f7-a5fd-6ff69d6f8006">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Gemeinde Nörvenich gesamt 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/8d138b6c-ab62-41f7-a5fd-6ff69d6f8006"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2013_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/8d138b6c-ab62-41f7-a5fd-6ff69d6f8006"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T10:12:28+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T16:10:47+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">713</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4bb1e162-1654-44da-a215-f209790ad981">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Nörvenich Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Gemeinde Nörvenich bezogen auf Ortsteile&nbsp;zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4bb1e162-1654-44da-a215-f209790ad981"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-n%C3%B6rvenich/resource/4bb1e162-1654-44da-a215-f209790ad981"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:59:21+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:59:21+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7977</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2014_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2011_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2010_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2016_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2011_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2013_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20200106.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2016_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2013_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2015_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2010_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167_20220101_1.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat167-2014_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat168-2012_20170215.csv"/>
+</rdf:RDF>

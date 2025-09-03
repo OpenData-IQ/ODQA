@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://piveau.offene.daten-brandenburg.de/api/hub/repo/datasets/https-service-brandenburg-de-service-de-adressen-weitere-verzeichnisse-verzeichnisliste-theater">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Theater</dct:title>
+    <dct:description>Die Adresssammlung beinhaltet den Namen, die Anschrift (Straße, Postleitzahl, Ort), Telefon, Telefax, E-Mail und Website.</dct:description>
+    <dct:identifier rdf:resource="https://service.brandenburg.de/service/de/adressen/weitere-verzeichnisse/verzeichnisliste/~theater"/>
+    <dcat:keyword>adresse</dcat:keyword>
+    <dcat:keyword>ansprechpartner</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T15:24:11.821651</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-19T00:42:56.593386</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://datenadler.de/publisher/mwfk">
+        <foaf:name>Ministerium für Wissenschaft, Forschung und Kultur (MWFK)</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://piveau.offene.daten-brandenburg.de/api/hub/repo/distributions/935aa006-df68-48ce-8cc1-dac45938850b">
+        <dct:title>Theater</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://piveau.offene.daten-brandenburg.de/api/hub/repo/datasets/https-service-brandenburg-de-service-de-adressen-weitere-verzeichnisse-verzeichnisliste-theater"/>
+        <dcat:downloadURL rdf:resource="https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/theater.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T15:24:11.823030</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T18:37:46.340665</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBrandenburg"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/theater.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+</rdf:RDF>

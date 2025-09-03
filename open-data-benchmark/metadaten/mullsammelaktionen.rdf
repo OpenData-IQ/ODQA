@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Müllsammelaktionen</dct:title>
+    <dct:description>Dieser Datensatz umfasst die Anträge auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz. Die Ressourcen werden nur bei Bedarf aktualisiert.</dct:description>
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785"/>
+    <dct:identifier>0a995d1e-7fe8-4b33-a18a-68208fda4785</dct:identifier>
+    <dcat:keyword>abfall</dcat:keyword>
+    <dcat:keyword>hygiene</dcat:keyword>
+    <dcat:keyword>stadthygiene</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:50.880690</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-28T04:38:09.118482</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/"/>
+    </dct:conformsTo>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N54fc9fb004c540dc840083e5636b6db8">
+        <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N7a602f9ac2ae4905bad7f06de6860c01">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Büro der Oberbürgermeisterin</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N8968b1021c4e4def9432dc64cbda5c24">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Büro der Oberbürgermeisterin</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N0216aa6cd73a425bac075d6564f729df">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ne4cf4a64b471490b81cd6282fc0bf23e">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/759b960d-1b41-46cb-96a8-54a4f2aff7ca">
+        <dct:title>Treffpunkte</dct:title>
+        <dct:description>Diese Ressource umfasst die Treffpunkte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15539</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nf8f6fb13c9644c67b503aef5831ba5d8">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f1981677ad2a39a74fe11b92e31c6296f1e3d58bf37dc4453bab61cff449068d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/73eec4b3-a211-4abb-8e6a-023b76061c21">
+        <dct:title>Treffpunkte</dct:title>
+        <dct:description>Diese Ressource umfasst die Treffpunkte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20948</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N874ef2b735eb488cbfff507457a90e3b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8ef216e974b39256b91c3bdb135dcccdce82c1e8016ed039954b08f79def7187</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/47efcf80-b48e-47bc-95c5-f787416018ec">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8460</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Na4c431d3309b4bf2b24e2c3cad8967d7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d853e31d993681fe1e0785cc7ba9b412f3db10f34e6e305409f90c2693cc66d4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/a9cda42b-94bd-43c4-a4fe-fc5f6c87c678">
+        <dct:title>Containerstandorte</dct:title>
+        <dct:description>Diese Ressource umfasst die Containerstandorte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8299</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd2e33c4e5376491fb949fd7c19921862">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">b2faa9c4c5110ca677daff62683b58ba474b8f00efc290e47da63f87997e8dd8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/0c2b35f5-446e-441f-93e3-aeb3fbb8f0fc">
+        <dct:title>Müllablageplätze</dct:title>
+        <dct:description>Diese Ressource umfasst die Müllablageplätze im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3651</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N0da01c15e0434e639b86dd16153dd615">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">e832c310ac2090feb41ed11af2785d03f455764ef87518ae28a257c41201a408</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/4ee9939d-fb7b-4986-a875-6e2231b9af09">
+        <dct:title>Müllablageplätze</dct:title>
+        <dct:description>Diese Ressource umfasst die Müllablageplätze im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">524</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N63d7f7de39484ef99882ac30743f9768">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3c70763d68ec5e2f65421b91bb8a7f780f53cc1576fce4f522e9d3b2f299b842</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/a97b4d11-0c92-4134-9967-ceb797c6afb8">
+        <dct:title>Containerstandorte</dct:title>
+        <dct:description>Diese Ressource umfasst die Containerstandorte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6680</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N0a8ee79657414892848ee39bb9c8cd02">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">a2a3bdc10dfec91fad2f76f52dfaf681bef94e51de72007eb79b15d22f28e7b1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/687ecd58-9998-4c17-9e9c-1ec77c9d8d80">
+        <dct:title>Müllsammelaktionen</dct:title>
+        <dct:description>Diese Ressource umfasst die Anträge auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/muellsammelaktionen/wms"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/4207ddc7-e80e-44cd-bfc7-4f66e933041c">
+        <dct:title>Containerstandorte</dct:title>
+        <dct:description>Diese Ressource umfasst die Containerstandorte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3744</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Ncb605175a3d24cc1bb0074c7e946630a">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d22df39123c64762819b61e770ad63eeb4043557e1ed691ab8cccc326186da57</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/a58ad6fa-2725-4baa-972e-1aa05fdc6dd5">
+        <dct:title>Treffpunkte</dct:title>
+        <dct:description>Diese Ressource umfasst die Treffpunkte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6086</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N066ecf56552647e5921efb46d7897dbd">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7180754d2f9dc25085d6f8c8527532c5bfcc159bec23aad07a37dd172fe1dbe9</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/077b74e8-8e51-4118-888c-44aec9193efe">
+        <dct:title>Müllablageplätze</dct:title>
+        <dct:description>Diese Ressource umfasst die Müllablageplätze im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2147</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4443728677ef4cf29f03114457056168">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1bea1ef03efc54a0f1efde59269fd9065af0539e6e539b252e69e1fa2518aeff</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/40407332-3cdf-4872-a444-b476254b2708">
+        <dct:title>Treffpunkte</dct:title>
+        <dct:description>Diese Ressource umfasst die Treffpunkte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5055</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N6041cbdbe95c404d8277fd21d31d0135">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">df00d96788c7b433b451ecc1ceaa47a641e8e2caf96f9cd9e271fdec879d2b4a</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/7b3566a5-514d-4f63-b90f-75970080b294">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13115</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N125808eba99a4ee3b9b35448630fdb05">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">cae077fd10b3beb93c18d659bf1d89c6ca2fbc59ee3dbbf4ec2dec56e2dbda68</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/9a9160ac-e40c-4d54-b9dc-83fd9d6fa7ef">
+        <dct:title>Müllablageplätze</dct:title>
+        <dct:description>Diese Ressource umfasst die Müllablageplätze im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2229</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N918b879401da4536bfdbeefd5a45110f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4eee6480295343f6c915f6c282a417ce86822ae480414af0ec37f76bed8e1557</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/1a070362-e37f-457e-b5d5-92602a698f7a">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.kml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.kml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19968</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nfc1d87181dc946ac851ea264170f31dd">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0748abd0c80071385bf74c55730911f8f3830e1c166660cea2762e694b2aaeb5</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/5411ea38-0887-4a3c-bc01-1c6269cd6629">
+        <dct:title>Treffpunkte</dct:title>
+        <dct:description>Diese Ressource umfasst die Treffpunkte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10131</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N7f592ee73d8a422db1d06aeb7ab13d91">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">109f2e2c3ab46a547e2e8091eff64675d07606b6991addcff6fd70d237e9ad7d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/45ec2660-bd40-40ab-90d6-d07816540fec">
+        <dct:title>Müllablageplätze</dct:title>
+        <dct:description>Diese Ressource umfasst die Müllablageplätze im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.json"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">714</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd0b46c2971ea40ef9d2a473a20b6ef48">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d33d6336990ae757e0c38b0a5135864b4e8520e606f63c2ce9105696f95f9a59</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/a0fd727a-a1fd-4c12-9098-bb1e157efb6d">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5055</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N94fd83fb3af94e46b3e74dc1a43bf7ce">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3d164c87ba0183611b2ea86de01ddf35744600432fd4e5c0ff838d0e758a71d4</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/8e0b1fac-0e1b-4764-abd9-9bef42dd9aee">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.gml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.gml"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23999</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nd97dedf8d8c243369da7260717e5cf14">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6a37ce2566efa574edf7bf3d0114c80d15a533577463ddbc002e96a5a91301bd</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/e853d0d0-6248-4ad0-a209-9eeccc420fde">
+        <dct:title>Müllsammelaktionen</dct:title>
+        <dct:description>Diese Ressource umfasst die Anträge auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/muellsammelaktionen/wfs"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/eb5a6702-02bd-4db7-8ed5-761d07f7604d">
+        <dct:title>Containerstandorte</dct:title>
+        <dct:description>Diese Ressource umfasst die Containerstandorte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.xlsx"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4225</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N4fb68671e06d4ea4831d69bfd0c61fdf">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ccc06fd70874446d830b50cbe30b41473b3accfb360a151adde3a5b47f85259d</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/0f81c1db-14fb-400e-af90-10643c4161fc">
+        <dct:title>Containerstandorte</dct:title>
+        <dct:description>Diese Ressource umfasst die Containerstandorte im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.csv"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2376</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N985b676bd0b940d5bd0c8b7cc22a9c1b">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1896d92d4ce2dfbf57df5f9a83207d2adf60e6e9e59d65088abcfbe2059da3a3</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/0a995d1e-7fe8-4b33-a18a-68208fda4785/resource/c5d6d89f-545e-4ebf-bbe0-5313eef6e431">
+        <dct:title>Flächen</dct:title>
+        <dct:description>Diese Ressource umfasst die Flächen im Rahmen von Anträgen auf Müllsammelaktionen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Aktionsdaten, Treffpunkt, Detailangaben, Containerdaten und Müllablageplatz.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.shp.zip"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.shp.zip"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-20T11:29:56</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T15:06:07</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4585</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nbb6efdeeb0684585ad48f45eb14ccdf7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d6ea956d45fa3becacdef9a76b26e5ae09c28dd9e277e3f363a1f1e74f25d4cb</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:compressFormat rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N4c70f47d45974c229d1468104ea59712">
+        <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.gml"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.kml"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.json"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.kml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/text/csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.json"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.kml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/muellsammelaktionen/wfs"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.kml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_muellablageplaetze.csv"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.csv"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_containerstandorte.gml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.csv"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/geo+json"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/zip"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.gml"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/geodienste/muellsammelaktionen/wms"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GML"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.xlsx"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_flaechen.shp.zip"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.gml"/>
+  <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+  <rdfs:Resource rdf:about="https://geo.sv.rostock.de/download/opendata/muellsammelaktionen/muellsammelaktionen_treffpunkte.json"/>
+</rdf:RDF>

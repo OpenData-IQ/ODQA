@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude3-7-0019",
+  "run_at": "2025-09-01T05:00:35.584927Z",
+  "question_id": 19,
+  "question": "Wie lang ist die Badestelle am Vollstedter See?",
+  "answer": "30m",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe zeigt einen Rekursionslimit-Fehler und liefert keine inhaltliche Antwort auf die Frage."
+  }
+}

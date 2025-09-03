@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0030",
+  "run_at": "2025-08-31T10:20:50.977685Z",
+  "question_id": 30,
+  "question": "Wie viele Kehrmeter hat der Anne-Frank-Weg in Rostock?",
+  "answer": "369.21",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Der Anne-Frank-Weg in Rostock hat 369,21 Kehrmeter (Meter).\n\nQuelle: Datensatz \"Straßenreinigung\" der Hanse- und Universitätsstadt Rostock (opendata-hro.de).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Kehrmeter an. Zusätzlich wird die Quelle der Information genannt, was die Antwort sehr vollständig macht."
+  }
+}

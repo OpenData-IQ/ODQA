@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0188",
+  "run_at": "2025-09-02T00:02:03.880330Z",
+  "question_id": 188,
+  "question": "In welche Länder sind im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen?",
+  "answer": "Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**\nLeider sind in den verfügbaren Datensätzen keine Informationen zu den konkreten Zielländern der Fortzüge aus Nörvenich im Jahr 2020 enthalten. Die Daten zeigen lediglich Gesamtzahlen der Auslandsumzüge, aber keine Aufschlüsselung nach einzelnen Ländern.\n\nQuelle: [Dataset URI](https://www.regionalstatistik.de/genesisws/downloader/00/tables/12711-91-01-5-B_00.csv#dataset)\n\nFür detaillierte Länderangaben müssten Sie sich direkt an das Statistische Landesamt Nordrhein-Westfalen wenden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt konkrete Länder (Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland). Das LLM behauptet fälschlich, dass keine länderspezifischen Angaben vorliegen, und beantwortet die Frage nicht korrekt. Daher ist die Antwort inhaltlich falsch."
+  }
+}

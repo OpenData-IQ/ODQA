@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0172",
+  "run_at": "2025-09-01T08:25:59.712580Z",
+  "question_id": 172,
+  "question": "Wie viele Briefwahlbezirke gab es bei der Landtagswahl 2021 in der Stadt Paris?",
+  "answer": "In Paris gab es keine Briefwahlbezirke für die Landtagswahl 2021, da diese Wahl nur in Rostock stattfand.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es gibt keine Stadt namens Paris in Deutschland. Es gibt jedoch einen Stadtteil namens Paradies in Konstanz. Möchten Sie stattdessen die Anzahl der Briefwahlbezirke für den Stadtteil Paradies in Konstanz wissen?"
+}

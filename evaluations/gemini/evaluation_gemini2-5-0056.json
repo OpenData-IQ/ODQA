@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0056",
+  "run_at": "2025-09-01T05:31:29.719384Z",
+  "question_id": 56,
+  "question": "Was ist die Adresse des Deutschen Wetterdienstes?",
+  "answer": "Frankfurter Straße 135, 63067 Offenbach am Main",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "/resource/50beea2a-fc42-4573-8d88-b61002f1179b",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die korrekte Adresse lautet „Frankfurter Straße 135, 63067 Offenbach am Main“. Die LLM-Antwort ist nur eine Ressourcen-ID und liefert keine Adresse, daher falsch."
+  }
+}

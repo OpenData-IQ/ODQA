@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0053",
+  "run_at": "2025-08-31T10:50:41.684653Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Kurz und ehrlich: In den verfügbaren govdata-Datensätzen finde ich kein Dokument zu \"Treibladungspulver PCL 2595\" — daher kann ich ohne das Sicherheitsdatenblatt (SDB) bzw. Herstellerangabe nicht verbindlich sagen, wie die Innenverpackung aussehen muss.\n\nWas ich von Ihnen brauche, damit ich die genaue Formulierung mit Quelle liefern kann:\n- das Sicherheitsdatenblatt (SDB / SDS) für \"Treibladungspulver PCL 2595\" (als Datei oder Link), oder\n- die Hersteller-/Produktseite, oder\n- die UN-Nummer bzw. die Gefahrgutklassifizierung (z. B. Klasse/Unterklasse, Verpackungsgruppe).\n\nWas ich bis dahin anbieten kann:\n- Ich kann das SDB auswerten und Ihnen die konkrete Anweisung zur Innenverpackung sowie die Fundstelle (Dataset-/Dokument-URI) nennen.\n- Oder ich kann allgemeine, nicht verbindliche Hinweise zu typischen Anforderungen für Treibladungspulver/Schießpulver (z. B. trockene, dicht verschlossene innere Behälter, nicht-statische Materialien, getrennte Lagen), allerdings ohne Gewähr und nicht als Ersatz für das SDB oder rechtliche Vorgaben (ADR / nationale Vorschriften).\n\nSicherheitshinweis: Bei Explosivstoffen/treibenden Mitteln sind verbindliche Verpackungs- und Transportvorschriften unbedingt aus dem SDB, den ADR-Vorschriften und ggf. den nationalen Erlaubnissen/Anweisungen des Herstellers/der Behörde zu entnehmen.\n\nMöchten Sie das SDB hier hochladen oder den Link schicken? Dann liefere ich die genaue, zitierfähige Anweisung.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "The LLM explicitly states that it cannot find the requested information in the available datasets. It correctly identifies the need for a Safety Data Sheet (SDB) or manufacturer information to provide a definitive answer."
+  }
+}

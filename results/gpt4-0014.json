@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0014",
+  "run_at": "2025-09-03T12:57:48.196312Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut den aktuellen offenen Daten der Stadt Oldenburg ist folgender Defibrillator durchgängig erreichbar:\n\n- **Johanniter-Unfall-Hilfe e. V.**\n  - Adresse: Alte Fleiwa 2a, 26121 Oldenburg\n  - Bemerkung: Der AED ist in der Regel durchgängig erreichbar. Standort: Eingang Rettungswache.\n\nQuelle: [Standorte der Defibrillatoren – Stadt Oldenburg](https://opendata.oldenburg.de/dataset/standorte-der-defibrillatoren) (Stand: April 2025)"
+}

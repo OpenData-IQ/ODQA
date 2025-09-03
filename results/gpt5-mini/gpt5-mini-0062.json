@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0062",
+  "run_at": "2025-08-31T11:10:48.913651Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Linie 23 hat die Farbe Hex #E48F00 (RGB 228, 143, 0) — ein Orange.  \nQuelle: RNV OpenData (liniengruppen-farben.xml)."
+}

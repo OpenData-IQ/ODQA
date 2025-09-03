@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0200",
+  "run_at": "2025-09-01T08:59:44.412783Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Datensatz \"Wahlergebnisse Bundestagswahl 2017 Stadtteilebene Bedburg\" enthält keine Wahlergebnisse, sondern nur Informationen zu Wahlbezirken und Wahllokalen. Es scheint, dass die benötigten Daten für Bedburg nicht über dieses Portal verfügbar sind.\n\nFinalAnswer: Die benötigten Daten sind über das Open Data Portal nicht verfügbar."
+}

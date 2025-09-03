@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0005",
+  "run_at": "2025-09-01T19:28:20.921207Z",
+  "question_id": 5,
+  "question": "Wie viele Geschwindigkeitsüberschreitungen gab es in Aachen im Jahr 2021?",
+  "answer": "67949",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 163840 tokens. However, you requested about 1469559 tokens (1468741 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

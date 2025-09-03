@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0177",
+  "run_at": "2025-09-01T23:36:26.285187Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 151899 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 151899 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}"
+}

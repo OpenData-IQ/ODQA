@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/79f98a6b-d0ba-471c-bdaf">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Stadt Jülich 2020</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der Stadt Jülich die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2020</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/79f98a6b-d0ba-471c-bdaf"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/79f98a6b-d0ba-471c-bdaf"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:22:03+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T14:22:03+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/54dda858-9469-47e2-ad03">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Stadt Jülich 2009</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/54dda858-9469-47e2-ad03"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2009_20161020.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/54dda858-9469-47e2-ad03"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:22:25+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:22:25+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/120db8f6-8958-45ab-86c5">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Stadt Jülich 2015</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/120db8f6-8958-45ab-86c5"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2015_20161020.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/120db8f6-8958-45ab-86c5"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:30:34+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:30:34+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">616</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/13e799be-d68f-4a1b-b0b0">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Passierte Bewegungen Stadt Jülich 2016</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2016</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/13e799be-d68f-4a1b-b0b0"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20170201.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/13e799be-d68f-4a1b-b0b0"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T13:11:35+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T13:11:35+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">616</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D03 Passierte Bewegungen eines Jahres Stadt Jülich</dct:title>
+    <dct:description><![CDATA[<p>Alle Bewegungen in einer Kommune die eine Änderung der Einwohnerzahl zur Folge haben: Statuswechsel, Statuswechsel zu Hauptwohnsitz, Statuswechsel zu Nebenwohnsitz, Todesfall, Geburt, Umzug, Wegzug, Wegzug nach Unbekannt, Zuzug</p>
+]]></dct:description>
+    <dct:identifier>8461b761-5151-4df8-8463-e0975d765803</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T13:17:19+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N4ef9a1b249454c17ac1aaeee5833ab80">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/13e799be-d68f-4a1b-b0b0"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/563bac7f-46da-45bb-a8de">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2018</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Stadt Jülich&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/563bac7f-46da-45bb-a8de"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/563bac7f-46da-45bb-a8de"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T08:52:17+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T09:36:13+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/24efa687-e479-4396-999d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2013</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/24efa687-e479-4396-999d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2013_20161020.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/24efa687-e479-4396-999d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:27:23+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:27:23+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9d0736ac-f115-4bd5-b29f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2010</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9d0736ac-f115-4bd5-b29f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2010_20161020.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9d0736ac-f115-4bd5-b29f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:23:41+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:23:41+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/4902de9e-ff91-4546-a5b6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2019</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Stadt Jülich die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/4902de9e-ff91-4546-a5b6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/4902de9e-ff91-4546-a5b6"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:53:42+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:53:42+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">616</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/120db8f6-8958-45ab-86c5"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9856718a-fe14-4ab9-9f61">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2017</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Stadt Jülich die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9856718a-fe14-4ab9-9f61"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/9856718a-fe14-4ab9-9f61"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T16:46:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T16:46:28+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">616</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/a6ec0018-6a3f-4e1b-b797">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2021</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der Stadt Jülich, die eine Änderung der Einwohnerzahl zur Folge haben, für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/a6ec0018-6a3f-4e1b-b797"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/a6ec0018-6a3f-4e1b-b797"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T13:17:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T13:17:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">618</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nff1d760c3aa34ee6ae9afbed6d06fd3f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">889652395665cc9b4d91f9e39fa7b230</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/79f98a6b-d0ba-471c-bdaf"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/54dda858-9469-47e2-ad03"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/7aa5a410-c831-4aa9-b0e7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2011</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/7aa5a410-c831-4aa9-b0e7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2011_20161020.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/7aa5a410-c831-4aa9-b0e7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:24:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:24:49+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">616</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/031d8a2a-8e86-4130-9149">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2012</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/031d8a2a-8e86-4130-9149"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2012_20161020.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/031d8a2a-8e86-4130-9149"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:26:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:26:13+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">617</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/c408b762-35a2-4e87-b890">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Passierte Bewegungen Stadt Jülich 2014</dct:title>
+        <dct:description><![CDATA[<p>Alle Bewegungen in der&nbsp;Stadt Jülich,&nbsp;die eine Änderung der Einwohnerzahl zur Folge haben für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/c408b762-35a2-4e87-b890"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2014_20161020.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-stadt-j%C3%BClich/resource/c408b762-35a2-4e87-b890"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:29:29+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-21T09:29:29+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">615</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20200116.csv"/>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2011_20161020.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2014_20161020.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2013_20161020.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2012_20161020.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243-2010_20161020.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat243_20220116.csv"/>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0178",
+  "run_at": "2025-09-03T14:01:28.981810Z",
+  "question_id": 178,
+  "question": "Wie viele Familien mit minus 3 Personen lebten 2010 in der Stadt Bergheim?",
+  "answer": "Eine Personenanzahl kann nicht negativ sein. Daher gibt es dazu keine Daten.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0115",
+  "run_at": "2025-09-01T22:15:22.051041Z",
+  "question_id": 115,
+  "question": "Wie heißen die Südwärts Teilprojekte in Dortmund?",
+  "answer": "es gibt keine \"Südwärts\", das heißt Nordwärts",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Expecting value: line 2315 column 1 (char 12727)"
+}

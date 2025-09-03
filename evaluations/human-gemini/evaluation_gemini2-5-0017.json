@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0017",
+  "run_at": "2025-09-01T05:21:12.783361Z",
+  "question_id": 17,
+  "question": "Wo finde ich heraus, welche Kindergärten in Nordfriesland im Jahr 2021 Friesisch unterrichtet haben?",
+  "answer": "https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Im Jahr 2021 unterrichteten die folgenden Kindergärten in Nordfriesland Friesisch:\n\n*   **Amrum**: Täglich 1 Stunde, unterrichtet durch mehrere Erzieherinnen.\n*   **Bredstedt Broder-Lorenz-Nissen-Straße**: 1 wöchentlich 0,5 Stunden, unterrichtet durch eine Erzieherin.\n*   **Bredstedt Gartenstraße**: 1 wöchentlich 0,5 Stunden, unterrichtet durch eine Erzieherin.\n*   **Bredstedt Kockstraße**: 1 wöchentlich 0,5 Stunden, unterrichtet durch mehrere Erzieherinnen.\n*   **Bredstedt Westerstraße**: 1 wöchentlich 0,5 Stunden, unterrichtet durch mehrere Erzieherinnen.\n*   **Fahretoft**: 1 wöchentlich 4 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Föhr Midlum**: Täglich 1-2 Stunden, unterrichtet durch mehrere Erzieherinnen.\n*   **Föhr Süderende**: 2 wöchentlich 4 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Föhr Wyk**: 1 wöchentlich 2 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Risum Lindholm**: Täglich 1-2 Stunden, unterrichtet durch eine Erzieherin.\n*   **Risum Lindholm, Herrenkroog**: 2 wöchentlich 2 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Risum Lindholm, Steege**: Täglich 1 Stunde, unterrichtet durch eine Erzieherin.\n*   **Sylt Hörnum / Rantum**: 1 wöchentlich 3 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Sylt Keitum**: Ganztägig, unterrichtet durch eine Erzieherin.\n*   **Sylt List**: 2 wöchentlich 2 Stunden, unterrichtet durch eine Sprachpatin.\n*   **Sylt Wenningstedt**: Täglich 1-2 Stunden, unterrichtet durch eine Erzieherin.\n\nDie Kindergärten in Bredstedt und Helgoland hatten den Friesischunterricht zum Zeitpunkt der Erhebung ruhend gestellt.\n\n**Quelle:** https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915\n",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": ""
+  }
+}

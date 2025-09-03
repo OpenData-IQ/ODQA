@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0182",
+  "run_at": "2025-09-01T18:24:49.872896Z",
+  "question_id": 182,
+  "question": "Welcher Stadtbereich in Rostock hatte im Jahr 2007 den größten absoluten Bevölkerungszuwachs?",
+  "answer": "Die Kröpeliner-Tor-Vorstadt hatte im Jahr 2007 mit 421 Personen den größten absoluten Bevölkerungszuwachs.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"input length and `max_tokens` exceed context limit: 160449 + 64000 > 204658, decrease input length or `max_tokens` and try again\"}', 'provider_name': 'Amazon Bedrock'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

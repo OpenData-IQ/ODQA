@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0009",
+  "run_at": "2025-09-03T17:40:26.117731Z",
+  "question_id": 9,
+  "question": "Wie oft wurde 2023 in der Stadt Leipzig der Vorname \"Leona\" (1. Vorname) vergeben?",
+  "answer": "Insgesamt 1 Mal",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche. 1 Mal als Erstname und 2 Mal als Zweitname.",
+  "llm_final": "Im Jahr 2023 wurde der Vorname \"Leona\" in Leipzig nicht unter den zehn beliebtesten Mädchennamen geführt. Die zehn häufigsten Mädchennamen in Leipzig 2023 waren:\n\n1. Charlotte (40 Nennungen)\n2. Emilia (40 Nennungen)\n3. Ella (34 Nennungen)\n4. Mila (34 Nennungen)\n5. Emma (29 Nennungen)\n6. Mathilda (27 Nennungen)\n7. Nora (24 Nennungen)\n8. Mia (23 Nennungen)\n9. Amelie (22 Nennungen)\n10. Anna (22 Nennungen)\n\nDa \"Leona\" nicht in dieser Liste erscheint, wurde der Name weniger als 22 Mal vergeben. Für detailliertere Informationen können Sie die vollständige Vornamensstatistik der Stadt Leipzig für 2023 einsehen. ([opendata.leipzig.de](https://opendata.leipzig.de/dataset/vornamenstatistik-2023?utm_source=openai)) "
+}

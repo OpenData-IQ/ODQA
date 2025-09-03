@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0055",
+  "run_at": "2025-09-01T13:56:51.582322Z",
+  "question_id": 55,
+  "question": "An welche IBAN soll ich meine Kraftfahrzeugssteuer entrichten, wenn ich nicht am Lastschrifteinzugsverfahren teilnehme und in Halle (Saale) wohne?",
+  "answer": "DE96 8600 0000 0086 0011 60",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Domänenwissen erforderlich: Halle gehört zur KfZ-Stelle Magdeburg",
+  "llm_final": "Jetzt habe ich alle Informationen, die ich benötige.\n\nFinalAnswer:\n\nWenn Sie in Halle (Saale) wohnen und Ihre Kraftfahrzeugsteuer ohne Teilnahme am Lastschrifteinzugsverfahren bezahlen möchten, müssen Sie die Zahlung an folgende IBAN überweisen:\n\nIBAN: DE96 8600 0000 0086 0011 60\nBIC: MARKDEF1860\nKreditinstitut: Bundesbank - Filiale Leipzig\n\nDiese Bankverbindung gehört zum Hauptzollamt Magdeburg, welches für die Kraftfahrzeugsteuer in Halle (Saale) zuständig ist.\n\nQuelle: https://ckan.govdata.de/dataset/efd8fb03-20d6-463d-ab6c-407543322bde"
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/d4c53b36-b1d4-43cd-b4a0-0c6a84c7cd0a">
+    <dct:title>Neuordnung und Modernisierung von Ausbildungsordnungen</dct:title>
+    <dct:description>Die Datensätze umfassen eine Auflistung der Ausbildungsordnungen der dualen beruflichen Bildung in Deutschland, den jeweiligen Verordnungsgeber (Bundesministerium) und den Zeitpunkt der letzten Überarbeitung bzw. Modernisierung. Zusätzlich sind die Daten verknüpft mit dem Durchschnitt der im jeweiligen Beruf in den Jahren 2022 und 2023 abgeschlossenen Ausbildungsverträge. Die Anzahl der Auszubildenden je Ausbildungsberuf basiert auf der Erhebung des Bundesinstituts für Berufsbildung (BIBB), Anzahl neu abgeschlossener Ausbildungsverträge 2023 und 2022 nach Geschlecht auf der Ebene der Erhebungsberufe, https://www.bibb.de/de/179174.php.&#13;
+&#13;
+Beschreibung der Daten:&#13;
+Berufsbezeichnung: Ausbildungsordnung der dualen beruflichen Bildung in Deutschland&#13;
+Datum: Datum der letzten Überarbeitung bzw. Modernisierung der Ausbildungsordnung&#13;
+In_Neuordnung: Angabe, ob die Ausbildungsordnung zum Zeitpunkt der Veröffentlichung in Neuordnung ist&#13;
+Ministerium:  Verordnungsgeber der  Ausbildungsordnung&#13;
+Anzahl: Durchschnitt der nach der Ausbildungsordnung in den Jahren 2022 und 2023 abgeschlossenen Ausbildungsverträge</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.bmwk.de/Redaktion/DE/dashboard/neuordnung-und-modernisierung-von-ausbildungsordnungen-im-kontext-der-transformationsprozesse"/>
+    </dcat:landingPage>
+    <dct:identifier>d4c53b36-b1d4-43cd-b4a0-0c6a84c7cd0a</dct:identifier>
+    <dcat:keyword>Ausbildung</dcat:keyword>
+    <dcat:keyword>Ausbildungsordnungen</dcat:keyword>
+    <dcat:keyword>Berufsbildung</dcat:keyword>
+    <dcat:keyword>Berufsgruppen</dcat:keyword>
+    <dcat:keyword>Berufsordnungen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-19T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-07T00:00:00</dct:modified>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nfd8c5fab0560453790bbe4cf425ba5d7">
+        <foaf:name>Bundesministerium für Wirtschaft und Klimaschutz</foaf:name>
+        <foaf:mbox>buero-viib4@bmwk.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://bmwk.de/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N5470989528ed4893b343af01bdb8f31b">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-07T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/d4c53b36-b1d4-43cd-b4a0-0c6a84c7cd0a/resource/f4eba1dc-ba74-4fdb-8fb5-3a70461baf8f">
+        <dct:title>Neuordnung und Modernisierung von Ausbildungsordnungen</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language>deutsch</dct:language>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bmwk.de/Redaktion/DE/dashboard/datensatz-anzahl-der-auszubildenden-2022_2023-und-neuverordnungen-von-berufen-csv.csv?__blob=publicationFile&amp;v=8"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-06T14:51:35.445293</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-07T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/d4c53b36-b1d4-43cd-b4a0-0c6a84c7cd0a/resource/a521f1c4-d34a-4cab-91b2-6a80b51d7c05">
+        <dct:title>Neuordnung und Modernisierung von Ausbildungsordnungen</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:language>deutsch</dct:language>
+        <dct:format>XLSX</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bmwk.de/Redaktion/DE/dashboard/datensatz-anzahl-der-auszubildenden-2022_2023-und-neuverordnungen-von-berufen-xlsx.xlsx?__blob=publicationFile&amp;v=8"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-06T14:51:35.445295</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-07T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/federal"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesministeriumFuerWirtschaftUndKlimaschutz"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N55e303ec03f04b8788e8b16924d3c99f"/>
+    </dct:spatial>
+    <dcatde:originator>
+      <foaf:Organization rdf:nodeID="Nce587ecbca9446bb808eaf138727b6b4">
+        <foaf:name>Bundesministerium für Wirtschaft und Klimaschutz</foaf:name>
+        <foaf:mbox>opendata@bmwk.bund.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:originator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+</rdf:RDF>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f10f8ffd-c7b2-4cd2-99cd-51c9511fab37">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Familien mit Anzahl Kinder Elsdorf gesamt 2018</dct:title>
+    <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2018</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f10f8ffd-c7b2-4cd2-99cd-51c9511fab37"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20190101_0.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f10f8ffd-c7b2-4cd2-99cd-51c9511fab37"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:39:03+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:39:03+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">677</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D07 Familien mit Anzahl Kinder Stadt Elsdorf</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;Familien nach Unterteilung 1 Kind bis 15 Kinder pro Familie bezogen auf die Ortsteile und der gesamten Kommune zu einem Stichtag.</p>
+
+<p>Erläuterungen zu den Daten: Kinder sind Personen im alter von 0-17 Jahren, sie bilden mit ihren Eltern eine Familie. Ab dem 18 Lebensjahr gehören Kinder nichtmehr der Familie an, sondern bilden Ihre eigene Familie. Sofern Kinder Kinder bekommen, lösen sie sich von Ihrer Familie und bilden mit ihren Kindern ihre eigene Familie.</p>
+]]></dct:description>
+    <dct:identifier>9cc06e85-049f-4bd2-b371-ff608354483a</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:32:48+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N6953413f669d496fb91004d3b8158414">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/3bc0387f-c2bf-4dd1-bf57-134ac8f90ce3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/3bc0387f-c2bf-4dd1-bf57-134ac8f90ce3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2012_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/3bc0387f-c2bf-4dd1-bf57-134ac8f90ce3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:12:44+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:07:58+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">673</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/0e99d1fb-961d-4b85-a3f0-80c525625efd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/0e99d1fb-961d-4b85-a3f0-80c525625efd"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2015_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/0e99d1fb-961d-4b85-a3f0-80c525625efd"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:07:06+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:04:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b9f369fa-a0cb-4b04-8ff7-17bc911ae4a4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Elsdorf gesamt 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b9f369fa-a0cb-4b04-8ff7-17bc911ae4a4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b9f369fa-a0cb-4b04-8ff7-17bc911ae4a4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:32:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:32:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">678</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N009c2c4804e44a90b54b4e3ea08ccdd4">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">aa048e713a3f501b386bc121954232c8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/ab54cd50-d9ed-4289-a753-f46dcbe5f3fb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/ab54cd50-d9ed-4289-a753-f46dcbe5f3fb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2013_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/ab54cd50-d9ed-4289-a753-f46dcbe5f3fb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:14:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:08:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">673</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/21b6943b-47ca-46f4-b335-9754b7adef42">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Elsdorf Ortsteile 2018</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/21b6943b-47ca-46f4-b335-9754b7adef42"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20190101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/21b6943b-47ca-46f4-b335-9754b7adef42"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:37:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-12T09:39:13+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5126</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e0f17f62-65a2-489e-9a60-2a11494a3221">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e0f17f62-65a2-489e-9a60-2a11494a3221"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e0f17f62-65a2-489e-9a60-2a11494a3221"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T16:32:32+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T16:32:32+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">678</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/d6b827d0-8607-4b6f-9c13-3dc266dd2d80">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/d6b827d0-8607-4b6f-9c13-3dc266dd2d80"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2010_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/d6b827d0-8607-4b6f-9c13-3dc266dd2d80"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:09:30+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:05:53+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">676</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f10f8ffd-c7b2-4cd2-99cd-51c9511fab37"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/386829a6-5807-43fa-9672-7a1c7ae8f525">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Elsdorf Ortsteile 2021</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf Ortsteile zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/386829a6-5807-43fa-9672-7a1c7ae8f525"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20220101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/386829a6-5807-43fa-9672-7a1c7ae8f525"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:30:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T09:30:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5081</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nca1731a7f9e34ffb95a66fa0def0d0f3">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">26b6187cb6528edee5f415fc224cbd6f</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/45fba2c2-d626-494e-a323-6f5d71af5a1f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2013</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/45fba2c2-d626-494e-a323-6f5d71af5a1f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2013_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/45fba2c2-d626-494e-a323-6f5d71af5a1f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:00:55+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:02:16+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/a7086c78-8f66-4190-b896-716091585b30">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2012</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/a7086c78-8f66-4190-b896-716091585b30"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2012_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/a7086c78-8f66-4190-b896-716091585b30"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T09:58:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:00:50+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5115</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/adb9596f-b90e-434f-8282-eec80c4f5cb4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Elsdorf gesamt 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/adb9596f-b90e-434f-8282-eec80c4f5cb4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20200107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/adb9596f-b90e-434f-8282-eec80c4f5cb4"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T10:58:26+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T10:58:26+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">678</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/c1fd0608-f6ff-4562-8dcc-077f0e360671">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2016</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/c1fd0608-f6ff-4562-8dcc-077f0e360671"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20170101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/c1fd0608-f6ff-4562-8dcc-077f0e360671"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T16:25:07+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-04T16:25:07+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5120</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/1c9f3d97-f77f-4c04-8e21-ac6ed5ded5c3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Elsdorf gesamt 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/1c9f3d97-f77f-4c04-8e21-ac6ed5ded5c3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/1c9f3d97-f77f-4c04-8e21-ac6ed5ded5c3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:15:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:15:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">677</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/956982e0-4110-4769-a6f3-a6d940f38cc5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Stadt Elsdorf Ortsteile 2020</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf Ortsteile zum Stichtag 31.12.2020</p>
+
+<p>&nbsp;</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/956982e0-4110-4769-a6f3-a6d940f38cc5"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20210104.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/956982e0-4110-4769-a6f3-a6d940f38cc5"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:14:57+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-12T12:14:57+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5075</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e9eeeb44-8f3d-4178-a781-e269a6a5d1ca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf Ortsteile zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e9eeeb44-8f3d-4178-a781-e269a6a5d1ca"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/e9eeeb44-8f3d-4178-a781-e269a6a5d1ca"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-21T10:04:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-21T10:08:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5120</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/6264d45d-99c6-4c59-9308-f79b7fafa28e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/6264d45d-99c6-4c59-9308-f79b7fafa28e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2011_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/6264d45d-99c6-4c59-9308-f79b7fafa28e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T09:56:49+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T10:59:36+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5117</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b680681e-b0c6-4e5b-a09c-ac67cccc2250">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2011</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b680681e-b0c6-4e5b-a09c-ac67cccc2250"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2011_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/b680681e-b0c6-4e5b-a09c-ac67cccc2250"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:11:04+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:06:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">676</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f874697b-f275-41e2-80cd-d979115a3802">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2017</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die Stadt Elsdorf bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f874697b-f275-41e2-80cd-d979115a3802"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20180101.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/f874697b-f275-41e2-80cd-d979115a3802"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-21T10:07:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-21T10:07:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">679</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28382fce-e5a2-4db2-adf8-10026c60d610">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28382fce-e5a2-4db2-adf8-10026c60d610"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2014_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28382fce-e5a2-4db2-adf8-10026c60d610"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:16:54+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:09:45+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">675</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/10f04efa-be24-4f3f-861c-828c4c221583">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2010</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/10f04efa-be24-4f3f-861c-828c4c221583"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2010_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/10f04efa-be24-4f3f-861c-828c4c221583"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T09:55:10+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T08:39:55+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5574</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/5a86a1e7-d51f-4e73-be0b-e4b93ee607b8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf (gesamt) 2015</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf das gesamte Stadtgebiet zum Stichtag 31.12.2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/5a86a1e7-d51f-4e73-be0b-e4b93ee607b8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2015_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/5a86a1e7-d51f-4e73-be0b-e4b93ee607b8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:18:12+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:10:49+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">675</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/80e297d5-d438-42b5-a347-ddfe852d799e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder der Stadt Elsdorf auf Ortsteile 2014</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der&nbsp;Anzahl der Kinder in einer Familie für die&nbsp;Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/80e297d5-d438-42b5-a347-ddfe852d799e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2014_20161122.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/80e297d5-d438-42b5-a347-ddfe852d799e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-07T10:03:32+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-24T11:03:06+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5120</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28f996dc-5765-4429-96b3-67dc116d6dd1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Familien mit Anzahl Kinder Elsdorf Ortsteile 2019</dct:title>
+        <dct:description><![CDATA[<p>Auflistung der Familien unterteilt nach der Anzahl der Kinder in einer Familie für die Stadt Elsdorf&nbsp;bezogen auf Ortsteile zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28f996dc-5765-4429-96b3-67dc116d6dd1"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20200107.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-elsdorf/resource/28f996dc-5765-4429-96b3-67dc116d6dd1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T10:57:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-16T10:57:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5079</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2010_20161122.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20180101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20200107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2011_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2014_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20210104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20170101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2011_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20190101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2012_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2012_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20210104.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2015_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20220101.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2010_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2014_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817_20200107.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818-2013_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2013_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat817-2015_20161122.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat818_20180101.csv"/>
+</rdf:RDF>

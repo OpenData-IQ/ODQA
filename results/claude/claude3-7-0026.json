@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0026",
+  "run_at": "2025-09-01T13:21:41.195489Z",
+  "question_id": 26,
+  "question": "Gibt es 2024 mehr Menschen türkischer Staatbürgerschaft in Frankfurt oder weniger als in 2018?",
+  "answer": "weniger",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"input length and `max_tokens` exceed context limit: 167027 + 64000 > 204658, decrease input length or `max_tokens` and try again\"}', 'provider_name': 'Amazon Bedrock'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0126",
+  "run_at": "2025-09-03T07:20:29.154968Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 163840 tokens. However, you requested about 380700 tokens (379882 of text input, 818 of tool input). Please reduce the length of either one, or use the \\\"middle-out\\\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die Antwort enthält eine Fehlermeldung zum Überschreiten der maximalen Kontextlänge (Token-Limit). Daher wurde keine inhaltliche Antwort gegeben."
+  }
+}

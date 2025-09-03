@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e">
+    <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+    <dct:description>Das aktuelle Anschriftenverzeichnis der Behörden und Institutionen des Bundes in alphabetischer Reihenfolge. Hierzu zählen auch Einrichtungen, die vom Bund durch Zuwendungen oder die Bereitstellung von Stiftungskapital gefördert werden und auch andere Institutionen, die sich durch ihre Funktion oder Aufgabe in Behörden- bzw. Staatsnähe befinden. Ein Eintrag in diesem Verzeichnis ist jedoch nicht gleichbedeutend mit dem Status einer Behörde.&#13;
+</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.service.bund.de"/>
+    </dcat:landingPage>
+    <dct:identifier>2c265e8b-e311-4ac2-a7f1-42400cf1116e</dct:identifier>
+    <dcat:keyword>Anschriftenverzeichnis</dcat:keyword>
+    <dcat:keyword>Behörden</dcat:keyword>
+    <dcat:keyword>Bundesbehörden</dcat:keyword>
+    <dcat:keyword>Bundesgerichte</dcat:keyword>
+    <dcat:keyword>Bundesverwaltung</dcat:keyword>
+    <dcat:keyword>Institutionen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-03-23T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-01T00:00:00</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Na6204e4449e3499c9955d2d6367ecc60">
+        <vcard:fn>Bundesverwaltungsamt, Referat SQ 5</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:redaktion-support@bva.bund.de"/>
+        <vcard:hasStreetAddress>Barbarastrasse 1</vcard:hasStreetAddress>
+        <vcard:hasPostalCode>50728</vcard:hasPostalCode>
+        <vcard:hasCountryName>Nordrhein-Westfalen</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N45507a7f426645d9bed21aae0d43149e">
+        <foaf:name>Bundesverwaltungsamt, Referat SQ 5</foaf:name>
+        <foaf:mbox>redaktion-support@bva.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.bva.bund.de"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e/resource/b612ff72-a22d-4963-b1c8-6fbaf6ca19cd">
+        <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+        <dct:description>Anschriftenverzeichnis des Bundes</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>JSON</dct:format>
+        <dcat:accessURL rdf:resource="https://www.service.bund.de/SharedDocs/CSV/Anschriftenverzeichnis-JSON.json?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T04:21:11.788782</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e/resource/4f16b416-6fe5-496e-962b-3e71acb2add3">
+        <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+        <dct:description>Anschriftenverzeichnis des Bundes</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.service.bund.de/SharedDocs/CSV/Anschriftenverzeichnis-CSV.csv?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T04:21:11.788785</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e/resource/cda6696e-bad3-4cdb-89a1-e3eca52241aa">
+        <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+        <dct:description>Anschriftenverzeichnis des Bundes</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>ODS</dct:format>
+        <dcat:accessURL rdf:resource="https://www.service.bund.de/SharedDocs/CSV/Anschriftenverzeichnis-ODS.ods?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T04:21:11.788786</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e/resource/3f5230c8-d2e3-426b-863a-dc1a65d6aa20">
+        <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+        <dct:description>Anschriftenverzeichnis des Bundes</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>XLSX</dct:format>
+        <dcat:accessURL rdf:resource="https://www.service.bund.de/SharedDocs/CSV/Anschriftenverzeichnis-XLSX.xlsx?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T04:21:11.788787</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e/resource/bc54e7dc-a6cc-4f58-951a-65469c82b985">
+        <dct:title>Anschriftenverzeichnis des Bundes</dct:title>
+        <dct:description>Anschriftenverzeichnis des Bundes</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>PDF</dct:format>
+        <dcat:accessURL rdf:resource="https://www.service.bund.de/SharedDocs/PDF/AnschriftenverzeichnisPDF.pdf?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T04:21:11.788787</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-02T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/federal"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesverwaltungsamt"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nceba2a7f55644294ab575466ae2c83b5"/>
+    </dct:spatial>
+    <dcatde:originator>
+      <foaf:Organization rdf:nodeID="N583e58650ece42d29da5bb494bb96595">
+        <foaf:name>Bundesverwaltungsamt, Referat SQ 5</foaf:name>
+        <foaf:mbox>redaktion-support@bva.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.bva.bund.de"/>
+      </foaf:Organization>
+    </dcatde:originator>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N4d48cd1612c3417b962b081201321e87">
+        <foaf:name>Bundesverwaltungsamt, Referat SQ 5</foaf:name>
+        <foaf:mbox>redaktion-support@bva.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.bva.bund.de"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Nfb4d33996c214946b78aaf06e15681db">
+        <foaf:name>Bundesverwaltungsamt, Referat SQ 5</foaf:name>
+        <foaf:mbox>redaktion-support@bva.bund.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.bva.bund.de"/>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

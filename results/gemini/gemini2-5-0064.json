@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0064",
+  "run_at": "2025-09-01T05:35:13.869674Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "FinalAnswer: Die Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen ist unter folgendem Link in voller Auflösung verfügbar: http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg\n\nQuelle: https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e"
+}

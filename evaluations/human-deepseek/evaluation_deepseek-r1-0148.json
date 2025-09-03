@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0148",
+  "run_at": "2025-09-01T22:55:01.500586Z",
+  "question_id": 148,
+  "question": "Gab es 2018 mehr Zuzüge nach Linnich aus Deutschland oder mehr Wegzüge aus Linnich nach Deutschland?",
+  "answer": "mehr Zuzüge aus Deutschland",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer**  \nIm Jahr 2018 gab es mehr Zuzüge nach Linnich aus Deutschland (992) als Wegzüge aus Linnich nach Deutschland (843).  \n**Quelle**: [D03 Passierte Bewegungen eines Jahres Linnich 2018](https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-linnich/resource/37d4acbe-11a3-44b6-8cdf-844e8bbe72df).",
+  "judgement": {
+    "category": "problem answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort passt zwar zur Gold-Standard-Antwort, nennt aber vollkommen falsche Zahlen und eine falsche Datengrundlage."
+  }
+}

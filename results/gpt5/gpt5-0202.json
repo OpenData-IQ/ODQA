@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0202",
+  "run_at": "2025-09-01T04:11:09.099360Z",
+  "question_id": 202,
+  "question": "Wie viel Biomüll wurde insgesamt im Jahr 2024 in Konstanz gesammelt?",
+  "answer": "Im Jahr 2024 wurden in Konstanz insgesamt 6580,34 Tonnen Biomüll gesammelt.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "6.580,34 Tonnen Biomüll.\n\nQuelle: EBK Abfallstatistik (Summe der Monatswerte 2024)\n- Datensatz: https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz\n- CSV (monatlich 2020–2024): https://offenedaten-konstanz.de/sites/default/files/EBK_Abfallstatistik_monatlich_2020_2024.csv"
+}

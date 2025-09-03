@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0057",
+  "run_at": "2025-09-01T13:58:55.792943Z",
+  "question_id": 57,
+  "question": "Wie viel radioaktives Neptunium wurde 2014 in Rapsschrot nachgewiesen?",
+  "answer": "Die Angabe ist: n.n.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer:\n\nNach einer umfassenden Suche in der Govdata-Datenbank konnte ich keine Informationen über radioaktives Neptunium in Rapsschrot aus dem Jahr 2014 finden. Ich habe verschiedene Suchbegriffe verwendet, darunter \"Neptunium Rapsschrot 2014\", \"Rapsschrot\", \"Raps 2014\", \"Radioaktivität Lebensmittel\" und \"Neptunium\", aber keine der Suchen ergab relevante Daten zu diesem spezifischen Thema. Obwohl es Datensätze zu Radioaktivitätsmessungen in verschiedenen Lebensmitteln und Materialien aus dem Jahr 2014 gibt und auch Datensätze zu Rapsschrot aus späteren Jahren (2019 und 2022), scheint es keine öffentlich zugänglichen Daten über Neptunium in Rapsschrot aus dem Jahr 2014 in der durchsuchten Datenbank zu geben.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Goldantwort lautet „n.n.“ (nicht nachweisbar). Das LLM behauptet, keine Daten gefunden zu haben, und nennt den Wert nicht. Daher „problem_answers: not found“."
+  }
+}

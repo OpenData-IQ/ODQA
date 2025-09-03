@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0182",
+  "run_at": "2025-08-31T14:24:37.740851Z",
+  "question_id": 182,
+  "question": "Welcher Stadtbereich in Rostock hatte im Jahr 2007 den größten absoluten Bevölkerungszuwachs?",
+  "answer": "Die Kröpeliner-Tor-Vorstadt hatte im Jahr 2007 mit 421 Personen den größten absoluten Bevölkerungszuwachs.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kröpeliner-Tor-Vorstadt — mit dem größten absoluten Zuwachs von +421 Einwohnern (abs. Bestandsveränderung 2007). \nQuelle: Bevölkerungsstruktur 2007 (Gesamte Bevölkerungsbewegung).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt den Stadtbereich, das Jahr und die genaue Zahl des Bevölkerungszuwachses."
+  }
+}

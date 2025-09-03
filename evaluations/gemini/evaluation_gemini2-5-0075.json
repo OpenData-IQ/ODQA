@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0075",
+  "run_at": "2025-09-01T05:38:44.024427Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The data for \"Nordfriesland, Kreis\" on \"31.12.2023\" is:\n`krankenhuser_nach_fachabteilungen__stichtag_3112_`: 31.12.2023\n`col`: 01054\n`col_2`: Nordfriesland, Kreis\n`col_3`: 6 (Krankenhäuser)\n`col_4`: 682 (aufgestellte Betten in Krankenhäusern (JD))\n\nThe columns `col_5` to `col_19` represent the \"aufgestellte Betten im Jahresdurchschnitt\" for different \"Fachabteilungen (Krankenhaus)\". Based on the header information from the initial preview:\n- `col_5`: Augenheilkunde\n- `col_6`: Chirurgische Fachabteilungen zusammen\n- `col_7`: Frauenheilkunde und Geburtshilfe\n- `col_8`: Hals-, Nasen-, Ohrenheilkunde\n- `col_9`: Haut-und Geschlechtskrankheiten\n- `col_10`: Innere Medizin\n- `col_11`: Geriatrie\n- `col_12`: Kinderheilkunde\n- `col_13`: Neurologie\n- `col_14`: Orthopädie\n- `col_15`: Urologie\n- `col_16`: Kinder- und Jugendpsychiatrie\n- `col_17`: Allgemeine Psychiatrie\n- `col_18`: Psychosomatik/Psychotherapie\n- `col_19`: Übrige Fachbereiche\n\nLooking at the row for Nordfriesland:\n- `col_5` (Augenheilkunde): (empty, which means 0 beds)\n- `col_6` (Chirurgische Fachabteilungen zusammen): 179\n- `col_7` (Frauenheilkunde und Geburtshilfe): 25\n- `col_8` (Hals-, Nasen-, Ohrenheilkunde): 1\n- `col_9` (Haut-und Geschlechtskrankheiten): 19\n- `col_10` (Innere Medizin): 255\n- `col_11` (Geriatrie): 71\n- `col_12` (Kinderheilkunde): (empty, which means 0 beds)\n- `col_13` (Neurologie): (empty, which means 0 beds)\n- `col_14` (Orthopädie): 3\n- `col_15` (Urologie): (empty, which means 0 beds)\n- `col_16` (Kinder- und Jugendpsychiatrie): (empty, which means 0 beds)\n- `col_17` (Allgemeine Psychiatrie): 77\n- `col_18` (Psychosomatik/Psychotherapie): 33\n- `col_19` (Übrige Fachbereiche): 19\n\nThe Fachabteilungen with no aufgestellte Betten (0 or empty values) in den Krankenhäusern im Kreis Nordfriesland Stand 31.12.23 sind:\n- Augenheilkunde\n- Kinderheilkunde\n- Neurologie\n- Urologie\n- Kinder- und Jugendpsychiatrie\n\nFinalAnswer:\nIn den Krankenhäusern im Kreis Nordfriesland gab es Stand 31.12.23 in den folgenden Fachabteilungen keine aufgestellten Betten:\n- Augenheilkunde\n- Kinderheilkunde\n- Neurologie\n- Urologie\n- Kinder- und Jugendpsychiatrie\n\nSource: https://www.regionalstatistik.de/genesisws/downloader/00/tables/23111-01-05-4_00.csv#dataset",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort weicht vom Goldstandard ab: Sie nennt Urologie statt Orthopädie und lässt Orthopädie aus. Damit ist die Liste der Fachabteilungen ohne Betten nicht korrekt."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0121",
+  "run_at": "2025-09-01T00:56:40.447494Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": ""
+}

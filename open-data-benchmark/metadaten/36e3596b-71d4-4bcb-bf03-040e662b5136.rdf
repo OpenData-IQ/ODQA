@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Dataset rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136">
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/da191212-093a-4134-aef8-9d1d741f6a79">
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N89cbc831085544f3a6ca7f7bf6a50452">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0a7487a39b62d4c2bdd7a88d4b0c16b81d306f154b9492a3782e0585c0b0a1e5</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.kml"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Straßen</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2197067.0</dcat:byteSize>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.kml"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:58</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:title>Straßen</dct:title>
+    <dcat:keyword>Straßennetz</dcat:keyword>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/f2a889fa-fe0e-48bf-932d-7da5c7483425">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:58</dct:modified>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N8002ec79b2a3485ea1cb51187dcf38f7">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">d1c73c743bb391223962f8eac7c615733bd654534d2e006fa059f69f7c2ed1b8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.shp.zip"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.shp.zip"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Straßen</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">416684.0</dcat:byteSize>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/8b169335-2a80-477c-9542-8e85bf8f5687">
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.json"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:title>Straßen</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N5ce68507cdc241baa1dc4ab50deb1c87">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">62da414afead8496deecdb04685f49ad1a5e413deada669f9ca0fc599d9d1184</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1394419.0</dcat:byteSize>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:57</dct:modified>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.json"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/299c8ca9-1244-42a9-8766-d1139f30675d">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:description>Diese Daten umfassen die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-10T08:58:52</dct:issued>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Straßen in der Hanse- und Universitätsstadt Rostock</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:59</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/strassen/wfs"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/1aeda500-19ea-47ad-b4fa-d04caa0a5123">
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N063ecbc6684b4f2fb09a08e76bba8a8a">
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">98daf2925bd625358ff9d4c1995944558c5d37d3cb66bef1af7e9d00a6fef802</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.xlsx"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.xlsx"/>
+        <dct:title>Straßen</dct:title>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">89593.0</dcat:byteSize>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:57</dct:modified>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/758b79e2-805a-4409-9d3b-da02ea90821a">
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/rss/strassen"/>
+        <dct:description>Diese Daten umfassen die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock, die innerhalb des vergangenen Jahres neu vergeben worden sind, mit Informationen zu Straßenname und Straßenschlüssel.</dct:description>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-07T10:37:53</dct:issued>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RSS"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Straßen in der Hanse- und Universitätsstadt Rostock</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:59</dct:modified>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Öffentlicher Verkehr</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/c03e26aa-6ec5-4d21-a7d0-eb75b0a95c56">
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2770669.0</dcat:byteSize>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.gml"/>
+        <dct:title>Straßen</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N31bdc6349f5f43578aee55c4e8aaff83">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">597503f6f0d3b5171b2bcff26c0ba56f92a06097740bcaad7e6671a3d7fc6a27</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:58</dct:modified>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.gml"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Verkehrsinfrastruktur</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/6e214721-f6e0-476f-9f74-0378c928a3f4">
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nfbf3e38ec1604ba6bbb43cf81103b5e4">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">05a177cedaa08a459e161ce07231824b4600cb995af5ad651feae5c55ad51466</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Straßen</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:57</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-23T15:16:48</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.csv"/>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">233278.0</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Öffentliche Straße</dcat:keyword>
+    <dcat:keyword>Straßenverkehr</dcat:keyword>
+    <dcatde:geocodingDescription>Rostock</dcatde:geocodingDescription>
+    <dct:identifier>36e3596b-71d4-4bcb-bf03-040e662b5136</dct:identifier>
+    <dct:publisher>
+      <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N993e8c50055c4e6698d874bb50ab6d65">
+        <vcard:fn>Hanse- und Universitätsstadt Rostock</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:mailto:geodienste@rostock.de"/>
+        <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N7b3d8571e41f431b98883e625934640f">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+    <dct:description>mit einem Straßenschlüssel und einem Straßennamen versehene Straßen in der Hanse- und Universitätsstadt Rostock</dct:description>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/5a4681cf-0e45-4cb0-830e-6b6f08f81278">
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:00:58</dct:modified>
+        <dct:description>Diese Karte umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/strassen/wms"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dct:title>Straßen in der Hanse- und Universitätsstadt Rostock</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-01T09:13:11</dct:issued>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Verkehr</dcat:keyword>
+    <dcat:landingPage rdf:resource="https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nd955423853624fa4b5db19fa3f8e1a46">
+        <locn:geometry rdf:datatype="https://www.iana.org/assignments/media-types/application/vnd.geo+json">{"type":"Polygon", "coordinates":[[[11.99143, 54.03856], [11.99143, 54.26196], [12.31306, 54.26196], [12.31306, 54.03856], [11.99143, 54.03856]]]}</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T10:46:45.590516</dct:issued>
+    <dcat:keyword>Stadtverkehr</dcat:keyword>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-15T13:01:01.445307</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dcat:keyword>Straße</dcat:keyword>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N8f5df0c48d3644e2819b7fded2a941a9">
+        <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+        <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+  </dcat:Dataset>
+</rdf:RDF>

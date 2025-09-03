@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0033",
+  "run_at": "2025-08-31T10:25:21.693270Z",
+  "question_id": 33,
+  "question": "Ist die Anzahl der Zoobesuche in Dortmund seit 1990 bis 2022 gestiegen oder gesunken?",
+  "answer": "gesunken",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0.18"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0198",
+  "run_at": "2025-09-03T14:01:33.548715Z",
+  "question_id": 198,
+  "question": "Wie viele Familien mit vier Personen lebten zum 31.12.2021 im Ortsteil Badorf in Brühl?",
+  "answer": "Im Ortsteil Badorf lebten zum 31.12.2021 insgesamt 257 Familien mit vier Personen.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

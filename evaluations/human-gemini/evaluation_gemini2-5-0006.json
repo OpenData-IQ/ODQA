@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0006",
+  "run_at": "2025-09-01T05:16:33.205242Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf dem Großmarkt?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "I am sorry, I cannot find any data regarding \"Großmarktpreise\". Therefore, I cannot answer your question.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0046",
+  "run_at": "2025-09-01T20:30:11.295583Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "es ist keine angegeben",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nDie E-Mail-Adresse für die Neue Bühne Senftenberg ist im öffentlichen Datensatz nicht verfügbar. Sie können die Kontaktinformationen jedoch über die Website des Theaters unter [http://www.theater-senftenberg.de](http://www.theater-senftenberg.de) einsehen.  \n\n**Quelle:**  \n- Dataset URI: *https://piveau.offene.daten-brandenburg.de/api/hub/repo/datasets/https-service-brandenburg-de-service-de-adressen-weitere-verzeichnisse-verzeichnisliste-theater*",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort entspricht dem Goldstandard (keine E-Mail angegeben). Zusätzlich werden Website- und Dataset-Link als hilfreiche Ressourcen genannt. Keine Hinweise auf Limit- oder Datenprobleme."
+  }
+}

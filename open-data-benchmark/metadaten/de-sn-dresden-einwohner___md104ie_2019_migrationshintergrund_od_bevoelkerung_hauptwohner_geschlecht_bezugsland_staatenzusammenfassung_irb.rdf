@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Distribution rdf:about="https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb#dist-csv">
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dcat:downloadURL rdf:resource="https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb/content.csv"/>
+    <dct:description>de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb</dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:title>Einwohner   (MD10.4ie) 2019 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)</dct:title>
+    <dcat:accessURL>
+      <dcat:Dataset rdf:about="https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb">
+        <dcat:distribution rdf:resource="https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb#dist-csv"/>
+        <dct:title>Einwohner   (MD10.4ie) 2019 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Stadt Dresden</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>Bezugsland (M03-MigraPro)-IRB_Zus-fassung 2020ff.</dcat:keyword>
+        <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/freistaatSachsen"/>
+        <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/146120000000"/>
+        <dct:description>OpenData</dct:description>
+        <dcat:keyword>Geschlecht</dcat:keyword>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-12-31T00:00:00</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-12-31T00:00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-15</dct:modified>
+        <dct:identifier>4870</dct:identifier>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dcat:keyword>Migrationshintergrund M2 (aggregiert)</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Individual>
+            <vcard:hasEmail>opendata@dresden.de</vcard:hasEmail>
+            <vcard:fn>Kommunale Statistikstelle </vcard:fn>
+          </vcard:Individual>
+        </dcat:contactPoint>
+        <dcatde:maintainer>
+          <foaf:Group>
+            <foaf:name>Einwohnermelderegister</foaf:name>
+          </foaf:Group>
+        </dcatde:maintainer>
+        <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+        <dcat:keyword>Jahr</dcat:keyword>
+        <dcat:keyword>Anzahl Einwohner</dcat:keyword>
+        <dct:spatial rdf:resource="http://www.geonames.org/2935020"/>
+      </dcat:Dataset>
+    </dcat:accessURL>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-15</dct:modified>
+  </dcat:Distribution>
+</rdf:RDF>

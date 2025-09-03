@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0004",
+  "run_at": "2025-09-01T05:15:56.747809Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The search results do not contain data on homeless women in Nordfriesland for 2024. The available datasets are either about homeless people in Düsseldorf, Eiderenten monitoring, monument lists in Nordfriesland, or various statistics for Nordfriesland that do not specify homelessness by gender or year. Therefore, I cannot answer your question with the provided tools.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM sagt explizit, dass keine passenden Daten gefunden wurden und es die Frage daher nicht beantworten kann. Das fällt unter 'not found'."
+  }
+}

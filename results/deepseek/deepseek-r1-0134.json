@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0134",
+  "run_at": "2025-09-01T22:41:14.383616Z",
+  "question_id": 134,
+  "question": "Wie viele Eheschließungen wurden im Jahr 2011 in Brühl registriert?",
+  "answer": "270",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Im Jahr 2011 wurden in Brühl **202 Eheschließungen** registriert.  \nQuelle: [D02 Änderung Familienstände eines Jahres Stadt Brühl – 2011](https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-stadt-br%C3%BChl)."
+}

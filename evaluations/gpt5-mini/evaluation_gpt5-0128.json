@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0128",
+  "run_at": "2025-08-31T12:59:07.383773Z",
+  "question_id": 128,
+  "question": "An welcher Kreuzung befindet sich die Lichtzeichenanlage mit der Nummer 1205 in Düsseldorf?",
+  "answer": "Fischerstr. / Venloerst. / Sittarderstr./ Cordobastr.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Lichtzeichenanlage Nr. 1205 befindet sich an der Kreuzung Fischerstr. / Venloer Str. / Sittarder Str. / Cordobastr. in Düsseldorf (Koordinaten: 51.236987, 6.776438).\n\nQuelle: Open Data Düsseldorf — Standorte der Lichtzeichenanlagen (CSV).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt die genaue Kreuzung und liefert zusätzlich Koordinaten sowie die Quelle der Information."
+  }
+}

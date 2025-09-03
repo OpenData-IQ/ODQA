@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Distribution rdf:about="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser#dist-csv">
+    <dct:title>Krankenhäuser</dct:title>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:description>de-he-frankfurtam-krankenhaeuser</dct:description>
+    <dcat:downloadURL rdf:resource="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser/content.csv"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-11</dct:modified>
+    <dcat:accessURL>
+      <dcat:Dataset rdf:about="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser">
+        <dcat:keyword>Anzahl</dcat:keyword>
+        <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/064120000000"/>
+        <dcat:keyword>Patientinnen/Patienten</dcat:keyword>
+        <dcat:keyword>Verweildauer in Tagen</dcat:keyword>
+        <dcat:distribution rdf:resource="https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser#dist-csv"/>
+        <dcat:contactPoint>
+          <vcard:Individual>
+            <vcard:hasEmail>infoservice.statistik@stadt-frankfurt.de</vcard:hasEmail>
+            <vcard:fn>Ralf Schröder</vcard:fn>
+          </vcard:Individual>
+        </dcat:contactPoint>
+        <dcatde:maintainer>
+          <foaf:Person>
+            <foaf:name>Ralf Schröder</foaf:name>
+          </foaf:Person>
+        </dcatde:maintainer>
+        <dcat:keyword>Bettenausnutzung in %</dcat:keyword>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:keyword>Jahr</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Stadt Frankfurt am Main</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:identifier>142</dct:identifier>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-11</dct:modified>
+        <dcat:keyword>Berechnungs- und Belegungstage in 1 000</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:keyword>Bettenbestand</dcat:keyword>
+        <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:title>Krankenhäuser</dct:title>
+        <dct:spatial rdf:resource="http://www.geonames.org/2925180"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Krankenhäuser</dct:description>
+        <dcat:keyword>Krankenhaushäufigkeit</dcat:keyword>
+        <dcat:keyword>Betten je 1 000 Einwohner/-innen</dcat:keyword>
+      </dcat:Dataset>
+    </dcat:accessURL>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  </dcat:Distribution>
+</rdf:RDF>

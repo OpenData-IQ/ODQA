@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D27 Statistiken Standesamt Kreuzau</dct:title>
+    <dct:description><![CDATA[<p>Über die verschiedenen geführten Register im Standesamt gibt es die Möglichkeit Statistiken über diese Register für ein Jahr aufzubauen. Folgende Register werden gepflegt: - Geburtenregister - Sterberegister - Eheregister - Lebenspartnerschaftsregister - Besondere Beurkundungen. Diese Statistiken wurden ab 2009 mit der Einführung des elektronischen Personenstandsregister aufgebaut. Zusätzlich gibt es noch eine Vornamensstatistik.</p>
+]]></dct:description>
+    <dct:identifier>07f887be-7929-4a7d-a980-95b2c54984a9</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T19:34:35+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Nc9066bbb1f1948ab83c5aeafaf210c38">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/afe771b4-0e46-41d0-a2c8-cb1fd8089069">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/afe771b4-0e46-41d0-a2c8-cb1fd8089069"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/afe771b4-0e46-41d0-a2c8-cb1fd8089069"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:52:04+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:52:04+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8672</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/18eb8c80-131c-4b8a-9a38-f80acb98c806">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/18eb8c80-131c-4b8a-9a38-f80acb98c806"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/18eb8c80-131c-4b8a-9a38-f80acb98c806"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:53:09+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:53:09+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8124</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/1b268c35-4073-42ee-a708-c060ea867cb5">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/1b268c35-4073-42ee-a708-c060ea867cb5"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_4.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/1b268c35-4073-42ee-a708-c060ea867cb5"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T11:00:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-14T18:00:13+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5975</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f7764b0b-5fea-415e-9683-c4c30f0dceb6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau&nbsp;sind für 2018&nbsp;folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f7764b0b-5fea-415e-9683-c4c30f0dceb6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f7764b0b-5fea-415e-9683-c4c30f0dceb6"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T11:02:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-14T18:02:12+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4781</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/35e6dbef-8c75-4829-aa46-a605025b6fce">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/35e6dbef-8c75-4829-aa46-a605025b6fce"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/35e6dbef-8c75-4829-aa46-a605025b6fce"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:54:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:54:37+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8062</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/87893d88-8d89-4ca1-9119-e7231aa3b6d6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Testamentsverzeichnis<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/87893d88-8d89-4ca1-9119-e7231aa3b6d6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/87893d88-8d89-4ca1-9119-e7231aa3b6d6"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:31:40+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:31:40+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11410</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5cfc4fb0-6c30-4c08-86af-ff7e3bdb90cf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5cfc4fb0-6c30-4c08-86af-ff7e3bdb90cf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5cfc4fb0-6c30-4c08-86af-ff7e3bdb90cf"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:51:22+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:51:22+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7318</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3566d0a5-f805-40db-b9bf-6c7635baf9fd">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Sterberegister enthalten:<br />
+&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3566d0a5-f805-40db-b9bf-6c7635baf9fd"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3566d0a5-f805-40db-b9bf-6c7635baf9fd"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:34:29+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:34:29+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5905</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/050c4c58-4b4c-4f84-bfab-e4f79f6572da">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Sterberegister enthalten:<br />
+&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/050c4c58-4b4c-4f84-bfab-e4f79f6572da"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/050c4c58-4b4c-4f84-bfab-e4f79f6572da"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:35:27+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:35:27+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4777</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3dc35b98-81d2-4891-b03e-a8c84175d4f0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau&nbsp;sind für 2018 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3dc35b98-81d2-4891-b03e-a8c84175d4f0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3dc35b98-81d2-4891-b03e-a8c84175d4f0"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T11:01:06+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-14T18:00:50+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4083</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/722dd718-25c1-462c-951e-2205a06635ea">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/722dd718-25c1-462c-951e-2205a06635ea"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_5.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/722dd718-25c1-462c-951e-2205a06635ea"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:49:52+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:49:52+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9901</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d00134da-f18f-46f9-a46a-cae2bd13ad65">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d00134da-f18f-46f9-a46a-cae2bd13ad65"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d00134da-f18f-46f9-a46a-cae2bd13ad65"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:48:01+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:48:01+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2195</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b84ddece-bc5b-4cbc-9360-94f8c9fbddbc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp; &nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp; &nbsp; Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp; &nbsp; Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b84ddece-bc5b-4cbc-9360-94f8c9fbddbc"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b84ddece-bc5b-4cbc-9360-94f8c9fbddbc"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:29:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:29:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2377</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/89e8da78-8b7c-45ef-9fd3-568ffe43b254">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Eheschließungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Ehefähigkeitszeugnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/89e8da78-8b7c-45ef-9fd3-568ffe43b254"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_5.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/89e8da78-8b7c-45ef-9fd3-568ffe43b254"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:50:37+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:50:37+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10242</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f8966124-c46a-4cf1-aad7-9c53f5baf0b4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f8966124-c46a-4cf1-aad7-9c53f5baf0b4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_4.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/f8966124-c46a-4cf1-aad7-9c53f5baf0b4"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:57:06+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:57:06+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9221</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e7800255-2ab4-4f35-88df-504bf597865c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Testamentsverzeichnis<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e7800255-2ab4-4f35-88df-504bf597865c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e7800255-2ab4-4f35-88df-504bf597865c"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:32:25+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:32:25+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9377</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/8e5dc80d-f3f8-4002-888f-5923a31319fb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Sterberegister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau&nbsp;sind für 2017 folgende Fälle im Sterberegister enthalten:</p>
+
+<p>&nbsp; &nbsp; Erstbeurkundungen<br />
+&nbsp; &nbsp; Nachbeurkundugen<br />
+&nbsp; &nbsp; Nacherfassungen<br />
+&nbsp; &nbsp; Fortführungen<br />
+&nbsp; &nbsp; Urkunden, Anzahl ber Ersbeurkundung und Nachbeurkundung<br />
+&nbsp; &nbsp; Nachträgliche Urkundenausstellung<br />
+&nbsp; &nbsp; Urkundenausstellung aus zentralen Registern</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/8e5dc80d-f3f8-4002-888f-5923a31319fb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/8e5dc80d-f3f8-4002-888f-5923a31319fb"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:59:36+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-14T17:59:28+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5749</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/c6e66a5b-9497-4e10-936e-3ab92ab20012">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019&nbsp;folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/c6e66a5b-9497-4e10-936e-3ab92ab20012"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/c6e66a5b-9497-4e10-936e-3ab92ab20012"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:30:03+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:30:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10989</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/115d8dc3-0ab3-47e1-9a1c-177b3abde518">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamensstatistik Standesamt Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik werden alle Vornmanen aufgelistet der Kinder die im Jahr 2019 bei der Gemeinde Kreuzau ins Geburtenregister eingetragen wurden.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/115d8dc3-0ab3-47e1-9a1c-177b3abde518"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/VN25019.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/115d8dc3-0ab3-47e1-9a1c-177b3abde518"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:36:03+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:36:03+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">46</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5a9a329e-1dd6-4438-996c-2b9f445c90bf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Lebenspartnerschaftsregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5a9a329e-1dd6-4438-996c-2b9f445c90bf"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/5a9a329e-1dd6-4438-996c-2b9f445c90bf"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:33:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:33:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5075</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bba594ab-9ab1-4e48-a73d-442c58ab5aa6">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bba594ab-9ab1-4e48-a73d-442c58ab5aa6"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bba594ab-9ab1-4e48-a73d-442c58ab5aa6"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:58:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:58:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4228</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/6605dff1-bc09-47a8-a4e9-5a6df7f6f240">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp; &nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp; &nbsp; Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp; &nbsp; Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp; &nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp; &nbsp; Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp; &nbsp; Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp; &nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp; &nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/6605dff1-bc09-47a8-a4e9-5a6df7f6f240"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/6605dff1-bc09-47a8-a4e9-5a6df7f6f240"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:28:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:28:28+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2441</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/a8f2198b-cd09-4049-9d1c-d70659181139">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Lebenspartnerschaftsregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/a8f2198b-cd09-4049-9d1c-d70659181139"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/a8f2198b-cd09-4049-9d1c-d70659181139"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:33:35+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:33:35+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4224</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/356bb758-0158-4efb-abb3-feaf45d37449">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/356bb758-0158-4efb-abb3-feaf45d37449"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_4.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/356bb758-0158-4efb-abb3-feaf45d37449"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:48:46+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:48:46+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2377</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/2548826f-ec85-458b-aaca-806794578950">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Eheregister Kreuzau 2019</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2019 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp; &nbsp; Anmeldungen<br />
+&nbsp; &nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp; &nbsp; Nachbeurkundungen<br />
+&nbsp; &nbsp; Folgebeurkundungen<br />
+&nbsp; &nbsp; Urkundenabteilung<br />
+&nbsp; &nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/2548826f-ec85-458b-aaca-806794578950"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/2548826f-ec85-458b-aaca-806794578950"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:30:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-25T13:30:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8671</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3952849e-06f3-428d-ae0a-c1bb582605a4">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3952849e-06f3-428d-ae0a-c1bb582605a4"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_4.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/3952849e-06f3-428d-ae0a-c1bb582605a4"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:53:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:53:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8407</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e563d378-43be-4b24-ba09-bd74e355bd28">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e563d378-43be-4b24-ba09-bd74e355bd28"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/e563d378-43be-4b24-ba09-bd74e355bd28"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:56:18+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:56:18+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8902</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b501d5f1-e096-4731-9a5d-84e06df2caa7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b501d5f1-e096-4731-9a5d-84e06df2caa7"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_4.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/b501d5f1-e096-4731-9a5d-84e06df2caa7"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:46:31+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:46:31+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1661</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/073bf3b7-9ec7-40e3-be7a-f8c1f1660661">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Geburtenregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Geburtenregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Erstbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Testamentsverzeichnis<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/073bf3b7-9ec7-40e3-be7a-f8c1f1660661"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_3.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/073bf3b7-9ec7-40e3-be7a-f8c1f1660661"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:55:15+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:55:15+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9400</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d3ddc8c9-a5ea-46e6-93b1-89235a620a2e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Lebenspartnerschaftsregister Kreuzau 2018</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2018 folgende Fälle im Eheregister enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anmeldungen<br />
+&nbsp;&nbsp;&nbsp; Begründungen der Lebenspartnerschaft<br />
+&nbsp;&nbsp;&nbsp; Nachbeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Folgebeurkundungen<br />
+&nbsp;&nbsp;&nbsp; Urkundenabteilung<br />
+&nbsp;&nbsp;&nbsp; Zentrale Urkundenausstellung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d3ddc8c9-a5ea-46e6-93b1-89235a620a2e"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_3.json"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/d3ddc8c9-a5ea-46e6-93b1-89235a620a2e"/>
+        <dcat:mediaType>application/json</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:57:45+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:57:45+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3669</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bd4231f2-3b12-41c9-ae30-74a86c1f8994">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Statistiken Standesamt Besondere Beurkundungen Kreuzau 2017</dct:title>
+        <dct:description><![CDATA[<p>In dieser Statistik für das Standesamt für die Gemeinde Kreuzau sind für 2017 folgende besondere Beurkundungen enthalten:</p>
+
+<p>&nbsp;&nbsp;&nbsp; Anerkennung einer ausländischen Entscheidung<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Vaterschaft<br />
+&nbsp;&nbsp;&nbsp; Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Zustimmung zur Anerkennung der Mutterschaft<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Angleichungserklärung<br />
+&nbsp;&nbsp;&nbsp; Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung von Ehegatten<br />
+&nbsp;&nbsp;&nbsp; Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Namensänderung eines Kindes<br />
+&nbsp;&nbsp;&nbsp; Beurkundung einer Kirchenaustrittserklärung<br />
+&nbsp;&nbsp;&nbsp; Entgegennahme einer Kirchenaustrittserklärung</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bd4231f2-3b12-41c9-ae30-74a86c1f8994"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_5.xml"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-kreuzau/resource/bd4231f2-3b12-41c9-ae30-74a86c1f8994"/>
+        <dcat:mediaType>application/xml</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:47:16+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-11T10:47:16+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1960</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2018_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_5.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2019_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_4.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_5.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_4.json"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2018_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_4.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2018_4.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2018_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_G_2017_4.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/VN25019.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2019_3.xml"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2018_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_4.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2019_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_4.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_S_2017_4.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2017_5.json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2019_3.xml"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_E_2019_3.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_L_2017_4.json"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/Auswertungen_B_2017_4.json"/>
+</rdf:RDF>

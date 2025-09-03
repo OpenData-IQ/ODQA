@@ -1,0 +1,39 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT DISTINCT ?dataset ?title ?non_csv_format
+
+WHERE {
+  VALUES ?non_csv_format {
+    	# <http://publications.europa.eu/resource/authority/file-type/JSON>
+    	<http://publications.europa.eu/resource/authority/file-type/XML>
+    	# <http://publications.europa.eu/resource/authority/file-type/HTML>
+  }
+  ?dataset rdf:type dcat:Dataset ;
+           dct:title ?title ;
+           dcat:distribution ?distribution .
+      ?distribution dct:format ?non_csv_format.
+  FILTER NOT EXISTS {
+    ?dataset dcat:distribution ?csvDist .
+    ?csvDist dct:format ?format .
+    FILTER (
+      LCASE(?format) = "csv" ||
+      LCASE(?format) = "text/csv" ||
+      ?format = <http://publications.europa.eu/resource/authority/file-type/csv> ||
+      ?format = <http://publications.europa.eu/resource/authority/file-type/CSV>
+    )
+  }
+
+   FILTER NOT EXISTS {
+    ?dataset dcat:distribution ?csvDist .
+    ?csvDist dcat:mediaType ?media .
+    FILTER (
+      LCASE(?media) = "csv" ||
+      LCASE(?media) = "text/csv" ||
+      ?media = <https://www.iana.org/assignments/media-types/text/csv>
+    )
+  }
+
+}

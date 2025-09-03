@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0165",
+  "run_at": "2025-08-31T13:58:55.940814Z",
+  "question_id": 165,
+  "question": "Wie viele der Wahllokale zur Bundestagswahl 2017 und zur Ratswahl 2020 in Bedburg waren barrierefrei zugänglich?",
+  "answer": "Alle aufgelisteten Wahllokale zur Bundestagswahl 2017 und zur Ratswahl 2020 in Bedburg waren barrierefrei zugänglich.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM output clearly indicates a 'Recursion limit' error. This prevents the model from providing a complete or correct answer. Therefore, it falls under the problem_answers category."
+  }
+}

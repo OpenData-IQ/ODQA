@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0078",
+  "run_at": "2025-08-31T23:32:54.745648Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Nein. In dieser Statistik werden die genehmigten Wohnungen in Wohn- und Nichtwohngebäuden zusammen ausgewiesen; die Differenzierung erfolgt nur nach Zahl der Räume (sowie Region und Jahr), nicht nach Gebäudeart.\n\nQuelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/31111-03-02-5-B_00.csv#dataset",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und liefert eine detaillierte Erklärung, die über die einfache Beantwortung der Frage hinausgeht. Sie enthält auch eine relevante Quelle, die die Aussage untermauert."
+  }
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/21f32509-2f63-4f69-a37f-42d3bd688ec4">
+    <dct:title>Patentanmeldungen mit Wirkung für die Bundesrepublik Deutschland im Feld erneuerbare Energien 2014 -2023</dct:title>
+    <dct:description>Patentanmeldungen mit Wirkung für die Bundesrepublik Deutschland im Feld erneuerbare Energien 2014 -2023&#13;
+Solartechnik; Windkraftmaschinen; Wasserkraft, Wellen, Gezeiten; Erdwärme, Biogas, andere Energiequellen&#13;
+</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.dpma.de/dpma/veroeffentlichungen/statistiken/index.html"/>
+    </dcat:landingPage>
+    <dct:identifier>21f32509-2f63-4f69-a37f-42d3bd688ec4</dct:identifier>
+    <dcat:keyword>Biogas</dcat:keyword>
+    <dcat:keyword>Erdwärme</dcat:keyword>
+    <dcat:keyword>Gezeiten</dcat:keyword>
+    <dcat:keyword>Solartechnik</dcat:keyword>
+    <dcat:keyword>Wasserkraft</dcat:keyword>
+    <dcat:keyword>Wellen</dcat:keyword>
+    <dcat:keyword>Windkraftmaschinen</dcat:keyword>
+    <dcat:keyword>andere Energiequellen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-06T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-06T00:00:00</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N36165f0a31944ff2ae61006d2acfd906">
+        <vcard:fn>Deutsches Patent- und Markenamt, Stabsstelle 01, Presse</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:presse@dpma.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N7ff892f719894170804340753770b7ea">
+        <foaf:name>Deutsches Patent- und Markenamt, Kundenservice</foaf:name>
+        <foaf:mbox>info@dpma.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Nd255e70bc9054fa6b380e52d906b10e5">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/21f32509-2f63-4f69-a37f-42d3bd688ec4/resource/d23a7d61-1b7f-4915-95cd-dff3fc19b41d">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.dpma.de/docs/dpma/veroeffentlichungen/statistik/csv2023/patentanmeldungenmitwirkungdeutschlanderneuerbareenergien2014bis2023.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-21T00:00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-06T11:19:10.121561</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/deutschesPatentUndMarkenamt"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Ne976c837424545e7a5c9ee47d29c0d37"/>
+    </dct:spatial>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="Nbc181edf437243259105b5609b4d7478">
+        <foaf:name>Deutsches Patent- und Markenamt, Stabsstelle 01, Presse</foaf:name>
+        <foaf:mbox>presse@dpma.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.dpma.de"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Nd80be5b462b24617b0da10fa7920bc46">
+        <foaf:name>Deutsches Patent- und Markenamt, Referat 2.1.2 Kundenservice</foaf:name>
+        <foaf:mbox>info@dpma.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.dpma.de"/>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+</rdf:RDF>

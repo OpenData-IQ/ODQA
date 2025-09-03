@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://mcloud.de/742e07e9-d870-4108-9bc5-505b32a2cc07">
+    <dct:title>Rhein-Kreis Neuss: Radzählstationen</dct:title>
+    <dct:description>Radfahren in Zahlen – Fünf Zählstationen dokumentieren seit 2016 dauerhaft den Radverkehr auf zentralen Radwegen im Rhein-Kreis Neuss. Die tagesaktuelle Messung des Radverkehrsaufkommens erfolgt mit Hilfe von im Boden verlegten Induktionsschleifen. Mit der dauerhaften Datenerfassung können Erkenntnisse zum Tages-, Wochen- und Jahresgang gewonnen und darauf aufbauend langfristige Radverkehrs-Entwicklungen über mehrere Jahre beobachtet werden. Zwei Zählstellen befinden sich auf dem Rhein-Radweg in Meerbusch-Büderich und Dormagen-Zons. Auf dem Erft-Radweg zählen zwei Stationen in Neuss-Reuschenberg und Grevenbroich-Wevelinghoven passierende Radfahrende. Und eine fünfte Zählstelle erfasst Radfahrende in der Stadt Jüchen auf einem Radweg zwischen Schloss Dyck und Nikolauskloster.</dct:description>
+    <dct:identifier>742e07e9-d870-4108-9bc5-505b32a2cc07</dct:identifier>
+    <dcat:keyword>fahrrad</dcat:keyword>
+    <dcat:keyword>mcloud_category_roads</dcat:keyword>
+    <dcat:keyword>rad</dcat:keyword>
+    <dcat:keyword>radzählstation</dcat:keyword>
+    <dcat:keyword>verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T20:00:11+00:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://mcloud.de/742e07e9-d870-4108-9bc5-505b32a2cc07#publisher">
+        <foaf:name>Neuss</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/json#distribution">
+        <dct:title>json</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (json)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/json"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:41+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.934701</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/geojson#distribution">
+        <dct:title>geojson</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (geojson)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/geojson"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/geojson"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:41+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.934913</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/csv?use_labels=true#distribution">
+        <dct:title>csv</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (csv)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/csv?use_labels=true"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/csv?use_labels=true"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-21T22:30:26+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935064</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/n3#distribution">
+        <dct:title>n3</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (n3)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/n3"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/n3"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-27T22:30:48+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935196</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonld#distribution">
+        <dct:title>jsonld</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (jsonld)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonld"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonld"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:41+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935324</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/shp#distribution">
+        <dct:title>shp</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (shp)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/shp"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/shp"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-11T22:00:30+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935455</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/kml#distribution">
+        <dct:title>kml</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (kml)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/kml"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/kml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T22:30:50+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935584</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonl#distribution">
+        <dct:title>jsonl</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (jsonl)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonl"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonl"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T22:30:52+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935704</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/fgb#distribution">
+        <dct:title>fgb</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (fgb)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/fgb"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/fgb"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-21T22:30:26+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935844</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/ov2#distribution">
+        <dct:title>ov2</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (ov2)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/ov2"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/ov2"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-04T22:31:27+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.935968</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/xls?use_labels=true#distribution">
+        <dct:title>xls</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (xls)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/xls?use_labels=true"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/xls?use_labels=true"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T22:30:50+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.936096</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/parquet#distribution">
+        <dct:title>parquet</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (parquet)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/parquet"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/parquet"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-11T22:00:30+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.936216</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/gpx#distribution">
+        <dct:title>gpx</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (gpx)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/gpx"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/gpx"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-15T22:00:41+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.936334</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/turtle#distribution">
+        <dct:title>turtle</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (turtle)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/turtle"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/turtle"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-24T22:30:50+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.936451</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/rdfxml#distribution">
+        <dct:title>rdfxml</dct:title>
+        <dct:description>Rhein-Kreis Neuss: Radzählstationen (rdfxml)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-zero-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/rdfxml"/>
+        <dcat:downloadURL rdf:resource="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/rdfxml"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-14T22:00:26+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-18T02:55:33.936569</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mCloud"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mobilithek"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/fgb"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/xls?use_labels=true"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/parquet"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/n3"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/csv?use_labels=true"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/kml"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonl"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/gpx"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/turtle"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/jsonld"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/KML"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/geojson"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/shp"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/ov2"/>
+  <rdfs:Resource rdf:about="https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/eco-counter-sites/exports/rdfxml"/>
+</rdf:RDF>

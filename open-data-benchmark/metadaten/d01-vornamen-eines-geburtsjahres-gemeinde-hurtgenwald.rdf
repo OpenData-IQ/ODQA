@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/798e0e83-7831-4f21-ada6">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Gemeinde Hürtgenwald 2019</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2019</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/798e0e83-7831-4f21-ada6"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20200116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/798e0e83-7831-4f21-ada6"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:28:19+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:28:19+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5983</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/7924ba25-da83-4f5e-81a9">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Vornamen Gemeinde Hürtgenwald 2009</dct:title>
+    <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2009</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/7924ba25-da83-4f5e-81a9"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2009_20161027.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/7924ba25-da83-4f5e-81a9"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T08:59:08+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T08:59:08+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4540</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D01 Vornamen eines Geburtsjahres Gemeinde Hürtgenwald</dct:title>
+    <dct:description><![CDATA[<p>Auflistung&nbsp;vergebender Vornamen eines Geburtsjahres mit Angabe zum Geschlecht.</p>
+]]></dct:description>
+    <dct:identifier>5ddadab6-d8f8-4591-8787-65629a0d0054</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T11:07:48+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N2f9bc17244284f939129569ae37c21b5">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/5d2fff96-d2c6-46d9-9a97">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2013</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/5d2fff96-d2c6-46d9-9a97"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2013_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/5d2fff96-d2c6-46d9-9a97"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:11:31+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:11:31+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4800</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/2170ab8a-d7c4-4d6e-a1be">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2020</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/2170ab8a-d7c4-4d6e-a1be"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/2170ab8a-d7c4-4d6e-a1be"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:33:37+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T13:33:37+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5721</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/ce0e755a-58dc-446b-9f9d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2016</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/ce0e755a-58dc-446b-9f9d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20170201.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/ce0e755a-58dc-446b-9f9d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T12:28:11+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T12:28:11+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5422</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/798e0e83-7831-4f21-ada6"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/e8aef9c8-3a93-426d-9262">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2017</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/e8aef9c8-3a93-426d-9262"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/e8aef9c8-3a93-426d-9262"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:35:51+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:35:51+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6371</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/a2e785d9-67aa-4ef9-a076">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2021</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/a2e785d9-67aa-4ef9-a076"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/a2e785d9-67aa-4ef9-a076"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T11:07:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T11:07:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5365</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N72311a91d0864875b82c6bf469c7bce0">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1dd6f46902e8299d04db07b4b337aae8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/7924ba25-da83-4f5e-81a9"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/635c7ec9-7137-4012-807c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2015</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/635c7ec9-7137-4012-807c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2015_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/635c7ec9-7137-4012-807c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:15:13+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:15:13+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5281</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/f290edfc-fa24-4139-9ad8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2012</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/f290edfc-fa24-4139-9ad8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2012_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/f290edfc-fa24-4139-9ad8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:03:26+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:03:26+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3986</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/071b1b45-3e9e-4d9a-9323">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2011</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/071b1b45-3e9e-4d9a-9323"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2011_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/071b1b45-3e9e-4d9a-9323"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:02:12+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:02:12+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3931</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/c855cc58-d47c-4447-a8fc">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2018</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/c855cc58-d47c-4447-a8fc"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/c855cc58-d47c-4447-a8fc"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-02T14:33:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:33:41+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5348</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/9a6454ea-027e-4b3c-82e2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2014</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/9a6454ea-027e-4b3c-82e2"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2014_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/9a6454ea-027e-4b3c-82e2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:13:41+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:13:41+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4478</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/498d86bc-bf85-496e-9f07">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Vornamen Gemeinde Hürtgenwald 2010</dct:title>
+        <dct:description><![CDATA[<p>Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/498d86bc-bf85-496e-9f07"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2010_20161027.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald/resource/498d86bc-bf85-496e-9f07"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:00:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-31T09:00:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4168</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20220116.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2011_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2013_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2012_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2010_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20210116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2015_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221-2014_20161027.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat221_20170201.csv"/>
+</rdf:RDF>

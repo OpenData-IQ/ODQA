@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+>
+  <dcat:Distribution rdf:about="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-15-HOCH.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <dct:title>Übersichtskarte mit den Stadtbezirken (Stand: 01.01.1965) als PDF</dct:title>
+    <dct:description>Download von FR.ITZ: Übersichtskarte mit den Stadtbezirken (Stand: 01.01.2015) als PDF</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-15-HOCH.pdf"/>
+    <dcat:downloadURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-15-HOCH.pdf"/>
+    <dcat:mediaType>application/pdf</dcat:mediaType>
+    <dct:format>PDF</dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:41.028056</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-03T01:09:41.516817</dct:modified>
+    <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://registry.gdi-de.org/id/de.bw/c4fd1725-e9a0-498e-9cf1-afe30a0615ab">
+    <dct:title>Stadtbezirke der Stadt Freiburg i. Br.</dct:title>
+    <dct:description>Der Geodatensatz enthält die Geltungsbereiche der Stadtbezirke zur räumlichen Gliederung des Stadtgebietes von Freiburg im Breisgau. Die Daten sind "Open Data".
+Stadtbezirke sind die dritte Gliederungsebene der Stadt und teilen die Stadtteile weiter in insgesamt 42 Stadtbezirke auf. Einige Stadtteile verfügen dabei nur über einen einzigen Stadtbezirk (z. B. Zähringen), andere über bis zu vier (z. B. Haslach).</dct:description>
+    <dct:identifier>c4fd1725-e9a0-498e-9cf1-afe30a0615ab</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequencyCode/notPlanned"/>
+    </dct:accrualPeriodicity>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword>freiburg-im-breisgau</dcat:keyword>
+    <dcat:keyword>gebietseinteilung</dcat:keyword>
+    <dcat:keyword>gebietspolitik</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dcat:keyword>statistik</dcat:keyword>
+    <dcat:keyword>statistische-daten</dcat:keyword>
+    <dcat:keyword>statistische-information</dcat:keyword>
+    <dcat:keyword>statistische-reihe</dcat:keyword>
+    <dcat:keyword>statistischer-bezirk</dcat:keyword>
+    <dcat:keyword>statistisches-informationssystem</dcat:keyword>
+    <dcat:keyword>öffentlich</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-29T15:26:03.047000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-29T15:26:03.047000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="http://www.opengis.net/def/crs/EPSG/0/25832"/>
+    </dct:conformsTo>
+    <foaf:page>
+      <foaf:Document rdf:about="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WFS&amp;VERSION=2.0.0"/>
+    </foaf:page>
+    <foaf:page>
+      <foaf:Document rdf:about="https://geoportal.freiburg.de/freigis/?layerIDs=group_base%2Cstadtbez&amp;center=410145%2C5315520&amp;zoomlevel=1"/>
+    </foaf:page>
+    <foaf:page>
+      <foaf:Document rdf:about="https://geoportal.freiburg.de/wms/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WMS&amp;VERSION=1.3.0"/>
+    </foaf:page>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N85b6f539f0554cc0be26b7d5123bfc23">
+        <vcard:fn>Stadt Freiburg i. Br. - Amt für Bürgerservice und Informationsmanagement</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:statistik@stadt.freiburg.de"/>
+        <vcard:hasURL rdf:resource="https://www.freiburg.de/pb/-/205348/informationsmanagement/oe6013839"/>
+        <vcard:hasTelephone rdf:resource="tel:+49-761-201-5750"/>
+        <vcard:hasStreetAddress>Berliner Allee 1</vcard:hasStreetAddress>
+        <vcard:hasLocality>Freiburg</vcard:hasLocality>
+        <vcard:hasPostalCode>79114</vcard:hasPostalCode>
+        <vcard:hasCountryName>Deutschland</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N5b659288d8694747849435cc4bfc6376">
+        <foaf:name>Stadt Freiburg i. Br. - Amt für Bürgerservice und Informationsmanagement</foaf:name>
+        <foaf:mbox>statistik@stadt.freiburg.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.freiburg.de/pb/-/205348/informationsmanagement/oe6013839"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N464bbfe95bc145a8bf0d0246814d1d6b">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((7.6610 48.0720, 7.9320 48.0720, 7.9320 47.9030, 7.6610 47.9030, 7.6610 48.0720))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:about="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations"/>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geopackage">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>"stadtbezirke" als GeoPackage</dct:title>
+        <dct:description>Download als GeoPackage</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geopackage"/>
+        <dcat:downloadURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geopackage"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-26T08:32:18.818483</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-26T08:32:18.789598</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-15-HOCH.pdf"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WFS">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Kleinräumige Gliederung der Stadt Freiburg i. Br. - WFS</dct:title>
+        <dct:description>Der Download-Dienst (OGC:WFS) bietet eine Zugriffsmöglichkeit auf verschiedene kleinräumige Gliederungen des Stadtgebietes von Freiburg im Breisgau. Die mit dem Dienst übertragenen Daten sind "Open Data".</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WFS"/>
+        <dcat:downloadURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WFS"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-03T01:09:41.561848</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-03T01:09:41.517204</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-1965.pdf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Übersichtskarte mit den Stadtbezirken (Stand: 01.01.1965) als PDF</dct:title>
+        <dct:description>Download von FR.ITZ: Übersichtskarte mit den Stadtbezirken (Stand: 01.01.1965) als PDF</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-1965.pdf"/>
+        <dcat:downloadURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-1965.pdf"/>
+        <dcat:mediaType>application/pdf</dcat:mediaType>
+        <dct:format>PDF</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:41.028058</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-03T01:09:41.516973</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=shapezip">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>"stadtbezirke" als Shapefile (.zip)</dct:title>
+        <dct:description>Download als Shapefile (.zip)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=shapezip"/>
+        <dcat:downloadURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=shapezip"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-26T08:32:18.818488</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-26T08:32:18.789906</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-19-HOCH.pdf">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Übersichtskarte mit den Stadtbezirken (Stand: 01.01.1965) als PDF</dct:title>
+        <dct:description>Download von FR.ITZ: Übersichtskarte mit den Stadtbezirken (Stand: 01.01.2019) als PDF</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-19-HOCH.pdf"/>
+        <dcat:downloadURL rdf:resource="https://fritz.freiburg.de/pdf_grafiken/karte_stat_bez_1-1-19-HOCH.pdf"/>
+        <dcat:mediaType>application/pdf</dcat:mediaType>
+        <dct:format>PDF</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:41.028068</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-03T01:09:41.517295</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoportal.freiburg.de/wms/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WMS">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>Kleinräumige Gliederung der Stadt Freiburg i. Br. - WMS</dct:title>
+        <dct:description>Darstellungsdienst (OGC:WMS) für die Einteilung des Stadtgebietes von Freiburg im Breisgau in kleinräumige statistische Einheiten. Die dem Dienst zugrunde liegenden Daten sind "Open Data".
+Der Dienst stellt Daten für die digitale Geodatenauskunft der Stadt Freiburg (FreiGIS) bereit.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoportal.freiburg.de/wms/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WMS"/>
+        <dcat:downloadURL rdf:resource="https://geoportal.freiburg.de/wms/abi_gliederung/abi_gliederung?REQUEST=GetCapabilities&amp;SERVICE=WMS"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:41.028070</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:40.993905</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geojson">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <dct:title>"stadtbezirke" als GeoJSON</dct:title>
+        <dct:description>Download als GeoJSON</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geojson"/>
+        <dcat:downloadURL rdf:resource="https://geoportal.freiburg.de/wfs/abi_gliederung/abi_gliederung?REQUEST=GetFeature&amp;SRSNAME=EPSG:25832&amp;SERVICE=WFS&amp;VERSION=2.0.0&amp;TYPENAMES=stadtbezirke&amp;OUTPUTFORMAT=geojson"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-31T05:41:41.028075</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-26T08:32:18.790068</dct:modified>
+        <dcatde:licenseAttributionByText>Datengrundlage: Stadt Freiburg, www.freiburg.de</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:identifier>c4fd1725-e9a0-498e-9cf1-afe30a0615ab</adms:identifier>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/datenBW"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"/>
+</rdf:RDF>

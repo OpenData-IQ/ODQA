@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0064",
+  "run_at": "2025-08-31T11:12:10.106856Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Gefunden — hier die Illustration „Die Wanze stinkt“ (Peter Christian Rasmussen, 1920):\n\n- Objektseite (Metadaten): http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.7\n- Größeres Digitalbild (verfügbar): http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg\n- Kleinere Vorschau / Thumbnail: http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.7.jpg\n\nLizenz / Nutzung:\n- Das digitale Bild in den Metadaten ist als CC BY‑SA 4.0 angegeben. Bitte bei Verwendung entsprechend mit Namensnennung und Lizenzhinweis versehen (z. B. „Peter Christian Rasmussen, Die Wanze stinkt, 1920. Digitalisat: Schleswig‑Holsteinische Landesbibliothek – Landesgeschichtliche Sammlung. Lizenz: CC BY‑SA 4.0“).\n\nMöchtest du, dass ich das verfügbare größere Bild jetzt herunterlade und dir als Datei anbiete? Falls du eine noch höhere (Original‑Scan) Auflösung brauchst, kann ich dir beim Anfragen an die Schleswig‑Holsteinische Landesbibliothek helfen.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The answer provides multiple relevant links, including a larger digital image, and comprehensive guidance on licensing and further assistance. It directly addresses the user's request for the illustration in full resolution."
+  }
+}

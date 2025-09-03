@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://ckan.open.nrw.de/dataset/4ca1bfa8-b2fc-4b59-862a-b454a15c75af">
+    <dct:title>Geschwindigkeitskontrollen 2021</dct:title>
+    <dct:description>Zu hohe Geschwindigkeit ist sehr häufig die Ursache für Unfälle auf Aachens Straßen. Daher ist der Fachbereich Sicherheit und Ordnung regelmäßig mit zwei mobilen Messgeräten unterwegs, um an besonderen Gefahrenstellen die Geschwindigkeit zu kontrollieren. Die städtische Verkehrsüberwachung des fließenden Verkehrs unterliegt anders als die Überwachung durch die Polizei strengen gesetzlichen Anforderungen aus § 48 des Ordnungsbehördengesetzes, die im wesentlichen eine Überwachung nur an "Gefahrenstellen" zulassen. Die Stadt führt aufgrund dieser Vorgaben und im engen Benehmen mit der Polizei im Rahmen der Verkehrsunfallprävention derzeit an ca. 130 Stellen im Stadtgebiet Geschwindigkeitskontrollen durch. In den vergangenen drei Monaten wurden auf folgenden Straßen Geschwindigkeitskontrollen durchgeführt:</dct:description>
+    <dct:identifier>6cbe0cbe-b1d6-4755-9e76-b1cec04bd857</dct:identifier>
+    <dcat:keyword>geschwindigkeitskontrollen</dcat:keyword>
+    <dcat:keyword>geschwindigkeitsmessungen</dcat:keyword>
+    <dcat:keyword>ordnung</dcat:keyword>
+    <dcat:keyword>sicherheit</dcat:keyword>
+    <dcat:keyword>straßenverkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-24T12:06:18+02:00</dct:issued>
+    <dct:modified>2021-02-24T12:06:40:5+02:00</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Ncf85c608b3a244d9922ba8e9bfc799e7">
+        <vcard:fn>IUK</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:offene.daten@mail.aachen.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/81f54baa-27e6-4efa-be13-b75bf7279c68"/>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="N9f40463cc22d423fb8d031cbe824361e">
+        <foaf:name>Fachbereich Sicherheit und Ordnung (FB32)</foaf:name>
+        <foaf:mbox>ordnungsamt@mail.aachen.de</foaf:mbox>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N8e34c7ec3d4d44e89230408350169551">
+        <foaf:name>Fachbereich Sicherheit und Ordnung (FB32)</foaf:name>
+        <foaf:mbox>ordnungsamt@mail.aachen.de</foaf:mbox>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.open.nrw.de/dataset/4ca1bfa8-b2fc-4b59-862a-b454a15c75af/resource/24b698d1-a72d-464d-8887-5cafec653ca8">
+        <dct:title>Geschwindigkeitskontrollen November 2021</dct:title>
+        <dct:description>Alle Geschwindigkeitsmessungen im Aachener Stadtgebiet im Monat November</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/24b698d1-a72d-464d-8887-5cafec653ca8/download/2021_november.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-12T08:31:09.935108</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-12T08:31:09.888263</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5629</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.open.nrw.de/dataset/4ca1bfa8-b2fc-4b59-862a-b454a15c75af/resource/2a39f3f4-8b05-4de2-99e4-7ef9c4a49bdb">
+        <dct:title>Geschwindigkeitskontrollen Dezember 2021</dct:title>
+        <dct:description>Alle Geschwindigkeitsmessungen im Aachener Stadtgebiet im Monat Dezember.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/2a39f3f4-8b05-4de2-99e4-7ef9c4a49bdb/download/2021_dezember.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-13T12:40:55.265900</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-13T12:40:55.227479</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4376</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.open.nrw.de/dataset/4ca1bfa8-b2fc-4b59-862a-b454a15c75af/resource/4b469326-297d-4329-b0fd-3f55114c4ffb">
+        <dct:title>Geschwindigkeitskontrollen Oktober 2021</dct:title>
+        <dct:description>Alle Geschwindigkeitsmessungen im Aachener Stadtgebiet im Monat Oktober.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/4b469326-297d-4329-b0fd-3f55114c4ffb/download/2021_oktober.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-15T08:41:05.529359</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-15T08:41:05.489220</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4241</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:identifier>6cbe0cbe-b1d6-4755-9e76-b1cec04bd857</adms:identifier>
+    <dcatde:contributorID rdf:resource="http://offenedaten.aachen.de"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/mobilithek"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N279fcfc56f5c4221a543bc48ea442d28">
+        <foaf:name>IUK</foaf:name>
+        <foaf:mbox>offene.daten@mail.aachen.de</foaf:mbox>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/24b698d1-a72d-464d-8887-5cafec653ca8/download/2021_november.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/2a39f3f4-8b05-4de2-99e4-7ef9c4a49bdb/download/2021_dezember.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://offenedaten.aachen.de/dataset/6cbe0cbe-b1d6-4755-9e76-b1cec04bd857/resource/4b469326-297d-4329-b0fd-3f55114c4ffb/download/2021_oktober.csv"/>
+</rdf:RDF>

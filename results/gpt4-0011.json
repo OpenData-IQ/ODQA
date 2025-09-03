@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0011",
+  "run_at": "2025-09-03T12:55:54.756088Z",
+  "question_id": 11,
+  "question": "Gibt es noch Telefonzellen in der Metropolregion Rhein-Neckar?",
+  "answer": "ja",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Ja, es gibt noch Telefonzellen in der Metropolregion Rhein-Neckar. Laut dem offenen Datensatz \"Telefonzellen\" der Metropolregion Rhein-Neckar (basierend auf OpenStreetMap-Daten) sind noch Standorte von öffentlichen Fernsprechern (Telefonzellen) in der Region erfasst. Die Daten werden regelmäßig aktualisiert.\n\nWeitere Informationen und eine Karte der Standorte findest du hier:  \n[Telefonzellen in der MRN (Open Data)](https://daten.digitale-mrn.de/dataset/49d71470-ff0d-4f03-8bb0-2b58c15e28c2#dataset)"
+}

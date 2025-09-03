@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0132",
+  "run_at": "2025-09-01T07:41:40.076914Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The input token count (1081590) exceeds the maximum number of tokens allowed (1048576).\",\\n    \"status\": \"INVALID_ARGUMENT\"\\n  }\\n}\\n', 'provider_name': 'Google'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

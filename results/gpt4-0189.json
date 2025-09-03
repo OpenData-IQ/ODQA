@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0189",
+  "run_at": "2025-09-03T14:01:31.544198Z",
+  "question_id": 189,
+  "question": "Wie viele Ausleihen hatte die Stadtteilbücherei Eller der Stadt Düsseldorf von 2008 bis 2018 insgesamt?",
+  "answer": "1953960 Ausleihen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

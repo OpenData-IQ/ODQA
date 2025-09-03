@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0115",
+  "run_at": "2025-09-03T13:55:51.172428Z",
+  "question_id": 115,
+  "question": "Wie heißen die Südwärts Teilprojekte in Dortmund?",
+  "answer": "es gibt keine \"Südwärts\", das heißt Nordwärts",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im offiziellen Open-Data-Datensatz der Stadt Dortmund sind keine expliziten \"Südwärts Teilprojekte\" aufgeführt. Die verfügbaren Daten beziehen sich ausschließlich auf das Projekt \"Nordwärts\" und dessen Teilprojekte. Es gibt keine Liste oder Nennung von \"Südwärts Teilprojekten\" in Dortmund in diesem Datensatz.\n\nQuelle: [Projekt Nordwärts Teilprojekte – Open Data Dortmund](https://open-data.dortmund.de/api/v2/catalog/datasets/fb1-projekt-nordwaerts-teilprojekte)"
+}

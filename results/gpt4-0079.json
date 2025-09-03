@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0079",
+  "run_at": "2025-09-03T13:31:20.882435Z",
+  "question_id": 79,
+  "question": "Wie viele der 2023 im Landkreis Miesbach übernachtenden Gäste hatten die Herkunft \"Spanien\"?",
+  "answer": "geht nicht aus der Statistik hervor",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut den verfügbaren offenen Datensätzen des Bayerischen Landesamts für Statistik werden die Übernachtungen im Landkreis Miesbach für das Jahr 2023 nur nach \"Inland\" und \"Ausland\" ausgewiesen. Eine spezifische Zahl für Gäste mit der Herkunft \"Spanien\" ist in den öffentlich zugänglichen Daten nicht enthalten. Es ist daher keine genaue Angabe zur Anzahl der Übernachtungen spanischer Gäste im Landkreis Miesbach für 2023 möglich."
+}

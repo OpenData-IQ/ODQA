@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0170",
+  "run_at": "2025-09-01T02:55:43.806040Z",
+  "question_id": 170,
+  "question": "Wie viele Einwohner mit deutscher und wie viele mit syrischer Staatsangehörigkeit lebten 2011 und 2019 in der Gemeinde Hürtgenwald?",
+  "answer": "Im Jahr 2011 lebten in der Gemeinde Hürtgenwald 56 Einwohner mit deutscher Staatsangehörigkeit und 0 Einwohner mit syrischer Staatsangehörigkeit. Im Jahr 2019 lebten in der Gemeinde Hürtgenwald 78 Einwohner mit deutscher Staatsangehörigkeit und 1 Einwohner mit syrischer Staatsangehörigkeit.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Auch in der Datei für 2020 stehen die Daten für alle vorherigen Jahre, sie dürfen nicht addiert werden, aber sie stimmen auch nicht mit denen aus 2011 überein. Zudem sind die Zahlen verglichen mit https://www.huertgenwald.de/leben/einwohnerzahlen.php viel zu gering.",
+  "llm_final": ""
+}

@@ -1,0 +1,41 @@
+Standesamt;Registerart;Erstelldatum;DatumVon;DatumBis;Name;Wert;Name2;Name3;Wert4;Wert5
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Art der Geburt;lebend;7488;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Art der Geburt;tot;24;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Art der Geburt;vertraulich;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Geschlecht des Kindes;männlich;3897;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Geschlecht des Kindes;weiblich;3615;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Staatsangehörigkeit Kind;Erwerb nach § 4 Abs. 3 StAG;5;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Wohnort der Mutter;im Standesamtsbezirk;5555;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Wohnort der Mutter;außerhalb des Standesamtsbezirks;1957;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Familienstand der Mutter;mit dem Vater verheiratet;5517;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Familienstand der Mutter;ledig;1698;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Ausgestellte Urkunden;Geburtsurkunden;10941;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Erstbeurkundungen;7512;Ausgestellte Urkunden;Registerausdrucke;42;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Nachbeurkundungen;0;davon Anträge nach Adoption im Ausland;;;0
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Nachbeurkundungen;0;Ausgestellte Urkunden;Geburtsurkunden;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Nachbeurkundungen;0;Ausgestellte Urkunden;Registerausdrucke;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Änderung der Abstammung des Kindes;;;413
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Berichtigungen;;;336
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Annahme als Kind;;;76
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Hinweise;;;959
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Änderung der Religionszugehörigkeit;;;814
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Änderung nach TSG;;;5
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Folgebeurkundungen;;Namensänderung des Kindes;;;1180
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Testamentsverzeichnis;1434;;;;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;Post;23;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;Telefon;18;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;Fax;5;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;E-Mail;14;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;Internet;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Anforderung über;Vorsprache;312;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Ausgestellte Urkunden;Geburtsurkunden;1662;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Ausgestellte Urkunden;Bescheinigungen;28;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Urkundenabteilung;1181;Ausgestellte Urkunden;Registerausdrucke;27;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Anforderung über;Post;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Anforderung über;Telefon;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Anforderung über;Fax;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Anforderung über;E-Mail;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Anforderung über;Vorsprache;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Ausgestellte Urkunden;Geburtsurkunden;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Ausgestellte Urkunden;Bescheinigungen;0;
+Düsseldorf;Geburtenregister;24.07.2018;01.01.2012;31.12.2012;Zentrale Urkundenausstellung;0;Ausgestellte Urkunden;Registerausdrucke;0;

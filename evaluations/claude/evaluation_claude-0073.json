@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0073",
+  "run_at": "2025-09-01T14:16:24.874137Z",
+  "question_id": 73,
+  "question": "Wessen Kanalnetz war 2022 das längere? Rotenburg (Wümme) oder Heidekreis?",
+  "answer": "Rotenburg (Wümme)",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe ist eine Fehlermeldung zur überschrittenen Rekursionstiefe und enthält keine inhaltliche Antwort. Es liegt ein technisches Problem (recursion limit) vor."
+  }
+}

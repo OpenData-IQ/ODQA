@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:piveau="https://piveau.eu/ns/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcatap="http://data.europa.eu/r5r/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Dataset rdf:about="https://open.bydata.de/api/hub/repo/datasets/einwohner_nach_altersgruppen_-5_klassen-_stadtbezirksebene_ingolstadt">
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/4f4babb6-39ae-4ea8-937b-9925903e48a7">
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:description>Diese Tabelle enthält die Anzahl der Einwohner im Alter von 18 bis unter 30 Jahren mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00077-von_18_bis_unter_30_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:identifier>von 18 bis unter 30 Jahren</dct:identifier>
+        <dct:title>von 18 bis unter 30 Jahren</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00077-von_18_bis_unter_30_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2025-04-01T12:52:05Z</dct:issued>
+    <dcat:keyword>Altersgruppen</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/e31527d5-ebc8-4cbc-b6c4-80c013e63718">
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:identifier>von 18 bis unter 30 Jahren in %</dct:identifier>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00078-von_18_bis_unter_30_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00078-von_18_bis_unter_30_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:title>von 18 bis unter 30 Jahren in %</dct:title>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:description>Diese Tabelle enthält den prozentualen Anteil der Einwohner im Alter von 18 bis unter 30 Jahren mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2025-06-04T11:08:04Z</dct:modified>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/f7b515aa-5da0-41e8-9d18-1efdaf961ece">
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00076-von_0_bis_unter_18_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00076-von_0_bis_unter_18_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:identifier>von 0 bis unter 18 Jahren in %</dct:identifier>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:description>Diese Tabelle enthält den prozentualen Anteil der Einwohner im Alter von 0 bis unter 18 Jahren mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:title>von 0 bis unter 18 Jahren in %</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/municipalityKey/09161000"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/100dab6a-aa43-4310-a368-08a974c8e623">
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00075-von_0_bis_unter_18_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00075-von_0_bis_unter_18_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:identifier>von 0 bis unter 18 Jahren</dct:identifier>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:title>von 0 bis unter 18 Jahren</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Diese Tabelle enthält die Anzahl der Einwohner mit Hauptwohnsitz im Alter von 0 bis unter 18 Jahren, aufgeschlüsselt nach Stadtbezirken in Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Stadtbezirke</dcat:keyword>
+    <dcat:keyword>Einwohner</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/a3295049-df3d-484f-bef8-8d0e2f7939f7">
+        <dct:description>Diese Tabelle enthält den prozentualen Anteil der Einwohner im Alter von 45 bis unter 65 Jahren mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00082-von_45_bis_unter_65_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00082-von_45_bis_unter_65_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:identifier>von 45 bis unter 65 Jahren in %</dct:identifier>
+        <dct:title>von 45 bis unter 65 Jahren in %</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/5f764ead-b866-4d64-82ed-3ee7c77d35d6">
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00079-von_30_bis_unter_45_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00079-von_30_bis_unter_45_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:description>Diese Tabelle enthält die Anzahl der Einwohner mit Hauptwohnsitz im Alter von 30 bis unter 45 Jahren, aufgeschlüsselt nach Stadtbezirken in Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:identifier>von 30 bis unter 45 Jahren</dct:identifier>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:title>von 30 bis unter 45 Jahren</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/5012d9af-f4bb-4efc-88f3-3226b6ad3583">
+        <dct:title>ab 65 Jahren und älter in %</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description>Diese Tabelle zeigt den prozentualen Anteil der Einwohner ab 65 Jahren und älter mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:identifier>ab 65 Jahren und älter in %</dct:identifier>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00074-ab_65_Jahren_und_aelter_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00074-ab_65_Jahren_und_aelter_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/833df706-61c3-4a9d-8ceb-95a693c08118">
+        <dct:identifier>von 45 bis unter 65 Jahren</dct:identifier>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00081-von_45_bis_unter_65_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:description>Diese Tabelle enthält die Anzahl der Einwohner mit Hauptwohnsitz im Alter von 45 bis unter 65 Jahren, aufgeschlüsselt nach Stadtbezirken in Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00081-von_45_bis_unter_65_Jahren_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:title>von 45 bis unter 65 Jahren</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword>Ingolstadt</dcat:keyword>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+    <dct:publisher>
+      <foaf:Organization rdf:about="http://www.ingolstadt.de/Wirtschaft/Innovation/Open-Data/">
+        <foaf:name>Stadt Ingolstadt</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <piveau:openDataPresence>ingolstadt.bydata</piveau:openDataPresence>
+    <dct:description>Diese Daten enthalten die Anzahl und den prozentualen Anteil der Einwohner nach Altersgruppen in den Stadtbezirken von Ingolstadt. Die Altersgruppen sind in fünf Klassen unterteilt: 0 bis unter 18 Jahre, 18 bis unter 30 Jahre, 30 bis unter 45 Jahre, 45 bis unter 65 Jahre und ab 65 Jahre. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft.</dct:description>
+    <dcat:contactPoint>
+      <vcard:Organization>
+        <vcard:hasEmail>open.data@ingolstadt.de</vcard:hasEmail>
+        <vcard:fn>Stadt Ingolstadt</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBayern"/>
+    <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dct:title>Einwohner nach Altersgruppen (5 Klassen) Stadtbezirksebene Ingolstadt</dct:title>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/87bd7f7c-94aa-403b-a151-e0f42c2e539d">
+        <dct:identifier>ab 65 Jahren und älter</dct:identifier>
+        <dct:title>ab 65 Jahren und älter</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00073-ab_65_Jahren_und_aelter_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00073-ab_65_Jahren_und_aelter_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dct:description>Diese Tabelle enthält die Anzahl der Einwohner mit Hauptwohnsitz im Alter ab 65 Jahren und älter, aufgeschlüsselt nach Stadtbezirken in Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:landingPage rdf:resource="https://open.bydata.de/datasets/einwohner_nach_altersgruppen_(5_klassen)_stadtbezirksebene_ingolstadt"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/e50556ce-3ca9-458e-b5f7-20ca9615f6d5">
+        <dct:identifier>von 30 bis unter 45 Jahren in %</dct:identifier>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-04-01T12:52:05Z</dct:issued>
+        <dcatapde:licenseAttributionByText>Stadt Ingolstadt</dcatapde:licenseAttributionByText>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dcat:downloadURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00080-von_30_bis_unter_45_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:description>Diese Tabelle zeigt den prozentualen Anteil der Einwohner im Alter von 30 bis unter 45 Jahren mit Hauptwohnsitz in den jeweiligen Stadtbezirken von Ingolstadt. Hinweis: Die Beschreibung wurde mit Hilfe von KI erstellt und redaktionell geprüft. NAN - not available number: Zahlenwert unbekannt oder geheimzuhalten. Quelle: Einwohnermelderegister; Berechnungen: Hauptamt, Sachgebiet Statistik und Stadtforschung</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2025-06-04T11:08:04Z</dct:modified>
+        <dcat:accessURL rdf:resource="https://www.ingolstadt.de/openbydata/STA/2025-06-04T110804/STADI00080-von_30_bis_unter_45_Jahren_in_Prozent_Stadtbezirksebene_Ingolstadt.csv"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:title>von 30 bis unter 45 Jahren in %</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:temporal>
+      <dct:PeriodOfTime>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2024-12-31</dcat:endDate>
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2006-12-31</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:identifier>einwohner_nach_altersgruppen_(5_klassen)_stadtbezirksebene_ingolstadt</dct:identifier>
+  </dcat:Dataset>
+</rdf:RDF>

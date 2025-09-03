@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6f994136-e026-491a-a1ae-9ab973cc7b62">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2017</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der Stadt Heimbach unterteilt nach Ortsteilen zum Stichtag 31.12.2017</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6f994136-e026-491a-a1ae-9ab973cc7b62"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20180116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6f994136-e026-491a-a1ae-9ab973cc7b62"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:06:21+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-06T13:06:21+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">333</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/8f4c76c6-50fa-4515-b662-527f67909b7d">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2012</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2012</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/8f4c76c6-50fa-4515-b662-527f67909b7d"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2012_20161108.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/8f4c76c6-50fa-4515-b662-527f67909b7d"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:26:35+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:28:26+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">332</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/fd18b75a-a2a0-4dac-8e91-376f8d799d7c">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2015</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2015</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/fd18b75a-a2a0-4dac-8e91-376f8d799d7c"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2015_20161108.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/fd18b75a-a2a0-4dac-8e91-376f8d799d7c"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:31:04+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:33:34+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">332</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/68d74422-1f06-473a-8ddb-6e451ef50292">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Statdt Heimbach 2016</dct:title>
+    <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2016</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/68d74422-1f06-473a-8ddb-6e451ef50292"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20170201.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/68d74422-1f06-473a-8ddb-6e451ef50292"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T11:53:10+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-09T11:53:10+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">332</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e19f4bd0-c8df-45af-9b47-44ec8a5c89d3">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2020</dct:title>
+    <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Heimbach unterteilt nach Ortsteilen zum Stichtag 31.12.2020</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e19f4bd0-c8df-45af-9b47-44ec8a5c89d3"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20210116.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e19f4bd0-c8df-45af-9b47-44ec8a5c89d3"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T12:37:03+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T12:37:03+01:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">333</dcat:byteSize>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D04 Einwohner nach Ortsteilen Stadt Heimbach</dct:title>
+    <dct:description><![CDATA[<p>Die aktuellen Einwohnerzahlen&nbsp;einer Kommune&nbsp;sortiert nach Ortsteilen mit Unterscheidung von Deutschen und Ausländern zu einem bestimmten Stichtag.</p>
+]]></dct:description>
+    <dct:identifier>aa2f1e8d-54a8-43a3-b2ce-490ab0d973b3</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T10:41:08+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N4e9788dfb3674bf1a5529e091b77b22b">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6f994136-e026-491a-a1ae-9ab973cc7b62"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/fd18b75a-a2a0-4dac-8e91-376f8d799d7c"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e19f4bd0-c8df-45af-9b47-44ec8a5c89d3"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/68d74422-1f06-473a-8ddb-6e451ef50292"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6a12349c-21ae-432a-95e2-e5e4e40aed4a">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2011</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6a12349c-21ae-432a-95e2-e5e4e40aed4a"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2011_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/6a12349c-21ae-432a-95e2-e5e4e40aed4a"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:25:03+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:26:27+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">332</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/b0abd38b-8ae7-44c8-a424-1b3c34073178">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2021</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Heimbach unterteilt nach Ortsteilen zum Stichtag 31.12.2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/b0abd38b-8ae7-44c8-a424-1b3c34073178"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/b0abd38b-8ae7-44c8-a424-1b3c34073178"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T10:41:08+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-14T10:41:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">377</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N9a8010719166471a88c560fce05e8b5e">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ab3c6c8c22d492b51a0c85a4d08f6aa1</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/60fdbb2a-4d12-4a32-86c6-2a9165b3ab9f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2014</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/60fdbb2a-4d12-4a32-86c6-2a9165b3ab9f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2014_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/60fdbb2a-4d12-4a32-86c6-2a9165b3ab9f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:29:27+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:31:48+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">331</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e07930ae-876d-4c0e-a9ba-364f7b7ab7bb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2010</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e07930ae-876d-4c0e-a9ba-364f7b7ab7bb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2010_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/e07930ae-876d-4c0e-a9ba-364f7b7ab7bb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:23:39+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:24:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">330</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/87bcc137-5f80-4b6f-a9ef-6fdb56b53ce9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2018</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/87bcc137-5f80-4b6f-a9ef-6fdb56b53ce9"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/87bcc137-5f80-4b6f-a9ef-6fdb56b53ce9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-09T09:03:43+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T08:21:03+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">333</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/42484118-ab31-49a1-9975-44465d03d23d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2013</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/42484118-ab31-49a1-9975-44465d03d23d"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2013_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/42484118-ab31-49a1-9975-44465d03d23d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:28:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:30:05+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">331</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/f95dfa8d-e220-4f73-b843-b47d26b7f1ef">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2009</dct:title>
+        <dct:description><![CDATA[<p>Anzahl&nbsp;der Einwohner der&nbsp;Stadt Heimbach&nbsp;unterteilt nach Ortsteilen zum Stichtag 31.12.2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/f95dfa8d-e220-4f73-b843-b47d26b7f1ef"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2009_20161108.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/f95dfa8d-e220-4f73-b843-b47d26b7f1ef"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-04T10:22:02+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-09T15:23:08+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">329</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/8f4c76c6-50fa-4515-b662-527f67909b7d"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/11679cb6-0732-4149-bc9a-1f2b45d3994b">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Einwohner nach Ortsteil Stadt Heimbach 2019</dct:title>
+        <dct:description><![CDATA[<p>Anzahl der Einwohner der Stadt Heimbach unterteilt nach Ortsteilen zum Stichtag 31.12.2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/11679cb6-0732-4149-bc9a-1f2b45d3994b"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/11679cb6-0732-4149-bc9a-1f2b45d3994b"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:20:19+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-23T11:20:19+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">333</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20200116.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2010_20161108.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20220116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2009_20161108.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2011_20161108.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2013_20161108.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat194-2014_20161108.csv"/>
+</rdf:RDF>

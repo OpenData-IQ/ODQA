@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0132",
+  "run_at": "2025-08-31T13:09:24.955548Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0.52",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und beantwortet die Frage direkt. Sie könnte jedoch von einer Angabe der genauen Zahlen profitieren, um vollständiger zu sein."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0156",
+  "run_at": "2025-08-31T13:41:35.818978Z",
+  "question_id": 156,
+  "question": "Wie hoch war der Anteil ausländischer Einwohner an der Gesamtbevölkerung der Stadt Brühl zum Stichtag 31.12.2019?",
+  "answer": "Am 31.12.2019 lebten in der Stadt Brühl insgesamt 45.985 Menschen, davon waren 6.840 ausländische Staatsangehörige. Der Anteil ausländischer Einwohner an der Gesamtbevölkerung betrug somit etwa 14,9%.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 31.12.2019 betrug der Anteil ausländischer Einwohner in Brühl:\n\n- Ausländer: 6.840  \n- Gesamtbevölkerung: 45.985 (39.145 Deutsche + 6.840 Ausländer)  \n- Anteil: 6.840 / 45.985 ≈ 0,1487 ≈ 14,9 %\n\nQuelle: \"D05 Einwohner gesamt Stadt Brühl\" (Stichtag 31.12.2019) — offenedaten.kdvz.nrw.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, vollständig und liefert alle notwendigen Details inklusive der Berechnung und der Quelle. Sie ist präzise und nachvollziehbar."
+  }
+}

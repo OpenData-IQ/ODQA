@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e">
+    <dct:title>"Biene Maja" Illustrationen von Peter Christian Rasmussen</dct:title>
+    <dct:description>Die 10 Radierungen aus dem Jahr 1920 stammen aus dem Frühwerk des deutsch-dänischen Künstlers Peter Christian Rasmussen (1897-1935). Es handelt sich um Illustrationen zum Roman „Die Biene Maja und ihre Abenteuer“ des in Ahrensburg geborenen Schriftstellers Jakob Bonsels (1880-1952)&#13;
+&#13;
+Signatur: 1990-111&#13;
+&#13;
+In den Metadaten sind nur Vorschaubilder verlinkt. Die Bilder in voller Auflösung liegen unter https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/.&#13;
+&#13;
+Beispielsweise ist das Foto mit der Vorschau http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.1.jpg unter der Adresse https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.1.jpg zu finden.&#13;
+&#13;
+Die Metadaten stehen unter der Lizenz CC-zero (CC0) und die Bilddateien unter der Lizenz CC-BY-SA 4.0 (Schleswig-Holsteinische Landesbibliothek) zur Verfügung.</dct:description>
+    <dct:identifier>1b8e98d2-08b1-4bd9-9be8-7cf2b477307e</dct:identifier>
+    <dcat:keyword>biene-maja</dcat:keyword>
+    <dcat:keyword>bonsels</dcat:keyword>
+    <dcat:keyword>coding-da-vinci-2021</dcat:keyword>
+    <dcat:keyword>kunst</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-07T06:30:01.949809</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://opendata.schleswig-holstein.de/organization/a77be7e7-d9d2-4bc8-af70-fe8a29d41660">
+        <foaf:name>Schleswig-Holsteinische Landesbibliothek</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N3db0f48ddf5840dab28be447bbbb0202">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1920-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1920-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial>
+      <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+        <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((7.8690 53.3600, 7.8690 55.0583, 11.3126 55.0583, 11.3126 53.3600, 7.8690 53.3600))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e/resource/834cb759-35a1-41f9-93db-b4247d11d30a">
+        <dct:title>Metadaten im LIDO-Format </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by-sa/4.0"/>
+        <dcat:accessURL rdf:resource="https://oamh.digicult-verbund.de/cv/cdvsh-2021?verb=ListRecords&amp;metadataPrefix=lido&amp;set=http://digicult.vocnet.org/terminology/ter03103"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T11:57:58.884257</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-29T11:57:58.884257</dct:modified>
+        <dcatde:licenseAttributionByText>Schleswig-Holsteinische Landesbibliothek</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by-sa/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://oamh.digicult-verbund.de/cv/cdvsh-2021?verb=ListRecords&amp;metadataPrefix=lido&amp;set=http://digicult.vocnet.org/terminology/ter03103"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+</rdf:RDF>

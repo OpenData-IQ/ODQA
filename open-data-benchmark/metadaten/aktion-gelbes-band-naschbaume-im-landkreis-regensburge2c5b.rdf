@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://open.bydata.de/api/hub/repo/datasets/https-lk-regensburg-bydata-de-dataset-naschba-ume">
+    <dct:title>Aktion Gelbes Band - Naschbäume im Landkreis Regensburg</dct:title>
+    <dct:description>
+Über 700 Obstbäume stehen entlang öffentlicher Rad- und Wanderwege oder Kreisstraßen im Landkreis Regensburg. Die wenigsten davon jedoch werden abgeerntet. Seit 2021 werden in Zusammenarbeit von Landkreis Regensburg, OGV Kreisverband und  Landschaftspflegeverband alle Naschbäume mit einem gelben Band markiert. Auch einige Landkreisgemeinden sowie ein paar Obst- und Gartenbauvereine schlossen sich der Initiative an.
+Obstbäume, die abgeerntet werden dürfen, sind mit einem gelben Bändern markiert. Dann kann es los gehen und einer Ernte für den eigenen Bedarf steht nichts mehr im Wege.
+Näheres siehe https://www.landkreis-regensburg.de/buergerservice/natur-umwelt/gartenkultur-landespflege/?aktion-gelbes-band-naschbaeume-im-landkreis&amp;orga=163085
+                </dct:description>
+    <dct:identifier rdf:resource="https://open.bydata.de/api/hub/repo/datasets/https-lk-regensburg-bydata-de-dataset-naschba-ume"/>
+    <dcat:keyword>aktion-gelbes-band</dcat:keyword>
+    <dcat:keyword>gelbes-band</dcat:keyword>
+    <dcat:keyword>landschaftspflegeverein</dcat:keyword>
+    <dcat:keyword>naschbaum</dcat:keyword>
+    <dcat:keyword>obst</dcat:keyword>
+    <dcat:keyword>obstbaum</dcat:keyword>
+    <dcat:keyword>ogv</dcat:keyword>
+    <dcat:keyword>ogv-kreisverband</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N116f5f0939464bcca04628e7b2c304a1">
+        <vcard:fn> Landkreis Regensburg </vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:%20gis@landratsamt-regensburg.de"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.landkreis-regensburg.de/buergerservice/online-services/landkreisatlas/opendata/">
+        <foaf:name> Landkreis Regensburg</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/2a763d07-147b-4bf6-93e6-fe16504538ce">
+        <dct:title> OGCAPI (GML) </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/landespflege/collections/gelbesband/items?bulk=true&amp;f=xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/7985f5f5-54a1-4063-aa43-cdcd858d8554">
+        <dct:title> OGCAPI (GeoJSON) </dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/landespflege/collections/gelbesband/items?bulk=true&amp;f=json"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-20T12:11:45</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataBayern"/>
+  </dcat:Dataset>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+  <rdfs:Resource rdf:about="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/landespflege/collections/gelbesband/items?bulk=true&amp;f=xml"/>
+  <rdfs:Resource rdf:about="https://geoportal.landkreis-regensburg.de/ogcapi/datasets/landespflege/collections/gelbesband/items?bulk=true&amp;f=json"/>
+</rdf:RDF>

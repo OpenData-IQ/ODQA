@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0016",
+  "run_at": "2025-09-03T12:58:24.620365Z",
+  "question_id": 16,
+  "question": "Wurde im Jahr 2025 bislang mehr Influenza A oder B im Abwasser von Berlin nachgewiesen?",
+  "answer": "Influenza B",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Summierung der Messwerte (Spalte 'Messwerte' in Abhängigkeit von Spalte 'Erreger') Influenza A oder B. Messwerte liegen bis Mitte / Ende April vor.",
+  "llm_final": "Im Jahr 2025 wurde bislang weder Influenza A noch Influenza B im Abwasser von Berlin nachgewiesen. Die Messwerte für beide Virustypen liegen bei 0. Es gibt also keinen Nachweis für einen der beiden Typen im Jahr 2025."
+}

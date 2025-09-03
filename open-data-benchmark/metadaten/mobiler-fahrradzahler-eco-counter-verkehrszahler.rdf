@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten">
+    <dct:title>Mobiler Fahrradzähler - Eco Counter Verkehrszähler</dct:title>
+    <dct:description>Der Datensatz zeigt die historischen Zählerstände der Personen und Radzählstellen des jeweiligen Standorts.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://mannheim.opendatasoft.com/explore/dataset/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/"/>
+    </dcat:landingPage>
+    <dct:identifier>mobiler-fahrradzahler-brucke-sud-eco-counter-daten@mannheim</dct:identifier>
+    <dcat:keyword>emissionen</dcat:keyword>
+    <dcat:keyword>fußgängerzähler</dcat:keyword>
+    <dcat:keyword>mobilität</dcat:keyword>
+    <dcat:keyword>radzähler</dcat:keyword>
+    <dcat:keyword>umwelt</dcat:keyword>
+    <dcat:keyword>verkehr</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="https://mannheim.opendatasoft.com/explore/?refine.theme=Transport%2C+Movements"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nb7e82923986542fa83b24a49af3a88d9">
+        <foaf:name>Eco Counter für FB Geoinformation und Stadtplanung</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten-csv">
+        <dct:title>csv</dct:title>
+        <dct:description>Mobiler Fahrradzähler - Eco Counter Verkehrszähler (csv)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/csv?use_labels=true"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten-json">
+        <dct:title>json</dct:title>
+        <dct:description>Mobiler Fahrradzähler - Eco Counter Verkehrszähler (json)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/json"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://mannheim.opendatasoft.com/api/v2/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten-geojson">
+        <dct:title>geojson</dct:title>
+        <dct:description>Mobiler Fahrradzähler - Eco Counter Verkehrszähler (geojson)</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/geojson"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-06T13:48:39.605000+00:00</dct:modified>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/datenBW"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/geojson"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/json"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://mannheim.opendatasoft.com/api/explore/v2.1/catalog/datasets/mobiler-fahrradzahler-brucke-sud-eco-counter-daten/exports/csv?use_labels=true"/>
+</rdf:RDF>

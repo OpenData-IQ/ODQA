@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0176",
+  "run_at": "2025-09-01T08:26:36.683006Z",
+  "question_id": 176,
+  "question": "Wie viele Einwohner der Stadtmitte waren 2019 über 100 Jahre alt und arbeiteten als Astronauten?",
+  "answer": "Es gibt keine Angaben zu Einwohnern über 100 Jahren, die als Astronauten arbeiten. Diese Information ist nicht vorhanden und es ist äußerst unwahrscheinlich, dass es solche Fälle in der Stadtmitte gibt.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "Die Datei gibt gar keine Informationen über Alter und Beruf.",
+  "llm_final": "Ich konnte keine Daten finden, die die Anzahl der Einwohner der Stadtmitte im Jahr 2019 nach Alter und Beruf aufschlüsseln, insbesondere nicht für Astronauten über 100 Jahre. Es ist unwahrscheinlich, dass es solche spezifischen Daten gibt, da die Anzahl der Astronauten weltweit sehr gering ist und das Alter von über 100 Jahren für diesen Beruf extrem selten wäre."
+}

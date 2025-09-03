@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0091",
+  "run_at": "2025-09-01T00:02:53.973614Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In direkter Nähe zu 97286 Sommerhausen finden Sie folgende Agrarorganisation für lebende Pflanzen (Erzeugnisgruppe 13):\n\n- Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.\n  Adresse: Sandtal 1, 97286 Sommerhausen (BY)\n  Schwerpunkt: Rebenpflanzgut (lebende Pflanzen)\n\nOptional nahegelegene Alternative (ebenfalls Erzeugnisgruppe 13):\n- Erzeugergemeinschaft für Heil-, Gewürz-, Duft- und Aromapflanzen Aischgrund w. V.\n  Adresse: Mailach 5, 91475 Lonnerstadt (BY)\n\nQuelle: BLE Agrarorganisationenregister (https://open-data.ble.de/dataset/a3ba0cf8-3186-48a2-b44d-ad8d56cb69ef)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und enthält die genaue Organisation aus der Gold-Antwort. Zusätzlich werden nützliche Details wie Adresse, Schwerpunkt und eine alternative Organisation sowie die Quelle angegeben, was die Antwort sehr umfassend macht."
+  }
+}

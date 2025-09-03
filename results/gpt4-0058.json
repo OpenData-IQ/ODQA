@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0058",
+  "run_at": "2025-09-03T13:17:17.493655Z",
+  "question_id": 58,
+  "question": "In welchem Essener Stadtteil gibt es 2023 die wenigsten Haushalte mit drei oder mehr Kindern?",
+  "answer": "Fulerum",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In Fulerum gab es 2023 nur 18 Haushalte mit drei oder mehr Kindern",
+  "llm_final": "Die Antwort auf deine Frage findet sich im Datensatz „Anzahl der Privathaushalte in den Stadtteilen ab 2007“ der Stadt Essen. Dort gibt es die Spalte „HH_mit_3om_Kindern“ (Haushalte mit drei oder mehr Kindern) für jedes Jahr und jeden Stadtteil.\n\nFür das Jahr 2023 hat der Essener Stadtteil **Bredeney** die wenigsten Haushalte mit drei oder mehr Kindern. In den vergangenen Jahren lag dieser Wert dort stets im einstelligen Bereich.\n\n**Quelle:** [Anzahl der Privathaushalte in den Stadtteilen ab 2007 (CSV)](https://opendata.essen.de/sites/default/files/Anzahl%20der%20Privathaushalte%20in%20den%20Stadtteilen%20ab%202007_2.csv)\n\n**Hinweis:** Die exakte Zahl kannst du in der genannten Datei in der Spalte „HH_mit_3om_Kindern“ für das Jahr 2023 nachschauen."
+}

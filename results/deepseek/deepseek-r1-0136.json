@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0136",
+  "run_at": "2025-09-01T22:42:06.683713Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "**FinalAnswer**  \nAktuell liegen in dem veröffentlichten Datensatz zur Bürgerschaftswahl 2024 in Rostock keine Daten speziell für den Stadtbereich Biestow vor. Die vorhandenen Ergebnisse sind nach Stadtbereichen von A (Warnemünde) bis J (Gartenstadt/Stadtweide) aufgeschlüsselt. Biestow wird in den gelisteten Ergebnissen nicht als separater Stadtbereich geführt.  \n\nQuelle: [Datensatz Bürgerschaftswahl 2024](https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26)"
+}

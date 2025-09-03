@@ -1,0 +1,40 @@
+PREFIX rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dcat:   <http://www.w3.org/ns/dcat#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?dataset ?dataset_title ?distribution ?distribution_title ?distribution_description ?downloadURL ?accessURL
+WHERE {
+  VALUES ?format_property { dcterms:format dcat:mediaType }
+
+  <https://ckan.govdata.de> dcat:dataset ?dataset .
+  ?dataset dcat:distribution ?csvDist ;
+      #     dcterms:identifier ?dataset_id ;
+           dcterms:title ?dataset_title .
+  OPTIONAL { ?dataset dcterms:description ?dataset_description }
+
+  ?csvDist ?format_property ?format .
+
+  # split OPTIONALs so each can bind independently
+  OPTIONAL { ?csvDist dcterms:title       ?distribution_title }
+  OPTIONAL { ?csvDist dcterms:description ?distribution_description }
+  OPTIONAL { ?csvDist dcat:accessURL      ?accessURL }
+  OPTIONAL { ?csvDist dcat:downloadURL    ?downloadURL }
+
+  FILTER (
+    # CSV
+    LCASE(STR(?format)) = "csv" ||
+    LCASE(STR(?format)) = "text/csv" ||
+    ?format = <http://publications.europa.eu/resource/authority/file-type/csv> ||
+    ?format = <http://publications.europa.eu/resource/authority/file-type/CSV> ||
+    ?format = <https://www.iana.org/assignments/media-types/text/csv> ||
+
+    # XML
+    LCASE(STR(?format)) = "xml" ||
+    LCASE(STR(?format)) = "application/xml" ||
+    LCASE(STR(?format)) = "text/xml" ||
+    ?format = <http://publications.europa.eu/resource/authority/file-type/xml> ||
+    ?format = <http://publications.europa.eu/resource/authority/file-type/XML> ||
+    ?format = <https://www.iana.org/assignments/media-types/application/xml> ||
+    ?format = <https://www.iana.org/assignments/media-types/text/xml>
+  )
+}

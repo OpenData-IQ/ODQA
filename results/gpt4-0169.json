@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0169",
+  "run_at": "2025-09-03T14:01:26.582612Z",
+  "question_id": 169,
+  "question": "An wie vielen verschiedenen Tagen in der Kalenderwoche 7 des Jahres 2022 wurde auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "In der Kalenderwoche 7 des Jahres 2022 wurde an vier verschiedenen Tagen (14.02., 15.02., 16.02., 17.02.2022 und 18.02.2022) auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded. Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

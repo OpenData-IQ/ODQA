@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://opendata.leipzig.de/dataset/a2f12d0f-ebad-4bb5-9b79-0e7077cbb800">
+    <dct:title>Vornamensstatistik 2023</dct:title>
+    <dct:description>Der Datensatz enthält die Vornamensstatistik für das Jahr 2023. </dct:description>
+    <dct:identifier>a2f12d0f-ebad-4bb5-9b79-0e7077cbb800</dct:identifier>
+    <dcat:keyword>vornamen</dcat:keyword>
+    <dcat:keyword>vornamensstatistik</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-05</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-19</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.leipzig.de/">
+        <foaf:name>Stadt Leipzig</foaf:name>
+        <foaf:homepage rdf:resource="https://www.leipzig.de/"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://opendata.leipzig.de/resource/1dd0bdde-9fab-415f-ad4e-7b9246cf5739">
+        <dct:title>Vornamensstatistik 2023</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://opendata.leipzig.de/dataset/a2f12d0f-ebad-4bb5-9b79-0e7077cbb800/resource/1dd0bdde-9fab-415f-ad4e-7b9246cf5739/download/vornamensstatistik_2023.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format>CSV</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T06:44:34.131336</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-11T06:44:34.125012</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/freistaatSachsen"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://opendata.leipzig.de/dataset/a2f12d0f-ebad-4bb5-9b79-0e7077cbb800/resource/1dd0bdde-9fab-415f-ad4e-7b9246cf5739/download/vornamensstatistik_2023.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+</rdf:RDF>

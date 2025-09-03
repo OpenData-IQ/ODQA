@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0095",
+  "run_at": "2025-09-01T21:43:12.769879Z",
+  "question_id": 95,
+  "question": "Von wem ist die Zweifachhalle Sprakel am Sonntag belegt?",
+  "answer": "MSC Münster City e.V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "xml ist nur über 759d6b77-c81a-44da-a775-781792e84217.html zu finden",
+  "llm_final": "<FinalAnswer>\nDie Belegung der York-Quartier-Turnhalle in Münster-Gremmendorf am Sonntag lässt sich aktuell nicht aus den offenen Daten des GovData-Portals ermitteln, da hierzu keine entsprechenden Datensätze gefunden wurden. Bitte wenden Sie sich für aktuelle Informationen direkt an das Sportamt der Stadt Münster oder prüfen Sie deren offizielle Website.\n\nQuelle: Keine Datensätze verfügbar\n</FinalAnswer>"
+}

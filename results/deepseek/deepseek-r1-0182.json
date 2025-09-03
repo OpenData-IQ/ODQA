@@ -1,0 +1,11 @@
+{
+  "thread_id": "deepseek-r1-0182",
+  "run_at": "2025-09-01T23:50:48.364326Z",
+  "question_id": 182,
+  "question": "Welcher Stadtbereich in Rostock hatte im Jahr 2007 den größten absoluten Bevölkerungszuwachs?",
+  "answer": "Die Kröpeliner-Tor-Vorstadt hatte im Jahr 2007 mit 421 Personen den größten absoluten Bevölkerungszuwachs.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 165497 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 165497 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}"
+}

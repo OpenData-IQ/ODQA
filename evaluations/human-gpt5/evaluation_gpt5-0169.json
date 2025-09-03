@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0169",
+  "run_at": "2025-09-01T02:51:46.914830Z",
+  "question_id": 169,
+  "question": "An wie vielen verschiedenen Tagen in der Kalenderwoche 7 des Jahres 2022 wurde auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "In der Kalenderwoche 7 des Jahres 2022 wurde an vier verschiedenen Tagen (14.02., 15.02., 16.02. und 17.02.2022) auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'Recursion limit of 25 reached'. This indicates that the agent failed to provide an answer due to a technical limitation."
+  }
+}

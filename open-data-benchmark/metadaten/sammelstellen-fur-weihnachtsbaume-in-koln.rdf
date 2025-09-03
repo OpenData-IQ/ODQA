@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten-koeln.de/dataset/62f568ac-8db1-410c-96dc-26b52209ad18/resource/62f568ac-8db1-410c-96dc-26b52209ad18">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Sammelstellen für Weihnachtsbäume in Köln</dct:title>
+    <adms:status rdf:resource="http://purl.org/adms/status/Withdrawn"/>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-zero-de/2.0">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten-koeln.de/dataset/62f568ac-8db1-410c-96dc-26b52209ad18/resource/62f568ac-8db1-410c-96dc-26b52209ad18"/>
+    <foaf:page rdf:resource="https://offenedaten-koeln.de/dataset/62f568ac-8db1-410c-96dc-26b52209ad18/resource/62f568ac-8db1-410c-96dc-26b52209ad18"/>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dct:conformsTo>
+      <dct:Standard rdf:about="https://www.dcat-ap.de/def/dcatde/1.1/spec/specification.pdf"/>
+    </dct:conformsTo>
+    <dct:rights>
+      <dct:RightsStatement rdf:about="https://www.govdata.de/dl-de/zero-2-0"/>
+    </dct:rights>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-23T10:47:24+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-15T14:04:42+02:00</dct:modified>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten-koeln.de/dataset/sammelstellen-f%C3%BCr-weihnachtsb%C3%A4ume-k%C3%B6ln">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Sammelstellen für Weihnachtsbäume in Köln</dct:title>
+    <dct:description><![CDATA[<p>Alle Sammelstellen für Weihnachtsbäume werden in der unten stehenden Ressource aufgeführt. Falls Ihr Wohnblock auf eigene Initiative Sammelplätze anbietet, bitten wir die Hausmeister und Verwalter, unseren <a href="http://www.awbkoeln.de/unternehmen/kontakt/" target="_blank" title="Kundenservice">Kundenservice</a> per Mail zu informieren.</p>
+]]></dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.awbkoeln.de/"/>
+    </dcat:landingPage>
+    <dct:identifier>e12e1fd5-8d7d-42cd-8b38-e0e19b7624e4</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/UNKNOWN"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>geo</dcat:keyword>
+    <dcat:keyword>umwelt-und-klima</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T15:30:43+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-15T14:03:47+02:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <foaf:page rdf:resource="https://offenedaten-koeln.de/dataset/sammelstellen-f%C3%BCr-weihnachtsb%C3%A4ume-k%C3%B6ln"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Ne5b7ce3c8380445680de9f291e7cd649">
+        <vcard:fn>AWB Köln</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:kundenberatung@awbkoeln.de"/>
+        <vcard:hasURL rdf:resource="https://www.awbkoeln.de/"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N30328feaaf5a4655a346d3629fbcf44e">
+        <foaf:name>Redaktion offenedaten-koeln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.offenedaten-koeln.de/impressum"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Agent rdf:nodeID="Neda904dfab2c45248ce42cc7fe1212b9">
+        <foaf:name>AWB Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.awbkoeln.de/"/>
+        <dct:type>foaf:Agent</dct:type>
+      </foaf:Agent>
+    </dct:creator>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="Nd302a361317745e6a492d95942b9d9d7">
+        <foaf:name>AWB Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.awbkoeln.de/"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Ndb6e89cfe7ee46a5969ec54e1c438107">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dct:provenance>
+      <dct:ProvenanceStatement rdf:nodeID="N3c43b973d1604436a56ca6f71fdfed3f">
+        <rdfs:label>Nb3d61293f8c347ecbfbebbd8542505e5</rdfs:label>
+      </dct:ProvenanceStatement>
+    </dct:provenance>
+    <dcat:distribution rdf:resource="https://offenedaten-koeln.de/dataset/62f568ac-8db1-410c-96dc-26b52209ad18/resource/62f568ac-8db1-410c-96dc-26b52209ad18"/>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcat:granularity rdf:resource="http://publications.europa.eu/resource/authority/frequency/CONT"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten-koeln.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05315"/>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="Nbadfbe14954948d6a31d2b716707baaa">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/05315"/>
+      </dct:Location>
+    </dct:spatial>
+    <dcatde:originator>
+      <foaf:Organization rdf:nodeID="N3049942e30964157950791194a394bdd">
+        <foaf:name>AWB Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.awbkoeln.de/"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:originator>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N5d168b546e3e4cc2b4463f0587608e31">
+        <foaf:name>AWB Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.awbkoeln.de/"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+    <dct:contributor>
+      <foaf:Organization rdf:nodeID="N64bbf7cb1ed744428faf8345f7e3b138">
+        <foaf:name>AWB Köln</foaf:name>
+        <foaf:homepage rdf:resource="https://www.awbkoeln.de/"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dct:contributor>
+  </dcat:Dataset>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0010",
+  "run_at": "2025-09-03T12:55:25.527320Z",
+  "question_id": 10,
+  "question": "Welche Kommune hatte 2024 mehr verkaufsoffene Sonntage? Emmerich oder Geldern?",
+  "answer": "Geldern. Geldern hatte 2024 5 verkaufsoffene Sonntage und Emmerich 2",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2024 hatte Geldern mehr verkaufsoffene Sonntage (5) als Emmerich (2)."
+}

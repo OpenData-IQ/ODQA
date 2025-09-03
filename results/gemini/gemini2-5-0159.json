@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0159",
+  "run_at": "2025-09-01T08:06:36.825388Z",
+  "question_id": 159,
+  "question": "Wie hat sich die Anzahl der Familien mit drei oder mehr Kindern in Bad Münstereifel von 2011 bis 2021 verändert??",
+  "answer": "2011 gab es 213 Familien mit drei oder mehr Kindern, 2021 waren es 178",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "2011 wurde noch nach Stadtgebieten unterschieden, 2021 gibt es nur Daten für das gesamte Stadtgebieten.",
+  "llm_final": "Es gibt keine Daten für Bad Münstereifel. Die verfügbaren Datensätze beziehen sich auf Essen und Bielefeld."
+}

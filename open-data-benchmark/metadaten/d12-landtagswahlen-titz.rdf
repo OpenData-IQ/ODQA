@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/8a3881fa-1252-442e-b98e-960930b4fd66">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2000 Gemeindeebene Titz</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;2000 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/8a3881fa-1252-442e-b98e-960930b4fd66"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358056/html5/Landtagswahl_NRW3.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/8a3881fa-1252-442e-b98e-960930b4fd66"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:17:47+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:17:47+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d0cb8b95-c278-4aca-941a-e0aca8a6f3af">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 1995 Stimmbezirksebene Titz</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d0cb8b95-c278-4aca-941a-e0aca8a6f3af"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358056/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d0cb8b95-c278-4aca-941a-e0aca8a6f3af"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:16:01+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:16:01+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/1d632754-7855-4702-827f-8469ca33d3fd">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Wahlergebnisse Landtagswahl 2010 Stimmbezirksebene Titz</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+    <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+    <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/1d632754-7855-4702-827f-8469ca33d3fd"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358056/html5/Landtagswahl_NRW6.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/1d632754-7855-4702-827f-8469ca33d3fd"/>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:29:43+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:29:43+01:00</dct:modified>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D12 Landtagswahlen Titz</dct:title>
+    <dct:description><![CDATA[<p>Wahlergebnisse, Straßenverzeichnisse zu Landtagswahlen. Beschreibungen zum Datensatzaufbau finden Sie unter Datensatzbeschreibung Wahlen(<a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen</a>)</p>
+]]></dct:description>
+    <dct:identifier>35697953-2fe3-4f19-a447-6a14ab0fe29a</dct:identifier>
+    <dcat:keyword>politik-und-wahlen</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T10:01:29+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N926f4cf85ea44cb494622ba7f6533dd9">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/155c67a1-a7ba-4ac5-ae6f-1ae3ed5182a2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Stimmbezirksebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter wahlen).Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/155c67a1-a7ba-4ac5-ae6f-1ae3ed5182a2"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW996.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/155c67a1-a7ba-4ac5-ae6f-1ae3ed5182a2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:28:43+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:28:43+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ab27e4f6-b342-461f-9387-6d871d554168">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Gemeindeebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ab27e4f6-b342-461f-9387-6d871d554168"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ab27e4f6-b342-461f-9387-6d871d554168"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:05:28+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:05:28+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/b80f8fb3-53c1-4d0f-9f0a-4d7bf22a6bb7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Stimmbezirksebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/b80f8fb3-53c1-4d0f-9f0a-4d7bf22a6bb7"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/b80f8fb3-53c1-4d0f-9f0a-4d7bf22a6bb7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:02:40+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:06:45+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/1d632754-7855-4702-827f-8469ca33d3fd"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d0cb8b95-c278-4aca-941a-e0aca8a6f3af"/>
+    <dcat:distribution rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/8a3881fa-1252-442e-b98e-960930b4fd66"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/350b6ab7-4508-4296-9c34-e48904ced6b7">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2005 Gemeindeebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/350b6ab7-4508-4296-9c34-e48904ced6b7"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358056/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/350b6ab7-4508-4296-9c34-e48904ced6b7"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:21:05+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:21:05+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ba82f514-ecdb-43b2-987d-390cfbe96a39">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2005 Stimmbezirksebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2005 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ba82f514-ecdb-43b2-987d-390cfbe96a39"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358056/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/ba82f514-ecdb-43b2-987d-390cfbe96a39"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:22:48+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:22:48+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/25f6c269-e5d5-40bd-ad58-82bb26acce51">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 1995 Gemeindeebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl&nbsp;1995 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/25f6c269-e5d5-40bd-ad58-82bb26acce51"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358056/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/25f6c269-e5d5-40bd-ad58-82bb26acce51"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:14:00+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:14:00+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/423b3ad5-a579-4b0f-8428-9b8b667a50b1">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2010 Gemeindeebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/423b3ad5-a579-4b0f-8428-9b8b667a50b1"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358056/html5/Landtagswahl_NRW3.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/423b3ad5-a579-4b0f-8428-9b8b667a50b1"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:24:42+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:24:42+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/81c09054-0727-4837-b2aa-8d3e19bd988e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Gemeindeebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Gemeindeebene für die Gemeinde Titz.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/81c09054-0727-4837-b2aa-8d3e19bd988e"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW993.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/81c09054-0727-4837-b2aa-8d3e19bd988e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:26:33+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:26:33+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/e364f323-285e-4a6c-b698-76b5c044cc5d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2010 Ortsteilebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2010 auf Ortsteilebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/e364f323-285e-4a6c-b698-76b5c044cc5d"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358056/html5/Landtagswahl_NRW8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/e364f323-285e-4a6c-b698-76b5c044cc5d"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:26:52+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:26:52+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/4e29f59d-3c68-4e91-bc5d-0bdb44c465d2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2012 Ortsteilebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2012 auf Ortsteilebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter <a href="http://offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen">Datensatzbeschreibung Wahlen</a>.</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/4e29f59d-3c68-4e91-bc5d-0bdb44c465d2"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW8.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/4e29f59d-3c68-4e91-bc5d-0bdb44c465d2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:04:04+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-16T16:06:16+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d6054b1e-2f51-44fc-a571-f9f566793744">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2000 Stimmbezirksebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2000 auf Stimmbezirksebene für die Gemeinde Titz.</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d6054b1e-2f51-44fc-a571-f9f566793744"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358056/html5/Landtagswahl_NRW6.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/d6054b1e-2f51-44fc-a571-f9f566793744"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:19:17+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-10T16:19:17+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/38d1376f-9e87-4700-8218-98cae2de297e">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Wahlergebnisse Landtagswahl 2017 Ortsteilebene Titz</dct:title>
+        <dct:description><![CDATA[<p>Wahlergebnisse zur Landtagswahl 2017 auf Ortsteilebene&nbsp;für die Gemeinde Titz.</p>
+
+<p>&nbsp;</p>
+
+<p>Erläuterungen zum Datensatz finden Sie unter Datensatzbeschreibung Wahlen(Link: offenedaten.kdvz-frechen.de/dataset/datensatzbeschreibung-wahlen).</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/38d1376f-9e87-4700-8218-98cae2de297e"/>
+        <dcat:downloadURL rdf:resource="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW998.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz/resource/38d1376f-9e87-4700-8218-98cae2de297e"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:27:43+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T07:27:43+01:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358056/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW998.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW996.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358056/html5/Landtagswahl_NRW8.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2017/05358056/html5/Landtagswahl_NRW993.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2010/05358056/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2000/05358056/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/LW2012/05358056/html5/Landtagswahl_NRW3.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw2005/05358056/html5/Landtagswahl_NRW6.csv"/>
+  <rdfs:Resource rdf:about="http://wahlen.kdvz-frechen.de/kdvz/lw1995/05358056/html5/Landtagswahl_NRW3.csv"/>
+</rdf:RDF>

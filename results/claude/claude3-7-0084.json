@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0084",
+  "run_at": "2025-09-01T14:31:35.555309Z",
+  "question_id": 84,
+  "question": "Wie viele 3-6 jährige Kinder wohnten am 31.12.2011 in Halle (Saale) und waren es mehr Jungen oder mehr Mädchen?",
+  "answer": "7467 Kinder, mehr Jungen",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

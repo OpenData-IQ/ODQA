@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10">
+    <dct:title>GZR-Daten zur Schwarzarbeit 2013 - Strafgerichtliche Verurteilungen i. S. d. § 149 Abs. 2 Nr. 4 GewO - Neueintragungen</dct:title>
+    <dct:description>Mit der Übersicht „GZR-Daten zur Schwarzarbeit 2013“ legt das Bundesamt für Justiz das Ergebnis von Auswertungen der im Jahr 2013 des Teilregisters über natürliche Personen zu nach § 149 Abs. 2 Nr. 4 der Gewerbeordnung (GewO) eingetragenen rechtskräftigen strafgerichtlichen Verurteilungen vor. Der Datensatz beinhaltet alle rechtskräftigen strafgerichtlichen Verurteilungen wegen einer Straftat nach den §§ 10 und 11 Schwarzarbeitsbekämpfungsgesetz (SchwarzArbG), §§ 15 und 15a Arbeitnehmerüberlassungsgesetz (AÜG) oder nach § 266a Abs. 1, 2 und 4 des Strafgesetzbuches (StGB), die bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung begangen worden sind, wenn auf Freiheitsstrafe von mehr als drei Monaten oder Geldstrafe von mehr als neunzig Tagessätzen erkannt wurde (§ 149 Abs. 2 Nr. 4 GewO), und die im Auswertungsjahr in das Gewerbezentralregister eingetragen wurden.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/GZR/Statistik/Statistik_node.html"/>
+    </dcat:landingPage>
+    <dct:identifier>3ed9dd62-7127-4e81-b1d7-7655e43e8a10</dct:identifier>
+    <dcat:keyword>arbeitnehmerüberlassungsgesetz</dcat:keyword>
+    <dcat:keyword>bugeldentscheidungen</dcat:keyword>
+    <dcat:keyword>gewerbeordnung</dcat:keyword>
+    <dcat:keyword>gewerbezentralregister</dcat:keyword>
+    <dcat:keyword>schwarzarbeit</dcat:keyword>
+    <dcat:keyword>schwarzarbeitsbekämpfungsgesetz</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-30T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-28T00:00:00</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nbf4a5070b61141529ba223e5f26e182c">
+        <vcard:fn>Bundesamt für Justiz</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/8704e42f-6607-4435-8245-1e45806b4769">
+        <foaf:name>Bundesamt für Justiz</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N826b96be4a264762888cf99caff610a0">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10/resource/66422215-6faa-4139-b8e3-e3765bea780e">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2_0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bundesjustizamt.de/DE/SharedDocs/Publikationen/GovData/GZR/2013/CSV/GZRnat_Tab31.csv?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-14T11:56:01.613542</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-14T11:56:01.613542</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10/resource/ce8ab040-c77d-4c78-b9f8-cc21d110352f">
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2_0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>PDF</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bundesjustizamt.de/DE/SharedDocs/Publikationen/GovData/GZR/2013/PDF/GZRnat_Tab31.pdf?__blob=publicationFile"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-14T11:56:01.613555</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-14T11:56:01.613555</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="germanfederation"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesamtFuerJustiz"/>
+    <dcatde:geocodingDescription></dcatde:geocodingDescription>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N600ec54b58c2400c8b07e944b8c7737f">
+        <foaf:name>Bundesamt für Justiz</foaf:name>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2_0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>

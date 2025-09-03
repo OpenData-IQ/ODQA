@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0177",
+  "run_at": "2025-09-01T18:17:43.192846Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"input length and `max_tokens` exceed context limit: 144048 + 64000 > 204658, decrease input length or `max_tokens` and try again\"}', 'provider_name': 'Amazon Bedrock'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die Antwort ist ein Fehlermeldungs-Log mit explizitem Hinweis auf eine Überschreitung des Kontext-/Token-Limits. Es wird keine inhaltliche Antwort auf die Frage gegeben."
+  }
+}

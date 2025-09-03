@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0025",
+  "run_at": "2025-08-31T10:16:49.400091Z",
+  "question_id": 25,
+  "question": "Welches Museum in Frankfurt am Main hatte von 2018 bis 2024 die meisten Besuche?",
+  "answer": "Senckenberg Naturmuseum Frankfurt",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Das Senckenberg Naturmuseum Frankfurt hatte 2.476.691 Besucher",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

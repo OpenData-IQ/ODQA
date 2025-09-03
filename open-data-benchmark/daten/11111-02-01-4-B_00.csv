@@ -1,0 +1,510 @@
+GENESIS-Tabelle: 11111-02-01-4-B
+Zahl der Gemeinden - Stichtag 31.12. - regionale Ebenen;;;
+Feststellung des Gebietsstandes;;;
+;;;Zahl der Gemeinden
+;;;Anzahl
+31.12.2023;01001;Flensburg, kreisfreie Stadt;1
+31.12.2023;01002;Kiel, kreisfreie Stadt;1
+31.12.2023;01003;Lübeck, kreisfreie Stadt, Hansestadt;1
+31.12.2023;01004;Neumünster, kreisfreie Stadt;1
+31.12.2023;01051;Dithmarschen, Kreis;116
+31.12.2023;01053;Herzogtum Lauenburg, Kreis;132
+31.12.2023;01054;Nordfriesland, Kreis;133
+31.12.2023;01055;Ostholstein, Kreis;36
+31.12.2023;01056;Pinneberg, Kreis;49
+31.12.2023;01057;Plön, Kreis;85
+31.12.2023;01058;Rendsburg-Eckernförde, Kreis;165
+31.12.2023;01059;Schleswig-Flensburg, Kreis;123
+31.12.2023;01060;Segeberg, Kreis;95
+31.12.2023;01061;Steinburg, Kreis;111
+31.12.2023;01062;Stormarn, Kreis;55
+31.12.2023;02000;Hamburg, kreisfreie Stadt, Freie und Hansestadt;1
+31.12.2023;03101;Braunschweig, kreisfreie Stadt;1
+31.12.2023;03102;Salzgitter, kreisfreie Stadt;1
+31.12.2023;03103;Wolfsburg, kreisfreie Stadt;1
+31.12.2023;03151;Gifhorn, Landkreis;41
+31.12.2023;03152;Göttingen, Landkreis;-
+31.12.2023;03153;Goslar, Landkreis;7
+31.12.2023;03154;Helmstedt, Landkreis;23
+31.12.2023;03155;Northeim, Landkreis;11
+31.12.2023;03156;Osterode am Harz, Landkreis;-
+31.12.2023;03157;Peine, Landkreis;7
+31.12.2023;03158;Wolfenbüttel, Landkreis;32
+31.12.2023;03159;Göttingen, Landkreis;39
+31.12.2023;03241;Region Hannover, Landkreis;21
+31.12.2023;03241001;Hannover, Landeshauptstadt;.
+31.12.2023;03251;Diepholz, Landkreis;45
+31.12.2023;03252;Hameln-Pyrmont, Landkreis;8
+31.12.2023;03254;Hildesheim, Landkreis;20
+31.12.2023;03255;Holzminden, Landkreis;32
+31.12.2023;03256;Nienburg (Weser), Landkreis;36
+31.12.2023;03257;Schaumburg, Landkreis;38
+31.12.2023;03351;Celle, Landkreis;21
+31.12.2023;03352;Cuxhaven, Landkreis;29
+31.12.2023;03353;Harburg, Landkreis;42
+31.12.2023;03354;Lüchow-Dannenberg, Landkreis;27
+31.12.2023;03355;Lüneburg, Landkreis;43
+31.12.2023;03356;Osterholz, Landkreis;11
+31.12.2023;03357;Rotenburg (Wümme), Landkreis;57
+31.12.2023;03358;Heidekreis;23
+31.12.2023;03359;Stade, Landkreis;40
+31.12.2023;03360;Uelzen, Landkreis;27
+31.12.2023;03361;Verden, Landkreis;11
+31.12.2023;03401;Delmenhorst, kreisfreie Stadt;1
+31.12.2023;03402;Emden, kreisfreie Stadt;1
+31.12.2023;03403;Oldenburg (Oldenburg), kreisfreie Stadt;1
+31.12.2023;03404;Osnabrück, kreisfreie Stadt;1
+31.12.2023;03405;Wilhelmshaven, kreisfreie Stadt;1
+31.12.2023;03451;Ammerland, Landkreis;6
+31.12.2023;03452;Aurich, Landkreis;24
+31.12.2023;03453;Cloppenburg, Landkreis;13
+31.12.2023;03454;Emsland, Landkreis;60
+31.12.2023;03455;Friesland, Landkreis;8
+31.12.2023;03456;Grafschaft Bentheim, Landkreis;25
+31.12.2023;03457;Leer, Landkreis;19
+31.12.2023;03458;Oldenburg, Landkreis;15
+31.12.2023;03459;Osnabrück, Landkreis;34
+31.12.2023;03460;Vechta, Landkreis;10
+31.12.2023;03461;Wesermarsch, Landkreis;9
+31.12.2023;03462;Wittmund, Landkreis;19
+31.12.2023;04011;Bremen, kreisfreie Stadt;1
+31.12.2023;04012;Bremerhaven, kreisfreie Stadt;1
+31.12.2023;05111;Düsseldorf, kreisfreie Stadt;1
+31.12.2023;05112;Duisburg, kreisfreie Stadt;1
+31.12.2023;05113;Essen, kreisfreie Stadt;1
+31.12.2023;05114;Krefeld, kreisfreie Stadt;1
+31.12.2023;05116;Mönchengladbach, kreisfreie Stadt;1
+31.12.2023;05117;Mülheim an der Ruhr, kreisfreie Stadt;1
+31.12.2023;05119;Oberhausen, kreisfreie Stadt;1
+31.12.2023;05120;Remscheid, kreisfreie Stadt;1
+31.12.2023;05122;Solingen, kreisfreie Stadt;1
+31.12.2023;05124;Wuppertal, kreisfreie Stadt;1
+31.12.2023;05154;Kleve, Kreis;16
+31.12.2023;05158;Mettmann, Kreis;10
+31.12.2023;05162;Rhein-Kreis Neuss;8
+31.12.2023;05166;Viersen, Kreis;9
+31.12.2023;05170;Wesel, Kreis;13
+31.12.2023;05313;Aachen, Stadt (alt);-
+31.12.2023;05314;Bonn, kreisfreie Stadt;1
+31.12.2023;05315;Köln, kreisfreie Stadt;1
+31.12.2023;05316;Leverkusen, kreisfreie Stadt;1
+31.12.2023;05334;Städteregion Aachen, Kreis;10
+31.12.2023;05334002;Aachen, kreisfreie Stadt;.
+31.12.2023;05354;Aachen, Kreis;-
+31.12.2023;05358;Düren, Kreis;15
+31.12.2023;05362;Rhein-Erft-Kreis;10
+31.12.2023;05366;Euskirchen, Kreis;11
+31.12.2023;05370;Heinsberg, Kreis;10
+31.12.2023;05374;Oberbergischer Kreis;13
+31.12.2023;05378;Rheinisch-Bergischer Kreis;8
+31.12.2023;05382;Rhein-Sieg-Kreis;19
+31.12.2023;05512;Bottrop, kreisfreie Stadt;1
+31.12.2023;05513;Gelsenkirchen, kreisfreie Stadt;1
+31.12.2023;05515;Münster, kreisfreie Stadt;1
+31.12.2023;05554;Borken, Kreis;17
+31.12.2023;05558;Coesfeld, Kreis;11
+31.12.2023;05562;Recklinghausen, Kreis;10
+31.12.2023;05566;Steinfurt, Kreis;24
+31.12.2023;05570;Warendorf, Kreis;13
+31.12.2023;05711;Bielefeld, kreisfreie Stadt;1
+31.12.2023;05754;Gütersloh, Kreis;13
+31.12.2023;05758;Herford, Kreis;9
+31.12.2023;05762;Höxter, Kreis;10
+31.12.2023;05766;Lippe, Kreis;16
+31.12.2023;05770;Minden-Lübbecke, Kreis;11
+31.12.2023;05774;Paderborn, Kreis;10
+31.12.2023;05911;Bochum, kreisfreie Stadt;1
+31.12.2023;05913;Dortmund, kreisfreie Stadt;1
+31.12.2023;05914;Hagen, kreisfreie Stadt;1
+31.12.2023;05915;Hamm, kreisfreie Stadt;1
+31.12.2023;05916;Herne, kreisfreie Stadt;1
+31.12.2023;05954;Ennepe-Ruhr-Kreis;9
+31.12.2023;05958;Hochsauerlandkreis;12
+31.12.2023;05962;Märkischer Kreis;15
+31.12.2023;05966;Olpe, Kreis;7
+31.12.2023;05970;Siegen-Wittgenstein, Kreis;11
+31.12.2023;05974;Soest, Kreis;14
+31.12.2023;05978;Unna, Kreis;10
+31.12.2023;06411;Darmstadt, kreisfreie Stadt, Wissenschaftsstadt;1
+31.12.2023;06412;Frankfurt am Main, kreisfreie Stadt;1
+31.12.2023;06413;Offenbach am Main, kreisfreie Stadt;1
+31.12.2023;06414;Wiesbaden, kreisfreie Stadt, Landeshauptstadt;1
+31.12.2023;06431;Bergstraße, Landkreis;22
+31.12.2023;06432;Darmstadt-Dieburg, Landkreis;23
+31.12.2023;06433;Groß-Gerau, Landkreis;14
+31.12.2023;06434;Hochtaunuskreis;13
+31.12.2023;06435;Main-Kinzig-Kreis;29
+31.12.2023;06436;Main-Taunus-Kreis;12
+31.12.2023;06437;Odenwaldkreis;12
+31.12.2023;06438;Offenbach, Landkreis;13
+31.12.2023;06439;Rheingau-Taunus-Kreis;17
+31.12.2023;06440;Wetteraukreis;25
+31.12.2023;06531;Gießen, Landkreis;18
+31.12.2023;06532;Lahn-Dill-Kreis;23
+31.12.2023;06533;Limburg-Weilburg, Landkreis;19
+31.12.2023;06534;Marburg-Biedenkopf, Landkreis;22
+31.12.2023;06535;Vogelsbergkreis;19
+31.12.2023;06611;Kassel, kreisfreie Stadt, documenta-Stadt;1
+31.12.2023;06631;Fulda, Landkreis;23
+31.12.2023;06632;Hersfeld-Rotenburg, Landkreis;20
+31.12.2023;06633;Kassel, Landkreis;28
+31.12.2023;06634;Schwalm-Eder-Kreis;27
+31.12.2023;06635;Waldeck-Frankenberg, Landkreis;21
+31.12.2023;06636;Werra-Meißner-Kreis;16
+31.12.2023;07111;Koblenz, kreisfreie Stadt;1
+31.12.2023;07131;Ahrweiler, Landkreis;74
+31.12.2023;07132;Altenkirchen (Westerwald), Landkreis;118
+31.12.2023;07133;Bad Kreuznach, Landkreis;118
+31.12.2023;07134;Birkenfeld, Landkreis;96
+31.12.2023;07135;Cochem-Zell, Landkreis;89
+31.12.2023;07137;Mayen-Koblenz, Landkreis;87
+31.12.2023;07138;Neuwied, Landkreis;62
+31.12.2023;07140;Rhein-Hunsrück-Kreis;137
+31.12.2023;07141;Rhein-Lahn-Kreis;137
+31.12.2023;07143;Westerwaldkreis;192
+31.12.2023;07211;Trier, kreisfreie Stadt;1
+31.12.2023;07231;Bernkastel-Wittlich, Landkreis;107
+31.12.2023;07232;Eifelkreis Bitburg-Prüm;234
+31.12.2023;07233;Vulkaneifel, Landkreis;109
+31.12.2023;07235;Trier-Saarburg, Landkreis;104
+31.12.2023;07311;Frankenthal (Pfalz), kreisfreie Stadt;1
+31.12.2023;07312;Kaiserslautern, kreisfreie Stadt;1
+31.12.2023;07313;Landau in der Pfalz, kreisfreie Stadt;1
+31.12.2023;07314;Ludwigshafen am Rhein, kreisfreie Stadt;1
+31.12.2023;07315;Mainz, kreisfreie Stadt;1
+31.12.2023;07316;Neustadt an der Weinstraße, kreisfreie Stadt;1
+31.12.2023;07317;Pirmasens, kreisfreie Stadt;1
+31.12.2023;07318;Speyer, kreisfreie Stadt;1
+31.12.2023;07319;Worms, kreisfreie Stadt;1
+31.12.2023;07320;Zweibrücken, kreisfreie Stadt;1
+31.12.2023;07331;Alzey-Worms, Landkreis;69
+31.12.2023;07332;Bad Dürkheim, Landkreis;48
+31.12.2023;07333;Donnersbergkreis;81
+31.12.2023;07334;Germersheim, Landkreis;31
+31.12.2023;07335;Kaiserslautern, Landkreis;50
+31.12.2023;07336;Kusel, Landkreis;98
+31.12.2023;07337;Südliche Weinstraße, Landkreis;75
+31.12.2023;07338;Rhein-Pfalz-Kreis;25
+31.12.2023;07339;Mainz-Bingen, Landkreis;64
+31.12.2023;07340;Südwestpfalz, Landkreis;84
+31.12.2023;08111;Stuttgart, Stadtkreis;1
+31.12.2023;08115;Böblingen, Landkreis;26
+31.12.2023;08116;Esslingen, Landkreis;44
+31.12.2023;08117;Göppingen, Landkreis;38
+31.12.2023;08118;Ludwigsburg, Landkreis;39
+31.12.2023;08119;Rems-Murr-Kreis, Landkreis;31
+31.12.2023;08121;Heilbronn, Stadtkreis;1
+31.12.2023;08125;Heilbronn, Landkreis;46
+31.12.2023;08126;Hohenlohekreis, Landkreis;16
+31.12.2023;08127;Schwäbisch Hall, Landkreis;30
+31.12.2023;08128;Main-Tauber-Kreis, Landkreis;18
+31.12.2023;08135;Heidenheim, Landkreis;11
+31.12.2023;08136;Ostalbkreis, Landkreis;42
+31.12.2023;08211;Baden-Baden, Stadtkreis;1
+31.12.2023;08212;Karlsruhe, Stadtkreis;1
+31.12.2023;08215;Karlsruhe, Landkreis;32
+31.12.2023;08216;Rastatt, Landkreis;23
+31.12.2023;08221;Heidelberg, Stadtkreis;1
+31.12.2023;08222;Mannheim, Stadtkreis;1
+31.12.2023;08225;Neckar-Odenwald-Kreis, Landkreis;27
+31.12.2023;08226;Rhein-Neckar-Kreis, Landkreis;54
+31.12.2023;08231;Pforzheim, Stadtkreis;1
+31.12.2023;08235;Calw, Landkreis;25
+31.12.2023;08236;Enzkreis, Landkreis;28
+31.12.2023;08237;Freudenstadt, Landkreis;16
+31.12.2023;08311;Freiburg im Breisgau, Stadtkreis;1
+31.12.2023;08315;Breisgau-Hochschwarzwald, Landkreis;50
+31.12.2023;08316;Emmendingen, Landkreis;24
+31.12.2023;08317;Ortenaukreis, Landkreis;51
+31.12.2023;08325;Rottweil, Landkreis;21
+31.12.2023;08326;Schwarzwald-Baar-Kreis, Landkreis;20
+31.12.2023;08327;Tuttlingen, Landkreis;35
+31.12.2023;08335;Konstanz, Landkreis;25
+31.12.2023;08336;Lörrach, Landkreis;35
+31.12.2023;08337;Waldshut, Landkreis;32
+31.12.2023;08415;Reutlingen, Landkreis;26
+31.12.2023;08416;Tübingen, Landkreis;15
+31.12.2023;08417;Zollernalbkreis, Landkreis;25
+31.12.2023;08421;Ulm, Stadtkreis;1
+31.12.2023;08425;Alb-Donau-Kreis, Landkreis;55
+31.12.2023;08426;Biberach, Landkreis;45
+31.12.2023;08435;Bodenseekreis, Landkreis;23
+31.12.2023;08436;Ravensburg, Landkreis;39
+31.12.2023;08437;Sigmaringen, Landkreis;25
+31.12.2023;09161;Ingolstadt, kreisfreie Stadt;1
+31.12.2023;09162;München, kreisfreie Stadt;1
+31.12.2023;09163;Rosenheim, kreisfreie Stadt;1
+31.12.2023;09171;Altötting, Landkreis;24
+31.12.2023;09172;Berchtesgadener Land, Landkreis;15
+31.12.2023;09173;Bad Tölz-Wolfratshausen, Landkreis;21
+31.12.2023;09174;Dachau, Landkreis;17
+31.12.2023;09175;Ebersberg, Landkreis;21
+31.12.2023;09176;Eichstätt, Landkreis;30
+31.12.2023;09177;Erding, Landkreis;26
+31.12.2023;09178;Freising, Landkreis;24
+31.12.2023;09179;Fürstenfeldbruck, Landkreis;23
+31.12.2023;09180;Garmisch-Partenkirchen, Landkreis;22
+31.12.2023;09181;Landsberg am Lech, Landkreis;31
+31.12.2023;09182;Miesbach, Landkreis;17
+31.12.2023;09183;Mühldorf a.Inn, Landkreis;31
+31.12.2023;09184;München, Landkreis;29
+31.12.2023;09185;Neuburg-Schrobenhausen, Landkreis;18
+31.12.2023;09186;Pfaffenhofen a.d.Ilm, Landkreis;19
+31.12.2023;09187;Rosenheim, Landkreis;46
+31.12.2023;09188;Starnberg, Landkreis;14
+31.12.2023;09189;Traunstein, Landkreis;35
+31.12.2023;09190;Weilheim-Schongau, Landkreis;34
+31.12.2023;09261;Landshut, kreisfreie Stadt;1
+31.12.2023;09262;Passau, kreisfreie Stadt;1
+31.12.2023;09263;Straubing, kreisfreie Stadt;1
+31.12.2023;09271;Deggendorf, Landkreis;26
+31.12.2023;09272;Freyung-Grafenau, Landkreis;25
+31.12.2023;09273;Kelheim, Landkreis;24
+31.12.2023;09274;Landshut, Landkreis;35
+31.12.2023;09275;Passau, Landkreis;38
+31.12.2023;09276;Regen, Landkreis;24
+31.12.2023;09277;Rottal-Inn, Landkreis;31
+31.12.2023;09278;Straubing-Bogen, Landkreis;37
+31.12.2023;09279;Dingolfing-Landau, Landkreis;15
+31.12.2023;09361;Amberg, kreisfreie Stadt;1
+31.12.2023;09362;Regensburg, kreisfreie Stadt;1
+31.12.2023;09363;Weiden i.d.OPf., kreisfreie Stadt;1
+31.12.2023;09371;Amberg-Sulzbach, Landkreis;27
+31.12.2023;09372;Cham, Landkreis;39
+31.12.2023;09373;Neumarkt i.d.OPf., Landkreis;19
+31.12.2023;09374;Neustadt a.d.Waldnaab, Landkreis;38
+31.12.2023;09375;Regensburg, Landkreis;41
+31.12.2023;09376;Schwandorf, Landkreis;33
+31.12.2023;09377;Tirschenreuth, Landkreis;26
+31.12.2023;09461;Bamberg, kreisfreie Stadt;1
+31.12.2023;09462;Bayreuth, kreisfreie Stadt;1
+31.12.2023;09463;Coburg, kreisfreie Stadt;1
+31.12.2023;09464;Hof, kreisfreie Stadt;1
+31.12.2023;09471;Bamberg, Landkreis;36
+31.12.2023;09472;Bayreuth, Landkreis;33
+31.12.2023;09473;Coburg, Landkreis;17
+31.12.2023;09474;Forchheim, Landkreis;29
+31.12.2023;09475;Hof, Landkreis;27
+31.12.2023;09476;Kronach, Landkreis;18
+31.12.2023;09477;Kulmbach, Landkreis;22
+31.12.2023;09478;Lichtenfels, Landkreis;11
+31.12.2023;09479;Wunsiedel i.Fichtelgebirge, Landkreis;17
+31.12.2023;09561;Ansbach, kreisfreie Stadt;1
+31.12.2023;09562;Erlangen, kreisfreie Stadt;1
+31.12.2023;09563;Fürth, kreisfreie Stadt;1
+31.12.2023;09564;Nürnberg, kreisfreie Stadt;1
+31.12.2023;09565;Schwabach, kreisfreie Stadt;1
+31.12.2023;09571;Ansbach, Landkreis;58
+31.12.2023;09572;Erlangen-Höchstadt, Landkreis;25
+31.12.2023;09573;Fürth, Landkreis;14
+31.12.2023;09574;Nürnberger Land, Landkreis;27
+31.12.2023;09575;Neustadt a.d.Aisch-Bad Windsheim, Landkreis;38
+31.12.2023;09576;Roth, Landkreis;16
+31.12.2023;09577;Weißenburg-Gunzenhausen, Landkreis;27
+31.12.2023;09661;Aschaffenburg, kreisfreie Stadt;1
+31.12.2023;09662;Schweinfurt, kreisfreie Stadt;1
+31.12.2023;09663;Würzburg, kreisfreie Stadt;1
+31.12.2023;09671;Aschaffenburg, Landkreis;32
+31.12.2023;09672;Bad Kissingen, Landkreis;26
+31.12.2023;09673;Rhön-Grabfeld, Landkreis;37
+31.12.2023;09674;Haßberge, Landkreis;26
+31.12.2023;09675;Kitzingen, Landkreis;31
+31.12.2023;09676;Miltenberg, Landkreis;32
+31.12.2023;09677;Main-Spessart, Landkreis;40
+31.12.2023;09678;Schweinfurt, Landkreis;29
+31.12.2023;09679;Würzburg, Landkreis;52
+31.12.2023;09761;Augsburg, kreisfreie Stadt;1
+31.12.2023;09762;Kaufbeuren, kreisfreie Stadt;1
+31.12.2023;09763;Kempten (Allgäu), kreisfreie Stadt;1
+31.12.2023;09764;Memmingen, kreisfreie Stadt;1
+31.12.2023;09771;Aichach-Friedberg, Landkreis;24
+31.12.2023;09772;Augsburg, Landkreis;46
+31.12.2023;09773;Dillingen a.d.Donau, Landkreis;27
+31.12.2023;09774;Günzburg, Landkreis;34
+31.12.2023;09775;Neu-Ulm, Landkreis;17
+31.12.2023;09776;Lindau (Bodensee), Landkreis;19
+31.12.2023;09777;Ostallgäu, Landkreis;45
+31.12.2023;09778;Unterallgäu, Landkreis;52
+31.12.2023;09779;Donau-Ries, Landkreis;44
+31.12.2023;09780;Oberallgäu, Landkreis;28
+31.12.2023;10041;Saarbrücken, Regionalverband;10
+31.12.2023;10041100;Saarbrücken, Landeshauptstadt;.
+31.12.2023;10042;Merzig-Wadern, Landkreis;7
+31.12.2023;10043;Neunkirchen, Landkreis;7
+31.12.2023;10044;Saarlouis, Landkreis;13
+31.12.2023;10045;Saarpfalz-Kreis;7
+31.12.2023;10046;St. Wendel, Landkreis;8
+31.12.2023;11000;Berlin, kreisfreie Stadt;1
+31.12.2023;11001001;Berlin-Mitte;.
+31.12.2023;11002002;Berlin-Friedrichshain-Kreuzberg;.
+31.12.2023;11003003;Berlin-Pankow;.
+31.12.2023;11004004;Berlin-Charlottenburg-Wilmersdorf;.
+31.12.2023;11005005;Berlin-Spandau;.
+31.12.2023;11006006;Berlin-Steglitz-Zehlendorf;.
+31.12.2023;11007007;Berlin-Tempelhof-Schöneberg;.
+31.12.2023;11008008;Berlin-Neukölln;.
+31.12.2023;11009009;Berlin-Treptow-Köpenick;.
+31.12.2023;11010010;Berlin-Marzahn-Hellersdorf;.
+31.12.2023;11011011;Berlin-Lichtenberg;.
+31.12.2023;11012012;Berlin-Reinickendorf;.
+31.12.2023;12051;Brandenburg an der Havel, kreisfreie Stadt;1
+31.12.2023;12052;Cottbus, kreisfreie Stadt;1
+31.12.2023;12053;Frankfurt (Oder), kreisfreie Stadt;1
+31.12.2023;12054;Potsdam, kreisfreie Stadt;1
+31.12.2023;12060;Barnim, Landkreis;25
+31.12.2023;12061;Dahme-Spreewald, Landkreis;37
+31.12.2023;12062;Elbe-Elster, Landkreis;33
+31.12.2023;12063;Havelland, Landkreis;26
+31.12.2023;12064;Märkisch-Oderland, Landkreis;45
+31.12.2023;12065;Oberhavel, Landkreis;19
+31.12.2023;12066;Oberspreewald-Lausitz, Landkreis;25
+31.12.2023;12067;Oder-Spree, Landkreis;37
+31.12.2023;12068;Ostprignitz-Ruppin, Landkreis;23
+31.12.2023;12069;Potsdam-Mittelmark, Landkreis;38
+31.12.2023;12070;Prignitz, Landkreis;26
+31.12.2023;12071;Spree-Neiße, Landkreis;29
+31.12.2023;12072;Teltow-Fläming, Landkreis;16
+31.12.2023;12073;Uckermark, Landkreis;30
+31.12.2023;13001;Greifswald, Hansestadt, kreisfreie Stadt;-
+31.12.2023;13002;Neubrandenburg, Stadt,  kreisfreie Stadt;-
+31.12.2023;13003;Rostock, kreisfreie Stadt;1
+31.12.2023;13004;Schwerin, kreisfreie Stadt;1
+31.12.2023;13005;Stralsund, Hansestadt,  kreisfreie Stadt;-
+31.12.2023;13006;Wismar, Hansestadt,  kreisfreie Stadt;-
+31.12.2023;13051;Bad Doberan, Landkreis;-
+31.12.2023;13052;Landkreis Demmin;-
+31.12.2023;13053;Güstrow, Landkreis;-
+31.12.2023;13054;Landkreis Ludwigslust;-
+31.12.2023;13055;Mecklenburg-Strelitz, Landkreis;-
+31.12.2023;13056;Landkreis Müritz;-
+31.12.2023;13057;Nordvorpommern, Landkreis;-
+31.12.2023;13058;Landkreis Nordwestmecklenburg;-
+31.12.2023;13059;Ostvorpommern, Landkreis;-
+31.12.2023;13060;Landkreis Parchim;-
+31.12.2023;13061;Rügen, Landkreis;-
+31.12.2023;13062;Landkreis Uecker-Randow;-
+31.12.2023;13071;Mecklenburgische Seenplatte, Landkreis;148
+31.12.2023;13072;Landkreis Rostock;112
+31.12.2023;13073;Vorpommern-Rügen, Landkreis;101
+31.12.2023;13074;Nordwestmecklenburg, Landkreis;83
+31.12.2023;13075;Vorpommern-Greifswald, Landkreis;138
+31.12.2023;13076;Ludwigslust-Parchim, Landkreis;142
+31.12.2023;14161;Chemnitz, kreisfreie Stadt;-
+31.12.2023;14166;Plauen, kreisfreie Stadt;-
+31.12.2023;14167;Zwickau, kreisfreie Stadt;-
+31.12.2023;14171;Annaberg, Landkreis;-
+31.12.2023;14173;Chemnitzer Land, Landkreis;-
+31.12.2023;14177;Freiberg, Landkreis;-
+31.12.2023;14178;Vogtlandkreis;-
+31.12.2023;14181;Mittlerer Erzgebirgskreis;-
+31.12.2023;14182;Mittweida, Landkreis;-
+31.12.2023;14188;Stollberg, Landkreis;-
+31.12.2023;14191;Aue-Schwarzenberg, Landkreis;-
+31.12.2023;14193;Zwickauer Land, Landkreis;-
+31.12.2023;14262;Dresden, kreisfreie Stadt;-
+31.12.2023;14263;Görlitz, kreisfreie Stadt;-
+31.12.2023;14264;Hoyerswerda, kreisfreie Stadt;-
+31.12.2023;14272;Bautzen, Landkreis;-
+31.12.2023;14280;Meißen, Landkreis;-
+31.12.2023;14284;Niederschlesischer Oberlausitzkreis;-
+31.12.2023;14285;Riesa-Großenhain, Landkreis;-
+31.12.2023;14286;Löbau-Zittau, Landkreis;-
+31.12.2023;14287;Sächsische Schweiz, Landkreis;-
+31.12.2023;14290;Weißeritzkreis;-
+31.12.2023;14292;Kamenz, Landkreis;-
+31.12.2023;14365;Leipzig, kreisfreie Stadt;-
+31.12.2023;14374;Delitzsch, Landkreis;-
+31.12.2023;14375;Döbeln, Landkreis;-
+31.12.2023;14379;Leipziger Land, Landkreis;-
+31.12.2023;14383;Muldentalkreis;-
+31.12.2023;14389;Torgau-Oschatz, Landkreis;-
+31.12.2023;14511;Chemnitz, kreisfreie Stadt;1
+31.12.2023;14521;Erzgebirgskreis;59
+31.12.2023;14522;Mittelsachsen, Landkreis;52
+31.12.2023;14523;Vogtlandkreis;37
+31.12.2023;14524;Zwickau, Landkreis;33
+31.12.2023;14612;Dresden, kreisfreie Stadt;1
+31.12.2023;14625;Bautzen, Landkreis;57
+31.12.2023;14626;Görlitz, Landkreis;53
+31.12.2023;14627;Meißen, Landkreis;28
+31.12.2023;14628;Sächsische Schweiz-Osterzgebirge, Landkreis;36
+31.12.2023;14713;Leipzig, kreisfreie Stadt;1
+31.12.2023;14729;Leipzig, Landkreis;30
+31.12.2023;14730;Nordsachsen, Landkreis;30
+31.12.2023;15001;Dessau-Roßlau, kreisfreie Stadt;1
+31.12.2023;15002;Halle (Saale), kreisfreie Stadt;1
+31.12.2023;15003;Magdeburg, kreisfreie Stadt, Landeshauptstadt;1
+31.12.2023;15081;Altmarkkreis Salzwedel;13
+31.12.2023;15082;Anhalt-Bitterfeld, Landkreis;10
+31.12.2023;15083;Börde, Landkreis;34
+31.12.2023;15084;Burgenlandkreis;33
+31.12.2023;15085;Harz, Landkreis;20
+31.12.2023;15086;Jerichower Land, Landkreis;8
+31.12.2023;15087;Mansfeld-Südharz, Landkreis;22
+31.12.2023;15088;Saalekreis;20
+31.12.2023;15089;Salzlandkreis;21
+31.12.2023;15090;Stendal, Landkreis;25
+31.12.2023;15091;Wittenberg, Landkreis;9
+31.12.2023;15101;Dessau, kreisfreie Stadt;-
+31.12.2023;15151;Anhalt-Zerbst, Kreis;-
+31.12.2023;15153;Bernburg, Kreis;-
+31.12.2023;15154;Bitterfeld, Kreis;-
+31.12.2023;15159;Köthen, Kreis;-
+31.12.2023;15171;Wittenberg, Kreis;-
+31.12.2023;15202;Halle (Saale), kreisfreie Stadt;-
+31.12.2023;15256;Burgenlandkreis;-
+31.12.2023;15260;Mansfelder Land, Kreis;-
+31.12.2023;15261;Merseburg-Querfurt, Kreis;-
+31.12.2023;15265;Saalkreis;-
+31.12.2023;15266;Sangerhausen, Kreis;-
+31.12.2023;15268;Weißenfels, Kreis;-
+31.12.2023;15303;Magdeburg, kreisfreie Stadt;-
+31.12.2023;15352;Aschersleben-Staßfurt, Kreis;-
+31.12.2023;15355;Bördekreis;-
+31.12.2023;15357;Halberstadt, Kreis;-
+31.12.2023;15358;Jerichower Land, Kreis;-
+31.12.2023;15362;Ohrekreis;-
+31.12.2023;15363;Stendal, Kreis;-
+31.12.2023;15364;Quedlinburg, Kreis;-
+31.12.2023;15367;Schönebeck, Kreis;-
+31.12.2023;15369;Wernigerode, Kreis;-
+31.12.2023;15370;Altmarkkreis Salzwedel, Kreis;-
+31.12.2023;16051;Erfurt, kreisfreie Stadt;1
+31.12.2023;16052;Gera, kreisfreie Stadt;1
+31.12.2023;16053;Jena, kreisfreie Stadt;1
+31.12.2023;16054;Suhl, kreisfreie Stadt;1
+31.12.2023;16055;Weimar, kreisfreie Stadt;1
+31.12.2023;16056;Eisenach, kreisfreie Stadt;-
+31.12.2023;16061;Eichsfeld, Landkreis;68
+31.12.2023;16062;Nordhausen, Landkreis;15
+31.12.2023;16063;Wartburgkreis;32
+31.12.2023;16064;Unstrut-Hainich-Kreis;27
+31.12.2023;16065;Kyffhäuserkreis;28
+31.12.2023;16066;Schmalkalden-Meiningen, Landkreis;39
+31.12.2023;16067;Gotha, Landkreis;30
+31.12.2023;16068;Sömmerda, Landkreis;37
+31.12.2023;16069;Hildburghausen, Landkreis;32
+31.12.2023;16070;Ilm-Kreis;16
+31.12.2023;16071;Weimarer Land, Landkreis;38
+31.12.2023;16072;Sonneberg, Landkreis;8
+31.12.2023;16073;Saalfeld-Rudolstadt, Landkreis;26
+31.12.2023;16074;Saale-Holzland-Kreis;91
+31.12.2023;16075;Saale-Orla-Kreis;59
+31.12.2023;16076;Greiz, Landkreis;43
+31.12.2023;16077;Altenburger Land, Landkreis;30
+__________
+"zu ""Zahl der Gemeinden"":
+Baden-Württemberg: 1995-2005:Gebietsstand 01.01.1979;
+2006+2007: Gebietsstand 01.01.2007;
+Baden-Württemberg: einschließlich eines bewohnten
+gemeindefreien Gebiets
+2008-2010: Gebietsstand 01.01.2009; 2011: Gebietsstand
+01.01.2011
+Berlin: bis 2019 Zahl der Bezirke, bezogen auf den
+Gebietsstand 01.01.2001
+Sachsen-Anhalt: 2010: Gebietsstand 01.01.2011;
+Sachsen-Anhalt: 2013: Gebietsstand 01.01.2014;"
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2025.
+Dieses Werk ist lizenziert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 13.01.2025 / 09:46:27

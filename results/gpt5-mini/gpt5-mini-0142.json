@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0142",
+  "run_at": "2025-08-31T13:20:09.212423Z",
+  "question_id": 142,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018?",
+  "answer": "https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die gesamte Bevölkerungsbewegung im Jahr 2018 für die verschiedenen Stadtbereiche von Rostock enthält. Er umfasst unter anderem die absolute und relative Bestandsveränderung sowie die Veränderung je 1.000 Einwohnerinnen und Einwohner.",
+  "llm_final": "Ja — das OpenData-Portal der Hansestadt Rostock stellt 2018er-Datensätze nach Stadtbereichen bereit (Quelle: Melderegister, Stichtag 31.12.2018). Relevante Dateien:\n\n- Übersicht (Datensatzseite Bevölkerungsstruktur 2018):\n  https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd\n\nWichtige CSV-Downloads (je Stadtbereich):\n- Gesamte Bevölkerungsbewegung 2018 (abs. und rel. Bestandsveränderung, Bestandsveränderung je 1.000):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_bewegung_gesamt.csv\n\n- Räumliche Bevölkerungsbewegung 2018 (Zuzüge, Wegzüge, Wanderungssaldo):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_bewegung_raeumlich.csv\n\n- Bevölkerung insgesamt 2018 (Einwohnerzahl je Stadtbereich, Bevölkerungsdichte):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_insgesamt.csv\n\n(Weitere thematische Dateien: natürliche Bewegung, Altersstruktur, Geschlecht, Haushaltsstruktur, Staatsangehörigkeit, Familienstand — alle auf derselben Datensatzseite verlinkt.)\n\nSoll ich eine der CSVs herunterladen und für dich die Veränderungswerte pro Stadtbereich zusammenfassen (z. B. Top‑Zunahmen / Top‑Abnahmen), eine Tabelle erzeugen oder eine Grafik erstellen? Wenn ja: welche Ansicht bevorzugst du?"
+}

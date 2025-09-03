@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0129",
+  "run_at": "2025-09-01T22:32:35.638255Z",
+  "question_id": 129,
+  "question": "Wie viele Familien in Kreuzau bestanden zum Stichtag 31.12.2016 aus vier oder mehr Personen?",
+  "answer": "Zum Stichtag 31.12.2016 gab es in Kreuzau 632 Familien mit vier oder mehr Personen.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 116255 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 116255 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die Antwort enthält eine explizite Fehlermeldung zum Überschreiten der maximalen Eingabelänge (Tokenlimit). Es wurde keine inhaltliche Antwort zur Frage geliefert."
+  }
+}

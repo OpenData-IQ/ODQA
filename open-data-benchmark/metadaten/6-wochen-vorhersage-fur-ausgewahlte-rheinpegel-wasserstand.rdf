@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns1="http://data.europa.eu/eli/ontology#"
+>
+  <dcat:Dataset rdf:about="https://gdk.gdi-de.org/inspire/srv/eng/xml_iso19139?uuid=3c871590-c5db-440f-a34d-3a675b8cec39">
+    <dct:title>6-Wochen-Vorhersage für ausgewählte Rheinpegel, Wasserstand</dct:title>
+    <dct:description><![CDATA[Seit Juli 2022 veröffentlicht die BfG eine wahrscheinlichkeitsbasierte 6-Wochen-Vorhersage des Wasserstandes für schifffahrtsrelevante Pegel am Rhein. Die 6-Wochen-Vorhersage wird für die Rhein-Pegel Maxau, Kaub, Köln und Duisburg-Ruhrort analog zur 4-Tage Niedrig- und Mittelwasservorhersage über ELWIS bereitgestellt. Eine Aktualisierung der 6-Wochen-Vorhersage erfolgt zweimal wöchentlich (Dienstags und Freitags), jeweils am späten Vormittag. Die 6-Wochen-Vorhersage basiert auf aktuellen Messwerten der Pegel im Rheineinzugsgebiet und den Informationen von über 1000 Wetterstationen. Die Vorhersage wird unter anderem auf Grundlage der ENS extended Ensemble-Vorhersagen des Europäischen Zentrums für mittelfristige Wettervorhersagen (EZMW / ECMWF) berechnet. Auf Grundlage dieser umfangreichen Echtzeitdaten ermittelt die BfG mit einem hydrologischen Modell ein Ensemble von Wasserstandsvorhersagen über die kommenden 6 Wochen. Auf dieser Basis werden in Kombination mit statistischen Methoden an den oben genannten Rheinpegeln Wahrscheinlichkeitsverteilungen von Wochenmittelwerten für die Trendvorhersage ermittelt. Die Darstellung dieser Vorhersage erfolgt als Boxplots. Nähere Erläuterungen sind unter https://www.bafg.de/DE/08_Ref/M2/04_Vorhersagen/6wRheinElbe/6w_node.html zu finden. Der Dateiname der der Boxplot-Quantile entspricht folgendem Schema: <Fluss>_<Pegelname>_6Wochen_Wasserstand_QuansBox.csv, Zusätzlich wird eine 4-Klassenvorhersage veröffentlicht, die anhand von Kuchendiagrammen zeigt, ob für die kommenden Wochen im Vergleich zum langjährigem Mittel eher niedrigere oder höhere Abflüsse vorhergesagt sind. Der Dateiname der Grenzen und Wahrscheinlichkeiten der Kuchendiagramme entspricht dem folgendem Schema: <Fluss>_<Pegelname>_6Wochen_Wasserstand_Pie.csv. Die Stammdaten der Vorhersage-Pegel (z.B. Koordinaten) können über PEGELONLINE https://www.pegelonline.wsv.de/ abgerufen werden.]]></dct:description>
+    <dct:identifier>3c871590-c5db-440f-a34d-3a675b8cec39</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+    </dct:accrualPeriodicity>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword>6-wochen</dcat:keyword>
+    <dcat:keyword>elwis</dcat:keyword>
+    <dcat:keyword>mobilität</dcat:keyword>
+    <dcat:keyword>opendata</dcat:keyword>
+    <dcat:keyword>pegel-duisburg-ruhrort</dcat:keyword>
+    <dcat:keyword>pegel-kaub</dcat:keyword>
+    <dcat:keyword>pegel-köln</dcat:keyword>
+    <dcat:keyword>pegel-maxau</dcat:keyword>
+    <dcat:keyword>rhein</dcat:keyword>
+    <dcat:keyword>wasserstandsvorhersage</dcat:keyword>
+    <dcat:keyword>wsv</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-26</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-07</dct:modified>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="N06ed9bfa636449fb9d9cb8281e5a1f7b">
+        <vcard:fn>Bundesanstalt für Gewässerkunde</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:vorhersage@bafg.de"/>
+        <vcard:hasURL rdf:resource="https://www.bafg.de/vorhersage"/>
+        <vcard:hasTelephone rdf:resource="tel:+49026113060"/>
+        <vcard:hasStreetAddress>Am Mainzer Tor 1</vcard:hasStreetAddress>
+        <vcard:hasLocality>Koblenz</vcard:hasLocality>
+        <vcard:hasPostalCode>56068</vcard:hasPostalCode>
+        <vcard:hasCountryName>Deutschland</vcard:hasCountryName>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="N3efad52ec9eb41bf855dbf73f1e8ed7e">
+        <foaf:name>Bundesanstalt für Gewässerkunde</foaf:name>
+        <foaf:mbox>vorhersage@bafg.de</foaf:mbox>
+        <foaf:homepage rdf:resource="https://www.bafg.de/vorhersage"/>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N0a87f07f0dfc490482e6ab065236c691">
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((5.4700 52.0000, 9.8200 52.0000, 9.8200 46.4100, 5.4700 46.4100, 5.4700 52.0000))</locn:geometry>
+      </dct:Location>
+    </dct:spatial>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="Na4d9c75a3acc436daaa2f136f024ed70">
+        <rdfs:label>Es gelten keine Bedingungen</rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_QuansBox.csv#distribution">
+        <dct:title>Quantilgrenzen der Boxplots pegel Maxau</dct:title>
+        <dct:description>Quantilgrenzen der Boxplots pegel Maxau</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_QuansBox.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_QuansBox.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070864</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355355</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_QuansBox.csv#distribution">
+        <dct:title>Quantilgrenzen der Boxplots Pegel Kaub</dct:title>
+        <dct:description>Quantilgrenzen der Boxplots Pegel Kaub</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_QuansBox.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_QuansBox.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070869</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355506</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_QuansBox.csv#distribution">
+        <dct:title>Quantilgrenzen der Boxplots Pegel Köln</dct:title>
+        <dct:description>Quantilgrenzen der Boxplots Pegel Köln</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_QuansBox.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_QuansBox.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070872</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355619</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_QuansBox.csv#distribution">
+        <dct:title>Quantilgrenzen der Boxplots Pegel Duisburg-Ruhrort</dct:title>
+        <dct:description>Quantilgrenzen der Boxplots Pegel Duisburg-Ruhrort</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_QuansBox.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_QuansBox.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070874</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355718</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_Pie.csv#distribution">
+        <dct:title>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Maxau</dct:title>
+        <dct:description>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Maxau</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_Pie.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_Pie.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070877</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355812</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_Pie.csv#distribution">
+        <dct:title>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Kaub</dct:title>
+        <dct:description>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Kaub</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_Pie.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_Pie.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070879</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.355934</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_Pie.csv#distribution">
+        <dct:title>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Köln</dct:title>
+        <dct:description>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Köln</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_Pie.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_Pie.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070881</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.356029</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_Pie.csv#distribution">
+        <dct:title>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Duisburg-Ruhrort</dct:title>
+        <dct:description>Wahrscheinlichkeiten und Grenzwerte der Kuchendiagramme Pegel Duisburg-Ruhrort</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_Pie.csv"/>
+        <dcat:downloadURL rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_Pie.csv"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+        <foaf:page rdf:resource="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-23T12:40:39.070884</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-26T09:42:10.356116</dct:modified>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatde:licenseAttributionByText>BfG; aktuelles Datum</dcatde:licenseAttributionByText>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatap:applicableLegislation>
+      <ns1:LegalResource rdf:about="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    </dcatap:applicableLegislation>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+    <adms:identifier>3c871590-c5db-440f-a34d-3a675b8cec39</adms:identifier>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/gdiDE"/>
+  </dcat:Dataset>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_QuansBox.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <foaf:Document rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand.pdf"/>
+  <foaf:Document rdf:about="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2770010"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_QuansBox.csv"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand_Pie.csv"/>
+  <foaf:Document rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand.pdf"/>
+  <foaf:Document rdf:about="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=23700200"/>
+  <foaf:Document rdf:about="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=2730010"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_Pie.csv"/>
+  <foaf:Document rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand.pdf"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Duisburg-Ruhrort_6Wochen_Wasserstand_Pie.csv"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Kaub_6Wochen_Wasserstand_QuansBox.csv"/>
+  <foaf:Document rdf:about="https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_QuansBox.csv"/>
+  <foaf:Document rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Koeln_6Wochen_Wasserstand.pdf"/>
+  <rdfs:Resource rdf:about="https://vorhersage.bafg.de/6-Wochen-Vorhersage/Rhein-Maxau_6Wochen_Wasserstand_Pie.csv"/>
+</rdf:RDF>

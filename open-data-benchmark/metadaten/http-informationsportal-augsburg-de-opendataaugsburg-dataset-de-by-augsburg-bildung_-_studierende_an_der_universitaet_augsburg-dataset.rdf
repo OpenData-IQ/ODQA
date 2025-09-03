@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:piveau="https://piveau.eu/ns/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Dataset rdf:about="https://open.bydata.de/api/hub/repo/datasets/http-informationsportal-augsburg-de-opendataaugsburg-dataset-de-by-augsburg-bildung_-_studierende_an_der_universitaet_augsburg-dataset">
+    <dct:description>Bildung - Studierende an der Universität Augsburg</dct:description>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/097610000000"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2025-02-28</dct:modified>
+    <dct:spatial rdf:resource="https://www.geonames.org/3220868"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:keyword>Wintersemester</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://open.bydata.de/api/hub/repo/distributions/87a42112-de81-4820-a356-d8b08e0da22c">
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:description>de-by-augsburg-bildung_-_studierende_an_der_universitaet_augsburg</dct:description>
+        <dct:title>Bildung - Studierende an der Universität Augsburg</dct:title>
+        <dcatapde:licenseAttributionByText>Stadt Augsburg Amt für Statistik und Stadtforschung</dcatapde:licenseAttributionByText>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dct:identifier>http://informationsportal.augsburg.de/OpenDataAugsburg/dataset/de-by-augsburg-bildung_-_studierende_an_der_universitaet_augsburg#dist-csv</dct:identifier>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2025-02-28</dct:modified>
+        <dcat:downloadURL rdf:resource="http://informationsportal.augsburg.de/OpenDataAugsburg/dataset/de-by-augsburg-bildung_-_studierende_an_der_universitaet_augsburg/content.csv"/>
+        <dcat:accessURL rdf:resource="http://informationsportal.augsburg.de/OpenDataAugsburg/dataset/de-by-augsburg-bildung_-_studierende_an_der_universitaet_augsburg/content.csv"/>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatapde:maintainer>
+      <foaf:Organization>
+        <foaf:name>Bayerisches Landesamt für Statistik</foaf:name>
+      </foaf:Organization>
+    </dcatapde:maintainer>
+    <dcat:keyword>Typ </dcat:keyword>
+    <dct:publisher>
+      <foaf:Organization>
+        <foaf:name>Stadt Augsburg Amt für Statistik und Stadtforschung</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dcat:contactPoint>
+      <vcard:Individual>
+        <vcard:fn> </vcard:fn>
+        <vcard:hasEmail></vcard:hasEmail>
+      </vcard:Individual>
+    </dcat:contactPoint>
+    <piveau:openDataPresence>augsburg.bydata</piveau:openDataPresence>
+    <dct:title>Bildung - Studierende an der Universität Augsburg</dct:title>
+    <dcat:keyword>Merkmal</dcat:keyword>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+    <dcat:keyword>Hochschule</dcat:keyword>
+    <dcat:keyword>Studierende</dcat:keyword>
+    <dct:temporal>
+      <dct:PeriodOfTime>
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2010-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-12-31T00:00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+  </dcat:Dataset>
+</rdf:RDF>

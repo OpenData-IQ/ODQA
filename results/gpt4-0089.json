@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0089",
+  "run_at": "2025-09-03T13:47:26.892550Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\" ist in den verfügbaren offenen Daten nicht enthalten. Es gibt jedoch einen Datensatz zum Personal an Hochschulen, der allgemeine Informationen zu Professorinnen enthält. Diesen Datensatz finden Sie hier:\n\nPersonal an Hochschulen (2021):  \nhttps://opendata.schleswig-holstein.de/dataset/ae3e76dc-1e24-4051-99dc-98bd1fdf6f8e\n\nEinen spezifischen Artikel mit dem genannten Titel gibt es in den bereitgestellten Daten nicht."
+}

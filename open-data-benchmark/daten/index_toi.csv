@@ -1,0 +1,85 @@
+id;einrichtung;benennung;strasse;plz;benutzung;oeffnungszeiten;barrierefreiheit
+1;"Öffentliche Einrichtung";"Bezirksamt Lichtenberg - Dienstgebäude";"Alt-Friedrichsfelde 60";"10315 Berlin";kostenlos;"Mo-Fr 08:00-18:00 Uhr";ja
+4;"Sonstige Toiletten";"Bahnhof Lichtenberg - WC-Center";"Weitlingstr. 22";"10317 Berlin";kostenpflichtig;durchgehend;ja
+7;"Öffentliche Einrichtung";"Museum Lichtenberg";"Türrschmidtstr. 24";"10317 Berlin";kostenlos;"Di-Fr 11:00-18:00 Uhr / So 11:00-18:00 Uhr / feiertags geschlossen";ja
+10;"Öffentliche Einrichtung";"Stadtteilzentrum Lichtenberg Mitte";"Margaretenstr. 11";"10317 Berlin";kostenlos;"während der Öffnungszeiten";ja
+13;Einkaufscentren;"Victoria Center";"Marktstr. 6";"10317 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+16;WALL-Citytoiletten;WALL-Citytoilette;"Bahnhof Lichtenberg - Einbecker Straße Ecke Weitlingstraße";"10317 Berlin";kostenpflichtig;durchgehend;ja
+19;WALL-Citytoiletten;WALL-Citytoilette;"Bahnhof Nöldnerplatz, Lückstraße/ Ecke Archibaldweg";"10317 Berlin";kostenpflichtig;durchgehend;ja
+22;"Öffentliche Einrichtung";"Kulturhaus Karlshorst";"Treskowallee 112";"10318 Berlin";kostenlos;"während der Öffnungszeiten";ja
+25;WALL-Citytoiletten;WALL-Citytoilette;"Bahnhof Karlshorst - Stolzenfelsstr.";"10318 Berlin";kostenpflichtig;durchgehend;ja
+28;"Öffentliche Einrichtung";Bodo-Uhse-Bibliothek;"Erich-Kurz-Str. 9";"10319 Berlin";kostenlos;"Mo, Di, Do, Fr 09:00-19:00 Uhr / Mi 13:00-19:00 Uhr / Sa 09:00-15:00 Uhr";ja
+31;"Öffentliche Einrichtung";"Bürgeramt 3 im Tierpark Center";"Otto-Schmirgal-Str. 1";"10319 Berlin";kostenlos;"während der Öffnungszeiten";ja
+34;Einkaufscentren;"Tierpark Center";"Otto-Schmirgal-Str. 1-7";"10319 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+37;Tankstellen;"Jet Tankstelle";"Am Tierpark 126";"10319 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+40;"Öffentliche Einrichtung";"Stadtteilzentrum Lichtenberg Süd - iKARUS";"Wandlitzstr. 13";"10319 Berlin";kostenlos;"während der Öffnungszeiten";ja
+43;"Öffentliche Einrichtung";Egon-Erwin-Kisch-Bibliothek;"Frankfurter Allee 149";"10365 Berlin";kostenlos;"Mo, Di, Do, Fr 09:00-19:00 Uhr / Mi 13:00-19:00 Uhr / Sa 09:00-15:00 Uhr";ja
+46;Einkaufscentren;"Globus Baumarkt";"Landsberger Allee 360-362";"10365 Berlin";kostenlos;"während der Öffnungszeiten";ja
+49;Einkaufscentren;IKEA;"Landsberger Allee 364";"10365 Berlin";kostenlos;"Mo-Sa 10:00-21:00 Uhr";ja
+52;Tankstellen;"Jet Tankstelle";"Herzbergstr. 27";"10365 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+55;"Öffentliche Einrichtung";"Keramikatelier Lichtenberg";"Frankfurter Allee 203";"10365 Berlin";kostenlos;"Mo-Do 08:00-21:00 Uhr";ja
+58;"Öffentliche Einrichtung";"Stadtteilzentrum Lichtenberg Nord - Kiezspinne";"Schulze-Boysen-Str. 38";"10365 Berlin";kostenlos;"während der Öffnungszeiten";ja
+61;WALL-Citytoiletten;WALL-Citytoilette;"Gürtelstraße Ecke Frankfurter Allee";"10365 Berlin";kostenpflichtig;durchgehend;ja
+64;WALL-Citytoiletten;WALL-Citytoilette;"Zugang Zentralfriedhof - Rüdigerstraße";"10365 Berlin";kostenpflichtig;durchgehend;ja
+67;"Öffentliche Einrichtung";"Bürgeramt 2";"Normannenstr. 1-2";"10367 Berlin";kostenlos;"während der Öffnungszeiten";ja
+70;Einkaufscentren;"Möllendorff Passage Lichtenberg";"Möllendorffstr. 47";"10367 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+73;"Öffentliche Einrichtung";"Rathaus Lichtenberg";"Möllendorffstr. 6";"10367 Berlin";kostenlos;"Mo-Fr 06:30-21:30 Uhr";ja
+76;"Öffentliche Einrichtung";"RBO Haus der Generationen";"Paul-Junius-Str. 64A und 64B";"10367 Berlin";kostenlos;"Mo-Do 09:00-18:00 Uhr";ja
+79;"Öffentliche Einrichtung";Anton-Saefkow-Bibliothek;"Anton-Saefkow-Platz 14";"10369 Berlin";kostenlos;"Mo, Di, Do, Fr 09:00-19:00 Uhr / Mi 13:00-19:00 Uhr / Sa 09:00-15:00 Uhr";ja
+82;"Öffentliche Einrichtung";Margarete-Steffin-Volkshochschule;"Paul-Junius-Str. 71";"10369 Berlin";kostenlos;"während der Öffnungszeiten";ja
+85;WALL-Citytoiletten;WALL-Citytoilette;"Anton-Saefkow-Platz - Treppeneingang Sparkasse";"10369 Berlin";kostenpflichtig;durchgehend;ja
+88;"Öffentliche Einrichtung";Anna-Seghers-Bibiothek;"Prerower Platz 2";"13051 Berlin";kostenlos;"Mo, Di, Do, Fr 09:00-20:00 Uhr / Mi 13:00-20:00 Uhr / Sa 09:00-16:00 Uhr";ja
+91;"Öffentliche Einrichtung";"Förderverein Naturschutzstation Malchow e.V.";"Dorfstr. 35";"13051 Berlin";kostenlos;"während der Öffnungszeiten";ja
+94;Einkaufscentren;"Hansa Center";"Hansastr. 246";"13051 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+97;"Öffentliche Einrichtung";"kunst- und literaturwerkstatt - studio im hochhaus";"Zingster Str. 25";"13051 Berlin";kostenlos;"Mo-Do 11:00-19:00 Uhr / Fr 11:00-16:00 Uhr / So 14:00-18:00 Uhr";ja
+100;Einkaufscentren;Linden-Center;"Prerower Platz 1";"13051 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+103;Tankstellen;"Star Tankstelle";"Hansastr. 220";"13051 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+106;Tankstellen;"TotalEnergies Tankstelle";"Ribnitzer Str. 42";"13051 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+109;Tankstellen;"TotalEnergies Tankstelle";"Indira-Gandhi-Str. 106";"13053 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+112;Tankstellen;"ESSO Tankstelle";"Indira-Gandhi-Str. 75";"13053 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+115;"Öffentliche Einrichtung";"Kieztreff Lebensnetz";"Anna-Ebermann-Str. 26";"13053 Berlin";kostenlos;"Mo-Do 09:00-17:00 Uhr / Fr 09:00-15:00 Uhr";ja
+118;"Öffentliche Einrichtung";Mies-van-der-Rohe-Haus;"Oberseestr. 60";"13053 Berlin";kostenlos;"Di-So 11:00-17:00 Uhr";ja
+121;Tankstellen;"Star Tankstelle";"Gehrenseestr. 10";"13053 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+124;"Öffentliche Einrichtung";"Vitanas Senioren Centrum Am Obersee";"Degnerstr. 11";"13053 Berlin";kostenlos;"Mo-So 08:00-18:00 Uhr";ja
+127;WALL-Citytoiletten;WALL-Citytoilette;"Parkplatz Degnerstraße Ecke Waldowstraße";"13053 Berlin";kostenpflichtig;durchgehend;ja
+130;Einkaufscentren;Alleecenter;"Landsberger Allee 277";"13055 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+133;"Öffentliche Einrichtung";"Bezirksamt Lichtenberg - Dienstgebäude";"Große-Leege-Str. 103";"13055 Berlin";kostenlos;"Mo-Fr 08:00-18:00 Uhr";ja
+136;"Öffentliche Einrichtung";"Galerie 100";"Konrad-Wolf-Str. 99";"13055 Berlin";kostenlos;"Di-Fr 10:00-18:00 Uhr / So 14:00-18:00 Uhr / feiertags geschlossen";ja
+139;Tankstellen;"Jet Tankstelle";"Rhinstr. 24";"13055 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+142;Einkaufscentren;"Kaufland im Storchenhof-Center";"Hauptstr. 9-10";"13055 Berlin";kostenlos;"Mo-Sa 07:00-22:00 Uhr";ja
+145;Tankstellen;"Star Tankstelle";"Pablo-Picasso-Str. 50";"13057 Berlin";"auf Nachfrage";"während der Öffnungszeiten";
+148;"Öffentliche Einrichtung";"Bezirksamt Lichtenberg - Dienstgebäude";"Egon-Erwin-Kisch-Str. 106";"13059 Berlin";kostenlos;"Mo-Fr 08:00-18:00 Uhr";ja
+151;"Öffentliche Einrichtung";Jugendkunstschule;"Demminer Str. 4";"13059 Berlin";kostenlos;"während der Öffnungszeiten";ja
+154;"Öffentliche Einrichtung";"Lebensmut e.V. - Verein für Dialog und selbstbestimmte Lebensgestaltung";"Grevesmühlener Str. 24";"13059 Berlin";kostenlos;"während der Öffnungszeiten";ja
+157;"Öffentliche Einrichtung";"Verein für aktive Vielfalt e.V. - Nachbarschaftshaus im Ostseeviertel";"Ribnitzer Str. 1B";"13059 Berlin";kostenlos;"Mo, Di, Do 09:00-17:00 Uhr / Mi 09:00-15:00 Uhr / Fr 09:00-16:00 Uhr";ja
+160;WALL-Citytoiletten;WALL-Citytoilette;"Vorplatz S-Bahnhof Wartenberg - Ausgang Egon-Erwin-Kisch-Straße";"13059 Berlin";kostenpflichtig;durchgehend;ja
+163;"Öffentliche Einrichtung";"AWO Margaretentreff";"Zacherstr. 52";"10315 Berlin";kostenlos;"Mo, Di 11:00-17:00 Uhr / Do 10:00-16:00 Uhr";nein
+166;"Sonstige Toiletten";"ECO-Toilette im Landschaftspark Herzberge";"An den Streuobstwiesen";"10315 Berlin";kostenlos;"Frühjahr bis Herbst durchgehend geöffnet";nein
+169;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte";"Einbecker Str. 85";"10315 Berlin";kostenlos;"Mo-Do 09:00-17:00 Uhr, Fr 10:00-16:00 Uhr";ja
+172;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte „Am Tierpark“";"Sewanstr. 235";"10319 Berlin";kostenlos;"Mo-Fr 10:00-17:00 Uhr";ja
+175;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte „Judith Auer“";"Judith-Auer-Str. 8";"10369 Berlin";kostenlos;"Mo-Mi 10:00-17:00 Uhr / Do 10:00-17:30 Uhr / Fr 09:00-15:30 Uhr";ja
+178;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte „Rusche 43“";"Ruschestraße 43";"10367 Berlin";kostenlos;"Mo 12:00-18:00 Uhr / Di, Do 12:00-17:00 Uhr / Mi 10:00-17:00 Uhr";ja
+181;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte Karlshorst";"Hönower Str. 30a";"10318 Berlin";kostenlos;"Mo-Do 10:00-17:00 Uhr, Fr wechselnd";ja
+184;"Öffentliche Einrichtung";"Kommunale Begegnungsstätte Warnitzer Bogen";"Warnitzer Str. 6-8";"13057 Berlin";kostenlos;"Mo, Mi, Do 09:00-17:00 Uhr / Fr 10:00-15:00 Uhr";ja
+187;"Öffentliche Einrichtung";"Kunsthaus 360° - Raum für Kreativität";"Prerower Platz 10";"13051 Berlin";kostenpflichtig;"während der Öffnungszeiten";ja
+190;"Öffentliche Einrichtung";"Nachbarschaftstreff Seefelder Straße";"Seefelder Str. 50";"13053 Berlin";kostenlos;"während der Öffnungszeiten";nein
+193;"Öffentliche Einrichtung";"rk-Galerie im Rathaus";"Möllendorffstr. 6";"10367 Berlin";kostenlos;"Mo-Fr 08:00-18:00 Uhr";nein
+196;WALL-Citytoiletten;WALL-Citytoilette;"Zingster/Ribnitzer Str.";"13051 Berlin";kostenpflichtig;durchgehend;ja
+199;WALL-Citytoiletten;WALL-Citytoilette;"Seddiner Straße";"10315 Berlin";kostenpflichtig;durchgehend;ja
+202;WALL-Citytoiletten;WALL-Citytoilette;"Stadtpark Kielblockstraße Ecke Möllendorffstraße";"10367 Berlin";kostenpflichtig;durchgehend;ja
+205;"Öffentliche Einrichtung";"Museum Karlshorst";"Zwieseler Straße 4";"10318 Berlin";kostenlos;"Di-So 10:00-18:00 Uhr";ja
+208;WALL-Citytoiletten;WALL-Citytoilette;"Zingster Str. 2";"13051 Berlin";kostenpflichtig;durchgehend;ja
+211;WALL-Citytoiletten;WALL-Citytoilette;"Welsestr. 57";"13057 Berlin";kostenpflichtig;durchgehend;ja
+214;WALL-Citytoiletten;WALL-Citytoilette;"Storkower Str. 207";"10369 Berlin";kostenlos;durchgehend;ja
+217;WALL-Citytoiletten;WALL-Citytoilette;"Hauptstraße 28";"10317 Berlin";kostenpflichtig;durchgehend;ja
+220;WALL-Citytoiletten;WALL-Citytoilette;"Am Tierpark 72";"10319 Berlin";kostenlos;durchgehend;ja
+223;WALL-Citytoiletten;WALL-Citytoilette;"Königswinterstr. 7a";"10318 Berlin";kostenlos;durchgehend;ja
+226;WALL-Citytoiletten;WALL-Citytoilette;"Egon-Erwin-Kisch-Str. 104";"13059 Berlin";kostenpflichtig;durchgehend;ja
+229;WALL-Citytoiletten;WALL-Citytoilette;"Weißenseer Weg 53";"13053 Berlin";kostenpflichtig;durchgehend;ja
+232;WALL-Citytoiletten;WALL-Citytoilette;"Rummelsburger Str. 44";"10315 Berlin";kostenpflichtig;durchgehend;ja
+235;WALL-Citytoiletten;WALL-Citytoilette;"Bernhard-Bästlein-Str. 1";"10367 Berlin";kostenpflichtig;durchgehend;ja
+238;WALL-Citytoiletten;WALL-Citytoilette;"Warnitzer Str. 7";"13057 Berlin";kostenpflichtig;durchgehend;ja
+241;WALL-Citytoiletten;WALL-Citytoilette;"Waldowstr. 31";"13053 Berlin";kostenpflichtig;durchgehend;ja
+244;WALL-Citytoiletten;WALL-Citytoilette;"Dolgenseestraße 9E";"10319 Berlin";kostenpflichtig;durchgehend;ja
+247;WALL-Citytoiletten;WALL-Citytoilette;"Konrad-Wolf-Str. 76";"13055 Berlin";kostenpflichtig;durchgehend;ja
+250;WALL-Citytoiletten;WALL-Citytoilette;"Emma-Ihrer-Str. 39";"10317 Berlin";kostenpflichtig;durchgehend;ja

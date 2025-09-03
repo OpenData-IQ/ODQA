@@ -1,0 +1,11 @@
+{
+  "thread_id": "claude-0102",
+  "run_at": "2025-09-01T14:55:15.568499Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es scheint, dass der Datenrahmen anders benannt wurde. Lassen Sie mich versuchen, die Daten direkt zu analysieren, indem ich die Informationen aus dem heruntergeladenen Inhalt extrahiere.\n\nBasierend auf den heruntergeladenen Daten kann ich folgende Informationen zu den Eheschließungen in Dortmund seit 2016 entnehmen:\n\nJahr | Eheschließungen inkl. Lebenspartnerschaften\n-----|------------------------------------------\n2016 | 2635\n2017 | 2733\n2018 | 2785\n2019 | 2661\n2020 | 2251\n2021 | 2123\n2022 | 2425\n2023 | 2452\n2024 | 2217\n\nNun kann ich Ihre Frage beantworten, in welchen Jahren es in Dortmund mehr als 2500 Eheschließungen gab.\n\n**FinalAnswer:**\nIn Dortmund gab es in den Jahren 2016, 2017, 2018 und 2019 mehr als 2500 Eheschließungen. Die genauen Zahlen sind:\n- 2016: 2635 Eheschließungen\n- 2017: 2733 Eheschließungen\n- 2018: 2785 Eheschließungen\n- 2019: 2661 Eheschließungen\n\nQuelle: https://open-data.dortmund.de/api/v2/catalog/datasets/fb33-eheschliessungen-in-dortmund-seit-2016"
+}

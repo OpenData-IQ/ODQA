@@ -1,0 +1,11 @@
+{
+  "thread_id": "gemini2-5-0092",
+  "run_at": "2025-09-01T05:55:01.206297Z",
+  "question_id": 92,
+  "question": "Wie hoch ist die geschätzte Auszahlung für die kommenden drei Jahre für die bilaterale staatliche Entwicklungszusammenarbeit für Tadschikistan?",
+  "answer": "2810000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt, geht nur aus den metadaten hervor",
+  "llm_final": "The estimated payout for bilateral government development cooperation for Tajikistan for the coming three years (2025, 2026, 2027) is as follows:\n\n*   **2025:** 2,810,000 EUR\n*   **2026:** 0 EUR (no data available for this year in the provided dataset)\n*   **2027:** 0 EUR (no data available for this year in the provided dataset)\n\nSource: https://ckan.govdata.de/dataset/73987e5e-4b72-4487-9562-f0a00be44623"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0121",
+  "run_at": "2025-08-31T12:47:52.636358Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Brühl gab es 2020 insgesamt 241 Eheschließungen.\n\nQuelle: \"Änderung Familienstände eines Jahres Stadt Brühl\" (EWO_990_sim_OpDat412_20210116.csv) — offenedaten.kdvz.nrw."
+}

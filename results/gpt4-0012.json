@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt4-0012",
+  "run_at": "2025-09-03T12:56:16.609218Z",
+  "question_id": 12,
+  "question": "Welche Leistung haben die Vestas Windkraftanlagen in Stormarn Feldhorst?",
+  "answer": "es gibt dort keine von vestas",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zu den Vestas Windkraftanlagen in Stormarn Feldhorst liegen in den verfügbaren offenen Datensätzen keine spezifischen Informationen zur Leistung vor. Es gibt keine Treffer zu diesem Standort oder zu Vestas-Anlagen in Stormarn in den abgefragten Datenquellen. \n\nFür genaue Angaben zur Leistung der Windkraftanlagen in Feldhorst (Stormarn) empfehle ich, die Betreiberfirma, die Gemeinde Feldhorst oder das zuständige Landesamt für Umwelt in Schleswig-Holstein direkt zu kontaktieren."
+}

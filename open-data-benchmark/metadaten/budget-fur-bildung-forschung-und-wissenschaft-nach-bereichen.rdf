@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://www.datenportal.bmbf.de/portal/1.9.1">
+    <dct:title>Budget für Bildung, Forschung und Wissenschaft nach Bereichen</dct:title>
+    <dct:description>Tabelle 1.9.1: Budget für Bildung, Forschung und Wissenschaft nach Bereichen</dct:description>
+    <dct:identifier rdf:resource="https://www.datenportal.bmbf.de/portal/1.9.1"/>
+    <dcat:keyword>akademische-bildungsgänge</dcat:keyword>
+    <dcat:keyword>anteil-am-bip</dcat:keyword>
+    <dcat:keyword>ausgaben</dcat:keyword>
+    <dcat:keyword>berufsorientierte-bildungsgänge</dcat:keyword>
+    <dcat:keyword>betriebliche-ausbildung</dcat:keyword>
+    <dcat:keyword>betriebliche-weiterbildung</dcat:keyword>
+    <dcat:keyword>bildungs--und-wissenschaftsinfrastruktur</dcat:keyword>
+    <dcat:keyword>bildungsausgaben</dcat:keyword>
+    <dcat:keyword>bildungsausgaben-privater-haushalte</dcat:keyword>
+    <dcat:keyword>bildungsbereiche</dcat:keyword>
+    <dcat:keyword>bildungsbudget</dcat:keyword>
+    <dcat:keyword>bildungseinrichtungen</dcat:keyword>
+    <dcat:keyword>bildungsgänge</dcat:keyword>
+    <dcat:keyword>bildungsrelevante-ausgaben</dcat:keyword>
+    <dcat:keyword>bip</dcat:keyword>
+    <dcat:keyword>bip-quote</dcat:keyword>
+    <dcat:keyword>bruttoinlandsprodukt</dcat:keyword>
+    <dcat:keyword>budget</dcat:keyword>
+    <dcat:keyword>elementarbereich</dcat:keyword>
+    <dcat:keyword>forschung-und-entwicklung</dcat:keyword>
+    <dcat:keyword>fue-ausgaben</dcat:keyword>
+    <dcat:keyword>förderung-der-weiterbildung</dcat:keyword>
+    <dcat:keyword>isced-0</dcat:keyword>
+    <dcat:keyword>isced-1</dcat:keyword>
+    <dcat:keyword>isced-2</dcat:keyword>
+    <dcat:keyword>isced-2011</dcat:keyword>
+    <dcat:keyword>isced-3</dcat:keyword>
+    <dcat:keyword>isced-4</dcat:keyword>
+    <dcat:keyword>isced-5-8</dcat:keyword>
+    <dcat:keyword>isced-stufen</dcat:keyword>
+    <dcat:keyword>schulen</dcat:keyword>
+    <dcat:keyword>tertiärbereich</dcat:keyword>
+    <dcat:keyword>weiterbildung</dcat:keyword>
+    <dcat:keyword>wissenschaftsausgaben</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T11:22:06.381914</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-30T09:29:32.713050</dct:modified>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nb9bcadd551d244acad1cdc20f2d11574">
+        <vcard:fn>Deutsches Zentrum für Hochschul- und Wissenschaftsforschung</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://www.datenportal.bmbf.de/portal/de/imprint.html#publisher">
+        <foaf:name>Bundesministerium für Bildung und Forschung</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.html#distribution">
+        <dct:title>HTML - Ressource</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.html"/>
+        <dcat:downloadURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.html"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+        <dcat:mediaType>text/html</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T11:22:06.458860</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.xls#distribution">
+        <dct:title>XLS - Ressource</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.xls"/>
+        <dcat:downloadURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.xls"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+        <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T11:22:06.458871</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.csv#distribution">
+        <dct:title>CSV - Ressource</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.csv"/>
+        <dcat:downloadURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.csv"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T11:22:06.458874</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.datenportal.bmbf.de/portal/grafik-1.9.1.html#distribution">
+        <dct:title>HTML - Ressource (interaktive Grafik)</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.datenportal.bmbf.de/portal/grafik-1.9.1.html"/>
+        <dcat:downloadURL rdf:resource="https://www.datenportal.bmbf.de/portal/grafik-1.9.1.html"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+        <dcat:mediaType>text/html</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-09-30T04:25:22.685353</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.pdf#distribution">
+        <dct:title>PDF - Ressource (Tabelle)</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcat:accessURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.pdf"/>
+        <dcat:downloadURL rdf:resource="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.pdf"/>
+        <dct:conformsTo rdf:resource="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+        <dcat:mediaType>application/pdf</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T11:22:06.458868</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-26T00:00:00</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/bundesministeriumFuerBildungUndForschung"/>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="N276866957a91439f9d0d1c55d862bb8d">
+        <foaf:name>Deutsches Zentrum für Hochschul- und Wissenschaftsforschung</foaf:name>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+  <rdfs:Resource rdf:about="https://www.datenportal.bmbf.de/portal/grafik-1.9.1.html"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <dct:Standard rdf:about="http://dcat-ap.de/def/dcatde/1.0.2/"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+  <rdfs:Resource rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.pdf"/>
+  <rdfs:Resource rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.xls"/>
+  <rdfs:Resource rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.csv"/>
+  <rdfs:Resource rdf:about="https://www.datenportal.bmbf.de/portal/Tabelle-1.9.1.html"/>
+</rdf:RDF>

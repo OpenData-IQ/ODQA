@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>D09 Zu- und Wegzüge eines Jahres nach Ort und Alter Nörvenich</dct:title>
+    <dct:description><![CDATA[<p>Jahresstatistik aller Zu- und Wegzüge sortiert nach Herkunft / Ziel und Alter für eine Kommune.</p>
+]]></dct:description>
+    <dct:identifier>68cbc489-9aad-4cf3-938b-4431c7108b8d</dct:identifier>
+    <dcat:keyword>bevölkerung</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-30T14:44:13+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:44:19+01:00</dct:modified>
+    <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich"/>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.open.nrw.de/organization/8648cd87-246c-470f-8911-a75e3fedcb37">
+        <foaf:name>Rhein-Erft-Rur</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N7b50138b08654b3bbfc7102b7db5ce67">
+        <rdfs:label> </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1c6eb3ba-594c-43a0">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2018</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich&nbsp;für das Jahr 2018</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1c6eb3ba-594c-43a0"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20190116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1c6eb3ba-594c-43a0"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:55:16+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-10T06:55:16+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">382694</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1bd516d0-ea93-4ab8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2009</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2009</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1bd516d0-ea93-4ab8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2009_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/1bd516d0-ea93-4ab8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:50:41+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:40:59+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">367796</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7eeeca2e-b3ab-408f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2017</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2017</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7eeeca2e-b3ab-408f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20180116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7eeeca2e-b3ab-408f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:55:17+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:55:17+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">382380</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/e79cc5bf-2463-4ceb">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2013</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2013</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/e79cc5bf-2463-4ceb"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2013_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/e79cc5bf-2463-4ceb"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:52:59+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:57:08+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">389693</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c904b123-65ab-4d6f">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2014</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2014</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c904b123-65ab-4d6f"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2014_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c904b123-65ab-4d6f"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:53:35+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:57:48+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">400072</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c52227da-a88c-46d8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2011</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2011</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c52227da-a88c-46d8"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2011_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c52227da-a88c-46d8"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:51:48+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:54:36+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">382708</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c331b923-cad0-4499">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Gemeinde Nörvenich 2020</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2020</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c331b923-cad0-4499"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20210116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/c331b923-cad0-4499"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:37:42+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-21T11:37:42+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">171374</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N04bccd57ae1f4300a2724f0efc10a269">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7c3165df8761aa78538cbfae4c96b8c8</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/8a1ec799-c645-4439">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2012</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2012</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/8a1ec799-c645-4439"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2012_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/8a1ec799-c645-4439"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:52:22+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:55:38+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">370053</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/bc4439e2-a473-4c45">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2016</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2016</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/bc4439e2-a473-4c45"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2016_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/bc4439e2-a473-4c45"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:54:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:59:12+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">372781</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/d252cdf9-5a1a-44b3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2015</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2015</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/d252cdf9-5a1a-44b3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2015_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/d252cdf9-5a1a-44b3"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:54:11+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T15:58:22+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">388430</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/0056937f-7d30-4df2">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Gemeinde Nörvenich 2021</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2021</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-by/4.0"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/0056937f-7d30-4df2"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20220116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/0056937f-7d30-4df2"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:42:54+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T13:42:54+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">248500</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="Nb8771895d3e441b291c5996571697f6f">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8f9b2a2939d1c9b19acbc542107a4dcb</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/21889a16-3659-434c">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2010</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Nörvenich für das Jahr 2010</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/21889a16-3659-434c"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2010_20170215.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/21889a16-3659-434c"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:51:14+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-14T14:51:14+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">369294</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7a00d9c8-ab72-4dc9">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>Zu- und Wegzüge nach Herkunft / Ziel und Alter Nörvenich 2019</dct:title>
+        <dct:description><![CDATA[<p>Jahresstatistik der Zu- und Wegzüge nach Herkunft / Ziel und Alter für die Gemeinde Nörvenich für das Jahr 2019</p>
+]]></dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/other-closed"/>
+        <dcat:accessURL rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7a00d9c8-ab72-4dc9"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20200116.csv"/>
+        <foaf:page rdf:resource="https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-n%C3%B6rvenich/resource/7a00d9c8-ab72-4dc9"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T08:34:59+01:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-24T08:34:59+01:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">335230</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="https://offenedaten.kdvz.nrw/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openNRW"/>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2013_20170215.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-by/4.0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2010_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2014_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20210116.csv"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20190116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20220116.csv"/>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/other-closed">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2015_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20180116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2009_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2011_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2016_20170215.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B_20200116.csv"/>
+  <rdfs:Resource rdf:about="https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat16B-2012_20170215.csv"/>
+</rdf:RDF>

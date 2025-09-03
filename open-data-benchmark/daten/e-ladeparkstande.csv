@@ -1,0 +1,341 @@
+﻿deviceId;name;Standort;refDeviceGroup;location;deviceType;locationId;customProperties;isEnabled;letzte Statusänderung;Belegungsstatus;geo_point_2d
+FCD6BD00001933FE;DE*MVV*E00013*R1;Werkhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.46458, 49.494673], ""type"": ""Point""}";LoRa;83fed1ca-c8e6-40d4-a625-5c79c171501a;{};1;2023-07-12T12:03:27+00:00;belegt;49.494673, 8.46458
+FCD6BD0000191701;DE*MVV*E00042*R1;Ev. Gemeindezentrum Neuhermsheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.508018, 49.465589], ""type"": ""Point""}";LoRa;b70d8c6d-abbf-4ed9-9c81-a5b14fe5afee;{};1;2023-11-19T10:04:16+00:00;frei;49.465589, 8.508018
+FCD6BD00001916E5;DE*MVV*E00046*L1;Hochschule Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.483, 49.469772], ""type"": ""Point""}";LoRa;9d315ea9-c64d-4fa2-aa75-d27dc37ab3a4;{};1;2022-11-07T12:26:31+00:00;frei;49.469772, 8.483
+FCD6BD0000191D39;DE*MVV*E00046*R1;Hochschule Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.48302, 49.469792], ""type"": ""Point""}";LoRa;481b593e-2e60-4f5b-aae9-754f1b4f5ab2;{};1;2022-05-22T10:18:55+00:00;belegt;49.469792, 8.48302
+FCD6BD00001916F2;DE*MVV*E00100*R1;Mannheim-Friedrichsfeld Sued;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.571611, 49.437882], ""type"": ""Point""}";LoRa;4f706c74-08b6-43f1-bced-c581af3c4412;{};1;2022-10-06T12:46:42+00:00;belegt;49.437882, 8.571611
+FCD6BD0000190EA3;DE*MVV*E00026*L1;Mobilitaetstation Kaefertal;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.506478, 49.507281], ""type"": ""Point""}";LoRa;611443b7-b83e-4719-b0da-df490276dc85;{};1;2021-12-17T17:15:57+00:00;frei;49.507281, 8.506478
+FCD6BD00001933F0;DE*MVV*E00047*L1;Rathaus E5;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462356, 49.489556], ""type"": ""Point""}";LoRa;d21845f4-7c95-42b7-91a8-315dfa1d09df;{};1;2022-06-19T12:00:35+00:00;frei;49.489556, 8.462356
+FCD6BD00001916EF;DE*MVV*E00327*02;Rosengarten;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476066, 49.485605], ""type"": ""Point""}";LoRa;a8512b1c-2052-4d10-9dcf-7de9542b3c0a;{};1;2021-07-18T10:05:28+00:00;belegt;49.485605, 8.476066
+FCD6BD00001916FB;DE*MVV*E00056*R1;Speckweg;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.498867, 49.520652], ""type"": ""Point""}";LoRa;157e4fe6-fe04-493a-ac16-216ec67c24a0;{};1;2023-11-25T22:35:41+00:00;frei;49.520652, 8.498867
+FCD6BD0000191F78;DE*MVV*E00050*R1;Winzerplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.508425, 49.502604], ""type"": ""Point""}";LoRa;cde06c50-7073-47c2-a37a-1fe856b94a59;{};1;2024-03-14T18:25:53+00:00;frei;49.502604, 8.508425
+FCD6BD0000191F62;DE*MVV*E00008*R1;Taunusplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.483781, 49.52439], ""type"": ""Point""}";LoRa;fcfc2fd4-5f59-4b91-94d8-31fe5833e327;{};1;2022-05-08T20:51:27+00:00;belegt;49.52439, 8.483781
+FCD6BD0000191F64;DE*MVV*E00150*R1;Feudenheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.530107, 49.484008], ""type"": ""Point""}";LoRa;09592b76-5493-43e5-99c0-013aab1cf4c6;{};1;2022-04-29T16:59:21+00:00;belegt;49.484008, 8.530107
+FCD6BD0000193401;DE*MVV*E00043*L1;AWO;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.477724, 49.548467], ""type"": ""Point""}";LoRa;111dfb4a-bd2a-4978-83ec-b0c9da33bcca;{};1;2022-06-16T10:14:49+00:00;frei;49.548467, 8.477724
+FCD6BD000019247A;DE*MVV*E00039*R1;DHBW Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.53456, 49.474838], ""type"": ""Point""}";LoRa;88ba782f-2baa-4482-94ee-984bf092e336;{};1;2022-10-20T08:04:51+00:00;belegt;49.474838, 8.53456
+FCD6BD0000193400;DE*MVV*E00066*L1;Kaefertaler Strasse;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476753, 49.495841], ""type"": ""Point""}";LoRa;c51e05bf-2162-40ad-af2a-ecb3c277eea2;{};1;2022-06-21T09:17:11+00:00;belegt;49.495841, 8.476753
+FCD6BD00001916FE;DE*MVV*E00208*01;Parkpalette MVV;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.467665, 49.494746], ""type"": ""Point""}";LoRa;a9d9b04a-0a6c-41a1-abf4-726a6e992abe;{};1;2024-07-22T10:51:19+00:00;frei;49.494746, 8.467665
+FCD6BD00001933F3;DE*MVV*E00038*001;Rosengarten Stadtmobil;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.47595, 49.485643], ""type"": ""Point""}";LoRa;fb5cb13f-704d-4c33-8741-2831ad6c5d88;{};1;2023-07-12T06:38:51+00:00;belegt;49.485643, 8.47595
+FCD6BD00001916F1;DE*MVV*E00054*R1;Sennteichplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482194, 49.456593], ""type"": ""Point""}";LoRa;3595b0c2-8480-41c0-befb-f7a592123438;{};1;2022-10-06T12:58:52+00:00;belegt;49.456593, 8.482194
+FCD6BD0000193402;DE*MVV*E00032*L1;Taylor;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.549826, 49.515022], ""type"": ""Point""}";LoRa;97c2f669-7337-4633-b921-53b53d5b111a;{};1;2023-11-15T15:34:21+00:00;frei;49.515022, 8.549826
+FCD6BD0000191F53;DE*MVV*E00051*L1;Stempelpark;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.514556, 49.509848], ""type"": ""Point""}";LoRa;705de5d9-fb6e-4338-b440-8384db126352;{};1;2023-06-05T06:13:23+00:00;frei;49.509848, 8.514556
+FCD6BD0000191F75;DE*MVV*E00117*R1;Pfingstbergkirche;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.531976, 49.443239], ""type"": ""Point""}";LoRa;2a24d942-85ea-4b8b-9a61-853a0cdab231;{};1;2022-04-01T09:48:22+00:00;frei;49.443239, 8.531976
+FCD6BD0000191F70;DE*MVV*E00114*R1;Johanniskirche Lindenhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.466804, 49.473614], ""type"": ""Point""}";LoRa;ccb2a9be-93de-415b-81bd-01c909f28e2d;{};1;2021-08-20T07:30:51+00:00;frei;49.473614, 8.466804
+FCD6BD0000191F5B;DE*MVV*E00121*L1;Carl-Reiss-Platz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.4879, 49.479659], ""type"": ""Point""}";LoRa;77016c68-20de-4df3-9e47-b1a312ba2307;{};1;2023-12-02T11:26:44+00:00;frei;49.479659, 8.4879
+FCD6BD0000191778;DE*MVV*E00052*R1;Ersatz Kurpfalzcenter DE*MVV*E00052*R1;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.556805, 49.519009], ""type"": ""Point""}";LoRa;321d0420-dd55-4a61-a1e7-7a54912ce33f;{};1;;;49.519009, 8.556805
+FCD6BD00001916EE;DE*MVV*E00206*01;Rathaus Ilvesheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.566398, 49.471255], ""type"": ""Point""}";LoRa;4d203843-c8e0-4ffa-b192-2eb1df0130bc;{};1;2021-05-08T08:41:06+00:00;belegt;49.471255, 8.566398
+FCD6BD00001916E4;DE*MVV*E00057*L1;Rheingoldplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482321, 49.455353], ""type"": ""Point""}";LoRa;78d1ed69-3eb4-404a-a1fa-e24f4cbee5b6;{};1;2021-12-05T15:09:18+00:00;frei;49.455353, 8.482321
+FCD6BD00001916FA;DE*MVV*E00032*R1;Taylor;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.549846, 49.515042], ""type"": ""Point""}";LoRa;be15fcbe-a76b-4b16-8a99-5a9f56522cd9;{};1;2024-01-10T19:06:07+00:00;frei;49.515042, 8.549846
+FCD6BD00001929F3;DE*MVV*E00053*L1;Treff 3000;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56292, 49.45829], ""type"": ""Point""}";LoRa;04b3169d-52a3-47a7-8b47-02dae7e74195;{};1;2023-01-21T13:44:33+00:00;frei;49.45829, 8.56292
+FCD6BD0000191F65;DE*MVV*E00053*R1;Treff 3000;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56294, 49.45831], ""type"": ""Point""}";LoRa;125f66cb-aa01-4b9b-a75b-e418d8e146d9;{};1;2023-06-28T18:54:32+00:00;frei;49.45831, 8.56294
+FCD6BD0000191F6E;DE*MVV*E00051*R1;Stempelpark;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.514576, 49.509868], ""type"": ""Point""}";LoRa;c01a795b-1add-49cf-87af-8f133aaedaa6;{};1;2022-05-21T10:50:49+00:00;frei;49.509868, 8.514576
+FCD6BD00001916E2;DE*MVV*E00052*L1;Kurpfalz Center;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.556785, 49.518989], ""type"": ""Point""}";LoRa;88dcab88-6fac-4cda-b71b-3bfb54a7b7e8;{};1;2021-01-12T14:50:05+00:00;frei;49.518989, 8.556785
+FCD6BD00001916E9;DE*MVV*E00202*01;Q6Q7 Tiefgarage;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.473391, 49.485917], ""type"": ""Point""}";LoRa;531dcaf9-1043-4f33-ac1c-30fa731a69a1;{};1;;[];49.485917, 8.473391
+FCD6BD00001933F7;DE*MVV*E00327*01;Rosengarten;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476038, 49.485614], ""type"": ""Point""}";LoRa;58af571f-2bad-42eb-80d6-62574a086177;{};1;2023-08-21T15:42:27+00:00;belegt;49.485614, 8.476038
+FCD6BD00001916EA;DE*MVV*E00016*R1;SAP Arena;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.5186, 49.464619], ""type"": ""Point""}";LoRa;624aa428-9d5f-42a6-8678-a5304df5c7d4;{};1;2023-04-07T09:01:23+00:00;frei;49.464619, 8.5186
+FCD6BD0000190E9E;DE*MVV*E00056*L1;Speckweg;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.498847, 49.520632], ""type"": ""Point""}";LoRa;6eaa3196-2978-41fe-9088-3b1566dbf4cc;{};1;2022-08-03T20:40:38+00:00;frei;49.520632, 8.498847
+FCD6BD0000192A1E;DE*MVV*E00025*L1;Uniklinikum;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491708, 49.489758], ""type"": ""Point""}";LoRa;9d8f60f6-8ecd-4580-ac11-7182a92157b8;{};1;2023-05-08T06:47:24+00:00;belegt;49.489758, 8.491708
+FCD6BD0000191F6A;DE*MVV*E00021*R1;Ulmenweg;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.49087, 49.508089], ""type"": ""Point""}";LoRa;cf1f5293-a15c-4584-b4e8-b7e646d3175d;{};1;2024-07-27T16:05:38+00:00;frei;49.508089, 8.49087
+FCD6BD0000191F6D;DE*MVV*E00083*R1;Turley;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493281, 49.502929], ""type"": ""Point""}";LoRa;d93547f2-954e-497c-90eb-0c9ebb860397;{};1;2024-03-12T15:09:47+00:00;frei;49.502929, 8.493281
+FCD6BD0000191F71;DE*MVV*E00110*R1;Petruskirche Wallstadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.550307, 49.494607], ""type"": ""Point""}";LoRa;33dde81e-32f0-4be2-a804-12a70c27db3e;{};1;2023-05-26T08:35:42+00:00;belegt;49.494607, 8.550307
+FCD6BD0000191F54;DE*MVV*E00019*L1;Melanchthonkirche Neckarstadt - Ost;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.479062, 49.498005], ""type"": ""Point""}";LoRa;cdb40ee7-34c6-4019-939a-981dc4098680;{};1;2024-06-28T10:19:06+00:00;belegt;49.498005, 8.479062
+FCD6BD0000191F63;DE*MVV*E00048*R1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535875, 49.518934], ""type"": ""Point""}";LoRa;8117a6fe-1752-4fa7-b81c-64bf4a97f51a;{};1;2023-02-02T19:40:46+00:00;frei;49.518934, 8.535875
+FCD6BD0000191F76;DE*MVV*E00120*R1;Feudenheim Wendeschleife;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.537936, 49.483823], ""type"": ""Point""}";LoRa;ea2ca18d-f3f1-447c-bf9d-15384af78653;{};1;2023-11-03T07:32:20+00:00;belegt;49.483823, 8.537936
+FCD6BD0000191770;DE*MVV*E00091*R1;SV Waldhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.484539, 49.531867], ""type"": ""Point""}";LoRa;ca90a5f1-fdcd-4d4f-9601-f5a3edf3dd67;{};1;2023-06-19T13:17:05+00:00;belegt;49.531867, 8.484539
+FCD6BD0000191776;DE*MVV*E00135*R1 (Archiv);Ladenburg;5eb25c865eefeb0047cc22ee;;LoRa;bd67edf4-a0b1-4f50-b295-ba99b6edee7d;{};0;;;
+61a9ed52-954c-43f0-a40b-b87c1e39538d;DE*MVV*E00197*L1;"SCS PSID: 137930
+Lange Ruthen 1 
+PLID: 3414";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.61406, 49.47654], ""type"": ""Point""}";extern;a314b93e-2a7d-4558-8445-c9548cac7288;{};1;;;49.47654, 8.61406
+c36dc85a-05c4-4912-8013-00950cc6bae6;DE*MVV*E00195*R1;"SCS PSID:  137933
+Stadtaecker 1 rechts 2
+PLID: 3416";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614343, 49.477469], ""type"": ""Point""}";extern;91eecc12-8cb1-4c4d-96d7-92b86e89f363;{};1;;;49.477469, 8.614343
+00E8BF3B001010B6;DE*MVV*E00150*L1 (Nwave);Ersatz 150*L1 mit Nwave statt Bosch;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.530117, 49.484018], ""type"": ""Point""}";LoRa;8cda0137-9dae-402f-82c7-e6687ca7d2d8;{};1;;;49.484018, 8.530117
+65e334b1-ddf0-458b-b8ed-1f488cfe6194;DE*MVV*E00187*R1;"SCS PSID: 138454
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.47487, 49.479179], ""type"": ""Point""}";extern;1cfc2481-54fe-446a-b988-15e53f2ada7e;{};1;;;49.479179, 8.47487
+fd0d24d5-ae84-4acf-ad78-9b71d79f7fa1;DE*MVV*E00187*L1;"SCS PSID: 138455
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474896, 49.479166], ""type"": ""Point""}";extern;7b506040-19c7-4892-9936-55ab96ae6d5f;{};1;;;49.479166, 8.474896
+1db76c3d-703b-4727-92c2-417f2719a220;DE*MVV*E00188*L1;"SCS PSID: 138457
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.47497, 49.479094], ""type"": ""Point""}";extern;7e163898-487b-4615-906f-a65f2ec1d0b4;{};1;;;49.479094, 8.47497
+f421d3f7-8f77-4e7a-b793-081d42540593;DE*MVV*E00189*R1;"SCS PSID: 138458
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.475016, 49.479063], ""type"": ""Point""}";extern;6c18bf6f-0cbf-401a-998c-dfba79897a6c;{};1;;;49.479063, 8.475016
+d0ddaf4a-adf9-4c04-9d09-6f18c97a2ac8;DE*MVV*E00190*L1;"SCS PSID: 138461
+Gallileistrasse 1, ganz links
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.475105, 49.478969], ""type"": ""Point""}";extern;89aff09d-0f98-440e-aa9f-4a492e70ccf8;{};1;;;49.478969, 8.475105
+41dec929-6c95-4c27-a055-6a799805cd31;DE*MVV*E00186*L1;"SCS PSID: 138453 
+Gallileistrasse 1 
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474836, 49.479213], ""type"": ""Point""}";extern;24312319-0825-485f-aefe-fb5fcc6c1686;{};1;;;49.479213, 8.474836
+00E8BF3B0010108E;DE*MVV*E00150*R1 (Nwave);"DE*MVV*E00150*R1 (Nwave)
+Ersatz für Bosch Sensor";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.530087, 49.483988], ""type"": ""Point""}";LoRa;83f92831-c50d-41e2-8f6b-a172d70b9e51;{};1;;;49.483988, 8.530087
+00E8BF3B001810AF;Nwave Sensor 6;Nwave Sensor 6;5eb25c865eefeb0047cc22ee;;LoRa;2aaf5f48-4dec-4c70-9aca-a61c0c1a48e8;{};1;;;
+00E8BF3B001810B3;DE*MVV*E00054*R1 (Nwave);DE*MVV*E00054*R1 (Nwave);5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482154, 49.456543], ""type"": ""Point""}";LoRa;a5dd688e-d13b-4b59-82c7-9f7f6be86bb4;{};1;;;49.456543, 8.482154
+d7c99858-2929-446e-9d6f-28b06b7849dd;DE*MVV*E00172*L1;"SCS PSID: 146730
+Ilvesheim Brueckenstrasse, ganz links
+PLID: 3789";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56585, 49.46941], ""type"": ""Point""}";extern;793b3321-31f7-4090-aecd-138be4075f06;{};1;;;49.46941, 8.56585
+6c8c1cb1-5145-4f55-8a61-205d7f10ad2b;DE*MVV*E00176*L1;"SCS SCS PSID: 149918
+Technoseum,  zweite von rechts
+PLID: 3790";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.495912452332249, 49.47744340701122], ""type"": ""Point""}";extern;499eb78f-8f2b-4c6a-9472-e532ef3d7421;{};1;;;49.47744340701122, 8.495912452332249
+62b2b191-dffa-487d-91f3-09f41dde53e1;DE*MVV*E00175*L1;"SCS SCS PSID: 146731
+Technoseum, ganz links
+PLID: 3790";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.49598, 49.47745], ""type"": ""Point""}";extern;10cb8736-b0ee-4faf-9001-1c5dc0bc3900;{};1;;;49.47745, 8.49598
+d65580ae-435f-4ad0-b329-d5ff14bc0515;DE*MVV*E00159*L1;"SCS PSID:149921
+Rathaus E5, zweite von rechts
+PLID: 3791";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462376, 49.489576], ""type"": ""Point""}";extern;61992b11-b2e2-4bff-9714-65978d890740;{};1;;;49.489576, 8.462376
+e7f4f39c-5019-42cf-aec3-4c2e405901e8;DE*MVV*E00158*R1;"SCS PSID:149920
+Rathaus E5, zweite von links
+PLID: 3791";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462454327, 49.48969475], ""type"": ""Point""}";extern;6ece10e4-2a74-446c-8189-d8f9779b436d;{};1;;;49.48969475, 8.462454327
+c771f930-57ec-4d58-bc49-9d94ac91cc1f;DE*MVV*E00157*L1;"SCS PSID: 149933
+Bromberger Baumgang, Ladesaeule an KITA
+PLID: 3800";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476142805, 49.54349561], ""type"": ""Point""}";extern;92842cb1-86e8-487f-a163-4435405633b6;{};1;;;49.54349561, 8.476142805
+946c0bde-7c4f-4f9b-84dd-8b87b553eb6e;DE*MVV*E00501*L1;"SCS PSID: 146733
+Diakoniekirche Mannheim Lutherstrasse
+PLID: 3792";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.463269562, 49.49887286], ""type"": ""Point""}";extern;aa575db5-b71e-4d5b-8bbc-6098ec0727bb;{};1;;;49.49887286, 8.463269562
+1dc98fa1-ee2d-4fce-bfe1-61d84e6fd300;DE*MVV*E00199*R1;"SCS PSID: 146735
+Uniklinikum
+PLID: 3794";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491705316, 49.48973054], ""type"": ""Point""}";extern;3ff34963-fa74-49bc-9c8f-984b5d400773;{};1;;;49.48973054, 8.491705316
+b5c49b2c-5555-4842-923e-c1b61abaa84e;DE*MVV*E00130*L1;"SCS PSID: 149927
+Schwertlilienweg
+PLID: 3796";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.549671385, 49.50029441854967], ""type"": ""Point""}";extern;8e0ec472-32cd-4f51-aa22-85db72fbad73;{};1;;;49.50029441854967, 8.549671385
+78a7d5c2-b6ef-4521-b54c-5a8068addcd6;DE*MVV*E00112*L1;"SCS PSID: 149927
+Wallstadt Brunnen
+PLID: 3796";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.54966202, 49.5003075], ""type"": ""Point""}";extern;0f2301cf-d806-4dd7-a7b2-aaf7ce5997f7;{};1;;;49.5003075, 8.54966202
+0231588c-644c-4426-8fab-b87896aba084;DE*MVV*E00518*L1;PLID: 3877, PSID: 152087,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509153876429835, 49.4719142698877], ""type"": ""Point""}";extern;;{};1;;;49.4719142698877, 8.509153876429835
+bb0abab7-5852-4416-acd3-f5438aa20d01;DE*MVV*E00516*R1;PLID: 3877, PSID: 152083,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509252257569518, 49.47185587754119], ""type"": ""Point""}";extern;;{};1;;;49.47185587754119, 8.509252257569518
+75472be8-7a74-4e5a-997e-7e238a3c984c;DE*MVV*E00138*L1;PLID: 3808, PSID: 146749,  MVV Buchen In der vorderen Wanne;5eb25c865eefeb0047cc22ee;"{""coordinates"": [9.335137979794808, 49.52663283794114], ""type"": ""Point""}";extern;;{};1;;;49.52663283794114, 9.335137979794808
+91818549-7f51-42d5-91fe-334575064cff;DE*MVV*E00508*R1;PLID: 3801, PSID: 149936, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.45666535087113, 49.54739119520734], ""type"": ""Point""}";extern;;{};1;;;49.54739119520734, 8.45666535087113
+6d1c0212-8398-465e-a0c6-50fe7990d19d;DE*MVV*E00508*L1;PLID: 3801, PSID: 149935, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456659070346394, 49.54744510206497], ""type"": ""Point""}";extern;;{};1;;;49.54744510206497, 8.456659070346394
+e2447006-04d5-46f4-badf-84a6f6a6e248;DE*MVV*E00519*R1;PLID: 3805, PSID: 146746, Plankstadt Neubaugebiet Plankstadt Bertha-Benz-Str.;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.586150408374616, 49.401606391145215], ""type"": ""Point""}";extern;;{};1;;;49.401606391145215, 8.586150408374616
+be539716-aafd-4a02-8237-a1728d975a23;DE*MVV*E00519*L1;PLID: 3805, PSID: 152092, Plankstadt Neubaugebiet Plankstadt Bertha-Benz-Str.;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.58614437340456, 49.40159242750051], ""type"": ""Point""}";extern;;{};1;;;49.40159242750051, 8.58614437340456
+3ed0939a-c62b-4406-b80c-34cde4c7256f;DE*MVV*E00296*01;PLID: 3804, PSID: 152094, Plankstadt Plankstadt Wilhelmstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.594065220245536, 49.392659995263735], ""type"": ""Point""}";extern;;{};1;;;49.392659995263735, 8.594065220245536
+FCD6BD00001916F9;DE*MVV*E00043*R1;AWO;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.477744, 49.548487], ""type"": ""Point""}";LoRa;47d4b76e-1b58-41a3-8739-1e275f5a084e;{};1;2022-09-02T10:16:46+00:00;frei;49.548487, 8.477744
+FCD6BD00001916EC;DE*MVV*E00049*R1;ADAC;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493541, 49.478074], ""type"": ""Point""}";LoRa;cab4bb24-69aa-418c-914c-d44c7fc75eb9;{};1;2022-07-07T12:45:43+00:00;belegt;49.478074, 8.493541
+FCD6BD00001916E1;DE*MVV*E00058*L1;BfE;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.70856, 49.247084], ""type"": ""Point""}";LoRa;a08a9ce1-b10c-4c63-987e-bf5630f21f8d;{};1;;[];49.247084, 8.70856
+FCD6BD00001916F7;DE*MVV*E00066*R1;Kaefertaler Strasse;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476773, 49.495861], ""type"": ""Point""}";LoRa;bf34a7e3-adbe-4b65-adde-82be72afaaa8;{};1;2024-04-13T21:14:18+00:00;frei;49.495861, 8.476773
+FCD6BD00001916FC;DE*MVV*E00026*R1;Mobilitaetstation Kaefertal;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.506498, 49.507301], ""type"": ""Point""}";LoRa;0d994536-5c8f-4a51-b2bc-bb825a0820d0;{};1;2022-04-20T09:37:58+00:00;belegt;49.507301, 8.506498
+FCD6BD00001933F9;DE*MVV*E00054*L1;Sennteichplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482174, 49.456573], ""type"": ""Point""}";LoRa;8d65c6bb-7be5-4d46-8727-40baf4e97644;{};1;2022-06-18T07:10:41+00:00;frei;49.456573, 8.482174
+FCD6BD00001916F5;DE*MVV*E00025*R1;Uniklinikum;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491728, 49.489778], ""type"": ""Point""}";LoRa;58e63371-1d82-422f-8ccf-250f2343fe42;{};1;2021-11-01T21:08:33+00:00;frei;49.489778, 8.491728
+FCD6BD0000191F6B;DE*MVV*E00105*R1;Werftstrasse;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.45785, 49.496022], ""type"": ""Point""}";LoRa;fa7d47e5-3279-46c4-9ce3-b1da4dffe1e8;{};1;2024-04-20T14:33:11+00:00;belegt;49.496022, 8.45785
+FCD6BD0000191F4D;DE*MVV*E00102*L1;SAP Areana Sued P1;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.51656, 49.461664], ""type"": ""Point""}";LoRa;66b48575-027a-4b8a-9048-1037dbeb7e77;{};1;2024-02-24T14:15:16+00:00;belegt;49.461664, 8.51656
+FCD6BD000019176C;DE*MVV*E00024*R1;Miramar Weinheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.644305, 49.533316], ""type"": ""Point""}";LoRa;f582158b-f7d4-4b34-a995-1510b90b0042;{};1;2023-02-01T12:10:32+00:00;frei;49.533316, 8.644305
+FCD6BD0000191F55;DE*MVV*E00114*L1;Johanniskirche Lindenhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.466784, 49.473594], ""type"": ""Point""}";LoRa;00fe14ac-9527-4ba1-a99c-8015386969f7;{};1;2023-07-07T03:13:15+00:00;belegt;49.473594, 8.466784
+FCD6BD00001916FF;DE*MVV*E00058*R1;BfE;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.70858, 49.247104], ""type"": ""Point""}";LoRa;33309fa1-21ec-4443-9897-f9edc734fc42;{};1;;;49.247104, 8.70858
+FCD6BD00001933FC;DE*MVV*E00040*L1;City Airport Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.520583, 49.476583], ""type"": ""Point""}";LoRa;f1d02f2f-755c-4720-8a4a-e5ed3e8920b3;{};1;2023-08-16T09:17:30+00:00;belegt;49.476583, 8.520583
+FCD6BD00001916FD;DE*MVV*E00007*R1;DHBW Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.53452, 49.474798], ""type"": ""Point""}";LoRa;0aa5b448-a1f5-4e66-9514-c1739874df97;{};1;2022-08-22T07:25:27+00:00;belegt;49.474798, 8.53452
+FCD6BD00001933F8;DE*MVV*E00041*L1;Dreieinigkeitsgemeinde;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.454025, 49.543913], ""type"": ""Point""}";LoRa;424d258e-4fb2-477f-8f01-da6bd0a54050;{};1;2022-03-09T14:46:53+00:00;frei;49.543913, 8.454025
+FCD6BD00001933F1;DE*MVV*E00201*01;Q6Q7 Tiefgarage;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.473371, 49.485897], ""type"": ""Point""}";LoRa;eba287e4-45bd-4809-a9f6-f15b6a792adb;{};1;;[];49.485897, 8.473371
+FCD6BD0000191F68;DE*MVV*E00113*R1;Viktoriaturm;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.467344, 49.477719], ""type"": ""Point""}";LoRa;ba0ff797-0cdc-4b28-b9cb-d46f94416060;{};1;2022-01-14T08:37:08+00:00;belegt;49.477719, 8.467344
+FCD6BD0000191F59;DE*MVV*E00117*L1;Pfingstbergkirche;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.531956, 49.443219], ""type"": ""Point""}";LoRa;9f4730f5-67c8-4e7d-b713-421f2ec09e49;{};1;2021-07-20T14:31:38+00:00;belegt;49.443219, 8.531956
+FCD6BD0000191F73;DE*MVV*E00116*R1;Friedenskirche Schwetzinger Vorstadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.480872, 49.478032], ""type"": ""Point""}";LoRa;efc699dd-deee-4c8b-9582-d75f9d0ecafd;{};1;2022-09-27T06:45:52+00:00;belegt;49.478032, 8.480872
+FCD6BD000019176D;DE*MVV*E00096*L1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535935, 49.518994], ""type"": ""Point""}";LoRa;88093051-d6b3-4daa-833b-2c5234986100;{};1;2023-06-10T07:41:06+00:00;belegt;49.518994, 8.535935
+FCD6BD0000191F5A;DE*MVV*E00120*L1;Feudenheim Wendeschleife;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.537916, 49.483803], ""type"": ""Point""}";LoRa;afeba7fb-0c6a-4b3c-a3fc-aa46418cfe11;{};1;2023-08-23T20:06:12+00:00;frei;49.483803, 8.537916
+FCD6BD0000191F7A;DE*MVV*E00089*R1;Elementary school;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52442, 49.518143], ""type"": ""Point""}";LoRa;1c34154d-a2e0-4053-a679-e2faee502d3c;{};1;2023-06-12T03:45:51+00:00;belegt;49.518143, 8.52442
+FCD6BD0000191F66;DE*MVV*E00098*R1;Bosch Brenner Kaefertal;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.519801, 49.507939], ""type"": ""Point""}";LoRa;23cda00d-ca7d-4998-b2d7-dd38156743d3;{};1;2024-01-23T15:21:23+00:00;belegt;49.507939, 8.519801
+FCD6BD0000191779;DE*MVV*E00049*L1;ADAC;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493521, 49.478054], ""type"": ""Point""}";LoRa;0d43927d-165a-4678-9d1c-51cda015c6a3;{};1;;;49.478054, 8.493521
+FCD6BD00001960FF;DE*MVV*E00055*L1;Ersatz Carl-Benz-Bad DE*MVV*E00055*L1;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.505668, 49.526928], ""type"": ""Point""}";LoRa;e8d49395-39f5-4874-8806-9193f069dadb;{};1;;;49.526928, 8.505668
+FCD6BD00001916F0;DE*MVV*E00041*R1;Dreieinigkeitsgemeinde;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.454045, 49.543933], ""type"": ""Point""}";LoRa;7839723c-2fb4-4cab-a67c-008960702ad9;{};1;2021-12-14T16:38:35+00:00;frei;49.543933, 8.454045
+FCD6BD00001916F3;DE*MVV*E00031*R1;L13;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.46889, 49.480838], ""type"": ""Point""}";LoRa;08bcf0b4-411b-4b96-a76a-c0abc3ceb3f7;{};1;2023-06-21T13:29:33+00:00;belegt;49.480838, 8.46889
+FCD6BD00001933FB;DE*MVV*E00031*L1;L13;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.46887, 49.480818], ""type"": ""Point""}";LoRa;5e06a89a-1d7b-4899-9d31-8d0d6774e51c;{};1;2023-12-27T16:04:13+00:00;frei;49.480818, 8.46887
+FCD6BD0000191F50;DE*MVV*E00105*L1;Werftstrasse;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.45783, 49.496002], ""type"": ""Point""}";LoRa;61b19f1b-5508-4432-a4b4-ccb82ce4a4c8;{};1;2023-08-23T08:05:10+00:00;belegt;49.496002, 8.45783
+FCD6BD000019176A;DE*MVV*E00084*R1;Turley;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493321, 49.502969], ""type"": ""Point""}";LoRa;4530742a-8360-45c6-97ee-3dff24aa4e00;{};1;2024-01-03T17:03:46+00:00;belegt;49.502969, 8.493321
+FCD6BD0000191F49;DE*MVV*E00099*L1;Rheingoldhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.468785, 49.44998], ""type"": ""Point""}";LoRa;e8f31e4d-b767-4280-8f4e-6c6998b2622d;{};1;2021-09-13T18:39:36+00:00;belegt;49.44998, 8.468785
+FCD6BD0000191F61;DE*MVV*E00131*L1;Rathaus Bruehl;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535239, 49.39443], ""type"": ""Point""}";LoRa;6de9bfdf-a78f-4c02-aa41-21e0e1605731;{};1;2022-11-07T11:20:12+00:00;frei;49.39443, 8.535239
+FCD6BD0000191F5D;DE*MVV*E00124*L1;Friedrichsring;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474015, 49.49197], ""type"": ""Point""}";LoRa;bec41e65-9efd-4675-a718-67a6dc630b3a;{};1;2022-02-23T14:38:31+00:00;belegt;49.49197, 8.474015
+FCD6BD0000191769;DE*MVV*E00095*R1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535915, 49.518974], ""type"": ""Point""}";LoRa;06ed6ae7-d32e-452d-b808-f8aa9600a9ce;{};1;2023-02-02T18:46:24+00:00;frei;49.518974, 8.535915
+FCD6BD000019176E;DE*MVV*E00096*R1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535955, 49.519014], ""type"": ""Point""}";LoRa;a98152d3-10cd-48d1-9477-43b7431f2462;{};1;2023-09-05T18:27:05+00:00;belegt;49.519014, 8.535955
+FCD6BD00001929F0;DE*MVV*E00150*L1;Feudenheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.530037, 49.483938], ""type"": ""Point""}";LoRa;113cd1a7-70a3-47fb-ab69-88785eedd88d;{};1;2022-06-18T22:04:49+00:00;frei;49.483938, 8.530037
+FCD6BD00001916E6;DE*MVV*E00030*R1;Carl-Benz-Stadion;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.503436, 49.478177], ""type"": ""Point""}";LoRa;e1cbe995-3831-4027-971e-4a0bbcdd3020;{};1;;;49.478177, 8.503436
+FCD6BD000019246E;DE*MVV*E00204*01;Q6Q7 Tiefgarage;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.473431, 49.485957], ""type"": ""Point""}";LoRa;3c851ab7-7eef-461a-931f-bcff95d4b034;{};1;;[];49.485957, 8.473431
+FCD6BD0000191F7D;DE*MVV*E00131*R1;Rathaus Bruehl;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535259, 49.39445], ""type"": ""Point""}";LoRa;5ebc2beb-6720-4146-afcd-3d97b4cf0d07;{};1;;[];49.39445, 8.535259
+FCD6BD0000191F5F;DE*MVV*E00022*L1;Miramar Weinheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.644245, 49.533256], ""type"": ""Point""}";LoRa;7f3d457e-7d63-465f-a209-54411c08116d;{};1;2023-06-03T08:46:22+00:00;belegt;49.533256, 8.644245
+FCD6BD0000191F58;DE*MVV*E00116*L1;Friedenskirche Schwetzinger Vorstadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.480852, 49.478012], ""type"": ""Point""}";LoRa;4222aec4-f292-46dd-8107-4698e93b69f8;{};1;2024-02-06T23:10:42+00:00;frei;49.478012, 8.480852
+FCD6BD0000191F80;DE*MVV*E00095*L1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535895, 49.518954], ""type"": ""Point""}";LoRa;9992f00e-4264-4ebf-bf31-d3e527fe92cb;{};1;2022-12-07T15:53:48+00:00;frei;49.518954, 8.535895
+FCD6BD0000191777;DE*MVV*E00022*R1;Ersatzsensor für DE*MVV*E00022*R1;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.644295, 49.533306], ""type"": ""Point""}";LoRa;4335064c-2290-42a6-8962-99d7ea60fcd6;{};1;;;49.533306, 8.644295
+ce4a87d2-e4d6-4c55-a77f-76690a862ca4;DE*MVV*E00197*R1;"SCS PSID: 137929
+Lange Ruthen 1
+PLID: 3414";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614052, 49.476538], ""type"": ""Point""}";extern;1aa64fc8-ba37-4cb1-bfb1-a4c98f06e3e9;{};1;;;49.476538, 8.614052
+c14078c8-afe6-464a-b3ce-0a96c53f29ce;DE*MVV*E00195*L1;"SCS PSID:  137934
+Stadtaecker 1 links 2
+PLID: 3416";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614325, 49.477473], ""type"": ""Point""}";extern;6ae919c7-ef24-41ff-92b6-6cd266bd4864;{};1;;;49.477473, 8.614325
+e1736c0b-3d74-4e1b-a292-5d5723772fae;DE*MVV*E00193*R1;"SCS PSID: 137899
+Weinheimerstrasse 1 rechts 2
+PLID: 3415";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614363, 49.474839], ""type"": ""Point""}";extern;09ae6134-ee65-42bc-9eaa-7c12c574e0d2;{};1;;;49.474839, 8.614363
+f7ff385a-4958-4786-9d20-40188e02cfb6;DE*MVV*E00135*L1 (SCS);"SCS PSID: 137897
+Hauptstrasse 1 links
+PLID: 3417";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.607377, 49.471439], ""type"": ""Point""}";extern;5b254c12-9a7d-48b9-bf8b-0e18ae8df4b9;{};1;;;49.471439, 8.607377
+f6833a07-704d-44ef-969f-68d3a016c240;DE*MVV*E00188*R1;"SCS PSID: 138456
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474959, 49.47912], ""type"": ""Point""}";extern;63324a30-7cba-4840-bbbe-9fa4de08e071;{};1;;;49.47912, 8.474959
+b6b8189b-421f-4c90-a07e-f9191fadd69f;DE*MVV*E00186*R1;"SCS PSID: 138187  
+Gallileistrasse 1, ganz rechts
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474808, 49.479226], ""type"": ""Point""}";extern;951ac428-b268-46a9-a73f-6a7664da638c;{};1;;;49.479226, 8.474808
+00E8BF3B0018106A;Nwave Sensor 4;Nwave Sensor 4;5eb25c865eefeb0047cc22ee;;LoRa;2aaf5f48-4dec-4c70-9aca-a61c0c1a48e8;{};1;;;
+00E8BF3B00181099;Nwave Sensor 5;Nwave Sensor 5;5eb25c865eefeb0047cc22ee;;LoRa;2aaf5f48-4dec-4c70-9aca-a61c0c1a48e8;{};1;;;
+00E8BF3B001810B4;DE*MVV*E00054*L1 (Nwave);DE*MVV*E00054*L1 (Nwave);5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482134, 49.456533], ""type"": ""Point""}";LoRa;4d6d0f87-b845-4f73-b81c-5b8705d18c30;{};1;;;49.456533, 8.482134
+6da307b8-74b3-45e1-9975-b0e3743afc2d;DE*MVV*E00176*R1;"SCS SCS PSID: 149919
+Technoseum, ganz rechts
+PLID: 3790";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.49588, 49.47745], ""type"": ""Point""}";extern;d42b0d8e-04ee-4802-9587-009f79f94a89;{};1;;;49.47745, 8.49588
+41b09f79-00ca-42e9-8ef6-d62993193323;DE*MVV*E00156*L1;"SCS PSID: 149931
+Bromberger Baumgang, Ladesaeule an Strasse
+PLID: 3800";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.47621682, 49.54343717], ""type"": ""Point""}";extern;6969a0b3-34c3-4543-872b-e60bfe03c9c9;{};1;;;49.54343717, 8.47621682
+7f8497ed-4a7d-438d-9a11-f38fd969060e;DE*MVV*E00501*R1;"SCS PSID: 149923
+Diakoniekirche Mannheim Lutherstrasse
+PLID: 3792";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.463294372, 49.49889769], ""type"": ""Point""}";extern;4b6fd247-fa80-40f3-a6bf-90425a7853d1;{};1;;;49.49889769, 8.463294372
+ea04aad8-9943-483e-9253-0459fc2f3d4d;DE*MVV*E00112*R1;"SCS PSID: 146737
+Wallstadt Brunnen
+PLID: 3796";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.549709629, 49.50030445], ""type"": ""Point""}";extern;c9d3bf79-6980-4262-8c66-00bc14b36440;{};1;;;49.50030445, 8.549709629
+34830946-316a-487b-bbaf-54956c3159b7;DE*MVV*E00151*L1;"SCS PSID: 146738
+Seckenheim Schwabenstrasse
+PLID: 3797";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.568865671, 49.4613743], ""type"": ""Point""}";extern;6ea14904-7c05-4d54-9b23-c56f4dd1fa4b;{};1;;;49.4613743, 8.568865671
+4341232d-50a0-49ca-aca1-33f909241f62;DE*MVV*E00223*R1;"SCS PSID: 146739
+Flughafen Seckenheim
+PLID: 3798";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52057076, 49.47661296], ""type"": ""Point""}";extern;507b73f0-5141-4e6f-8e3e-805b11c510ed;{};1;;;49.47661296, 8.52057076
+21e06eb6-e490-47ae-b68d-43526d5f147c;DE*MVV*E00223*L1;"SCS PSID: 149929
+Flughafen Seckenheim
+PLID: 3798";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.520610323, 49.47660381], ""type"": ""Point""}";extern;e58219c0-d745-4236-b51f-52f9ecccd7ca;{};1;;;49.47660381, 8.520610323
+c00ac6e0-5357-4abc-86f8-a1005d54789a;DE*MVV*E00171*R1;"SCS PSID: 149930
+Rheinau S�d Mannheim L�deritzstrasse
+PLID: 3799";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.533827743, 49.41667871], ""type"": ""Point""}";extern;f62dbc0b-1ee6-4063-9a27-833ed2ea2e71;{};1;;;49.41667871, 8.533827743
+6a0c21a4-7ae4-4308-907f-b3c3f253a8ba;DE*MVV*E00518*R1;PLID: 3877, PSID: 152086,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509277357556643, 49.47190040862079], ""type"": ""Point""}";extern;;{};1;;;49.47190040862079, 8.509277357556643
+f2831474-81bc-446b-895d-8cd4dd6b916d;DE*MVV*E00517*R1;PLID: 3877, PSID: 152081,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.50934098350187, 49.47185353910558], ""type"": ""Point""}";extern;;{};1;;;49.47185353910558, 8.50934098350187
+3f2e7f68-0dd3-41eb-9012-6eaf5e6dacb4;DE*MVV*E00516*L1;PLID: 3877, PSID: 152084,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509217086685457, 49.4718636671512], ""type"": ""Point""}";extern;;{};1;;;49.4718636671512, 8.509217086685457
+14e4855b-9de3-4961-bb45-08ab04f3bb5e;DE*MVV*E00515*R1;PLID: 3877, PSID: 152085,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509241778137863, 49.4719081635525], ""type"": ""Point""}";extern;;{};1;;;49.4719081635525, 8.509241778137863
+6da2adea-f71b-4ad3-82db-8605d2a20619;DE*MVV*E00514*R1;PLID: 3877, PSID: 152089,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.50908786682281, 49.47187653071708], ""type"": ""Point""}";extern;;{};1;;;49.47187653071708, 8.50908786682281
+b92299f8-496d-4305-b6fb-06d986d07057;DE*MVV*E00514*L1;PLID: 3877, PSID: 152088,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509114480708146, 49.47192230704584], ""type"": ""Point""}";extern;;{};1;;;49.47192230704584, 8.509114480708146
+eba8da06-63ca-4ebf-8146-5157548c41f6;DE*MVV*E00513*L1;PLID: 3877, PSID: 152080,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509369092239304, 49.4718991410594], ""type"": ""Point""}";extern;;{};1;;;49.4718991410594, 8.509369092239304
+bbf38425-343d-4c02-bd7e-27157319e324;DE*MVV*E00505*L1;PLID: 3802, PSID: 152093, Feudenheim Mannheim Andersenstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.528233992840295, 49.49501362988684], ""type"": ""Point""}";extern;;{};1;;;49.49501362988684, 8.528233992840295
+3a5c1ab3-33ff-4c15-92d2-4055d19c8ddb;DE*MVV*E00511*L1;PLID: 3801, PSID: 149939, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456942633467419, 49.54737258907045], ""type"": ""Point""}";extern;;{};1;;;49.54737258907045, 8.456942633467419
+277eb0ce-df47-4339-b06b-f005057c7730;DE*MVV*E00507*L1;PLID: 3801, PSID: 146742, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456646509296922, 49.54755291578024], ""type"": ""Point""}";extern;;{};1;;;49.54755291578024, 8.456646509296922
+1e1bdacb-8cf1-4547-8b1c-c43bd5b52b5c;DE*MVV*E00504*L1;PLID: 3803, PSID: 152091, Luzenberg Mannheim Eisenstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476043719390075, 49.516896298846866], ""type"": ""Point""}";extern;;{};1;;;49.516896298846866, 8.476043719390075
+FCD6BD0000193407;DE*MVV*E00013*L1;Werkhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.464563, 49.494647], ""type"": ""Point""}";LoRa;9008c60a-347f-4b6f-8f6a-3843a320e33a;{};1;2023-08-30T12:14:24+00:00;frei;49.494647, 8.464563
+FCD6BD0000190EA6;DE*MVV*E00007*L1;DHBW Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.5345, 49.474778], ""type"": ""Point""}";LoRa;dd64dac3-1d4e-419f-8abe-ad36879245cc;{};1;2024-01-09T12:44:06+00:00;belegt;49.474778, 8.5345
+FCD6BD00001916E7;DE*MVV*E00062*L1;Ev. Versoehnungsgemeinde Rheinau;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52883, 49.43358], ""type"": ""Point""}";LoRa;6f63afd0-7947-4b9e-95f0-7d597afc0164;{};1;;[];49.43358, 8.52883
+FCD6BD000019230B;DE*MVV*E00062*R1;Ev. Versoehnungsgemeinde Rheinau;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52885, 49.4336], ""type"": ""Point""}";LoRa;ead50e91-acb2-461a-b2c2-c60772fc9528;{};1;;[];49.4336, 8.52885
+FCD6BD00001916ED;DE*MVV*E00064*L1;Feuerwehr Ilvesheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.560259, 49.476663], ""type"": ""Point""}";LoRa;fe14f145-3fb5-4baf-8e81-06898b27579d;{};1;2022-08-26T20:48:14+00:00;frei;49.476663, 8.560259
+FCD6BD00001933F6;DE*MVV*E00205*01;Rathaus Ilvesheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.566378, 49.471235], ""type"": ""Point""}";LoRa;56589716-5bd0-49cd-8296-0552b0ae4dce;{};1;2021-12-23T09:32:18+00:00;frei;49.471235, 8.566378
+FCD6BD0000191F4B;DE*MVV*E00113*L1;Viktoriaturm;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.467324, 49.477699], ""type"": ""Point""}";LoRa;e44e3a9d-820c-43da-91f5-15e5bf2d4d32;{};1;2022-06-24T16:29:04+00:00;belegt;49.477699, 8.467324
+FCD6BD0000191F6F;DE*MVV*E00019*R1;Melanchthonkirche Neckarstadt - Ost;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.479082, 49.498025], ""type"": ""Point""}";LoRa;be290e90-f06a-4437-98e6-d11a4236667b;{};1;2024-04-17T07:14:23+00:00;belegt;49.498025, 8.479082
+FCD6BD0000191F60;DE*MVV*E00127*L1;Franklin - aerztehaus;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.526265, 49.515446], ""type"": ""Point""}";LoRa;e9bd0701-68db-408b-b904-af9f65752911;{};1;2022-12-09T16:45:57+00:00;belegt;49.515446, 8.526265
+FCD6BD0000191F77;DE*MVV*E00121*R1;Carl-Reiss-Platz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.48792, 49.479679], ""type"": ""Point""}";LoRa;93a0708d-d95d-41dc-8ddd-6db2b9e77ad9;{};1;2024-02-16T19:02:03+00:00;frei;49.479679, 8.48792
+FCD6BD00001916F6;DE*MVV*E00055*R1;Carl-Benz-Bad;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.505688, 49.526948], ""type"": ""Point""}";LoRa;3ce51681-771b-492b-833d-c50d6a260359;{};1;2021-10-13T14:44:11+00:00;belegt;49.526948, 8.505688
+FCD6BD00001933F5;DE*MVV*E00064*R1;Feuerwehr Ilvesheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.560239, 49.476643], ""type"": ""Point""}";LoRa;6c7f3aac-bfb5-4592-8f8f-06c88eefb5b0;{};1;2022-05-18T11:35:42+00:00;frei;49.476643, 8.560239
+FCD6BD00001933FA;DE*MVV*E00100*L1;Mannheim-Friedrichsfeld Sued;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.571611, 49.437862], ""type"": ""Point""}";LoRa;d49607e0-7e5f-464d-bee4-10916ecc27ee;{};1;2022-09-07T15:17:38+00:00;belegt;49.437862, 8.571611
+FCD6BD0000191F5C;DE*MVV*E00050*L1;Winzerplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.508405, 49.502584], ""type"": ""Point""}";LoRa;42f40393-3829-4f5c-bfc4-f586a06803d9;{};1;2024-03-04T19:10:11+00:00;frei;49.502584, 8.508405
+FCD6BD0000191F52;DE*MVV*E00083*L1;Turley;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493261, 49.502909], ""type"": ""Point""}";LoRa;f8525434-4f3e-4586-bead-c12a146a43d0;{};1;2022-03-07T07:00:55+00:00;belegt;49.502909, 8.493261
+FCD6BD00001924D7;DE*MVV*E00008*L1;Taunusplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.483761, 49.52437], ""type"": ""Point""}";LoRa;5b42bd8f-c2a4-43b0-82a3-0a5b825e3bbe;{};1;2023-04-13T06:00:23+00:00;belegt;49.52437, 8.483761
+FCD6BD0000191F51;DE*MVV*E00107*L1;Luisenpark Fernmeldeturm;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491261, 49.487316], ""type"": ""Point""}";LoRa;ddc7e1cd-a97a-4716-ae99-f0162d5df2f6;{};1;2023-06-18T06:29:12+00:00;belegt;49.487316, 8.491261
+FCD6BD0000191F57;DE*MVV*E00115*L1;Christuskirche Oststadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.48069, 49.484041], ""type"": ""Point""}";LoRa;12ab65b9-ae13-4c2e-b7ff-8cd393f52c9f;{};1;;[];49.484041, 8.48069
+FCD6BD000019176F;DE*MVV*E00091*L1;SV Waldhof;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.484519, 49.531847], ""type"": ""Point""}";LoRa;80933f2f-e134-47b7-bc22-579e2ee79b84;{};1;2022-06-11T13:00:01+00:00;belegt;49.531847, 8.484519
+FCD6BD0000191775;DE*MVV*E00135*L1 (Archiv);Ladenburg;5eb25c865eefeb0047cc22ee;;LoRa;bd67edf4-a0b1-4f50-b295-ba99b6edee7d;{};0;;;
+FCD6BD0000191DBC;DE*MVV*E00030*L1;Carl-Benz-Stadion;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.503456, 49.478197], ""type"": ""Point""}";LoRa;f8e8f8c1-a78e-4b65-b4af-5769dc64244b;{};1;2022-02-08T07:22:15+00:00;belegt;49.478197, 8.503456
+FCD6BD00001916E0;DE*MVV*E00207*01;Parkpalette MVV;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.467645, 49.494726], ""type"": ""Point""}";LoRa;4e110b2c-27d6-4ee7-ad70-a9fbe5f2200c;{};1;2024-05-18T11:12:57+00:00;belegt;49.494726, 8.467645
+FCD6BD0000192456;DE*MVV*E00203*01;Q6Q7 Tiefgarage;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.473411, 49.485937], ""type"": ""Point""}";LoRa;05b45d8f-1af9-45ad-ad22-2dd94275168b;{};1;;[];49.485937, 8.473411
+FCD6BD0000191F69;DE*MVV*E00102*R1;SAP Areana Sued P1;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.51658, 49.461684], ""type"": ""Point""}";LoRa;f4e5403f-7058-413f-bcca-56685aab3755;{};1;2024-03-31T16:18:30+00:00;frei;49.461684, 8.51658
+FCD6BD0000191768;DE*MVV*E00024*L1;Miramar Weinheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.644285, 49.533296], ""type"": ""Point""}";LoRa;3e54edbc-32c4-43ef-8454-bd2b7464e89d;{};1;2022-07-06T13:59:33+00:00;frei;49.533296, 8.644285
+FCD6BD0000191F79;DE*MVV*E00124*R1;Friedrichsring;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.474035, 49.49199], ""type"": ""Point""}";LoRa;38612aaf-13a1-4391-8aa1-77453744520e;{};1;2022-02-25T14:24:25+00:00;frei;49.49199, 8.474035
+FCD6BD000019251A;DE*MVV*E00048*L1;Franklin Boulderhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.535855, 49.518914], ""type"": ""Point""}";LoRa;5439d94d-af7f-4232-a0fe-3764dfc24d4e;{};1;2023-06-03T09:40:58+00:00;belegt;49.518914, 8.535855
+FCD6BD0000191F5E;DE*MVV*E00089*L1;Elementary school;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.5244, 49.518123], ""type"": ""Point""}";LoRa;d5f95699-bded-471a-91cd-a22a1fe4e366;{};1;2023-06-04T18:45:49+00:00;frei;49.518123, 8.5244
+FCD6BD0000191767;DE*MVV*E00090*L1;Elementary school;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52444, 49.518163], ""type"": ""Point""}";LoRa;bd224cfc-dfbd-4915-9295-61db566ee25d;{};1;2023-12-19T11:40:47+00:00;frei;49.518163, 8.52444
+FCD6BD0000191F72;DE*MVV*E00115*R1;Christuskirche Oststadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.48071, 49.484061], ""type"": ""Point""}";LoRa;8037393b-6999-4289-b834-4f33f8326d75;{};1;;[];49.484061, 8.48071
+FCD6BD0000192A1C;DE*MVV*E00098*L1;Bosch Brenner Kaefertal;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.519781, 49.507919], ""type"": ""Point""}";LoRa;e28c403a-6758-4904-a115-89156f6cac86;{};1;2023-10-22T17:30:45+00:00;frei;49.507919, 8.519781
+FCD6BD00001916F4;DE*MVV*E00040*R1;City Airport Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.520603, 49.476603], ""type"": ""Point""}";LoRa;c46b213b-1856-41bc-afc2-857073dba927;{};1;;;49.476603, 8.520603
+FCD6BD0000192466;DE*MVV*E00039*L1;DHBW Mannheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.53454, 49.474818], ""type"": ""Point""}";LoRa;cc9de2a1-dd1a-400e-9127-b5a7c1db39df;{};1;2022-09-20T15:27:35+00:00;belegt;49.474818, 8.53454
+FCD6BD00001916E3;DE*MVV*E00042*L1;Ev. Gemeindezentrum Neuhermsheim;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.507998, 49.465569], ""type"": ""Point""}";LoRa;924601a4-dbce-4fcb-84a9-1e91423ea59a;{};1;2023-08-27T15:42:46+00:00;belegt;49.465569, 8.507998
+FCD6BD00001916E8;DE*MVV*E00047*R1;Rathaus E5;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462376, 49.489576], ""type"": ""Point""}";LoRa;61992b11-b2e2-4bff-9714-65978d890740;{};1;2023-10-22T11:29:43+00:00;belegt;49.489576, 8.462376
+FCD6BD0000191C0A;DE*MVV*E00057*R1;Rheingoldplatz;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.482341, 49.455373], ""type"": ""Point""}";LoRa;ecdc614d-be3c-40e9-b35a-957881b0fcf8;{};1;2022-06-07T23:37:30+00:00;frei;49.455373, 8.482341
+FCD6BD00001916EB;DE*MVV*E00038*002;Rosengarten Stadtmobil;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476002, 49.485628], ""type"": ""Point""}";LoRa;9044e26c-5b3f-460e-a1a6-80af7da28320;{};1;2024-04-21T09:54:42+00:00;belegt;49.485628, 8.476002
+FCD6BD00001933F2;DE*MVV*E00016*L1;SAP Arena;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.51858, 49.464599], ""type"": ""Point""}";LoRa;e179d801-30cd-472e-976e-a5350aefa401;{};1;2022-12-23T23:08:20+00:00;frei;49.464599, 8.51858
+FCD6BD0000191F4F;DE*MVV*E00021*L1;Ulmenweg;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.49085, 49.508069], ""type"": ""Point""}";LoRa;1b562e10-4789-4267-80a4-2b09c3f4e60a;{};1;2024-08-13T04:41:11+00:00;frei;49.508069, 8.49085
+FCD6BD0000191766;DE*MVV*E00084*L1;Turley;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.493301, 49.502949], ""type"": ""Point""}";LoRa;f897ae84-b2d1-45f1-84f6-a33205461a84;{};1;2022-07-02T08:48:46+00:00;belegt;49.502949, 8.493301
+FCD6BD0000191F67;DE*MVV*E00099*R1;Rheingoldhalle;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.468805, 49.45], ""type"": ""Point""}";LoRa;338bf4c0-2d1f-40b5-a305-0e38bb764a13;{};1;2022-01-06T19:49:44+00:00;belegt;49.45, 8.468805
+FCD6BD0000191F56;DE*MVV*E00110*L1;Petruskirche Wallstadt;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.550287, 49.494587], ""type"": ""Point""}";LoRa;95d0c820-463f-4d93-a088-3a0a69f15b31;{};1;2023-02-10T22:25:41+00:00;frei;49.494587, 8.550287
+FCD6BD0000191F6C;DE*MVV*E00107*R1;Luisenpark Fernmeldeturm;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491281, 49.487336], ""type"": ""Point""}";LoRa;9be6740e-e80e-49a8-8543-1672d401fd6c;{};1;2023-11-15T20:55:05+00:00;frei;49.487336, 8.491281
+FCD6BD0000191F7C;DE*MVV*E00127*R1;Franklin - aerztehaus;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.526285, 49.515466], ""type"": ""Point""}";LoRa;be76e77c-1385-45e1-ba8c-e4f636327985;{};1;2021-09-28T07:31:47+00:00;belegt;49.515466, 8.526285
+FCD6BD000019176B;DE*MVV*E00090*R1;Elementary school;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.52446, 49.518183], ""type"": ""Point""}";LoRa;4b30a809-b04b-4af1-901d-641a6515b11a;{};1;2024-01-05T21:54:55+00:00;frei;49.518183, 8.52446
+320b0dd7-820b-4117-bf61-dd3ffd313462;DE*MVV*E00198*R1;"SCS PSID: 137873
+Lange Ruthen 1 ganz rechts
+PLID: 3414";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614045, 49.476528], ""type"": ""Point""}";extern;85a0878c-55e3-4212-ba84-fdeb484a5467;{};1;;;49.476528, 8.614045
+e51b2701-7f9c-490e-91c8-e2fb33042937;DE*MVV*E00198*L1;"SCS PSID: 137900
+Lange Ruthen 1 zweiter von rechts
+PLID: 3414";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614052, 49.476534], ""type"": ""Point""}";extern;97592528-58e1-47ac-a56d-04e765b20d35;{};1;;;49.476534, 8.614052
+8a33442e-25a7-421c-86fc-f07d2aecc5ae;DE*MVV*E00196*R1;"SCS PSID: 137875
+Stadtäcker rechts 1
+PLID: 3416";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614302, 49.477476], ""type"": ""Point""}";extern;dfd83875-9735-46b4-8378-a423784a7ed2;{};1;;;49.477476, 8.614302
+3e1c9bad-5bfc-40dd-8dfd-e38ff5fce703;DE*MVV*E00196*L1;"SCS PSID: 137898
+Stadtäcker 1 links
+PLID: 3416";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.61429, 49.477472], ""type"": ""Point""}";extern;e03f5f77-194c-491e-85ef-b7e16e9c1770;{};1;;;49.477472, 8.61429
+66f6527b-a48b-44ea-aa24-9412ca26aba8;DE*MVV*E00194*R1;"SCS PSID: 138148
+Weinheimerstrasse 1 rechts 1
+PLID: 3415";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614378, 49.474858], ""type"": ""Point""}";extern;bc9e676a-c413-4873-a3a4-ea2c475e1e05;{};1;;;49.474858, 8.614378
+3740f4ac-c476-43f9-9bb2-704f9f3f6dc7;DE*MVV*E00194*L1;"SCS PSID: 138147
+Weinheimerstrasse 1 links 1
+PLID: 3415";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.614369, 49.474849], ""type"": ""Point""}";extern;5babbe3a-cb69-413d-810c-d55489af5094;{};1;;;49.474849, 8.614369
+2f7a2045-f6b7-403d-8d10-0d06608fac9c;DE*MVV*E00193*L1;"SCS PSID: 137874
+Weinheimerstrasse 1 links 2
+PLID: 3415";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.61435, 49.474819], ""type"": ""Point""}";extern;9353e012-bea5-4f50-96f9-111064a5d5df;{};1;;;49.474819, 8.61435
+7aa1e537-6080-4229-bc9d-4e85fd19ba6b;DE*MVV*E00135*R1 (SCS);"SCS PSID: 137876
+Hauptstrasse 1 rechts
+PLID: 3417";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.60733, 49.471426], ""type"": ""Point""}";extern;410ded99-3010-4ff0-9e80-4a649d55ec56;{};1;;;49.471426, 8.60733
+9ffc0967-012c-4ae1-8f78-fda1f9b24fd3;DE*MVV*E00189*L1;"SCS PSID: 138459
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.475036, 49.479046], ""type"": ""Point""}";extern;b7ca0802-2215-4461-bd45-0f83c750bcca;{};1;;;49.479046, 8.475036
+aa2543e6-2cc6-4ffa-8703-c859e3a3e200;DE*MVV*E00190*R1;"SCS PSID: 138460
+Gallileistrasse 1
+PLID: 3442";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.475086, 49.479001], ""type"": ""Point""}";extern;32b85df4-2dab-4654-adef-db50e7f53a7c;{};1;;;49.479001, 8.475086
+00E8BF3B00101164;DE*MVV*E00007*L1 (Nwave);DE*MVV*E00007*L1 (Nwave);5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.5345, 49.474778], ""type"": ""Point""}";LoRa;dd64dac3-1d4e-419f-8abe-ad36879245cc;{};1;;;49.474778, 8.5345
+00E8BF3B0010119D;DE*MVV*E00039*R1 (Nwave);DE*MVV*E00039*R1 (Nwave);5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.53456, 49.474818], ""type"": ""Point""}";LoRa;a6b9bf34-5138-4746-af7c-669971477a30;{};1;;;49.474818, 8.53456
+a71e686e-6f94-4294-a4e2-7e52dae201ac;DE*MVV*E00172*R1;"SCS SCS PSID: 149914
+Ilvesheim Brueckenstrasse, zweite von links rechts
+PLID: 3789";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56585, 49.46944], ""type"": ""Point""}";extern;b8fd1744-f6da-4ece-bbc1-0d69ec56d996;{};1;;;49.46944, 8.56585
+e548b630-2145-4465-8bbd-7ecccb650c56;DE*MVV*E00139*L1;"SCS SCS PSID: 149915
+Ilvesheim Brueckenstrasse, zweite von rechts
+PLID: 3789";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56585, 49.46947], ""type"": ""Point""}";extern;850ee358-263c-4b4f-88a1-b874e1c16a53;{};1;;;49.46947, 8.56585
+254b5824-99c0-4907-8325-c334e75d7cfa;DE*MVV*E00139*R1;"SCS SCS PSID: 149916
+Ilvesheim Brueckenstrasse, ganz rechts
+PLID: 3789";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.56585, 49.4695], ""type"": ""Point""}";extern;ac0a6c34-3c1f-4ae9-a285-a2d56d613701;{};1;;;49.4695, 8.56585
+ce966d36-3eed-4835-b8c9-dd1538bd2832;DE*MVV*E00175*R1;"SCS SCS PSID: 149917
+Technoseum,  zweite von links
+PLID: 3790";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.49595, 49.47745], ""type"": ""Point""}";extern;b79c21f6-d7d3-4a96-a646-46252a24b637;{};1;;;49.47745, 8.49595
+db0965a7-bc01-42ba-b8f8-8916ffd5ecf1;DE*MVV*E00159*R1;"SCS SCS PSID:149922 
+Rathaus E5, ganz rechts
+PLID: 3791";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462356, 49.489556], ""type"": ""Point""}";extern;d21845f4-7c95-42b7-91a8-315dfa1d09df;{};1;;;49.489556, 8.462356
+1ac85131-59fe-497e-9952-5cc7cb5ad8df;DE*MVV*E00158*L1;"SCS PSID: 146732
+Rathaus E5, ganz links
+PLID: 3791";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.462476455, 49.48972524], ""type"": ""Point""}";extern;73140508-bd2b-4fc6-ac25-b2ac72d26382;{};1;;;49.48972524, 8.462476455
+8edf683c-fbbe-4ed0-976c-7f783e93f091;DE*MVV*E00156*R1;"SCS PSID: 146741
+Bromberger Baumgang, Ladesaeule an Strasse
+PLID: 3800";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476223032, 49.54347748], ""type"": ""Point""}";extern;7d6f5f85-5084-4079-8182-27f1952a94e4;{};1;;;49.54347748, 8.476223032
+311d9a6e-788b-4d7c-97a0-4936fd51174d;DE*MVV*E00157*R1;"SCS PSID: 149932
+Bromberger Baumgang, Ladesaeule an KITA
+PLID: 3800";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476144147, 49.54344949], ""type"": ""Point""}";extern;2b149304-497e-4dbb-abc9-9760901db29f;{};1;;;49.54344949, 8.476144147
+0b65d26c-64d6-4c38-ae0a-6e7d8f1975a9;DE*MVV*E00173*R1;"SCS PSID: 149924
+Meeraeckerplatz
+PLID: 3793";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.470972, 49.469222], ""type"": ""Point""}";extern;8c97e023-981c-4226-a974-a0cd5aa91efe;{};1;;;49.469222, 8.470972
+f5ddb24e-1fb0-41dc-9551-e0f789d4769f;DE*MVV*E00173*L1;"SCS PSID: 146734
+Meeraeckerplatz
+PLID: 3793";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.47100768, 49.4692429], ""type"": ""Point""}";extern;15d13f56-1b64-4dea-8d02-a5a4e0c4a74b;{};1;;;49.4692429, 8.47100768
+accea905-d251-4a86-a775-9ef42d1f53f4;DE*MVV*E00199*L1;"SCS PSID: 149925
+Uniklinikum
+PLID: 3794";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.491684529, 49.48974927], ""type"": ""Point""}";extern;09a2c2b3-a92f-455f-b639-d124fbb7ccf6;{};1;;;49.48974927, 8.491684529
+4e09b2eb-1fcf-443d-a637-41fe571df8bd;DE*MVV*E00130*R1;"SCS PSID: 146737
+Schwertlilienweg
+PLID: 3795";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.54967138532939, 49.5002944066375], ""type"": ""Point""}";extern;4dbc2681-9a3e-4b28-aad1-cae200041f98;{};1;;;49.5002944066375, 8.54967138532939
+ebec93fb-c176-49df-9b9e-7fcd3bb34ace;DE*MVV*E00151*R1;"SCS PSID: 149928
+Seckenheim Schwabenstrasse
+PLID: 3797";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.568822756, 49.46140133], ""type"": ""Point""}";extern;d93598fb-4d3c-490c-a2fe-86b36690203b;{};1;;;49.46140133, 8.568822756
+619323dd-3e01-470c-af3e-8a2fc7cbc901;DE*MVV*E00171*L1;"SCS PSID: 146740
+Rheinau S�d Mannheim L�deritzstrasse
+PLID: 3799";5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.533808968, 49.41665384], ""type"": ""Point""}";extern;9abe6d01-7c1c-4489-8189-0d7d05aef33e;{};1;;;49.41665384, 8.533808968
+cf60f677-9d42-494a-a4f7-9639b84cf71e;DE*MVV*E00517*L1;PLID: 3877, PSID: 152082,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.50937854086866, 49.47184584985388], ""type"": ""Point""}";extern;;{};1;;;49.47184584985388, 8.50937854086866
+9c587c80-d783-4ed2-b01b-17687f4252eb;DE*MVV*E00515*L1;PLID: 3877, PSID: 152090,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.509128110099393, 49.471869005626594], ""type"": ""Point""}";extern;;{};1;;;49.471869005626594, 8.509128110099393
+0a452a97-30e6-45dc-8f40-fef8c2b4db35;DE*MVV*E00513*R1;PLID: 3877, PSID: 151870,  Mannheim Wilhelm-Varnholt-Allee;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.50940421303358, 49.47189072472639], ""type"": ""Point""}";extern;;{};1;;;49.47189072472639, 8.50940421303358
+d9bce439-7ded-4314-9f65-2c7937638b23;DE*MVV*E00138*R1;PLID: 3808, PSID: 154124,  MVV Buchen In der vorderen Wanne;5eb25c865eefeb0047cc22ee;"{""coordinates"": [9.335165472436074, 49.526661129298866], ""type"": ""Point""}";extern;;{};1;;;49.526661129298866, 9.335165472436074
+be6d72a7-767b-4d65-8c52-9cf9c56c81ad;DE*MVV*E00505*R1;PLID: 3802, PSID: 146743, Feudenheim Mannheim Andersenstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.528264838244748, 49.49503322887912], ""type"": ""Point""}";extern;;{};1;;;49.49503322887912, 8.528264838244748
+87d97467-4360-4e30-a1a3-2df558fd761f;DE*MVV*E00510*R1;PLID: 3801, PSID: 149940, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456959918289796, 49.5473189705082], ""type"": ""Point""}";extern;;{};1;;;49.5473189705082, 8.456959918289796
+faf9f4db-f03c-48eb-a431-389928e6c049;DE*MVV*E00510*L1;PLID: 3801, PSID: 149937, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456912059584798, 49.54747987154949], ""type"": ""Point""}";extern;;{};1;;;49.54747987154949, 8.456912059584798
+726cbd60-e64f-4d5e-876e-4d29bbc3972d;DE*MVV*E00511*R1;PLID: 3801, PSID: 149938, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456929129057777, 49.54742695785664], ""type"": ""Point""}";extern;;{};1;;;49.54742695785664, 8.456929129057777
+17f3d4d6-7190-4986-991b-207a17633ce2;DE*MVV*E00507*R1;PLID: 3801, PSID: 149934, Lilienthal Center Mannheim Amselstr. 10;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.456652789821657, 49.54749900892261], ""type"": ""Point""}";extern;;{};1;;;49.54749900892261, 8.456652789821657
+32bdf6b5-e372-482f-9339-acbc66e7bf8f;DE*MVV*E00504*R1;PLID: 3803, PSID: 146744, Luzenberg Mannheim Eisenstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.476016897275178, 49.5168810619893], ""type"": ""Point""}";extern;;{};1;;;49.5168810619893, 8.476016897275178
+a0ed114a-b529-4ff3-b91e-492f51541ec1;DE*MVV*E00297*01;PLID: 3804, PSID: 146745, Plankstadt Plankstadt Wilhelmstraße;5eb25c865eefeb0047cc22ee;"{""coordinates"": [8.594079301840026, 49.39268705474235], ""type"": ""Point""}";extern;;{};1;;;49.39268705474235, 8.594079301840026

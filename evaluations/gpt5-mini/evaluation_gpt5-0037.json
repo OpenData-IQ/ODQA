@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0037",
+  "run_at": "2025-08-31T10:37:12.466080Z",
+  "question_id": 37,
+  "question": "Wie viele aktuelle Ausschreibungen der Stadt Meerbusch haben die Ausschreibungsart \"Offenes Verfahren nach VOB\"?",
+  "answer": "23",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es sind aktuell 23 Ausschreibungen der Stadt Meerbusch mit der Ausschreibungsart \"Offenes Verfahren nach VOB\".\n\nQuelle: Datensatz \"Meerbusch: Aktuelle Ausschreibungen\" (opendata.rhein-kreis-neuss.de) – https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/meerbusch-aktuelle-ausschreibungen/exports/csv?use_labels=true",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, vollständig und enthält die genaue Quelle mit einem direkten Link zum Datensatz. Sie beantwortet die Frage präzise und umfassend."
+  }
+}

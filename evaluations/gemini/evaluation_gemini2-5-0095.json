@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0095",
+  "run_at": "2025-09-01T05:55:41.044629Z",
+  "question_id": 95,
+  "question": "Von wem ist die Zweifachhalle Sprakel in Münster am Sonntag belegt?",
+  "answer": "MSC Münster City e.V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "xml ist nur über 759d6b77-c81a-44da-a775-781792e84217.html zu finden",
+  "llm_final": "Der Datensatz enthält Informationen zu Turn- und Sporthallen in Grevenbroich, nicht in Münster. Daher kann ich die Frage nach der Belegung der Zweifachhalle Sprakel mit diesem Datensatz nicht beantworten. Es scheint, dass keine Daten zur Belegung von Turnhallen in Münster verfügbar sind.\nFinalAnswer: Es sind keine Daten zur Belegung der Zweifachhale Sprakel verfügbar.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die goldene Antwort ist “MSC Münster City e.V.”, aber das LLM behauptet, die Daten seien nicht verfügbar. Das fällt unter „not found“ gemäß Rubrik, da es die Verfügbarkeit der Daten verneint statt zu antworten."
+  }
+}

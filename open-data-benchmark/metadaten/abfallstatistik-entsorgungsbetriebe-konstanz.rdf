@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Distribution rdf:about="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/6c8bf5f2-7ca2-439e-977b-990c9e068c6d">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>EBK_Abfallstatstik_monatlich_ab2020</dct:title>
+    <dct:description><![CDATA[<p>Dieser Datensatz enthält Informationen über die monatlichen Abfallmengen</p>
+<p><strong>Abfallmengen EBK, monatlich</strong></p>
+<p>Seit Januar 2020, Angabe in Tonnen</p>
+<p>Schwankungen in den Mengenangaben können transportlogistisch bedingt sein. Eine Korrektur der Daten in den Folgemonaten ist möglich.</p>
+<p><strong>Merkmalsbeschreibung: </strong></p>
+<ul>
+<li><strong>monat_jahr:</strong> (MM_JJJJ)</li>
+<li><strong>biomuell:</strong> gesammelte Menge</li>
+<li><strong>restmuell:</strong> gesammelte Menge</li>
+<li>gruenabfall: gelieferte Menge an Weiterverarbeiter. Bis einschließlich März 2021: Sammellieferung beim Erreichen bestimmter Mindestmengen; ab April 2021: Regelmäßige Lieferung ohne Mindestmenge.</li>
+<li><strong>gelber_sack:</strong> gesammelte Menge Abfuhr, bis einschließlich Dezember 2020 inkl. gesammelter Menge Wertstoffhöfe</li>
+<li><strong>altpapier:</strong> gesammelte Menge Abfuhr und Wertstoffhöfe</li>
+<li><strong>altglas:</strong> von der EBK-Umladestation farbgetrennt abgeholte Menge. Summe aus Weiß-, Grün- und Braunglas. Mengenschwankungen durch große Transporteinheiten.</li>
+<li>quelle</li>
+</ul>
+]]></dct:description>
+    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/cc-zero">
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+      </dct:LicenseDocument>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/6c8bf5f2-7ca2-439e-977b-990c9e068c6d"/>
+    <dcat:downloadURL>
+      <rdfs:Resource rdf:about="https://offenedaten-konstanz.de/sites/default/files/EBK_Abfallstatistik_monatlich_2020_2024.csv"/>
+    </dcat:downloadURL>
+    <foaf:page rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/6c8bf5f2-7ca2-439e-977b-990c9e068c6d"/>
+    <dct:language>
+      <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+    </dct:language>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+    </dct:format>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T10:43:52+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T12:34:40+02:00</dct:modified>
+    <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3039</dcat:byteSize>
+    <spdx:checksum>
+      <spdx:Checksum rdf:nodeID="N9a8da98755904fe6a99888a6cb141c23">
+        <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f5f5288c176fd8737feda36a9a2cb5b9</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+  </dcat:Distribution>
+  <dcat:Dataset rdf:about="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title>Abfallstatistik Entsorgungsbetriebe Konstanz</dct:title>
+    <dct:description><![CDATA[<p>Dieser Datensatz gibt Auskunft über die Abfallmenge der von den Entsorgungsbetrieben Konstanz (EBK) eingesammelten Abfällen in Konstanz. Wie hat sich die Abfallmenge der einzelnen Müllarten seit 2014 verändert?</p>
+<p>Der Datensatz enthält folgende Müllarten: Restmüll, Biomüll, Altpapier, Wertstoffe*, Altglas, Gelber Sack, Grünabfälle, Sperrmüll.</p>
+<p>* Zu den Wertstoffen gehören bspw.: Holz, Metall, E-Schrott, Kühlschränke,Mineral. Stoffe, Hartkunststoffe.</p>
+<p><em>Zu diesem Datensatz haben wir auch einen <strong><a href="https://offenedaten-konstanz.de/blog/weniger-abfall-zum-zweiten-mal-folge">Blogeintrag </a></strong>veröffentlicht.</em></p>
+<p>(Quelle: Entsorgungsbetriebe Stadt Konstanz)</p>
+]]></dct:description>
+    <dct:identifier>a47fac75-1d4d-4dc4-9b76-b400d483f73f</dct:identifier>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    </dct:accrualPeriodicity>
+    <dcat:keyword>__</dcat:keyword>
+    <dcat:keyword>bauen-und-wohnen</dcat:keyword>
+    <dcat:keyword>infrastruktur</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-10T03:03:51+02:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T12:35:46+02:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <foaf:page rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz"/>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Na828481dd93a4fed807a043e00b54862">
+        <vcard:fn>Team Offene Daten Stadt Konstanz</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:offenedaten@konstanz.de"/>
+        <vcard:hasURL rdf:resource="https://offenedaten-konstanz.de/"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:nodeID="Nc2fdd19c4d4441d7ae806aa6e45c0294">
+        <foaf:name>Stadt Konstanz</foaf:name>
+        <foaf:homepage rdf:resource="https://www.konstanz.de"/>
+        <dct:type>foaf:Organization</dct:type>
+      </foaf:Agent>
+    </dct:publisher>
+    <dct:accessRights>
+      <dct:RightsStatement rdf:nodeID="N1833b607b49343fcb79fdf13fc46bb70">
+        <rdfs:label>Public </rdfs:label>
+      </dct:RightsStatement>
+    </dct:accessRights>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/b71e9e36-5cba-42b4-a05a-b55ed17ea7f3">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>EBK_Abfallstatistik_gesamt_ab2014</dct:title>
+        <dct:description><![CDATA[<p>Dieser Datensatz enthält Informationen zur Abfallstatistik seit 2024 insgesamt.</p>
+<p><strong>EBK Abfallstatistik gesamt</strong></p>
+<p><strong>Merkmalsbeschreibung:</strong></p>
+<ul>
+<li><strong>jahr:</strong> (JJJJ)</li>
+<li><strong>restmuell:</strong> inkl. Gewerbe</li>
+<li><strong>biomuell:</strong></li>
+<li><strong>altpapier:</strong></li>
+<li><strong>altglas:</strong></li>
+<li><strong>gelber_sack:</strong> (Leichtverpackungen aus Kunststoff, Metall, Verbundstoff)</li>
+<li><strong>gruenabfaelle:</strong></li>
+<li><strong>sperrmuell:</strong></li>
+<li><strong>holz:</strong></li>
+<li><strong>metalle:</strong></li>
+<li><strong>elektroschrott:</strong> (elektrische Klein- und Großgeräte, Kühlgeräte, Lampen, monitore, Nachtspeicheröfen, etc.)</li>
+<li><strong>mineralische_stoffe:</strong> (Ton, Beton-Schirmständer)</li>
+<li><strong>hartkunststoff:</strong> (seit 2015, keine Verkaufsverpackungen)</li>
+<li><strong>flachglas:</strong> (seit 2021)</li>
+<li><strong>gesamtabfallmenge:</strong> (Summe aus allen Abfallarten)</li>
+</ul>
+]]></dct:description>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/b71e9e36-5cba-42b4-a05a-b55ed17ea7f3"/>
+        <dcat:downloadURL rdf:resource="https://offenedaten-konstanz.de/sites/default/files/EBK_Abfallstatistik_gesamt_bis2024.csv"/>
+        <foaf:page rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/b71e9e36-5cba-42b4-a05a-b55ed17ea7f3"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T10:47:13+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T12:26:10+02:00</dct:modified>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">944</dcat:byteSize>
+        <spdx:checksum>
+          <spdx:Checksum rdf:nodeID="N14638520dc0845acaf8af4fd25cfc99d">
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">bb68e197311764e132ac07243de2a937</spdx:checksumValue>
+            <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/6c8bf5f2-7ca2-439e-977b-990c9e068c6d"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/ce575eae-b717-4c43-838d-928a0cf25bb8">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>EBK_Abfallstatistik_gesamt_ab2014</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/ce575eae-b717-4c43-838d-928a0cf25bb8"/>
+        <foaf:page rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/ce575eae-b717-4c43-838d-928a0cf25bb8"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-23T12:35:47+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T12:25:41+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/01ac4cd5-a567-41ae-a045-1c32e7a6ad5d">
+        <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title>EBK_Abfallstatstik_monatlich_ab2020</dct:title>
+        <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+        <dcat:accessURL rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/01ac4cd5-a567-41ae-a045-1c32e7a6ad5d"/>
+        <foaf:page rdf:resource="https://offenedaten-konstanz.de/dataset/abfallstatistik-entsorgungsbetriebe-konstanz/resource/01ac4cd5-a567-41ae-a045-1c32e7a6ad5d"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-23T12:36:02+02:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-16T12:35:46+02:00</dct:modified>
+        <dcatde:plannedAvailability rdf:resource="http://dcat-ap.de/def/plannedAvailability/stable"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/municipality"/>
+    <dcatde:contributorID rdf:resource="https://offenedaten-konstanz.de/"/>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/datenBW"/>
+    <dcatde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/08335"/>
+    <dcatde:geocodingDescription>Stadt Konstanz (LAT: 47°, 39, 48;  LONG 9°, 10, 33 ). Amtlicher Gemeindeschlüssel (AGS): 08335043</dcatde:geocodingDescription>
+    <dct:spatial>
+      <dct:Location rdf:nodeID="N923195a7f02a4798910c25d2d4df296c">
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/districtKey/08335"/>
+      </dct:Location>
+    </dct:spatial>
+    <dcatde:originator>
+      <foaf:Organization rdf:nodeID="Naed713e844d647c098399bca98c3fd0d">
+        <foaf:name>Entsorgungsbetriebe Stadt Konstanz</foaf:name>
+        <foaf:homepage rdf:resource="https://www.konstanz.de/entsorgungsbetriebe/start"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:originator>
+    <dcatde:maintainer>
+      <foaf:Organization rdf:nodeID="Nbf7a6c0590ac4b6fa4e728ce140162c8">
+        <foaf:name>Team Offene Daten Stadt Konstanz</foaf:name>
+        <foaf:homepage rdf:resource="https://offenedaten-konstanz.de/"/>
+        <dct:type rdf:resource="foaf:Agent"/>
+      </foaf:Organization>
+    </dcatde:maintainer>
+  </dcat:Dataset>
+  <spdx:ChecksumAlgorithm rdf:about="http://dcat-ap.de/def/hashAlgorithms/md/5"/>
+  <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+  <rdfs:Resource rdf:about="https://offenedaten-konstanz.de/sites/default/files/EBK_Abfallstatistik_gesamt_bis2024.csv"/>
+</rdf:RDF>

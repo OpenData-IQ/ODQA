@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0037",
+  "run_at": "2025-08-31T22:03:06.656852Z",
+  "question_id": 37,
+  "question": "Wie viele aktuelle Ausschreibungen der Stadt Meerbusch haben die Ausschreibungsart \"Offenes Verfahren nach VOB\"?",
+  "answer": "23",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "23"
+}

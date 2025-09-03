@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatde="http://dcat-ap.de/def/dcatde/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <dcat:Dataset rdf:about="https://ckan.govdata.de/dataset/9013834f-24e2-443b-8d34-64fd63a6079d">
+    <dct:title>Bundestagswahl 2017</dct:title>
+    <dct:description>Amtliche Ergebnisse und Informationen des Bundeswahlleiters zur Bundestagswahl 2017.</dct:description>
+    <dcat:landingPage>
+      <foaf:Document rdf:about="https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html"/>
+    </dcat:landingPage>
+    <dct:identifier>9013834f-24e2-443b-8d34-64fd63a6079d</dct:identifier>
+    <dcat:keyword>Bundestagswahl</dcat:keyword>
+    <dcat:keyword>Sitzverteilung</dcat:keyword>
+    <dcat:keyword>Wahl</dcat:keyword>
+    <dcat:keyword>Wahlkreis</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-25T00:00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-26T00:00:00</dct:modified>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Naf1a609a82be496182b26c8c51921567">
+        <vcard:fn>Bundeswahlleiter</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:publisher>
+      <foaf:Agent rdf:about="https://ckan.govdata.de/organization/a9c59aac-5fc1-47d2-a94e-b1070e8a5fc8">
+        <foaf:name>Statistisches Bundesamt</foaf:name>
+      </foaf:Agent>
+    </dct:publisher>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/9013834f-24e2-443b-8d34-64fd63a6079d/resource/d4ad7fc3-bc1f-41d3-9c40-43033dfcc4f9">
+        <dct:description>Ergebnis der Bundestagswahl 2017 Übersichtsseite</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2_0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>HTML</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007187</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007187</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/9013834f-24e2-443b-8d34-64fd63a6079d/resource/adab7232-d0e9-4ae7-99ed-41d1cfeb0acb">
+        <dct:title> </dct:title>
+        <dct:description>Endgültige Ergebnisse der Erst- und Zweitstimmen nach Wahlkreisen bei der Bundestagswahl 2017 als CSV-Datei</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2_0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>CSV</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bundeswahlleiter.de/dam/jcr/72f186bb-aa56-47d3-b24c-6a46f5de22d0/btw17_kerg.csv"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007207</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007207</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.govdata.de/dataset/9013834f-24e2-443b-8d34-64fd63a6079d/resource/8f4379e4-b191-4974-8f2d-31c99abb8249">
+        <dct:description>Endgültige Ergebnisse der Erst- und Zweitstimmen nach Wahlkreisen bei der Bundestagswahl 2017 als PDF-Datei</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2_0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:format>PDF</dct:format>
+        <dcat:accessURL rdf:resource="https://www.bundeswahlleiter.de/dam/jcr/12d53093-cd70-4645-824a-228961412aa5/btw17_heft2.pdf"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007211</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-17T08:12:54.007211</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/destatis"/>
+    <dct:creator>
+      <foaf:Organization rdf:nodeID="N061123fc209e480088a514a2ff12cc46">
+        <foaf:name>Bundeswahlleiter</foaf:name>
+      </foaf:Organization>
+    </dct:creator>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.de/def/licenses/dl-by-de/2_0">
+    <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
+  </dct:LicenseDocument>
+  <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/DEU"/>
+</rdf:RDF>
