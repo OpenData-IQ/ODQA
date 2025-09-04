@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer correctly states that no email address is listed in the official dataset and provides alternative contact information and a helpful tip on where to find the email. It directly addresses the 'false premise' nature of the question."
+    "rationale": "Die Antwort des LLM ist korrekt und sehr umfassend. Sie gibt nicht nur an, dass keine E-Mail-Adresse vorhanden ist, sondern liefert auch weitere nützliche Kontaktdaten und einen Tipp, wo die E-Mail-Adresse gefunden werden könnte."
   }
 }

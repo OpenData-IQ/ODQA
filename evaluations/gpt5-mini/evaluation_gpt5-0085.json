@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "Die Antwort nennt einen Ort und einen Prozentsatz, aber es ist unklar, ob dies der höchste Wert in Deutschland ist. Die Frage fragt nach dem Ort mit den MEISTEN betreuten Kindern, was die Antwort nicht explizit bestätigt."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer to the question. This indicates a failure to generate a response, likely due to a timeout or internal error."
   }
 }

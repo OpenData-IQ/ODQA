@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, präzise und liefert die genaue Menge sowie die Quelle mit einem direkten Link. Sie ist umfassend und vollständig."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt den Monat März an, der mit der Goldstandard-Antwort übereinstimmt. Zusätzlich liefert sie die genaue Menge und eine relevante Quelle, was die Antwort sehr vollständig macht."
   }
 }

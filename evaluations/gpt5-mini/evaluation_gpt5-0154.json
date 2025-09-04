@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer is correct and provides the exact percentages for each city area, along with the source. It is comprehensive and directly answers the question."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie listet alle Stadtbereiche auf, die im Jahr 2009 einen Ausländeranteil von mindestens 4% hatten, und gibt zusätzlich die genauen Prozentwerte sowie die Quelle an."
   }
 }

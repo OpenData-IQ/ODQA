@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "Der LLM-Final-Eintrag zeigt deutlich, dass das Rekursionslimit erreicht wurde. Dies deutet darauf hin, dass der Agent die Antwort nicht vollständig generieren konnte."
+    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
   }
 }

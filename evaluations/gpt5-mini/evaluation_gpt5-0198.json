@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie gibt die genaue Anzahl der Familien an und liefert zusätzlich die Quelle der Information, was die Antwort sehr glaubwürdig macht."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Zahl und die relevante Quelle, was die Antwort sehr nützlich und nachvollziehbar macht."
   }
 }

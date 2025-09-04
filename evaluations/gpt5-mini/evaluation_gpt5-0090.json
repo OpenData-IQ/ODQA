@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die Gebietsabtretungen werden nicht erwähnt."
+    "rationale": "Die LLM-Antwort behauptet, dass der Versailler Vertrag keine direkten Gebietsverluste für Bayern mit sich brachte, was falsch ist. Der Goldstandard nennt spezifische Gebietsabtretungen in der Pfalz, die zu Bayern gehörte."
   }
 }

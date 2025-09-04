@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates that a recursion limit was reached, preventing it from providing a complete answer. Therefore, the answer cannot be evaluated for correctness."
+    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
   }
 }

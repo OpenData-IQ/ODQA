@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie identifiziert die falsche Prämisse der Frage und liefert eine klare Begründung sowie die relevanten Quellen, die belegen, dass die Partei nicht existiert und somit keine Stimmen erhalten hat."
+    "rationale": "The LLM correctly identifies that the party does not exist and therefore received no votes. It provides a clear explanation and cites a relevant source, which aligns with the gold standard's intent."
   }
 }

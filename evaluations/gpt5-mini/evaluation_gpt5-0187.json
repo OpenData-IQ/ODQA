@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "The LLM's final answer of 111 is incorrect. The correct answer provided in the input is 28. The LLM also includes an extra '10' in its sum that is not present in the data for the specified time frame."
+    "rationale": "Die LLM-Antwort von 111 ist falsch, da die korrekte Antwort 28 ist. Die LLM-Antwort summiert die Werte für 0-4 Uhr, aber die Frage bezieht sich auf den 1. Januar 2014, für den der Wert 28 ist."
   }
 }

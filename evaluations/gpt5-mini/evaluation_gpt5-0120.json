@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält den richtigen Straßenschlüssel und eine relevante Quelle, die die Information bestätigt."
+    "rationale": "Die Antwort ist korrekt und gibt den Straßenschlüssel genau an. Zusätzlich wird eine relevante Quelle mit URL genannt, was die Antwort sehr vollständig macht."
   }
 }

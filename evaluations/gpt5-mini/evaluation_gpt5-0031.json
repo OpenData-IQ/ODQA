@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Länge des Rundwegs und eine direkte Quelle mit URL, die die Information bestätigt."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Länge des Rundwegs an. Sie enthält auch die primäre Ressource (URL) und die genaue Quelle im Datensatz, was sie sehr umfassend macht."
   }
 }

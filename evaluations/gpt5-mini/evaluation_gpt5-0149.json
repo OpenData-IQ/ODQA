@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert die genauen Zahlen sowie die Quelle. Sie beantwortet die Frage präzise und ist sehr gut nachvollziehbar."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie liefert die genauen Zahlen und die Quelle, was die Antwort sehr nützlich macht."
   }
 }

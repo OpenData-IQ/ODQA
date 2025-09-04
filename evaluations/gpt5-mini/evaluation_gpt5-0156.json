@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert alle notwendigen Details inklusive der Berechnung und der Quelle. Sie ist präzise und nachvollziehbar."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert alle notwendigen Details zur Berechnung des Anteils. Sie stimmt mit der Goldstandard-Antwort überein und bietet zusätzliche Transparenz durch die Angabe der Quelle."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort enthält den primären Link aus der Quelle und bietet zusätzlich einen direkten Download-Link, was die Antwort sehr umfassend und hilfreich macht."
+    "rationale": "Die Antwort des LLM enthält den primären Link aus der Goldstandard-Antwort und bietet zusätzlich einen direkten Download-Link sowie eine klare Erklärung. Dies macht die Antwort umfassend und sehr hilfreich."
   }
 }

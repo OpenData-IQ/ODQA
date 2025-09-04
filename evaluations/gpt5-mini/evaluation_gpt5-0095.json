@@ -2,7 +2,7 @@
   "thread_id": "gpt5-0095",
   "run_at": "2025-08-31T12:17:53.602520Z",
   "question_id": 95,
-  "question": "Von wem ist die Zweifachhalle Sprakel in Münster am Sonntag belegt?",
+  "question": "Von wem ist die York-Quartier-Turnhalle Gremmendorf am Sonntag belegt?",
   "answer": "MSC Münster City e.V.",
   "question_type": "simple with restriction",
   "source": "2",
@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "token limit",
-    "rationale": "The 'llm_final' field clearly indicates a 'token limit' error, stating that the maximum context length was exceeded. Therefore, the answer could not be generated due to this technical constraint."
+    "rationale": "The 'llm_final' field explicitly states a 'maximum context length' error and that the requested tokens exceeded this limit. This indicates a token limit problem."
   }
 }

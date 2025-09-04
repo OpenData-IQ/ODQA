@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer correctly identifies the city district and the exact natural population balance for 2024. It also provides a clear source for the information, making it comprehensive and actionable."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt den Stadtteil und den Wert des Bevölkerungssaldos, was der Goldstandard-Antwort entspricht. Zusätzlich wird eine Quelle angegeben."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert die angefragten Daten sowie die genaue Quelle. Sie enthält den primären Ressourcenlink und zusätzliche relevante Details."
+    "rationale": "Die Antwort des LLM ist korrekt, vollständig und liefert die angefragten Daten sowie die genaue Quelle. Sie enthält die primäre Ressource und detaillierte Informationen zur Wahlbeteiligung."
   }
 }

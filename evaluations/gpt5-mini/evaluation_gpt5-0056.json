@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The LLM's answer is identical to the provided answer and correctly states the full address of the German Weather Service. It is comprehensive and accurate."
+    "rationale": "Die LLM-Antwort enthält die vollständige und korrekte Adresse des Deutschen Wetterdienstes, die mit der Goldstandard-Antwort übereinstimmt. Sie ist präzise und umfassend."
   }
 }

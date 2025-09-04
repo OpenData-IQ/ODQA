@@ -7,10 +7,10 @@
   "question_type": "comparison",
   "source": "2",
   "remark": "",
-  "llm_final": "2016 war höher.  \nBetriebliche Weiterbildung (B10): 2015 = 11,1 Mrd. €, 2016 = 11,2 Mrd. €.  \nQuelle: BMBF-Datensatz \"Budget für Bildung, Forschung und Wissenschaft nach Bereichen\" (Tabelle 1.9.1).",
+  "llm_final": "2016 war höher. \nBetriebliche Weiterbildung (B10): 2015 = 11,1 Mrd. €, 2016 = 11,2 Mrd. €. \nQuelle: BMBF-Datensatz \"Budget für Bildung, Forschung und Wissenschaft nach Bereichen\" (Tabelle 1.9.1).",
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert die genauen Zahlen für beide Jahre sowie die Quelle. Dies macht die Antwort umfassend und nachvollziehbar."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genauen Zahlen für beide Jahre sowie die Quelle. Dies macht die Antwort sehr vollständig und nachvollziehbar."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "In Bergheim gab es 2010 insgesamt 2.691 Familien mit 3 Personen.  \nQuelle: Datensatz \"Familien nach Größe Stadt Bergheim (2010)\" (offenedaten.kdvz.nrw).",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "The LLM correctly identified the false premise and provided the relevant data for families with 3 persons, including the source. This is a comprehensive and actionable answer."
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Frage basiert auf einer falschen Prämisse (negative Personenanzahl). Die LLM-Antwort korrigiert die Prämisse nicht und liefert stattdessen Daten für eine positive Personenanzahl, was die ursprüngliche Frage nicht beantwortet und die falsche Prämisse ignoriert."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie liefert die genaue Anzahl der Familien und zusätzlich eine detaillierte Aufschlüsselung nach Personenzahl sowie die Datenquelle."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genaue Zahl der Familien. Zusätzlich werden detaillierte Informationen zur Zusammensetzung der Familien und zur Datenquelle angegeben, was die Antwort sehr vollständig macht."
   }
 }

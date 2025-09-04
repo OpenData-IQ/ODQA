@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Anzahl der Straßen und verweist auf die primäre Datenquelle mit einem direkten Link."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Straßen an. Zusätzlich wird die primäre Quelle mit einem direkten Link genannt, was die Antwort sehr umfassend macht."
   }
 }

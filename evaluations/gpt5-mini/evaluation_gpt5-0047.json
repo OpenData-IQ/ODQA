@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert den primären Ressourcenlink sowie einen direkten Link zur CSV-Datei. Sie ist umfassend und bietet sogar an, die Daten weiter zu verarbeiten."
+    "rationale": "Die Antwort des LLM ist perfekt, da sie die primäre Ressource (URL) enthält und zusätzlich einen direkten Link zur CSV-Datei bereitstellt. Die Antwort ist umfassend und bietet sogar an, die Daten weiter zu verarbeiten."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The `llm_final` field explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates that the LLM failed to generate a complete answer due to a recursion depth limit."
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
   }
 }

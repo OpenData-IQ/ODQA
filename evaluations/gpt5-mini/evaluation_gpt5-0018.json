@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist präzise und korrekt, inklusive der Einheit und der Quelle. Sie beantwortet die Frage vollständig und liefert alle notwendigen Details."
+    "rationale": "The LLM's answer is precise and directly matches the gold standard, providing the exact value and context. It also cites a relevant source, enhancing its completeness and accuracy."
   }
 }

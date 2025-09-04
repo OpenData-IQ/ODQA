@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die Antwort des LLM ist falsch. Laut der Quelle (Stadt Jülich) war es 2012 Bourheim und 2017 Daubenrath. Das LLM behauptet, es sei beide Male Bourheim gewesen."
+    "rationale": "Die LLM-Antwort ist falsch, da sie für 2017 den falschen Stadtteil angibt. Die korrekte Antwort für 2017 ist Daubenrath, nicht Bourheim."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "Lütten Klein: 4.239 Einwohnerinnen/Einwohner 75 Jahre und älter, Lichtenhagen: 1.806 Einwohnerinnen/Einwohner 75 Jahre und älter (Stand 31.12.2017)",
   "llm_final": "",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und wird durch die genaue Angabe der Einwohnerzahlen für beide Stadtbereiche im Remarkfeld vollständig belegt. Die Frage wird präzise beantwortet und die Daten sind nachvollziehbar."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
   }
 }

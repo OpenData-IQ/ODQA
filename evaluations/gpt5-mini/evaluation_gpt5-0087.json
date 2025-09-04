@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und gibt die genaue Anzahl der Sammelstellen an. Sie enthält auch eine direkte und relevante Quelle, die die Information bestätigt."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Sammelstellen an. Sie enthält auch eine relevante Quelle, die die Information bestätigt."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer is correct and provides specific numbers to support the claim. It also cites a clear source, making it comprehensive and verifiable."
+    "rationale": "The LLM's answer correctly identifies that the majority of toilets are free, matching the gold standard. It also provides specific numbers and a source, making it comprehensive and actionable."
   }
 }

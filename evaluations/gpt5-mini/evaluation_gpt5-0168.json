@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert alle angefragten Informationen inklusive der Quelle. Die Zahlen stimmen exakt mit der Frage überein und die Berechnung des Zuwachses ist ebenfalls korrekt."
+    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie enthält alle relevanten Zahlen und die prozentuale Steigerung, sowie eine Quelle."
   }
 }

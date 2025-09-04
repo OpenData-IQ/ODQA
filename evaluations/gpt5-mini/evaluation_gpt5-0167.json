@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Es gab am 31.12.2015 in der Gemeinde Merzenich 90 Familien mit mindestens 5 Personen. Insgesamt lebten in diesen Familien 481 Personen.\n\nQuelle: \"Familien nach Größe Gemeinde Merzenich (Stichtag 31.12.2015)\" — EWO_990_sim_OpDat28A-2015.",
   "judgement": {
-    "category": "perfect",
+    "category": "acceptable",
     "problem_type": null,
-    "rationale": "Die Antwort ist präzise und vollständig, da sie sowohl die Anzahl der Familien als auch die Gesamtpersonenzahl korrekt angibt. Die Quelle ist ebenfalls klar benannt und nachvollziehbar."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die Hauptzahlen wieder. Sie ist jedoch weniger detailliert als die Goldstandard-Antwort, die die Aufschlüsselung nach Familiengröße enthält."
   }
 }

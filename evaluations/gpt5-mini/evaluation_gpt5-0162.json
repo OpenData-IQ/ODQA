@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig, da sie sowohl das Jahr als auch die Anzahl der Fälle nennt. Die Angabe der Quelle mit einem direkten Link macht die Antwort zudem nachvollziehbar und überprüfbar."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Jahreszahl und die Anzahl der Fälle, sowie die korrekte Quelle mit URL."
   }
 }

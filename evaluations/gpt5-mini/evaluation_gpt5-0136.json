@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, liefert die genaue Information (Wahlbeteiligung von 80,2 % für Biestow) und verweist auf die primäre Datenquelle sowie einen direkten Link zur CSV-Datei. Dies macht die Antwort umfassend und direkt nutzbar."
+    "rationale": "Die Antwort des LLM ist korrekt, enthält die primäre Ressource und liefert zusätzlich relevante Details (Wahlbeteiligung, Stadtbereich, CSV-Link). Sie ist umfassend und direkt umsetzbar."
   }
 }

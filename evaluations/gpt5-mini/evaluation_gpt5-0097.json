@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt die Veranstalter, die Container-IDs, die Aktionsdaten und die genaue Datenquelle mit URL."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt die richtigen Veranstalter und liefert zusätzlich relevante Details wie Container-IDs, Aktionsdaten und die genaue Quelle mit URL."
   }
 }

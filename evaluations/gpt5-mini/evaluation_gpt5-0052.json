@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, liefert die genauen Zahlen und die direkte Quelle, was sie sehr umfassend macht. Sie beantwortet die Frage präzise und ist gut belegt."
+    "rationale": "Die Antwort ist korrekt, liefert die genauen Zahlen und die Quelle, einschließlich eines direkten Links zur CSV-Datei. Dies macht die Antwort umfassend und überprüfbar."
   }
 }

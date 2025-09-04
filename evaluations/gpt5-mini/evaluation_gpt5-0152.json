@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist vollständig und korrekt, da sie alle im Datensatz genannten Arten von Änderungen des Familienstands auflistet. Die Quelle wird ebenfalls korrekt angegeben."
+    "rationale": "Die Antwort des LLM listet alle im Goldstandard genannten Familienstandsänderungen korrekt auf. Sie ist vollständig und präzise."
   }
 }

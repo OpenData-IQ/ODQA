@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, präzise und liefert die genaue Quelle mit einem direkten Link zur Regionalstatistik. Die zusätzlichen Details zur Anzahl der Eheschließungen und dem Prozentsatz machen die Antwort sehr umfassend."
+    "rationale": "The LLM's answer correctly identifies Neukölln and provides detailed statistics, including the percentage and the exact source URL. This makes the answer comprehensive and actionable."
   }
 }

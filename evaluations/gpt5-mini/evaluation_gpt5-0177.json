@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort erkennt die falsche Prämisse der Frage und erklärt präzise, warum keine Daten existieren, da es keine marsianischen Staatsbürger gibt. Die LLM-Antwort bestätigt dies und liefert eine plausible Quelle für die Bevölkerungsstruktur."
+    "rationale": "Die Antwort des LLM erkennt die falsche Prämisse der Frage und erklärt, dass es keine Kategorie für marsianische Staatsbürger gibt. Sie liefert eine plausible Begründung und eine relevante Quelle, die die Nichtexistenz solcher Daten bestätigt."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist umfassend und korrekt. Sie liefert die genaue Begründung und detaillierte Merkmale aus dem Denkmalkataster, was die Frage vollständig beantwortet."
+    "rationale": "Die Antwort des LLM ist sehr umfassend und korrekt. Sie liefert nicht nur die Begründung, sondern auch detaillierte Merkmale und die Quelle, was über die Goldstandard-Antwort hinausgeht."
   }
 }

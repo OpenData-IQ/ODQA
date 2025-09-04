@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates that a recursion limit was reached. Therefore, the answer provided cannot be reliably evaluated as it is a result of an internal system error."
+    "rationale": "The LLM's output explicitly states 'Recursion limit of 25 reached'. This indicates a technical problem preventing the answer from being generated."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie gibt nicht nur die richtige Anzahl an, sondern liefert auch die genaue Quelle mit URL, was die Antwort sehr gut nachvollziehbar macht."
+    "rationale": "Die Antwort des LLM ist korrekt und bestätigt, dass keine Kinder mit dem Namen Anna registriert wurden. Sie liefert zudem eine genaue Quelle mit URL, was die Antwort sehr vollständig macht."
   }
 }

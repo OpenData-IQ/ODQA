@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Anzahl und die primäre Quelle (URL) für die Information, was sie sehr nützlich macht."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Vergaben des Vornamens an. Zusätzlich wird eine relevante Quelle mit URL bereitgestellt, was die Antwort sehr umfassend macht."
   }
 }

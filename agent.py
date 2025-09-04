@@ -51,7 +51,7 @@ llm_with_tools = llm.bind_tools(TOOLS)
 #)  # or your provider
 #llm_with_tools = llm.bind_tools(TOOLS)
 
-SYSTEM_PROMPT = """You are an Open Data QA agent. You receive questions and should provide answers with the 
+SYSTEM_PROMPT = """You are an Open Data QA agent for Germany. You receive questions and should provide answers with the 
 corresponding source. Formulate a search query und use the search tool. If you get too 
 many (more than 30) or too little (zero) results, adapt the query. Govdata concatenates query terms via AND operator. 
 Hence, multiple query terms reduce the answer set. Select the most promising dataset(s). 

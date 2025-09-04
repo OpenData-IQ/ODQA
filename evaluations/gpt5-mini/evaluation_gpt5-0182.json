@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt den Stadtbereich, das Jahr und die genaue Zahl des Bevölkerungszuwachses."
+    "rationale": "The LLM's answer correctly identifies the city area and the exact number of population growth, matching the gold standard. It also provides the source, making it comprehensive and actionable."
   }
 }

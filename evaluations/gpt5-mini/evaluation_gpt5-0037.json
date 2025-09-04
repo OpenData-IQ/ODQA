@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und enthält die genaue Quelle mit einem direkten Link zum Datensatz. Sie beantwortet die Frage präzise und umfassend."
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Anzahl und die relevante Quelle mit URL."
   }
 }

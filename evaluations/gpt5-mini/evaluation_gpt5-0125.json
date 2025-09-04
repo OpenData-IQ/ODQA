@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig, da sie die genaue Einwohnerzahl zum angefragten Datum liefert und die Quelle angibt. Sie enthält auch eine nützliche Aufschlüsselung der Einwohnerzahlen."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genaue Zahl der Einwohner, die mit der Goldstandard-Antwort übereinstimmt. Zusätzlich werden detaillierte Informationen zur Aufschlüsselung der Einwohner und eine genaue Quelle angegeben, was die Antwort sehr vollständig macht."
   }
 }

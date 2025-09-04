@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie listet alle zehn Illustrationen auf und bestätigt, dass alle Radierungen sind, mit einer klaren Quellenangabe."
+    "rationale": "Die LLM-Antwort ist korrekt und vollständig. Sie listet alle zehn Radierungen auf, die in der Goldstandard-Antwort genannt werden, und gibt zusätzliche Kontextinformationen zur Quelle."
   }
 }

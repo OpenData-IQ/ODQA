@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "token limit",
-    "rationale": "The 'llm_final' field clearly indicates a 'token limit' error, stating that the requested tokens exceeded the maximum context length. Therefore, the answer provided is not a valid response from the LLM."
+    "rationale": "The LLM's response clearly indicates a token limit error, stating that the requested tokens exceeded the maximum context length. Therefore, it could not process the request and provide an answer."
   }
 }

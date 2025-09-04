@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort erkennt die falsche Prämisse der Frage und erklärt, dass keine Daten für Sandstürme vorliegen, was impliziert, dass die Zählung 0 ist. Die LLM-Antwort bestätigt dies explizit und liefert eine präzise Begründung."
+    "rationale": "Die Antwort des LLM ist korrekt und geht auf die falsche Prämisse der Frage ein, indem sie erklärt, dass keine Sandstürme verzeichnet wurden und somit 0 Radfahrer gezählt wurden. Dies stimmt mit der Goldstandard-Antwort überein."
   }
 }

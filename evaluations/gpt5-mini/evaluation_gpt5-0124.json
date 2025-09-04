@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Zahl und eine detaillierte Quellenangabe, die den Datensatz und die Spalte benennt."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Zahl und die korrekte Quelle, was sie sehr nützlich macht."
   }
 }

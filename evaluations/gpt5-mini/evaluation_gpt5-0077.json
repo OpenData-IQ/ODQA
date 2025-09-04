@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "Gute Frage — dafür brauche ich aber den konkreten Datensatz/Ort bzw. das Jahr. In der Suche gibt es mehrere Quellen („Gestorbene nach Geschlecht und Todesursachen“) (z. B. Köln, Landesdatenbank NRW, Leipzig, Schleswig‑Holstein etc.).\n\nWas möchtest du, dass ich auswerte?\n- Einen bestimmten Ort (z. B. Köln) — bitte nennen.  \n- Oder soll ich standardmäßig den Datensatz der Stadt Köln (Offenedaten Köln) verwenden?  \n- Oder mehrere Regionen vergleichen?\n\nHinweis: Ich berechne das Mortalitätsverhältnis als Verhältnis männlicher zu weiblichen Todesfälle (Männer/T Frauen). Kleinstzahlen können das Ergebnis verzerren — soll ich Grenzfälle (z. B. Werte < 5) ausschließen oder markieren?",
+  "llm_final": "Gute Frage — dafür brauche ich aber den konkreten Datensatz/Ort bzw. das Jahr. In der Suche gibt es mehrere Quellen („Gestorbene nach Geschlecht und Todesursachen“) (z. B. Köln, Landesdatenbank NRW, Leipzig, Schleswig–Holstein etc.).\n\nWas möchtest du, dass ich auswerte?\n- Einen bestimmten Ort (z. B. Köln) — bitte nennen.  \n- Oder soll ich standardmäßig den Datensatz der Stadt Köln (Offenedaten Köln) verwenden?  \n- Oder mehrere Regionen vergleichen?\n\nHinweis: Ich berechne das Mortalätsverhältnis als Verhältnis männlicher zu weiblichen Todesfälle (Männer/T Frauen). Kleinstzahlen können das Ergebnis verzerren — soll ich Grenzfälle (z. B. Werte < 5) ausschließen oder markieren?",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": "The LLM indicates that it needs a specific dataset/location or year to answer the question. It asks for clarification on which data source to use, implying it cannot proceed without this information. Therefore, the data was not found or specified sufficiently."
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide a direct answer to the question. Instead, it asked clarifying questions about the data source and scope. This indicates it could not fulfill the request without further input."
   }
 }

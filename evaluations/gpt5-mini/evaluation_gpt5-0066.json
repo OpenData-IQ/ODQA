@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert die genaue Anzahl der Walnussbäume. Die Quelle wird klar benannt und der spezifische Eintrag, der die Information enthält, wird referenziert."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Walnussbäume an. Sie nennt auch die Quelle und den spezifischen Eintrag, was die Antwort sehr vollständig macht."
   }
 }

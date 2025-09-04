@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert die genaue Zahl der Geschwindigkeitsüberschreitungen. Sie enthält auch die primäre Quelle mit einem direkten Link zum Datensatz, was sie sehr umfassend macht."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genaue Zahl der Geschwindigkeitsüberschreitungen. Sie enthält auch die primäre Ressource (URL) und den Namen des Datensatzes, was sie sehr umfassend macht."
   }
 }

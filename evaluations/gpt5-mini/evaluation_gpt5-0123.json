@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The 'llm_final' field explicitly states that a recursion limit was reached. This indicates a technical problem preventing the LLM from completing its task."
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert die Generierung einer vollständigen Antwort."
   }
 }

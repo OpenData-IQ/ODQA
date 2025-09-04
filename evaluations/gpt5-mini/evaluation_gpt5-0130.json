@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort identifiziert korrekt den Ortsteil und die genaue Anzahl der Familien, was die Frage vollständig beantwortet. Es gibt keine weiteren Details, die für eine perfekte Antwort notwendig wären."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
   }
 }

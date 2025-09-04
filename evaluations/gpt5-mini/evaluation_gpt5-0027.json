@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist präzise und liefert nicht nur die genaue Prozentzahl, sondern auch die Rohdaten und eine alternative Berechnung. Die Quelle ist klar angegeben und ein direkter Link zum Datensatz ist vorhanden, was die Antwort sehr umfassend macht."
+    "rationale": "Die Antwort des LLM ist korrekt und sehr detailliert, indem sie zwei verschiedene Berechnungsgrundlagen für den Prozentsatz angibt. Sie liefert auch die genaue Quelle mit einem direkten Link zum Datensatz, was die Antwort umfassend und nachvollziehbar macht."
   }
 }

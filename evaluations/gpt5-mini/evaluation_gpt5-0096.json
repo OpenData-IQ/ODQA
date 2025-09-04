@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer correctly identifies all relevant districts and provides specific addresses for each Betriebshof, making it comprehensive and actionable. It also cites the data source."
+    "rationale": "Die Antwort des LLM ist vollständig korrekt und liefert nicht nur die Stadtteile, sondern auch die genauen Adressen der Betriebshöfe, was über die Goldstandard-Antwort hinausgeht und sehr hilfreich ist. Die Quelle wird ebenfalls korrekt angegeben."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert die genaue Anzahl der nachträglich ausgestellten Geburtsurkunden. Zusätzlich wird die Quelle der Information klar benannt, was die Antwort sehr vollständig macht."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Geburtsurkunden an. Zusätzlich wird die Quelle der Information genannt, was die Antwort sehr vollständig macht."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Zahl der Grabstätten und verweist auf die primäre Datenquelle mit einem direkten Link."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Zahl und die relevante Quelle mit URL, was sie sehr nützlich macht."
   }
 }

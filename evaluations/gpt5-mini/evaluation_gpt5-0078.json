@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und sehr präzise. Sie erklärt, warum kein Unterschied gemacht wird, und liefert die direkte Quelle zur Bestätigung."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert eine klare Begründung, warum keine Unterscheidung gemacht wird. Sie enthält auch die primäre Ressource, die die Aussage belegt."
   }
 }

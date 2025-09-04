@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist umfassend und bietet mehrere relevante Links sowie eine klare Anleitung zur Nutzung der Suchfunktionen. Sie enthält den primären Ressourcenlink und zusätzliche nützliche Informationen."
+    "rationale": "Die Antwort des LLM enthält den primären Link aus der Goldstandard-Antwort und bietet zusätzlich weitere relevante Links und nützliche Hinweise zur Nutzung der Schnittstellen. Dies macht die Antwort umfassend und sehr hilfreich."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "The answer lists several countries, but it is highly unlikely that 200 or more people moved from Elsdorf to each of these countries in a single year. The answer seems to be a general list of countries rather than specific data for the given criteria."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
   }
 }

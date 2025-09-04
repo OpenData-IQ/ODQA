@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates that a recursion limit was reached. This prevents a proper answer from being generated."
+    "rationale": "The LLM's response explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates that the agent failed to provide an answer due to a recursion limit being hit."
   }
 }

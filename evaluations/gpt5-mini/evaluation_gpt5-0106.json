@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert präzise Zahlen für beide Jahre sowie die Differenz. Die Quelle wird klar benannt, was die Antwort äußerst umfassend und nachvollziehbar macht."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert detaillierte Zahlen sowie die Quelle, was die Antwort sehr vollständig macht. Sie beantwortet die Frage präzise und umfassend."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, präzise und enthält die primäre Quelle (URL) für die Daten. Sie beantwortet die Frage vollständig und ist sehr gut formuliert."
+    "rationale": "Die Antwort des LLM ist korrekt und stimmt mit der Goldstandard-Antwort überein. Sie enthält auch die genaue Quelle, was die Antwort sehr vollständig macht."
   }
 }

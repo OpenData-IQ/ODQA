@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie liefert die genaue Menge des gesammelten Biomülls und nennt die Quelle, was die Antwort sehr glaubwürdig macht."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Menge an Biomüll und die Quelle der Information, was sie sehr nützlich macht."
   }
 }

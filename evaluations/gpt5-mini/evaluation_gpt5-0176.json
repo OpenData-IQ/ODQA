@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und umfassend. Sie erklärt, warum die Information nicht verfügbar ist, und liefert eine relevante Beispielquelle, die die Begründung untermauert."
+    "rationale": "Die LLM-Antwort ist korrekt und umfassend. Sie erklärt, warum die Information nicht verfügbar ist, und liefert eine relevante Beispielquelle, die die Aussage stützt."
   }
 }

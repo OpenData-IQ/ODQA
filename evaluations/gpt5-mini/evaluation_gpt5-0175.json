@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und umfassend. Sie gibt nicht nur die Anzahl der Geburten an, sondern erklärt auch, warum der Name in Deutschland nicht zulässig ist, und verweist auf die Datenquelle."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie bestätigt, dass keine Kinder mit diesem Namen geboren wurden und liefert eine relevante Quelle."
   }
 }

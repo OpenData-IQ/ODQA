@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie liefert die genaue Zahl und die Quelle, was sie sehr nützlich macht."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Kehrmeter an. Zusätzlich wird die Quelle der Information genannt, was die Antwort sehr vollständig macht."
   }
 }

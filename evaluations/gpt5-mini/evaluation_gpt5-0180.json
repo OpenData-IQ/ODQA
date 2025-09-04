@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort erkennt die falsche Prämisse der Frage und erklärt korrekt, dass Hogwarts fiktiv ist. Sie liefert eine präzise und vollständige Begründung, warum keine Umzüge dorthin stattgefunden haben, und untermauert dies mit einem relevanten Link zu Einwohnerdaten."
+    "rationale": "The LLM correctly identifies the premise as false and explains why. It also provides a relevant link to official data, reinforcing its answer."
   }
 }

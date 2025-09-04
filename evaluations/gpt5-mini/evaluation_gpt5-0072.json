@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "",
   "judgement": {
-    "category": "acceptable",
-    "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und beantwortet die Frage präzise. Eine zusätzliche Angabe der genauen Zahlen oder des prozentualen Unterschieds hätte die Antwort perfekt gemacht."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer to the question. This indicates a failure to respond, likely due to a timeout or similar issue."
   }
 }

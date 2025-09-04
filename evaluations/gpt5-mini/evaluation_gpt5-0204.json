@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer correctly identifies the electoral district and its number for the specified street. It also provides the source of the information, making it complete and verifiable."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt den Wahlbezirk und den Stadtteil, was der Goldstandard-Antwort entspricht. Zusätzlich wird die Quelle angegeben."
   }
 }

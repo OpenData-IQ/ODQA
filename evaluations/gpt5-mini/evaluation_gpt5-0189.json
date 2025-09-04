@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie enthält die genaue Zahl der Ausleihen und die direkte URL zur Datenquelle, was sie sehr nützlich und nachvollziehbar macht."
+    "rationale": "The LLM's answer is correct and provides the exact number of loans as per the gold standard. It also includes the primary resource URL, making it actionable and comprehensive."
   }
 }

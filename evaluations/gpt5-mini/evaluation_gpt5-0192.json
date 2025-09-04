@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt den Ortsteil, die genauen Zahlen für beide Ortsteile und die Quelle, was die Antwort sehr präzise macht."
+    "rationale": "The LLM's answer correctly identifies Ederen as having more foreigners and provides the exact numbers for both locations. It also includes a relevant source URL, making the answer comprehensive and verifiable."
   }
 }

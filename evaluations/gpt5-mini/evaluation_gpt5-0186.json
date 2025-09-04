@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt die richtigen Vornamen und die Häufigkeit, was der Frage entspricht."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie listet die Vornamen und deren Häufigkeit auf, was der Goldstandard-Antwort entspricht und zusätzliche Details liefert."
   }
 }

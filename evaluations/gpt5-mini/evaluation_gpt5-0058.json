@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert die genaue Anzahl der Haushalte sowie die Quelle mit einem direkten Link zum Datensatz. Dies macht die Antwort umfassend und überprüfbar."
+    "rationale": "The LLM correctly identifies 'Fulerum' as the answer and provides additional context (18 households) and the exact source URL, making the answer comprehensive and verifiable."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates a 'Recursion limit' error. This prevents the model from providing a complete or correct answer. Therefore, it falls under the problem_answers category."
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde, was die Generierung einer vollständigen Antwort verhinderte."
   }
 }

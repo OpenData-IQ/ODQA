@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort korrigiert die falsche Prämisse der Frage präzise und erklärt, warum die Landtagswahl 2021 nicht in Paris stattfinden konnte. Die LLM-Final-Antwort ist umfassend und bietet hilfreiche Rückfragen zur Klärung."
+    "rationale": "Die LLM-Antwort erkennt die falsche Prämisse der Frage und erklärt präzise, warum die Frage nicht beantwortet werden kann. Sie bietet zudem eine klare Anleitung zur Präzisierung der Anfrage, was die Antwort sehr hilfreich macht."
   }
 }

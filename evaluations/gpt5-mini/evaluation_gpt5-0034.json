@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "no answer",
-    "rationale": "The 'llm_final' field indicates an internal server error, which suggests the LLM failed to provide a complete answer. The 'answer' field only contains a numerical value without context or explanation, implying no proper answer was generated."
+    "rationale": "The LLM returned an internal server error, indicating it could not provide an answer. This falls under the 'no answer' problem type."
   }
 }

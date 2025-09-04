@@ -53,7 +53,7 @@ quell_id,frage_id,dateiname,metadaten,dataset,format
 51-1,51,Tabelle_TM_08.csv,entwicklung-der-berufskrankheiten-ab-1960,https://ckan.govdata.de/dataset/be0abdd8-dd35-4669-97b6-576d84f1ca62,csv
 52-1,52,patentanmeldungenmitwirkungdeutschlanderneuerbareenergien2014bis2023.csv,patentanmeldungen-mit-wirkung-fur-die-bundesrepublik-deutschland-im-feld-erneuerbare-energien-2013-2,https://ckan.govdata.de/dataset/21f32509-2f63-4f69-a37f-42d3bd688ec4,csv
 53-1,53,publi_explo_lager_alle.csv,lagergruppenzuordnungen-fur-explosivstoffe,https://ckan.govdata.de/dataset/baa488cb-f806-4dd6-9074-6593f4b04aee,csv
-54-1,54,opendata_fks.csv,schwarzarbeit-in-zahlen,https://ckan.govdata.de/dataset/2023d0e4-05e2-4633-b500-6b93a822fb12,csv
+54-1,54,opendata_fks.csv,schwarzarbeit-in-zahlen,https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10,csv
 55-1,55,opendata_kfz.csv,bankverbindungen-fur-die-kfz-steuer,https://ckan.govdata.de/dataset/efd8fb03-20d6-463d-ab6c-407543322bde,csv
 56-1,56,Anschriftenverzeichnis-CSV.csv,anschriftenverzeichnis-des-bundes,https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e,csv
 57-1,57,Rapsschrot.csv,messergebnisse-zur-radioaktivitat-in-rapsschrot-07-10-2014,http://suche.transparenz.hamburg.de/dataset/00134b41-f9e7-4ba6-b684-11fcd3aaa35f,csv

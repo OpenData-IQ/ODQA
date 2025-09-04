@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The LLM's answer is correct and provides the exact flight details, including the flight number and a relevant source link. It also includes a helpful disclaimer about potential flight changes. The answer is comprehensive and actionable."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie gibt das genaue Datum und die Uhrzeit des nächsten Fluges an und liefert eine relevante Quelle. Die zusätzliche Information über mögliche Flugzeitänderungen ist ebenfalls hilfreich."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert sogar zusätzliche, relevante Details sowie eine genaue Quelle. Sie ist umfassend und direkt verwertbar."
+    "rationale": "Die Antwort des LLM ist korrekt und enthält die genaue Einwohnerzahl sowie eine Aufschlüsselung nach Nationalität. Zusätzlich wird die Quelle der Information angegeben, was die Antwort sehr vollständig macht."
   }
 }

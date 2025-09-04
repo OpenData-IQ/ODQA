@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates that a recursion limit was reached, preventing it from providing a complete answer. Therefore, the problem type is 'recursion limit'."
+    "rationale": "The LLM output explicitly states 'Recursion limit of 25 reached'. This indicates a technical problem during the answer generation process."
   }
 }

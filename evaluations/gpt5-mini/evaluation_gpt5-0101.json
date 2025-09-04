@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "The LLM explicitly states it found a dataset but could not download the file needed to answer the question. It then asks for user intervention to proceed. This clearly indicates a 'not found' problem."
+    "rationale": "Die LLM-Antwort gibt an, dass die benötigten Daten nicht heruntergeladen werden konnten, um die Frage zu beantworten. Dies fällt unter die Kategorie 'not found', da die Quelle nicht zugänglich war."
   }
 }

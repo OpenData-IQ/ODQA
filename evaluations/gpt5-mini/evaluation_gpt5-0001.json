@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort enthält den primären Ressourcenlink und bietet zusätzlich weitere relevante Links sowie nützliche Tipps zum Umgang mit den Daten. Sie ist umfassend und direkt umsetzbar."
+    "rationale": "Die Antwort des LLM enthält den primären Ressourcenlink aus der Goldstandard-Antwort und bietet zusätzlich weitere relevante Links und nützliche Tipps. Sie ist umfassend und direkt umsetzbar."
   }
 }

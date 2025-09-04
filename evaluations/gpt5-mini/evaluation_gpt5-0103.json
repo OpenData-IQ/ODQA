@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, präzise und liefert die genaue Quelle sowie die Berechnung, was sie sehr vollständig macht."
+    "rationale": "Die Antwort des LLM stimmt mit der Goldstandard-Antwort überein und liefert zusätzlich die genauen Zahlen und die Quelle, was die Antwort sehr vollständig macht."
   }
 }

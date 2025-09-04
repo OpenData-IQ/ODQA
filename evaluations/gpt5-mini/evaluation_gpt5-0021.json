@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The LLM output clearly indicates that a recursion limit was reached. Therefore, the answer provided cannot be fully evaluated as it is a result of an internal system error."
+    "rationale": "The LLM's final output explicitly states that a recursion limit was reached. This indicates that the agent could not complete its task due to an internal limit."
   }
 }

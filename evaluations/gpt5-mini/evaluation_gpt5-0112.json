@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "The LLM explicitly states that it could not find information about the nursing home or butcher shops in Hockenheim within its available datasets. This indicates a 'not found' problem type, as the LLM was unable to answer the question based on its internal knowledge."
+    "rationale": "Das LLM gibt an, dass es keine Informationen zum Pflegezentrum Hockenheim oder zu Metzgereien in Hockenheim in den verfügbaren Datensätzen gefunden hat. Dies deutet darauf hin, dass die notwendigen Daten für die Beantwortung der Frage nicht vorhanden waren."
   }
 }

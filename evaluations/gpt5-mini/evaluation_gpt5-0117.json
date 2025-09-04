@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig, da sie den Stadtbereich und den genauen Prozentsatz des Anteils ausländischer Einwohnerinnen und Einwohner zum angegebenen Datum nennt."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt den Stadtbereich sowie den genauen Prozentsatz und das Datum an, was der Goldstandard-Antwort entspricht. Sie ist präzise und vollständig."
   }
 }

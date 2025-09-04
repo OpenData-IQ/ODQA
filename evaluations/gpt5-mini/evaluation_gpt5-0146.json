@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "933 Familien mit Kindern (Stichtag 31.12.2010, Quelle: EWO_990_sim_OpDat228-2010_20161121.csv)",
+  "llm_final": "933 Familien mit Kindern (Stichtag 31.12.2010, Quelle: EWO_990_sim_OpDat228-2010_20161121.csv).",
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig, da sie die genaue Zahl der Familien mit Kindern zum Stichtag 31.12.2010 in der Gemeinde Hürtgenwald angibt und die Quelle nennt."
+    "rationale": "Die LLM-Antwort ist korrekt und liefert die genaue Zahl sowie den Stichtag und die Quelle. Dies macht die Antwort umfassend und nachvollziehbar."
   }
 }

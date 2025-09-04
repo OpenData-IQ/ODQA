@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "recursion limit",
-    "rationale": "The 'llm_final' field explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates a technical problem during the answer generation process."
+    "rationale": "The LLM's response explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates a technical limitation prevented the generation of a proper answer."
   }
 }

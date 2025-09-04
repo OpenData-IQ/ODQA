@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt die genaue Kreuzung und liefert zusätzlich Koordinaten sowie die Quelle der Information."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt die exakte Kreuzung und fügt sogar Koordinaten sowie eine Quelle hinzu, was über die ursprüngliche Goldstandard-Antwort hinausgeht."
   }
 }

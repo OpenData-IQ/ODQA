@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "The LLM states it found no official abbreviation, but the provided answer 'StSchA NP' is the correct and official abbreviation. The LLM's response is therefore incorrect."
+    "rationale": "Die LLM-Antwort gibt an, keine offizielle Abkürzung gefunden zu haben und schlägt gängige Kurzformen vor, die nicht der korrekten Antwort entsprechen. Die korrekte Abkürzung 'StSchA NP' wurde nicht genannt."
   }
 }

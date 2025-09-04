@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und vollständig, da sie alle durchgängig erreichbaren Defibrillatoren auflistet und die Quelle des Datensatzes angibt. Sie enthält auch relevante Details wie Adressen und spezifische Hinweise zur Erreichbarkeit."
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie listet die relevanten Defibrillatoren auf, gibt Adressen und Hinweise zur Erreichbarkeit und liefert die Quelle des Datensatzes, was sie sehr nützlich macht."
   }
 }

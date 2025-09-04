@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die Antwort ist falsch."
+    "rationale": "The LLM's answer of 0.94 is incorrect for a count of hospitals. The correct answer is 12. The LLM did not provide a valid numerical answer for the question."
   }
 }

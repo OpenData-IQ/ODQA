@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, präzise und enthält alle relevanten Informationen einschließlich der Koordinaten und der Quelle. Sie ist direkt umsetzbar und vollständig."
+    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie liefert die genaue Adresse und die Koordinaten, was der Goldstandard-Antwort entspricht. Die Angabe der Quelle macht die Antwort noch vollständiger."
   }
 }

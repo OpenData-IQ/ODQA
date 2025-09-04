@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The answer correctly identifies the number of parking spaces and provides the exact source, including the dataset name. This makes the answer complete and verifiable."
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Stellplätze an. Sie nennt auch die Quelle der Information, was die Antwort sehr vollständig macht."
   }
 }

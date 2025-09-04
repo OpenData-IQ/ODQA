@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "The LLM explicitly states that it cannot find the requested information in the available datasets. It correctly identifies the need for a Safety Data Sheet (SDB) or manufacturer information to provide a definitive answer."
+    "rationale": "Die LLM-Antwort gibt an, dass sie keine Dokumente zu \"Treibladungspulver PCL 2595\" in den verfügbaren Datensätzen finden konnte. Daher kann sie die Frage nicht beantworten und fordert weitere Informationen an."
   }
 }

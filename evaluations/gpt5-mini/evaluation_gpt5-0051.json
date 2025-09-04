@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und liefert nicht nur den Prozentsatz, sondern auch die zugrunde liegenden Zahlen und die Berechnung, was sie sehr vollständig macht."
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genaue Prozentzahl sowie die zugrunde liegenden Zahlen, die zur Berechnung führen. Dies macht die Antwort sehr vollständig und nachvollziehbar."
   }
 }

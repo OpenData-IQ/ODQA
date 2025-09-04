@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort erkennt die falsche Prämisse der Frage und erklärt präzise, warum keine Einhorngeburten registriert wurden. Die LLM-Antwort liefert zusätzlich eine konkrete Datenquelle, die die Aussage untermauert."
+    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie widerlegt die falsche Prämisse der Frage und liefert zusätzlich eine relevante Datenquelle zur Bestätigung."
   }
 }

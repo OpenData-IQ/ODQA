@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt und enthält die genaue Zahl der Wegeunfälle. Zusätzlich wird die Quelle mit direkten Links zum Datensatz und zur CSV-Datei angegeben, was die Antwort sehr umfassend macht."
+    "rationale": "The LLM's answer correctly states the number of accidents (2325) and provides the exact source URL, matching the gold standard. The answer is complete and accurate."
   }
 }

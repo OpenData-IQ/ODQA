@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort korrigiert die falsche Prämisse der Frage, indem sie klarstellt, dass keine Vestas-Anlagen gefunden wurden. Sie bietet auch nützliche nächste Schritte und allgemeine Kontextinformationen, was die Antwort sehr umfassend macht."
+    "rationale": "Die LLM-Antwort erkennt die falsche Prämisse der Frage und bestätigt, dass keine Daten gefunden wurden. Sie bietet auch nützliche nächste Schritte und allgemeine Informationen, was die Antwort sehr umfassend macht."
   }
 }

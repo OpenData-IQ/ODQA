@@ -11,6 +11,6 @@
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert die genauen Adressen sowie die Bestätigung der 24-Stunden-Öffnungszeit. Zusätzlich wird die Quelle mit einem direkten Link zum OpenData-Datensatz angegeben, was die Antwort sehr umfassend macht."
+    "rationale": "The LLM's answer correctly identifies both locations from the gold standard. It also provides additional helpful context, including the names of the WCs and a source link to the OpenData dataset, making it comprehensive and actionable."
   }
 }
