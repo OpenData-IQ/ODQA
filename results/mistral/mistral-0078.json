@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0078",
+  "run_at": "2025-09-09T10:35:53.466117Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Statistik **\"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\"** wird **kein expliziter Unterschied** zwischen Wohn- und Nichtwohngebäuden gemacht. Die Daten erfassen **Wohnungen in beiden Gebäudetypen gemeinsam** und unterscheiden nur nach der Anzahl der Räume (z. B. 1–2 Räume, 3 Räume, 4 Räume, 5 oder mehr Räume).\n\nDie Statistik erfasst also die Genehmigungen für Wohnungen unabhängig davon, ob sie in Wohn- oder Nichtwohngebäuden liegen. Der Fokus liegt auf der **Zahl der Räume** der Wohnungen, nicht auf der Art des Gebäudes.\n\nQuelle: [Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume - Statistisches Bundesamt](https://www.regionalstatistik.de/genesisws/downloader/00/tables/31111-03-02-5-B_00.csv#dataset)"
+}

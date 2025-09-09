@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0154",
+  "run_at": "2025-09-09T11:37:30.363993Z",
+  "question_id": 154,
+  "question": "Welche Stadtbereiche in Rostock hatten im Jahr 2009 einen Anteil ausländischer Einwohnerinnen und Einwohner von mindestens 4 Prozent?",
+  "answer": "Lichtenhagen, Kröpeliner-Tor-Vorstadt, Stadtmitte, Evershagen, Dierkow-Neu, Gartenstadt/Stadtweide",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 203111 tokens (202299 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

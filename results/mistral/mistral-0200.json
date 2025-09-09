@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0200",
+  "run_at": "2025-09-09T12:42:55.328643Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 153995 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

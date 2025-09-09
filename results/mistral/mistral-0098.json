@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0098",
+  "run_at": "2025-09-09T10:52:14.442954Z",
+  "question_id": 98,
+  "question": "War das Budget des \"Bundesministeriums für Bildung und Forschung\" für Betriebliche Weiterbildung im Jahr 2015 oder 2016 höher?",
+  "answer": "2016 war es höher",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2015: 11,1 Milliarden Euro und 2016: 11,2 Milliarden Euro",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Not the same number of function calls and responses\",\"type\":\"invalid_request_message_order\",\"param\":null,\"code\":\"3230\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

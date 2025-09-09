@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0004",
+  "run_at": "2025-09-09T09:50:30.081456Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Nordfriesland (Kreis-Nummer: **01054**) gab es am **31.01.2024** **195 untergebrachte wohnungslose Frauen**.\n\nQuelle: [Untergebrachte wohnungslose Personen: Kreise, Stichtag, Nationalität, Geschlecht, Altersgruppen](https://www-genesis.destatis.de/genesis-old/downloads/00/tables/22971-0080_00.csv#dataset)"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0104",
+  "run_at": "2025-09-09T10:56:00.281619Z",
+  "question_id": 104,
+  "question": "In welchem Monat wurde 2025 bisher die meiste Margarine hergestellt?",
+  "answer": "im März",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "26.028t Margarine",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

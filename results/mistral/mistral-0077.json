@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0077",
+  "run_at": "2025-09-09T10:34:31.994978Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77). Dort starben 2023 deutlich mehr Männer als Frauen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 153164 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

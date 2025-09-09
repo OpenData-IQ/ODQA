@@ -70,8 +70,10 @@ for row in df.itertuples(index=True, name="Row"):
                         datasets.append(str(first["dataset"]))
                 # print(results)
             questions_df.at[row.Index, "antwort"] = datasets[0] if len(datasets) == 1 else " ".join(datasets)
-        questions_df.at[row.Index, "bemerkungen"] = remark
+        questions_df.at[row.Index, "bemerkungen"] = f"{remark} - {row.datenquelle_schwierigkeit}"
     # write questions to questions_df
     # write sources to sources_df
+    if row.datengrundlage == 2.0:
+        questions_df.at[row.Index, "bemerkungen"] = row.datenquelle_schwierigkeit
     questions_df.to_csv(f"{benchmark_dir}/de-questions.csv.", index=False)
     sources_df.to_csv(f"{benchmark_dir}/sources_raw.csv.", index=False)

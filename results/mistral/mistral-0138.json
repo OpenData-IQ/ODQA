@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0138",
+  "run_at": "2025-09-09T11:18:30.476396Z",
+  "question_id": 138,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung und geplanten Wohneinheiten in Düsseldorf Kaiserswerth von 2019 bis 2035?",
+  "answer": "https://opendata.duesseldorf.de/dataset/entwicklung-der-einwohnerzahl-d%C3%BCsseldorf-bis-2035-stadtteilprofile",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine CSV-Datei mit Entwicklungszahlen für den Stadtteil Kaiserswerth, die unter anderem die Bevölkerungszahlen, den Anteil weiblicher Einwohner, das Durchschnittsalter sowie die geplanten Wohneinheiten für die Jahre 2019 und 2035 enthält. - nan",
+  "llm_final": "Die Daten zur Bevölkerungsentwicklung und den geplanten Wohneinheiten in Düsseldorf Kaiserswerth von 2019 bis 2035 sind wie folgt:\n\n### Bevölkerungsentwicklung:\n- **2019**: 8.017 Einwohner\n- **2035 (prognostiziert)**: 10.100 Einwohner\n- **Bevölkerungsentwicklung (2019 bis 2035)**: +26%\n- **Durchschnittsalter 2019**: 45,9 Jahre\n- **Durchschnittsalter 2035 (prognostiziert)**: 42,7 Jahre\n\n### Geplante Wohneinheiten:\n- **2019 bis 2035**: 917 Wohneinheiten\n\n**Quelle**: [Entwicklung der Einwohnerzahl in Düsseldorf bis 2035 – Stadtteilprofile (Kaiserswerth)](https://opendata.duesseldorf.de/dataset/entwicklung-der-einwohnerzahl-d%C3%BCsseldorf-bis-2035-stadtteilprofile)"
+}

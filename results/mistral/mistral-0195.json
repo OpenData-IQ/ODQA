@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0195",
+  "run_at": "2025-09-09T12:38:21.934228Z",
+  "question_id": 195,
+  "question": "Wie viele Radfahrer wurden an der Dauerzählstelle Kö - Steinstraße in Düsseldorf im Jahr 2019 insgesamt gezählt?",
+  "answer": "Die Gesamtzahl der gezählten Radfahrer im Jahr 2019 beträgt 626040.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 158293 tokens (157481 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

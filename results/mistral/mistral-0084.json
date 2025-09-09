@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0084",
+  "run_at": "2025-09-09T10:44:32.764792Z",
+  "question_id": 84,
+  "question": "Wie viele 3-6 jährige Kinder wohnten am 31.12.2011 in Halle (Saale) und waren es mehr Jungen oder mehr Mädchen?",
+  "answer": "7467 Kinder, mehr Jungen",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "3.865 Jungen und 3.602 Mädchen",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Function name was {\\\\\"query\\\\\": \\\\\"Bevölkerung: Kreise, Stichtag, Geschlecht, Altersgruppen 2011\\\\\"} but must be a-z, A-Z, 0-9, or contain underscores and dashes, with a maximum length of 256.\",\"type\":\"invalid_function_call\",\"param\":null,\"code\":\"3280\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

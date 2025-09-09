@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0022",
+  "run_at": "2025-09-09T10:02:09.948663Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "Ja, es gibt mehrere in der Nähe.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja, in der Nähe der **Franklin Boulderhalle in Mannheim** gibt es mehrere **E-Ladesäulen**. Hier sind die Details zu den Ladesäulen direkt an der Franklin Boulderhalle:\n\n1. **DE*MVV*E00048*R1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.518934, 8.535875\n   - Status: frei\n\n2. **DE*MVV*E00096*L1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.518994, 8.535935\n   - Status: belegt\n\n3. **DE*MVV*E00095*R1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.518974, 8.535915\n   - Status: frei\n\n4. **DE*MVV*E00096*R1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.519014, 8.535955\n   - Status: belegt\n\n5. **DE*MVV*E00095*L1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.518954, 8.535895\n   - Status: frei\n\n6. **DE*MVV*E00048*L1**\n   - Standort: Franklin Boulderhalle\n   - Koordinaten: 49.518914, 8.535855\n   - Status: belegt\n\nZusätzlich gibt es in der Nähe (z. B. am **Franklin Ärztehaus**) weitere Ladesäulen:\n- **DE*MVV*E00127*L1** (belegt)\n- **DE*MVV*E00127*R1** (belegt)\n\n**Quelle:** [E-Ladeparkstände in Mannheim](https://mannheim.opendatasoft.com/api/v2/catalog/datasets/e-ladeparkstande)"
+}

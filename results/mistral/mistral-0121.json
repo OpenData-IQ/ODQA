@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0121",
+  "run_at": "2025-09-09T11:03:26.057924Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 140929 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

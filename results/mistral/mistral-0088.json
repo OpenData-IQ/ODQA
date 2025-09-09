@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0088",
+  "run_at": "2025-09-09T10:48:37.328927Z",
+  "question_id": 88,
+  "question": "Stell dir vor, es ist der 04.06.2025, wann ist der nächste Flug vom Flughafen Münster/Osnabrück nach München?",
+  "answer": "05.06.25 um 17:20 Uhr",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Link führt zu HTML (79054aed-5eaf-4aba-9239.html) und dort gibt es erst die XML (sie ist tagesaktuell)",
+  "llm_final": "Die Flugplandaten des Flughafens Münster/Osnabrück (FMO) sind über eine XML-Schnittstelle verfügbar, die aktuelle Abflugdaten bereitstellt. Da es sich um eine dynamische Datenquelle handelt, die regelmäßig aktualisiert wird, kann ich keine statischen Daten herunterladen oder direkt abfragen.\n\nUm den nächsten Flug von Münster/Osnabrück nach München am **04.06.2025** zu ermitteln, können Sie die folgende XML-Schnittstelle nutzen:\n\n### XML-Schnittstelle für Abflugdaten:\n🔗 [XML-Schnittstelle Abflugdaten FMO](https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo/resource/1207da27-22ed-41e2-a095)\n\n### Feldbeschreibungen:\n- **`<CITY3>`**: IATA-Code des Zielorts (München hat den Code **MUC**).\n- **`<STD_DATE>`**: Geplantes Abflugdatum.\n- **`<STD_TIME>`**: Geplante Abflugzeit.\n\n### Vorgehen:\n1. Öffnen Sie die XML-Schnittstelle.\n2. Filtern Sie nach dem Zielort **MUC** (München).\n3. Suchen Sie nach dem nächsten Datum und der nächsten Uhrzeit nach dem **04.06.2025**.\n\nFalls Sie Unterstützung bei der Interpretation der Daten benötigen, können Sie die **Feldbeschreibungen** in der Datensatzbeschreibung nutzen.\n\n### Quelle:\n📌 [Flugplandaten des Flughafens Münster/Osnabrück (FMO)](https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo)"
+}

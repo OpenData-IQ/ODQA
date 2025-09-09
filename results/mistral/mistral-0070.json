@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0070",
+  "run_at": "2025-09-09T10:27:14.863131Z",
+  "question_id": 70,
+  "question": "In welchem Regierungsbezirk gab es am 31.12.23 die meisten Schutzsuchenden?",
+  "answer": "Im Regierungsbezirk Düsseldorf",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "237.580 Schutzsuchende im Regierungsbezirk Düsseldorf",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 132190 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

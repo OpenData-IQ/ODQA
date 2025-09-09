@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0185",
+  "run_at": "2025-09-09T12:25:28.652576Z",
+  "question_id": 185,
+  "question": "Wie hoch ist die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 in Prozent?",
+  "answer": "191,6%",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 beträgt **26 Prozent**.\n\nQuelle: [Entwicklung der Einwohnerzahl in Düsseldorf bis 2035 - Stadtteilprofile](https://opendata.duesseldorf.de/dataset/entwicklung-der-einwohnerzahl-d%C3%BCsseldorf-bis-2035-stadtteilprofile)"
+}

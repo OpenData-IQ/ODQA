@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0196",
+  "run_at": "2025-09-09T12:39:40.593588Z",
+  "question_id": 196,
+  "question": "Wie viele Einwohner lebten zum 31.12.2015 in der Stadt Bergheim?",
+  "answer": "Zum 31.12.2015 lebten in der Stadt Bergheim 63.068 Einwohner.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Function name was {\\\\\"format\\\\\": \\\\\"csv\\\\\", \\\\\"frame_id\\\\\": \\\\\"a4b4d901\\\\\", \\\\\"file name\\\\\": \\\\\"\\\\\", \\\\\"row_count\\\\\": 1, \\\\\"header\\\\\": [\\\\\"deutsche\\\\\", \\\\\"auslaender\\\\\"], \\\\\"preview\\\\\": [{\\\\\"deutsche\\\\\": \\\\\"52896\\\\\", \\\\\"auslaender\\\\\": \\\\\"10172\\\\\"}]}aggregate but must be a-z, A-Z, 0-9, or contain underscores and dashes, with a maximum length of 256.\",\"type\":\"invalid_function_call\",\"param\":null,\"code\":\"3280\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

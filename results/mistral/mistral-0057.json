@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0057",
+  "run_at": "2025-09-09T10:17:44.029100Z",
+  "question_id": 57,
+  "question": "Wie viel radioaktives Neptunium wurde 2014 in Rapsschrot nachgewiesen?",
+  "answer": "Die Angabe ist: n.n.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

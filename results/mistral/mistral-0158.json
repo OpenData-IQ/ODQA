@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0158",
+  "run_at": "2025-09-09T11:39:58.364433Z",
+  "question_id": 158,
+  "question": "Wie hoch waren die Auszahlungen der Stadt Oldenburg für Schule und Bildung in den Jahren 2022 und 2023 insgesamt?",
+  "answer": "7775300€ insgesamt",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Auszahlungen der Stadt Oldenburg für **Schule und Bildung** betrugen:\n\n- **2022:** 3.673.500 €\n- **2023:** 4.101.800 €\n\n**Insgesamt:** 7.775.300 €\n\n---\n**Quelle:** [Haushaltsplan der Stadt Oldenburg](https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2022) und [Haushaltsplan der Stadt Oldenburg 2023](https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023)"
+}

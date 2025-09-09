@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0001",
+  "run_at": "2025-09-09T09:49:32.428279Z",
+  "question_id": 1,
+  "question": "Wo finde ich Daten zu Spielgeräten auf Dortmunder Spielplätzen?",
+  "answer": "https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei - nan",
+  "llm_final": "Die Daten zu Spielgeräten auf Dortmunder Spielplätzen finden Sie im Dataset **\"Spielgeräte\"** auf dem Open-Data-Portal der Stadt Dortmund. Hier ist der Link zum Dataset:\n\n- **Dataset URI:** [Spielgeräte (Dortmund)](https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete)\n\nSie können die Daten direkt als CSV-Datei über den folgenden Link herunterladen:\n\n- **Download-Link:** [CSV-Datei herunterladen](https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete/exports/csv?use_labels=true)\n\nFalls Sie weitere Unterstützung benötigen, lassen Sie es mich wissen!"
+}

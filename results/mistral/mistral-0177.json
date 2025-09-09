@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0177",
+  "run_at": "2025-09-09T12:11:52.177234Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "columns: ['stadtbereich_code', 'stadtbereich_bezeichnung', 'durchschnittsalter', 'jugendquotient', 'altenquotient', 'anzahl_juenger_3', 'anteil_juenger_3', 'anzahl_3_6', 'anteil_3_6', 'anzahl_6_15', 'anteil_6_15', 'anzahl_15_25', 'anteil_15_25', 'anzahl_25_35', 'anteil_25_35', 'anzahl_35_45', 'anteil_35_45', 'anzahl_45_55', 'anteil_45_55', 'anzahl_55_65', 'anteil_55_65', 'anzahl_65_75', 'anteil_65_75', 'anzahl_75_aelter', 'anteil_75_aelter']\n\ndata: [['C', 'Lichtenhagen', '46.0', '29.2', '48.9', '356', '2.5', '362', '2.5', '1039', '7.2', '1426', '9.9', '2006', '14.0', '1624', '11.3', '1698', '11.8', '1890', '13.2', '2131', '14.9', '1806', '12.6']]\n\nLeider gibt es in den verfügbaren Daten keine Informationen über marsianische Staatsbürger in Rostock-Lichtenhagen im Jahr 2017. Die Daten enthalten nur Informationen über deutsche und ausländische Staatsbürger."
+}

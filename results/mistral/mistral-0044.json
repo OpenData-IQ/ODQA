@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0044",
+  "run_at": "2025-09-09T10:12:26.622014Z",
+  "question_id": 44,
+  "question": "Was ist der Durchschnitt der im Beruf Kanalbauer in den Jahren 2022 und 2023 abgeschlossenen Ausbildungsverträge?",
+  "answer": "112",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Es gibt nur einen Eintrag für den Beruf **Kanalbauer/-in** im Datensatz, und dieser stammt aus dem Jahr **2009**. Für die Jahre **2022** und **2023** liegen keine Daten zu abgeschlossenen Ausbildungsverträgen für diesen Beruf vor.\n\nMögliche Gründe:\n- Der Beruf könnte in den letzten Jahren nicht mehr separat erfasst worden sein.\n- Die Daten für 2022 und 2023 sind möglicherweise noch nicht vollständig oder wurden unter einer anderen Kategorie erfasst.\n\nFalls Sie weitere Informationen benötigen, könnte eine Anfrage an das **Bundesministerium für Wirtschaft und Klimaschutz (BMWK)** oder eine spezifischere Suche in anderen Datenquellen hilfreich sein.\n\n**Quelle:** [Datensatz: Neuordnung und Modernisierung von Ausbildungsordnungen](https://ckan.govdata.de/dataset/d4c53b36-b1d4-43cd-b4a0-0c6a84c7cd0a)"
+}

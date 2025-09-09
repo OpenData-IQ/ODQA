@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0110",
+  "run_at": "2025-09-09T10:57:58.413139Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei - nan",
+  "llm_final": "Es gibt keine Datensätze zu **Saatkrähen in Soest** im govdata-Portal.\n\nFalls gewünscht, kann ich die Suche auf andere Regionen ausweiten oder nach ähnlichen Themen wie **Vogelbestände in Nordrhein-Westfalen** suchen. Lass es mich wissen! 😊\n\n*Hinweis:* Falls du spezifischere Daten suchst (z. B. von Naturschutzbehörden oder lokalen Vogelbeobachtungen), könnte eine Anfrage bei der **Biologischen Station Soest** oder dem **NABU Soest** hilfreich sein."
+}

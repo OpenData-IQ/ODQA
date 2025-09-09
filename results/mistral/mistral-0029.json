@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0029",
+  "run_at": "2025-09-09T10:05:57.385405Z",
+  "question_id": 29,
+  "question": "Wo finde ich den Link zu Weiterbildungsveranstaltungen in Berlin",
+  "answer": "https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei - nan",
+  "llm_final": "Du findest die Links zu Weiterbildungsveranstaltungen in Berlin über die folgenden APIs:\n\n1. **XML-Ausgabe**:\n   [Link zur XML-API](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/index.php/index/all.xml?q=)\n\n2. **CSV-Ausgabe**:\n   [Link zur CSV-API](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/index.php/index/all.csv?q=)\n\nDiese APIs bieten eine Suche nach anerkannten Weiterbildungsveranstaltungen in Berlin. Weitere Details zur Nutzung der API findest du in der [Dokumentation](https://berlinonline.github.io/open-data-handbuch/simplesearch-api/).\n\n**Quelle**: [Dataset: Suche nach anerkannten Veranstaltungen](https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8)"
+}

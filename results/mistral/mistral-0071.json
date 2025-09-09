@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0071",
+  "run_at": "2025-09-09T10:27:53.507915Z",
+  "question_id": 71,
+  "question": "In welchen Städten und Kreisen gab es 2023 mehr als 10000 Gastgewerbe im Unternehmensregister-System?",
+  "answer": "Düsseldorf, Köln, Darmstadt, Stuttgart, Oberbayern,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Function name was {\\\\\"frame_id\\\\\": \\\\\"d95d9fa3\\\\\"} but must be a-z, A-Z, 0-9, or contain underscores and dashes, with a maximum length of 256.\",\"type\":\"invalid_function_call\",\"param\":null,\"code\":\"3280\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

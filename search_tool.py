@@ -6,7 +6,6 @@ from pydantic import BaseModel, Field
 from rdflib import Graph
 from urllib.parse import quote
 import re
-from sparql_tool import SPARQLToolInput
 import requests
 logging.basicConfig(level=logging.INFO)
 
@@ -26,8 +25,10 @@ def fix_ckan_urls(xml_string):
     return re.sub(pattern, fix_ckan_url, xml_string)
 
 class SearchToolInput(BaseModel):
-    query: Optional[str] = Field(
-        None,
+    #query: Optional[str] = Field(
+    query: str = Field(
+        #None,
+        default="",
         description="The query to search the catalog"
     )
 

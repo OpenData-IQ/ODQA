@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0054",
+  "run_at": "2025-09-09T10:15:48.243700Z",
+  "question_id": 54,
+  "question": "Wo kann ich sehen, wie hoch die \"Summe der erwirkten Freiheitsstrafen in Jahren\" für Schwarzarbeit 2013 war?",
+  "answer": "https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "Link zur Datei - Frage wird aus der finalen Analyse ausgeschlossen, da schwer zu verifizieren.",
+  "llm_final": "Es scheint, dass die heruntergeladenen Daten nicht die gewünschten Informationen zur **Summe der erwirkten Freiheitsstrafen in Jahren für Schwarzarbeit 2013** enthalten. Die Tabellen beschreiben hauptsächlich Bußgeldentscheidungen und strafgerichtliche Verurteilungen, aber nicht explizit die Summe der Freiheitsstrafen.\n\nLeider sind die relevanten Daten in den bisher gefundenen Datensätzen nicht direkt enthalten. Ich empfehle, die **Originalquelle** (z. B. das [Bundesjustizamt](https://www.bundesjustizamt.de)) zu kontaktieren oder nach spezifischeren Berichten oder Statistiken zu suchen, die diese Information enthalten könnten.\n\nFalls Sie weitere Unterstützung benötigen, lassen Sie es mich wissen!"
+}

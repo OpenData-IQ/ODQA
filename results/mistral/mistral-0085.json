@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0085",
+  "run_at": "2025-09-09T10:46:03.368986Z",
+  "question_id": 85,
+  "question": "In welchem Kreis Deutschlands wurde am 01.03.24 der höchste Anteil der dort lebenden Kinder unter 1 Jahr betreut, und wie hoch war dieser Prozentsatz?“,In Mansfeld-Südharz wurden 9",
+  "answer": "2% der dort lebenden unter 1-Jährigen betreut\"",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 156480 tokens (155668 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

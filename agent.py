@@ -12,7 +12,6 @@ from download_tool import DownloadTool
 from eval import run_batch_to_json
 from framehub import FrameHub
 from framehub_tools import build_tools
-from picker_tool import PickerTool
 from search_tool import SearchTool
 from dotenv import load_dotenv
 
@@ -22,9 +21,8 @@ search_tool = SearchTool()
 frame_hub = FrameHub()
 download_tool = DownloadTool(frame_hub)
 #model_str = 'google/gemini-2.5-flash'
-model_str = 'openai/gpt-4.1'
+model_str = 'mistralai/mistral-medium-3.1'
 #model_str = 'deepseek/deepseek-r1'
-picker_tool = PickerTool(model=model_str)
 framehub_tools = build_tools(frame_hub)
 TOOLS = [search_tool, download_tool, *framehub_tools]
 llm = ChatOpenAI(
@@ -39,17 +37,6 @@ llm = ChatOpenAI(
     # optional but recommended by OpenRouter:
 )  # or your provider
 llm_with_tools = llm.bind_tools(TOOLS)
-#llm_with_tools = llm.bind_tools(TOOLS).bind(tool_choice="required")
-
-#llm = ChatAnthropic(
-#    api_key=os.getenv("OPENROUTER_API_KEY"),
-#    base_url="https://openrouter.ai/api/v1",
-    #api_key = os.getenv('OPENAI_API_KEY'),
-#    model="anthropic/claude-sonnet-4",
-    #temperature = 0
-    # optional but recommended by OpenRouter:
-#)  # or your provider
-#llm_with_tools = llm.bind_tools(TOOLS)
 
 SYSTEM_PROMPT = """You are an Open Data QA agent for Germany. You receive questions and should provide answers with the 
 corresponding source. Formulate a search query und use the search tool. If you get too 
@@ -87,12 +74,6 @@ builder.add_node("tools", tool_node)
 builder.add_node("summarize", summarize_node)
 # Entry
 builder.add_edge(START, "assistant")
-# If the assistant requested a tool, go to tools; otherwise end with summarize
-#builder.add_conditional_edges("assistant", tools_condition, {"tools":"tools", "end":"summarize"})
-# After tools run, go back to assistant to continue the loop
-#builder.add_edge("tools", "assistant")
-# End
-#builder.add_edge("summarize", END)
 
 
 # ✅ Use END (or "__end__") here
@@ -114,15 +95,4 @@ graph = builder.compile(checkpointer=memory)
 run_batch_to_json(model_str, builder,
                   "open-data-benchmark/de-questions.csv",
                   "results",
-                  prefix="gpt4", recursion_limit=25, start_index=124)
-# question = "Wie viele Walnussbäume gibt es bei der Aktion Gelbes Band - Naschbäume im Landkreis Regensburg?" # Optional checkpointer so multi-turn tool loops persist""
-# memory = MemorySaver()
-# initial_state: AgentState = {
-#     "messages": [HumanMessage(content=question)],
-# }
-#
-#
-# result_state = graph.invoke(initial_state, config={
-#     "recursion_limit": 50,
-#     "configurable": {"thread_id": "run-40",}})
-# print("FINAL ANSWER:\n", result_state["messages"][-1].content)
+                  prefix="mistral", recursion_limit=25, start_index=1)

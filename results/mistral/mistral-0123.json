@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0123",
+  "run_at": "2025-09-09T11:05:20.860605Z",
+  "question_id": 123,
+  "question": "Zu welchem Zeitpunkt (Tag und Uhrzeit) und bei welchem Wetter wurden am Mannesmannufer in Düsseldorf im Jahr 2014 die meisten Radfahrer gezählt?",
+  "answer": "Am 19. Oktober 2014, 15.00 Uhr wurden die meisten Radfahrer am Mannesmannufer in Düsseldorf gezählt (946 Radfahrer). Zu diesem Zeitpunkt war es leicht bewölkt, 21 Grad warm und es gab keinen Regen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Am **11.01.2014 um 14:00 Uhr** wurden am Mannesmannufer in Düsseldorf mit **99 Radfahrern** die meisten Radfahrer gezählt. Das Wetter zu diesem Zeitpunkt war **leichter Regenfall** bei einer Temperatur von **6°C**.\n\n**Quelle:** [Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2014](https://opendata.duesseldorf.de/dataset/wetterabh%C3%A4ngige-jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-2014)"
+}

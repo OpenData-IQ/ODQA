@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0049",
+  "run_at": "2025-09-09T10:14:03.039397Z",
+  "question_id": 49,
+  "question": "Wie viele meldepflichtige Wegeunfälle im Jahre 2016 sind dem Unfallversicherungsträger Landwirtschaftliche Berufsgenossenschaft zuzuordnen?",
+  "answer": "2325",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Die Anzahl der meldepflichtigen Wegeunfälle im Jahre 2016, die dem Unfallversicherungsträger **Landwirtschaftliche Berufsgenossenschaft** zuzuordnen sind, beträgt **7.577**.\n\n### Quelle:\n[Meldepflichtige Unfälle (Arbeitsunfälle und Wegeunfälle) in den Jahren 2014 bis 2016](https://ckan.govdata.de/dataset/39b20c6f-38c0-476f-afad-335521f34823)\n\n---\n*Hinweis: Die Zahl wurde aus der Differenz der Gesamtzahl der meldepflichtigen Wegeunfälle (188.395) und der Summe der Wegeunfälle der anderen Unfallversicherungsträger (Gewerbliche Berufsgenossenschaften: 156.328, Unfallversicherungsträger der öffentlichen Hand: 24.490) berechnet.*"
+}

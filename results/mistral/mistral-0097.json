@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0097",
+  "run_at": "2025-09-09T10:52:00.086107Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In den verfügbaren Datensätzen zu Müllsammelveranstaltern, Containern und Abfallbehältern in Rostock gibt es **keine Informationen darüber, ob Handschuhe zur Ausstattung der Container gehören**. Die Datensätze enthalten lediglich Informationen zu Standorten, Bewirtschaftern, Typen und anderen administrativen Details, aber keine Angaben zur Ausstattung wie Handschuhe.\n\nFalls solche Informationen benötigt werden, müssten Sie direkt bei den Bewirtschaftern oder der **Stadtentsorgung Rostock GmbH** nachfragen.\n\nQuellen:\n- [Altkleidercontainer](https://www.opendata-hro.de/dataset/e20b32ea-1e32-45c4-8305-2c2b8110a5bc)\n- [Papiercontainer](https://www.opendata-hro.de/dataset/3d57acf5-d768-497a-81ff-14a77ce59d85)\n- [Recyclinghöfe](https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b)\n- [Glascontainer](https://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b)\n- [Abfallbehälter](https://www.opendata-hro.de/dataset/934ec65d-398b-49d0-9833-9aa713c0ff87)"
+}

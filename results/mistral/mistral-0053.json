@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0053",
+  "run_at": "2025-09-09T10:15:15.411427Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver  PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Die gefundenen Datensätze behandeln lediglich statistische Daten zur Beförderung gefährlicher Güter in der Binnenschifffahrt und enthalten keine spezifischen Informationen zu Verpackungsvorschriften für \"Treibladungspulver PCL 2595\" oder ähnliche Stoffe.\n\nFür detaillierte Verpackungsvorschriften zu gefährlichen Gütern wie **Treibladungspulver** empfiehlt es sich, die **Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)** oder die **Sprengstoffverordnung (SprengV)** zu konsultieren. Diese sind jedoch nicht direkt über das Open-Data-Portal abrufbar.\n\nFalls Sie Zugang zu den rechtlichen Vorschriften benötigen, können Sie diese auf den offiziellen Seiten des **Bundesministeriums der Justiz und für Verbraucherschutz** oder des **Bundesamts für Materialforschung und -prüfung (BAM)** einsehen.\n\nMöchten Sie, dass ich nach weiteren Quellen suche oder eine spezifischere Anfrage stelle?"
+}

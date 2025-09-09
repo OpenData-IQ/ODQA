@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0012",
+  "run_at": "2025-09-09T09:56:32.472356Z",
+  "question_id": 12,
+  "question": "Welche Leistung haben die Vestas Windkraftanlagen in Stormarn Feldhorst?",
+  "answer": "es gibt dort keine von vestas",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Vestas Windkraftanlage im Feldhorst (Stormarn) hat eine **Nennleistung von 3.450 kW** (3,45 MW). Es handelt sich um den Typ **Vestas V117** mit einer Nabenhöhe von **91,5 Metern** und einem Rotordurchmesser von **117 Metern**.\n\nQuelle: [Dataset Windkraftanlagen in Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset/b731b7db-0539-4baa-b77e-ca28391fb397) (Stand: 02.10.2024)."
+}

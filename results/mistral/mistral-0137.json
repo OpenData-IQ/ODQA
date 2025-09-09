@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0137",
+  "run_at": "2025-09-09T11:18:10.670433Z",
+  "question_id": 137,
+  "question": "Gibt es Daten dazu, wie viele Familien mit wie vielen Kindern es 2014 in den einzelnen Ortsteilen der Stadt Heimbach gab?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-stadt-heimbach",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine Auflistung der Familien nach Anzahl der Kinder, unterteilt nach Ortsteilen der Stadt Heimbach zum Stichtag 31.12.2014. - nan",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 161767 tokens (160955 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

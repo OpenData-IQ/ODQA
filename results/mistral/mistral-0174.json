@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0174",
+  "run_at": "2025-09-09T11:58:15.573788Z",
+  "question_id": 174,
+  "question": "An welchem Tag der Kalenderwoche 23 im Jahr 2022 wurde auf der Marsstraße in Atlantis eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "Es gibt keine Marsstraße in Atlantis, daher liegen dazu keine Messdaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 145963 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

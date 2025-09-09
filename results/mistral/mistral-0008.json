@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0008",
+  "run_at": "2025-09-09T09:52:32.897188Z",
+  "question_id": 8,
+  "question": "Wie groß ist das Bergbaufeld \"Prinzessin Victoria\"?",
+  "answer": "8 421 307 m2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider konnten keine spezifischen Datensätze zum **Bergbaufeld \"Prinzessin Victoria\"** in den Open-Data-Portalen gefunden werden. Es ist möglich, dass diese Informationen nicht öffentlich als Open Data verfügbar sind oder unter einem anderen Namen bzw. einer anderen Kategorie erfasst sind.\n\nFolgende Alternativen könnten weiterhelfen:\n1. **Kontaktaufnahme mit zuständigen Behörden**: Beispielsweise das **Landesamt für Bergbau, Energie und Geologie (LBEG)** in Niedersachsen oder das **Geologische Dienst NRW** könnten weitere Informationen bereitstellen.\n2. **Lokale Archive oder Bergbauvereine**: Historische Daten zu Bergwerken werden oft von lokalen Archiven oder Vereinen verwaltet.\n3. **Fachliteratur oder wissenschaftliche Publikationen**: Recherche in Fachdatenbanken oder Bibliotheken.\n\nFalls Sie weitere Unterstützung benötigen, lassen Sie es mich wissen!"
+}

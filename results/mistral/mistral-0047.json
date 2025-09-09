@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0047",
+  "run_at": "2025-09-09T10:13:06.011727Z",
+  "question_id": 47,
+  "question": "Gibt es Daten über die Mediennutzung älterer Menschen in Bremen?",
+  "answer": "https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Die Daten liegen zwar vor, aber die Fragen fehlen im Datensatz - Datensatz vorhanden, aber unvollständig und nicht verständlich",
+  "llm_final": "Es gibt einen Datensatz zur **Mediennutzung älterer Menschen in Bremen**. Die Daten können unter folgendem Link eingesehen oder heruntergeladen werden:\n\n- **Datensatz-URI**: [Mediennutzung ältere Menschen Bremen](https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de)\n- **Direkter Download-Link**: [Mediennutzung_aeltere_Menschen_Bremen.csv](https://www.transparenz.bremen.de/sixcms/media.php/bremen02.a.13.de/download/Mediennutzung_aeltere_Menschen_Bremen.csv)\n\nFalls du spezifische Analysen oder Auswertungen der Daten benötigst, lass es mich wissen!"
+}

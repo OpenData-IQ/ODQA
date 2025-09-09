@@ -81,13 +81,13 @@ client = OpenAI(
 
 #model = "openai/gpt-4o-search-preview"
 #model_str = "gpt-4o-search-preview"
-#model = "perplexity/sonar"
-#model_str = "sonar"
-model = "openai/gpt-5"
-model_str = "gpt5"
-results_dir = "simple_search"
+model = "perplexity/sonar"
+model_str = "sonar"
+#model = "openai/gpt-5"
+#model_str = "gpt5"
+results_dir = "results/simple_search"
 start_index = 1
-limit = 10
+limit = 204
 files_written = []
 
 # Open input CSV
@@ -117,13 +117,13 @@ with open("open-data-benchmark/de-questions.csv", newline="", encoding="utf-8") 
             messages=[
                 {
                     "role": "system",
-                    "content": "You are an Open Data QA agent for Germany. You receive questions and "
-                               "should provide answers "
+                    "content": "You are an Open Data QA agent for Germany. "
+                               "You receive questions and should provide answers "
                                "with the corresponding sources. "
-                               #"When possible, search GovData and other suitable "
-                               #"German Open Data portals or publicly available data and information on "
-                               #"administrative data."
-                               "Do not use online search. Do not ask clarifying questions; simply presume the most likely information need given the user’s question."
+                               "When possible, search GovData and other suitable "
+                               "German Open Data portals or publicly available information on administrative data."
+                               #"Do not use online search. 
+                                "Do not ask clarifying questions; simply presume the most likely information need given the user’s question."
                 },
                 {
                     "role": "user",

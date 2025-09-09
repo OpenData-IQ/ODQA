@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0100",
+  "run_at": "2025-09-09T10:52:44.482907Z",
+  "question_id": 100,
+  "question": "Welche kostenlosen Freizeitangebote gibt es in 10117 Berlin?",
+  "answer": "Denkmal für die ermordeten Juden Europas, Forum Willy Brandt Berlin, Friedrichwerdersche Kirche, Mendelssohn-Remise, PalaisPopulaire, Tränenpalast, Werkbundarchiv - Museum der Dinge, Deutsche Kinemathek Museum für Film- und Fernsehen, Futurium",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es scheint, dass der Download der Daten nicht erfolgreich war. Daher kann ich die Daten nicht direkt filtern. Allerdings können Sie die kostenlosen Freizeitangebote für die Postleitzahl **10117 Berlin** über die offizielle REST-API des Datensatzes abrufen.\n\nHier ist der direkte Link zur API-Abfrage für kostenlose Angebote in 10117 Berlin:\n- [CSV-Ausgabe](https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.csv?q=10117)\n- [XML-Ausgabe](https://www.berlin.de/sen/soziales/soziale-sicherung/bn-berlin-ticket-s/angebote/index.php/index/all.xml?q=10117)\n\nDort finden Sie eine Liste der kostenlosen und ermäßigten Angebote in diesem Bereich.\n\n**Quelle:** [Kostenlose und ermäßigte Angebote im Land Berlin](https://datenregister.berlin.de/dataset/e023af58-1298-4600-a5c3-02634147aefb)"
+}

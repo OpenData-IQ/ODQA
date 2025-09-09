@@ -12,10 +12,14 @@ from framehub import FrameHub
 
 class DownloadToolInput(BaseModel):
     download_url: Optional[str] = Field(
+    #download_url: str = Field(
         None,
+        #default="",
         description="The download URL for file download"
     ),
     dataset_uri: Optional[str] = Field(
+    #download_uri: str = Field(
+        #default="",
         None,
         description="The uri of the dataset to be retrieved"
     )

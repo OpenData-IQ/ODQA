@@ -173,23 +173,7 @@ def judge_record(item: Dict[str, Any], model: str = "gpt-4o-mini", temperature: 
                     "rationale": f"Ungültiges JSON vom Bewertungsmodell: {e2}"
                 }
             }
-    #resp = llm.invoke([{"role": "user", "content": prompt}])
-    #content = resp.content
 
-
-    #try:
-    #    parsed = json.loads(content)
-    #except json.JSONDecodeError as e:
-        # Fallback preserves input and flags formatting failure as a problem so the batch doesn't break
-    #    parsed = {
-    #        **item,
-    #        "judgement": {
-    #            "category": "problem_answers",
-    #            "problem_type": "answer incorrect",
-    #            "rationale": f"Ungültiges JSON vom Bewertungsmodell: {e}"
-    #        }
-    #    }
-    #return parsed
 
 # ---------- File loaders ----------
 def iter_records_from_file(path: Path) -> Iterable[Dict[str, Any]]:
@@ -350,6 +334,7 @@ def main():
     print(f"Wrote {len(judged_items)} evaluations to: {outdir}")
     print(f"Summary JSON: {summary_json}")
     print(f"Summary CSV : {summary_csv}")
+
 
 if __name__ == "__main__":
     main()

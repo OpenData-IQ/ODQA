@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0132",
+  "run_at": "2025-09-09T11:13:28.053356Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Zum 31.12.2013 gab es in Nörvenich 79 Familien mit drei Kindern und 26 Familien mit vier Kindern.",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 174341 tokens (173529 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

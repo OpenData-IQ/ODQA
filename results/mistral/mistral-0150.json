@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0150",
+  "run_at": "2025-09-09T11:30:23.779909Z",
+  "question_id": 150,
+  "question": "Gab es 2011 in Heimbach im Ortsteil Hasenfeld oder im Kerngebiet mehr Einwohner?",
+  "answer": "Hasenfeld",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Zum 31.12.2011 hatte Hasenfeld 1.169 Einwohner (1.124 Deutsche + 45 Ausländer), das Kerngebiet 1.070 (1.011 + 59).",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 173725 tokens (172913 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

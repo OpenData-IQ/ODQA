@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0032",
+  "run_at": "2025-09-09T10:06:56.149992Z",
+  "question_id": 32,
+  "question": "Wo gibt es mehr Info zu den sofort verfügbaren Gewerbefläche im Gewerbegebiet Hackenbroich?",
+  "answer": "https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/rhein-kreis-neuss-gewerbeflachen",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "https://www.gewerbeflaechen-rkn.de/commercialspace/parcel/expose/de/211903 - nan",
+  "llm_final": "Der Datensatz enthält Informationen zu freien Gewerbeflächen in Dormagen, jedoch gibt es **keine direkten Angaben zum Gewerbegebiet Hackenbroich**. Die verfügbaren Gewerbeflächen sind:\n\n1. **Entwicklungsgebiet Silbersee**\n   - **Größe:** 500.000 m² (50 ha)\n   - **Lage:** Dormagen, Zinkhüttenweg 1, 41542\n   - **Nutzung:** Logistik, Produktion, Dienstleistung (kein Einzelhandel)\n   - **Besonderheiten:** Direkte Anbindung an die A57, trimodaler Standort, Baurecht ab 2022.\n   - **Link:** [Expose Silbersee](https://www.swd-dormagen.de/fileadmin/user_upload/SWD_A4_Expose_Silbersee__3mm_mit_Marken_print.pdf)\n\n2. **Gewerbequartier an der A57**\n   - **Größe:** 100.000 m² (13 ha)\n   - **Lage:** Dormagen, Alte Heerstraße 3 und 4, 41540\n   - **Nutzung:** Produktion, Dienstleistung (kein Einzelhandel)\n   - **Besonderheiten:** Hochwertiges Gewerbequartier, Verfügbar ab Frühjahr 2020.\n   - **Link:** [Expose Gewerbequartier A57](https://www.swd-dormagen.de/fileadmin/user_upload/SWD_A4_Expose_Gewerbequartier_A57__3mm_mit_Marken_print.pdf)\n\n### Empfehlung\nFür detailliertere Informationen zum **Gewerbegebiet Hackenbroich** könnte es sinnvoll sein, direkt bei der [Stadt Dormagen](https://www.dormagen.de) oder der [Wirtschaftsförderung Dormagen](https://www.swd-dormagen.de) nachzufragen, da der Datensatz keine spezifischen Angaben dazu enthält.\n\n**Quelle:** [Dormagen: Freie Gewerbeflächen](https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/dormagen-freie-gewerbeflaechen)"
+}

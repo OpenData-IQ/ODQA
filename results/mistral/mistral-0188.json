@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0188",
+  "run_at": "2025-09-09T12:27:44.986384Z",
+  "question_id": 188,
+  "question": "In welche Länder sind im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen?",
+  "answer": "Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "to_csv_string{\"frame_id\": \"cfae441e\", \"include_header\": true, \"include_index\": false}\"deutschland,anzahl_wegzuege\nNiederlande,10\nPolen,3\nÖsterreich,3\nTschechien,3\nSchweiz,3\nBelgien,3\nSpanien,2\nFrankreich,2\nItalien,2\nUngarn,2\nVereinigtes Königreich,2\nTürkei,2\"\n\nIm Jahr 2020 sind aus Nörvenich mindestens zwei Personen in folgende Länder weggezogen:\n\n1. Niederlande (10 Personen)\n2. Polen (3 Personen)\n3. Österreich (3 Personen)\n4. Tschechien (3 Personen)\n5. Schweiz (3 Personen)\n6. Belgien (3 Personen)\n7. Spanien (2 Personen)\n8. Frankreich (2 Personen)\n9. Italien (2 Personen)\n10. Ungarn (2 Personen)\n11. Vereinigtes Königreich (2 Personen)\n12. Türkei (2 Personen)"
+}

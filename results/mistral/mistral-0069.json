@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0069",
+  "run_at": "2025-09-09T10:25:13.528144Z",
+  "question_id": 69,
+  "question": "In welchen Fachabteilungen wurden 2017 zehn oder mehr Patienten mit Krankheiten des Nervensystems, die ihren Hauptwohnsitz in der kreisfreien Stadt Trier haben,  vollstationär behandelt?",
+  "answer": "Hals-, Nasen-, Ohrenheilkunde, Kardiologie, Sonstige und allgemeine Innere Medizin, Geriatrie, Sonstige und allgemeine Kinderheilkunde, Neurochirurgie, Neurologie, sonstige Fachbereiche",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Not the same number of function calls and responses\",\"type\":\"invalid_request_message_order\",\"param\":null,\"code\":\"3230\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

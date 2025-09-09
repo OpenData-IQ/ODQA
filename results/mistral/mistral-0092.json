@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0092",
+  "run_at": "2025-09-09T10:49:52.298843Z",
+  "question_id": 92,
+  "question": "Wie hoch ist die geschätzte Auszahlung für die kommenden drei Jahre für die bilaterale staatliche Entwicklungszusammenarbeit für Tadschikistan?",
+  "answer": "2810000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt. Dies geht nur aus den Metadaten hervor.",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 156060 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}"
+}

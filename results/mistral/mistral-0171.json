@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0171",
+  "run_at": "2025-09-09T11:56:13.109470Z",
+  "question_id": 171,
+  "question": "Welche drei Vornamen wurden im Jahr 2020 in Kerpen am häufigsten vergeben und wie viele Kinder erhielten jeweils diese Namen?",
+  "answer": "Die drei am häufigsten vergebenen Vornamen in Kerpen im Jahr 2020 waren Sophie (14 Kinder), Marie (9 Kinder) und Maximilian (8 Kinder)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die drei häufigsten Vornamen, die im Jahr 2020 in Kerpen vergeben wurden, sind:\n\n1. **Marie** (weiblich) – 9 Kinder\n2. **Maximilian** (männlich) – 8 Kinder\n3. **Elias** (männlich) – 7 Kinder\n\n**Quelle:** [Vornamen Kerpen 2020](https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-kerpen)"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "mistral-0067",
+  "run_at": "2025-09-09T10:23:15.317066Z",
+  "question_id": 67,
+  "question": "Wo gab es am 30.06.24 mehr männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss? In Lübeck oder in Halle?",
+  "answer": "In Halle",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "In Halle gab es 1.489 ausländische männliche Beschäftigte mit akadem. Abschluss, in Lübeck 946.",
+  "llm_final": "Am **30.06.2024** gab es in **Halle (6.015)** mehr männliche ausländische sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss als in **Lübeck (5.642)**.\n\n**Quelle:** [Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach Geschlecht, Nationalität und Art des beruflichen Ausbildungsabschlusses - Stichtag 30.06. - regionale Tiefe: Kreise und krfr. Städte](https://www.regionalstatistik.de/genesisws/downloader/00/tables/13111-11-04-4_00.csv#dataset)"
+}

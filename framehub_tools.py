@@ -40,20 +40,31 @@ def build_tools(hub: FrameHub):
         """Group-by and aggregate. metrics like [{op:'sum', col:'revenue', alias:'total_revenue'}] or [{op:'count'}]. Returns NEW frame_id."""
         return hub.aggregate(frame_id, groupby, metrics)
 
+    #@tool
+    #def sort_rows(frame_id: str, by: List[dict], limit: int | None = None) -> str:
+    #    """Sort rows. by=[{col, desc?}], optional limit. Returns NEW frame_id."""
+    #    return hub.sort(frame_id, by, limit)
+
     @tool
-    def sort_rows(frame_id: str, by: List[dict], limit: int | None = None) -> str:
-        """Sort rows. by=[{col, desc?}], optional limit. Returns NEW frame_id."""
-        return hub.sort(frame_id, by, limit)
+    def sort_rows(frame_id: str, by: List[dict], limit: int = 0) -> str:
+        """Sort rows. by=[{col, desc?}], optional limit. Returns NEW frame_id.
+        limit=0 means 'no limit'."""
+        return hub.sort(frame_id, by, None if limit == 0 else limit)
 
     @tool
     def join_frames(left_id: str, right_id: str, on: List[dict], how: str = "inner") -> str:
         """Join two frames. 'on' can be [{col:'key'}] or [{left:'lkey', right:'rkey'}]. how in ['inner','left','right','outer']. Returns NEW frame_id."""
         return hub.join(left_id, right_id, on, how)  # type: ignore
 
+    #@tool
+    #def to_csv_string(frame_id: str, include_header: bool = True, limit: int | None = None) -> str:
+    #    """Serialize a frame to CSV string (no files). Optionally limit rows."""
+    #    return hub.to_csv_string(frame_id, include_header, limit)
     @tool
-    def to_csv_string(frame_id: str, include_header: bool = True, limit: int | None = None) -> str:
-        """Serialize a frame to CSV string (no files). Optionally limit rows."""
-        return hub.to_csv_string(frame_id, include_header, limit)
+    def to_csv_string(frame_id: str, include_header: bool = True, limit: int = 0) -> str:
+        """Serialize a frame to CSV string (no files). Optionally limit rows.
+        limit=0 means 'no limit'."""
+        return hub.to_csv_string(frame_id, include_header, None if limit == 0 else limit)
 
     # return the actual tool objects LangChain creates from the decorators
     #return [load_csv_string, drop_frame, columns, preview, select_cols, filter_rows, aggregate, sort_rows, join_frames, to_csv_string]
