@@ -1,5 +1,0 @@
-Compared 50 items
-Unweighted κ       = 1.000
-Quadratic weighted κ = 1.000  CI95 = (1.000, 1.000)  -> ADOPT
-LLM distribution : {'perfect': 10, 'partially': 4, 'problem_answers': 36}
-Human distribution: {'perfect': 10, 'partially': 4, 'problem_answers': 36}
