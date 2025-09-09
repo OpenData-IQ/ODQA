@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0173",
+  "run_at": "2025-09-04T16:00:42.164754Z",
+  "question_id": 173,
+  "question": "Wie viele Stimmen erhielt die Partei 'Unicorn Power' bei der Bundestagswahl 2013 in Kall?",
+  "answer": "Es gibt keine Partei mit dem Namen 'Unicorn Power', daher liegen dazu keine Wahlergebnisse vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0 Stimmen.\n\nBegründung: Bei Bundestagswahlen sind nur zugelassene Parteien mit Landesliste auf dem Stimmzettel wählbar; Schreib‑/Fantasieeinträge sind nicht möglich und machen die Stimme ungültig. In den amtlichen Gemeindeergebnissen der Bundestagswahl 2013 für Kall erscheint „Unicorn Power“ nicht.\n\nQuellen:\n- Der Bundeswahlleiter: Bundestagswahl 2013 – Endgültiges Ergebnis nach Gemeinden (Gemeinde Kall, NRW). Auflistung der Parteien in Kall; „Unicorn Power“ ist nicht enthalten.\n- Der Bundeswahlleiter: Hinweise/FAQ zur Stimmabgabe – nur zugelassene Wahlvorschläge sind gültig wählbar; „Write-ins“ sind bei Bundestagswahlen nicht möglich (Stimmen mit sonstigen Eintragungen sind ungültig)."
+}

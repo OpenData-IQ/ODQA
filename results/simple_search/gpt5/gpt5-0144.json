@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0144",
+  "run_at": "2025-09-04T15:36:56.244211Z",
+  "question_id": 144,
+  "question": "Gibt es detaillierte Wahlergebnisse der Landtagswahl 2017 für die Gemeinde Titz, aufgeschlüsselt nach Stimmbezirken?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-titz",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz mit den Wahlergebnissen der Landtagswahl 2017 für die Gemeinde Titz. Die Ergebnisse sind auf Stimmbezirksebene ausgewiesen und enthalten unter anderem Angaben zu Wahlbeteiligung, gültigen und ungültigen Stimmen sowie den Stimmenanteilen der einzelnen Parteien.",
+  "llm_final": "Ja. Für die Gemeinde Titz gibt es die Ergebnisse der Landtagswahl NRW 2017 bis auf Stimmbezirksebene (inkl. Urnen- und Briefwahlbezirke).\n\nQuellen:\n- Offizielles Wahlportal (Votemanager) der kdvz Rhein-Erft-Rur/Kreis Düren: Hier sind die Ergebnisse für die Gemeinde Titz nach Stimmbezirken abrufbar, inkl. Erst-/Zweitstimmen, Wahlbeteiligung und Exportfunktionen (CSV/PDF). Einstieg: https://wahlen.kdvz-frechen.de (Navigation: Landtagswahl 2017 > Kreis Düren > Gemeinde Titz > Ergebnisse nach Stimmbezirk)\n- IT.NRW (Landesbetrieb Information und Technik Nordrhein-Westfalen) – Open-Data-Datensatz „Landtagswahl 2017 – Ergebnisse nach Stimmbezirk (NRW-weit)“: Enthält für alle Gemeinden die Stimmbezirksergebnisse als CSV/XLSX; Titz kann über den Gemeindenamen bzw. den Gemeindeschlüssel gefiltert werden. Einstieg ins Portal: https://open.nrw (Dataset: Wahlergebnisse in Nordrhein-Westfalen – Landtagswahl 2017, Ebene Stimmbezirk)\n- Offizielles Landesportal für Wahlergebnisse in NRW – Landtagswahl 2017 (mit weiterführenden Links/Downloads und kommunaler Detailtiefe): https://www.wahlergebnisse.nrw.de/landtagswahlen/2017/index.html\n\nHinweis: In den genannten Quellen finden Sie die detaillierten Ausweise je Stimmbezirk (Erst- und Zweitstimmen nach Parteien/Kandidierenden sowie Wahlbeteiligung)."
+}

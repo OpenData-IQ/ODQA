@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0053",
+  "run_at": "2025-09-04T17:12:26.507296Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver  PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Für das Treibladungspulver PCL 2595 sind spezifische Verpackungsvorschriften zu beachten, um Sicherheit beim Transport und der Lagerung zu gewährleisten. Obwohl keine spezifischen Informationen zu PCL 2595 in den verfügbaren Quellen gefunden wurden, können allgemeine Verpackungsrichtlinien für Treibladungspulver herangezogen werden.\n\nLaut den Richtlinien der Bundesanstalt für Materialforschung und -prüfung (BAM) ([ssr.tes.bam.de](https://ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle-de.html?utm_source=openai)) sollte Treibladungspulver wie folgt verpackt werden:\n\n- **Innenverpackung**: Säcke aus Kunststoff.\n- **Zwischenverpackung**: Nicht erforderlich.\n- **Außenverpackung**: Fässer aus Pappe (1G) mit einem Volumen von 45 Litern und einem Durchmesser von 38 cm.\n\nDie Nettoexplosivstoffmasse je Versandverpackung darf 25 kg nicht überschreiten.\n\nFür den Transport von Treibladungspulver durch Privatpersonen gelten gemäß der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB) folgende Freistellungen:\n\n- **Bis zu 3 kg**: Keine besonderen Verpackungsvorschriften; die Güter müssen jedoch einzelhandelsgerecht abgepackt sein.\n- **Mehr als 3 kg bis zu 20 kg**: Verpackung in UN-geprüften Kartons (UN 4G/Y...) mit entsprechender Kennzeichnung, einschließlich Gefahrzettel (z. B. 1.3C) und Bezeichnung (z. B. UN0161 Treibladungspulver).\n\nEs ist wichtig, die spezifischen Verpackungsvorschriften für PCL 2595 zu überprüfen, da diese je nach Produkt variieren können. Bitte konsultieren Sie die aktuellen Richtlinien der zuständigen Behörden oder wenden Sie sich an den Hersteller, um sicherzustellen, dass alle gesetzlichen Anforderungen erfüllt sind. \n\n### Quellen\n- **[1]** publi_explo_lager_alle-de.html (ssr.tes.bam.de) – https://ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle-de.html?utm_source=openai"
+}

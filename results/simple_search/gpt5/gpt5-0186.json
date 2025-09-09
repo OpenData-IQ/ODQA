@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0186",
+  "run_at": "2025-09-04T16:10:15.869866Z",
+  "question_id": 186,
+  "question": "Welche Vornamen wurden im Jahr 2013 in der Gemeinde Hürtgenwald mindestens dreimal vergeben?",
+  "answer": "Emilia, Marie",
+  "question_type": "set",
+  "source": "2",
+  "remark": "Emilia 3 Mal und Marie 4 Mal",
+  "llm_final": "Ich habe keinen verlässlichen Offline‑Zugriff auf die gemeindescharfen Vornamenzahlen für Hürtgenwald im Jahr 2013. Die gesuchte Auswertung ist jedoch in folgendem offiziellen Open‑Data‑Datensatz der Kommune verfügbar. Dort können Sie Jahr = 2013 filtern und alle Vornamen mit Anzahl ≥ 3 herauslesen:\n\nQuellen:\n- Offene Daten der KDVZ Rhein‑Erft‑Rur – Datensatz „Vornamen in der Gemeinde Hürtgenwald (ab 2010)“: https://offenedaten.kdvz-frechen.de/ (Portal; im Katalog nach „Vornamen Hürtgenwald“ suchen; CSV/Excel-Ressource enthält Jahr, Vorname, Anzahl)\n- Alternativ über das Landesportal Open.NRW (Spiegelung des gleichen Datensatzes): https://open.nrw/ (im Katalog nach „Vornamen Gemeinde Hürtgenwald“ suchen)\n\nHinweis: Der Datensatz basiert auf Auswertungen des Standesamts/Melderegisters der Gemeinde; veröffentlicht werden dort die jährlichen Vornamen mit den jeweiligen Häufigkeiten."
+}

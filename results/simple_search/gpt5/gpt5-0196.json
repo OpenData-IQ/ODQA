@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0196",
+  "run_at": "2025-09-04T16:16:16.869800Z",
+  "question_id": 196,
+  "question": "Wie viele Einwohner lebten zum 31.12.2015 in der Stadt Bergheim?",
+  "answer": "Zum 31.12.2015 lebten in der Stadt Bergheim 63.068 Einwohner.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "62.129 Einwohner (amtliche Einwohnerzahl zum 31.12.2015)\n\nQuellen:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Fortschreibung des Bevölkerungsstandes – Bevölkerung der Gemeinden in NRW, Stichtag 31.12.2015 (Gemeinde Bergheim, Rhein-Erft-Kreis).\n- Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes auf Grundlage des Zensus 2011 – Gemeinden, Stichtag 31.12.2015."
+}

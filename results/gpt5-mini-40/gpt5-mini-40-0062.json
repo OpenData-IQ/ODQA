@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0062",
+  "run_at": "2025-09-06T11:52:59.576300Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Meinen Sie RNV (Rhein‑Neckar‑Verkehr GmbH) oder VRN (Verkehrsverbund Rhein‑Neckar)? Und auf welche Stadt/Verkehrsart (Straßenbahn, Bus) bezieht sich die Linie 23? \n\nSag kurz welche Variante — ich suche dann die Linienfarbe und liefere die Quelle."
+}

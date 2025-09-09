@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0077",
+  "run_at": "2025-09-04T14:36:04.018763Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77). Dort starben 2023 deutlich mehr Männer als Frauen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "llm_final": "Äußere Ursachen der Morbidität und Mortalität (ICD-10: V01–Y98) – darunter insbesondere die vorsätzliche Selbstbeschädigung (Suizid; X60–X84) – weisen das höchste männlich/weiblich-Mortalitätsverhältnis auf. Bei Suiziden entfallen in den jüngsten Jahrgängen rund drei Viertel der Todesfälle auf Männer (M/F ≈ 3:1).\n\nQuelle:\n- Statistisches Bundesamt (Destatis), Todesursachenstatistik, GENESIS-Online, Tabelle „Gestorbene: Deutschland, Jahre, Todesursachen (ab 1998), Geschlecht“ (z. B. 23211-0003)."
+}

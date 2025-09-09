@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0096",
+  "run_at": "2025-09-06T13:02:40.408232Z",
+  "question_id": 96,
+  "question": "In welchen Kölner Stadtteilen gibt es Betriebshöfe zur Abgabe von Elektrokleingeräten?",
+  "answer": "Kalk, Bayenthal, Ehrenfeld",
+  "question_type": "set",
+  "source": "2",
+  "remark": "XML-Datei ist nur über 9805db02-fa3a-49b1-87ec-0cbc293ff25a.html zu finden",
+  "llm_final": "Kalk  \nBayenthal (Stadtteil im Bezirk Rodenkirchen)  \nEhrenfeld\n\nQuelle: Datensatz \"Betriebshöfe in Köln\" (OffeneDaten Köln) — https://offenedaten-koeln.de/dataset/betriebsh%C3%B6fe-k%C3%B6ln"
+}

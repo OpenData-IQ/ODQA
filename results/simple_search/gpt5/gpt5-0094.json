@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0094",
+  "run_at": "2025-09-04T14:50:47.040408Z",
+  "question_id": 94,
+  "question": "Wie viele Geburtsurkunden wurden 2019 in Wesseling nachträglich ausgestellt?",
+  "answer": "49",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich habe dafür in meinen verfügbaren Unterlagen keine verlässliche Zahl. Diese Kennzahl wird in der Jahresstatistik des Standesamts der Stadt Wesseling ausgewiesen (Rubrik zu “ausgestellten Urkunden” bzw. “Geburtsurkunden – nachträglich ausgestellt”) für das Jahr 2019.\n\nQuellenhinweise:\n- Stadt Wesseling – Standesamt: Jahresstatistik 2019 (häufig veröffentlicht im Amtsblatt/Verwaltungsbericht der Stadt Wesseling des Folgejahres)\n- Stadt Wesseling Open-Data/Publikationen: Zahlen des Standesamts (Standesamtliche Jahreszahlen 2019)\n\nTipp: In der Veröffentlichung des Standesamts ist die Zahl meist in einer Tabelle “ausgestellte Urkunden” nach Registerart (Geburten/Ehen/Todesfälle) und Art der Ausstellung (u. a. nachträglich) aufgeführt."
+}

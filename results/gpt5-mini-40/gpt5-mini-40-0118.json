@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0118",
+  "run_at": "2025-09-06T13:29:25.039417Z",
+  "question_id": 118,
+  "question": "Wie hoch war die zusammengefasste Geburtenziffer (TFR) im Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024?",
+  "answer": "Im Stadtbezirk Haslach-Haid lag die zusammengefasste Geburtenziffer (TFR) im Jahr 2024 bei 1,6",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Aus der Datei abi_gliederung.customization erfolgt die Ermittlung der Stadtbezirksnummer für Haslach-Haid (614). Diese wird benötigt, um in der Datei de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke.csv die Geburtenziffer zu ermitteln.",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0002",
+  "run_at": "2025-09-06T09:19:44.434481Z",
+  "question_id": 2,
+  "question": "Wie viele Menschen zwischen 25 und unter 65 Jahren hatten 2018 den Bachelor als höchsten Bildungsabschluss?",
+  "answer": "9288000",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "9.288.000 Personen hatten 2018 im Alter von 25 bis unter 65 Jahren den Bachelor (ISCED 6) als höchsten Bildungsabschluss.  \nQuelle: BMBF-Datenportal, Tabelle \"Bevölkerung im Alter von 25 bis unter 65 Jahren nach Bildungsabschluss (ISCED 2011) und Geschlecht\" (Tabelle-0.61)."
+}

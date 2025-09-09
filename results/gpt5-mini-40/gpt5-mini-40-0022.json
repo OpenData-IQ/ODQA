@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0022",
+  "run_at": "2025-09-06T10:01:10.436384Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "Ja, es gibt mehrere in der Nähe.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 400000 tokens. However, you requested about 3530038 tokens (3529220 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}"
+}

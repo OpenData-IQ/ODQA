@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0018",
+  "run_at": "2025-09-04T17:04:42.102970Z",
+  "question_id": 18,
+  "question": "Wie viele Dioxine wurden 1994 in Frauenmilch nachgewiesen?",
+  "answer": "20,4 PCDD/PCDF",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 1994 wurde in Niedersachsen ein durchschnittlicher Dioxingehalt von 12,5 Pikogramm (pg) pro Gramm Fett in Muttermilch gemessen. Dies stellt einen Rückgang gegenüber 1986 dar, als der Wert noch bei knapp 31 pg/g Fett lag. ([taz.de](https://taz.de/Weniger-Dioxin-in-Muttermilch/%211507335/?utm_source=openai))\n\nInsgesamt zeigen Untersuchungen seit den 1980er Jahren einen deutlichen Rückgang der Dioxinbelastung in Frauenmilch. So enthielten Proben von 1997 im Vergleich zu 1990 etwa 60 % weniger Dioxine und Furane. ([bfr.bund.de](https://www.bfr.bund.de/de/presseinformation/2000/15/belastung_der_bevoelkerung_mit_dioxinen_und_anderen_unerwuenschten_stoffen_in_deutschland_deutlich_zurueckgegangen-888.html?utm_source=openai))\n\nTrotz der nachweisbaren Dioxingehalte in Muttermilch betonen Experten die Vorteile des Stillens. Die Nationale Stillkommission sieht in diesen Rückständen kein gesundheitliches Risiko für den Säugling und empfiehlt, Kinder bis zum Übergang auf Beikost (vier bis sechs Monate) voll zu stillen. ([gesundheit-adhoc.de](https://www.gesundheit-adhoc.de/rueckstaende-in-frauenmilch-empfehlung-der-nationalen-stillk/?utm_source=openai)) \n\n### Quellen\n- **[1]** Weniger Dioxin in Muttermilch | taz.de (taz.de) – https://taz.de/Weniger-Dioxin-in-Muttermilch/%211507335/?utm_source=openai\n- **[2]** Belastung der Bevölkerung mit Dioxinen und anderen unerwünschten Stoffen in Deutschland deutlich zurückgegangen - BfR (www.bfr.bund.de) – https://www.bfr.bund.de/de/presseinformation/2000/15/belastung_der_bevoelkerung_mit_dioxinen_und_anderen_unerwuenschten_stoffen_in_deutschland_deutlich_zurueckgegangen-888.html?utm_source=openai\n- **[3]** Rückstände in Frauenmilch / Empfehlung der Nationalen Stillkommission vom 20. November 1995 - GESUNDHEIT ADHOC (www.gesundheit-adhoc.de) – https://www.gesundheit-adhoc.de/rueckstaende-in-frauenmilch-empfehlung-der-nationalen-stillk/?utm_source=openai"
+}

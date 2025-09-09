@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0061",
+  "run_at": "2025-09-04T17:13:28.144428Z",
+  "question_id": 61,
+  "question": "An welchen Tagen findet der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule statt?",
+  "answer": "15.05.25, 22.05.25, 05.06.25, 12.06.25, 19.06.25, 26.06.25, 03.07.25, 10.07.25, 17.07.25",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Kurs \"Englisch B1/B2 - Lunchtime English (Flexikurs)\" wird derzeit nicht im aktuellen Programm der Berliner Volkshochschulen angeboten. Es ist möglich, dass dieser Kurs in der Vergangenheit stattfand oder zukünftig wieder angeboten wird. Für aktuelle Informationen zu verfügbaren Englischkursen auf den Niveaustufen B1/B2 empfehle ich Ihnen, die offizielle Website der Berliner Volkshochschulen zu besuchen oder direkt Kontakt mit der für Sie zuständigen Volkshochschule aufzunehmen. Dort erhalten Sie detaillierte Auskünfte zu Kursangeboten, Terminen und Anmeldemöglichkeiten. ([berlin.de](https://www.berlin.de/vhs/kurse/sprachen/englisch/?utm_source=openai)) \n\n### Quellen\n- **[1]** Englisch - Berlin.de (www.berlin.de) – https://www.berlin.de/vhs/kurse/sprachen/englisch/?utm_source=openai"
+}

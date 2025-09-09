@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0183",
+  "run_at": "2025-09-04T18:31:31.081817Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der Eheschließungen im Jahr 2015 in der Gemeinde Titz ist in den verfügbaren offenen Datenquellen nicht direkt angegeben. Allerdings bietet das Open-Data-Portal der kdvz Rhein-Erft-Rur einen Datensatz mit dem Titel \"D02 Änderung Familienstände eines Jahres Titz\" an, der Informationen zu Veränderungen der Familienstände, einschließlich Eheschließungen, enthält. ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw/group/titz?page=1&q=node%2F3239&sort_by=changed&utm_source=openai))\n\nUm die genaue Anzahl der Eheschließungen im Jahr 2015 zu erfahren, können Sie diesen Datensatz herunterladen und die entsprechenden Daten für das Jahr 2015 einsehen. \n\n### Quellen\n- **[1]** Titz | Offene Daten kdvz Rhein-Erft-Rur (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/group/titz?page=1&q=node%2F3239&sort_by=changed&utm_source=openai"
+}

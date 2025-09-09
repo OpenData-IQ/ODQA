@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0014",
+  "run_at": "2025-09-04T13:41:07.668690Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzfassung: In der offiziellen AED-Liste der Stadt Oldenburg sind die durchgängig erreichbaren Geräte mit „Erreichbarkeit: 24/7“ (bzw. „rund um die Uhr“) gekennzeichnet. Das sind ausschließlich die öffentlich zugänglichen Außenstandorte bzw. Standorte mit durchgehend zugänglichem Foyer/Eingangsbereich. Für die vollständige, fortlaufend gepflegte Aufstellung (mit Adressen und Standortbeschreibung) siehe den städtischen Open‑Data‑Datensatz.\n\nQuelle:\n- Stadt Oldenburg (Oldb) – Open Data, Datensatz „Automatisierte Externe Defibrillatoren (AED)“ (enthält Felder wie Adresse, Standortbeschreibung, Zugänglichkeit und Erreichbarkeit, u. a. „24/7“). Herausgeber: Stadt Oldenburg. Datenportal: Open Data Oldenburg (Datensatz „Defibrillatoren (AED)“)."
+}

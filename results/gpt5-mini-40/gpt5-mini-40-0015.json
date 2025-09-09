@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0015",
+  "run_at": "2025-09-06T09:40:47.568909Z",
+  "question_id": 15,
+  "question": "Wie viele Apotheken gibt es in 22850 Norderstedt?",
+  "answer": "7",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "In der Postleitzahl 22850 (Norderstedt) gibt es 3 Apotheken: Hubertus-Apotheke, Rosen-Apotheke und Coppernicus-Apotheke.\n\nQuelle: Datensatz \"Apotheken\" der Stadt Norderstedt (WFS/CSV) — https://geoservice.norderstedt.de/geoserver/pub/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pub:apotheke&outputFormat=CSV"
+}

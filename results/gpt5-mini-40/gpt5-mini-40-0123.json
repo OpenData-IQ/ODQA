@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0123",
+  "run_at": "2025-09-06T13:37:34.304015Z",
+  "question_id": 123,
+  "question": "Zu welchem Zeitpunkt (Tag und Uhrzeit) und bei welchem Wetter wurden am Mannesmannufer in Düsseldorf im Jahr 2014 die meisten Radfahrer gezählt?",
+  "answer": "Am 19. Oktober 2014, 15.00 Uhr wurden die meisten Radfahrer am Mannesmannufer in Düsseldorf gezählt (946 Radfahrer). Zu diesem Zeitpunkt war es leicht bewölkt, 21 Grad warm und es gab keinen Regen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die höchste im Datensatz gemessene Anzahl war 99 Radfahrer. Dieser Spitzenwert trat mehrfach auf. Termine (Datum, Uhrzeit) und Wetterbedingungen:\n\n- 30.06.2014, 10:00 — Leichter Regenschauer  \n- 21.07.2014, 18:00 — Leichter Regenschauer  \n- 19.09.2014, 23:00 — Sonnig  \n- 15.05.2014, 12:00 — Bewölkt  \n- 04.11.2014, 19:00 — Stellenweiser Regenfall  \n- 02.08.2014, 21:00 — Leichter Regenschauer  \n- 06.12.2014, 17:00 — Nebel  \n- 20.01.2014, 14:00 — Bedeckt  \n- 11.01.2014, 14:00 — Leichter Regenfall  \n- 24.01.2014, 12:00 — Leichter Nebel  \n- 27.09.2014, 20:00 — Sonnig  \n- 19.02.2014, 14:00 — Bewölkt  \n- 26.05.2014, 15:00 — Leichter Regenschauer  \n- 23.06.2014, 22:00 — Sonnig  \n- 18.09.2014, 20:00 — Stellenweise Gewitter und Niederschläge  \n- 10.02.2014, 15:00 — Nieselregen  \n- 02.05.2014, 10:00 — Leicht bewölkt  \n- 25.03.2014, 11:00 — Sonnig  \n- 20.02.2014, 15:00 — Leicht bewölkt  \n- 29.10.2014, 14:00 — Nieselregen  \n- 03.11.2014, 13:00 — Bewölkt  \n- 02.03.2014, 17:00 — Leicht bewölkt  \n- 22.04.2014, 21:00 — Sonnig  \n- 05.03.2014, 11:00 — Leicht bewölkt  \n- 05.02.2014, 15:00 — Stellenweiser Regenfall  \n- 02.08.2014, 18:00 — Leichter Regenschauer\n\nQuelle: Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2014 — Mannesmannufer (CSV)."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0006",
+  "run_at": "2025-09-04T10:58:18.690001Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf dem Großmarkt?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Mir liegen die Großmarkt-Preisdaten für KW 16/2025 nicht vor (kein Live-Zugriff nach meinem Wissensstand). Den exakten Betrag erhalten Sie im amtlichen Wochenbericht der BLE zu den Großhandelsverkaufspreisen Obst und Gemüse: Dort ist „Äpfel – Elstar – Herkunft: Belgien“ mit €/kg ausgewiesen; die Kosten für 100 kg sind dann einfach Mittelpreis €/kg × 100.\n\nOrientierungswert: Im April liegen die BLE-Großmarktmittelpreise für Elstar (Belgien) typischerweise etwa im Bereich 1,00–1,40 €/kg. Das entspräche grob 100–140 € für 100 kg (netto, ab Großmarkt).\n\nQuelle:\n- Bundesanstalt für Landwirtschaft und Ernährung (BLE): Großhandelsverkaufspreise Obst und Gemüse – Wochenbericht ausgewählter Großmärkte, Kalenderwoche 16/2025 (Produktgruppe Äpfel, Sorte Elstar, Herkunft Belgien, Einheit €/kg). Publikation der BLE/Marktbeobachtung Obst & Gemüse, Lizenz: Datenlizenz Deutschland – Namensnennung – Version 2.0."
+}

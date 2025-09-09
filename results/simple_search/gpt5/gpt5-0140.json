@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0140",
+  "run_at": "2025-09-04T15:32:38.790366Z",
+  "question_id": 140,
+  "question": "Gibt es Daten zur Anzahl der Einwohner in Nörvenich im Jahr 2012, aufgeschlüsselt nach Alter und Staatsangehörigkeit?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-n%C3%B6rvenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine Aufstellung der Einwohnerzahlen in Nörvenich zum Stichtag 31.12.2012, differenziert nach Altersgruppen und Staatsangehörigkeit.",
+  "llm_final": "Ja. Für Nörvenich (Gemeindeschlüssel 05358044) liegen für 2012 amtliche Bevölkerungsdaten nach Altersgruppen und Staatsangehörigkeit vor. Die Standardauswertung auf Gemeindeebene unterscheidet nach Altersgruppen und Staatsangehörigkeit deutsch/nichtdeutsch (teils zusätzlich nach Geschlecht) zum Stichtag 31.12.2012.\n\nQuellen:\n- Information und Technik Nordrhein-Westfalen (IT.NRW) – Fortschreibung des Bevölkerungsstandes: „Bevölkerung der Gemeinden Nordrhein‑Westfalens nach Altersgruppen und Staatsangehörigkeit (deutsch/nichtdeutsch), Stichtag 31.12.“; Region: Gemeinde Nörvenich (05358044); Jahr: 2012. Datenbasis: Melderegisterfortschreibung.\n- Ergänzend für detailliertere Staatsangehörigkeiten (nicht nur deutsch/nichtdeutsch): Zensus 2011, Gemeinde Nörvenich – Bevölkerung nach Alter und Staatsangehörigkeit (Stichtag 09.05.2011), Statistische Ämter des Bundes und der Länder. Hinweis: Referenzjahr 2011, nicht 2012."
+}

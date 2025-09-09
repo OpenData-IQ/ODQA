@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0039",
+  "run_at": "2025-09-04T14:04:54.833732Z",
+  "question_id": 39,
+  "question": "Was ist der häufigste Anfangsbuchstabe von Stadtteilen in Köln?",
+  "answer": "B",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Kölner Stadtteile mit B: Bayenthal, Bickendorf, Bilderstöckchen, Blumenberg, Bocklemünd/Mengenich, Braunsfeld, Brück, Buchforst, Buchheim",
+  "llm_final": "Der häufigste Anfangsbuchstabe ist B. Neun der 86 Kölner Stadtteile beginnen mit B:\n- Bayenthal\n- Bickendorf\n- Bilderstöckchen\n- Bocklemünd/Mengenich\n- Braunsfeld\n- Brück\n- Buchforst\n- Buchheim\n- Blumenberg\n\nQuellen:\n- Stadt Köln – Offene Daten Köln: Datensatz „Stadtteile“ (Amt für Stadtentwicklung und Statistik; offizielle Liste/Geometrien der 86 Stadtteile)\n- Stadt Köln – Amt für Stadtentwicklung und Statistik: Stadtbezirke und Stadtteile (amtliches Stadtteilverzeichnis)"
+}

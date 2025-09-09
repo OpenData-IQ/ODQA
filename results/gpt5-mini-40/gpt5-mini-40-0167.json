@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0167",
+  "run_at": "2025-09-06T16:36:10.194349Z",
+  "question_id": 167,
+  "question": "Wie viele Familien mit mindestens 5 Personen gab es am 31.12.2015 in der Gemeinde Merzenich und wie viele Personen lebten insgesamt in diesen Familien?",
+  "answer": "Am 31.12.2015 gab es in der Gemeinde Merzenich 90 Familien mit mindestens 5 Personen (66 mit 5, 19 mit 6, 3 mit 7 und 2 mit 8 Personen). In diesen Familien lebten insgesamt 481 Personen (330 in 5-Personen-Familien, 114 in 6-Personen-Familien, 21 in 7-Personen-Familien und 16 in 8-Personen-Familien).",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Am 31.12.2015 gab es in der Gemeinde Merzenich 90 Familien mit mindestens 5 Personen. In diesen Familien lebten insgesamt 481 Personen.\n\nQuelle: Offene Daten Kreis Düren — \"Familien nach Größe Gemeinde Merzenich\" (Stichtag 31.12.2015), EWO_990_sim_OpDat28A-2015."
+}

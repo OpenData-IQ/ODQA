@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0081",
+  "run_at": "2025-09-04T14:39:17.850508Z",
+  "question_id": 81,
+  "question": "Wie hoch war der Energieverbrauch der Betriebe im Verarbeitendem Gewerbe in der kreisfreien Stadt Salzgitter im Jahr 2023?",
+  "answer": "die Daten fehlen in der Statistik",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mir liegen für 2023 kein belastbarer Kreiswert aus der amtlichen Statistik vor, den ich ohne Zugriff auf die Originaltabelle sicher angeben kann. Der gesuchte Wert wird in der amtlichen Statistik “Energieverbrauch der Betriebe im Verarbeitenden Gewerbe (WZ-Abschnitt C)” als Summe aller eingesetzten Energieträger (in der Regel in Terajoule, TJ) ausgewiesen und wird auf Kreisebene (u. a. für die kreisfreie Stadt Salzgitter) veröffentlicht.\n\nSo finden Sie den exakten 2023-Wert:\n- Statistisches Bundesamt (Destatis), GENESIS-Online: Tabelle “Energieverbrauch der Betriebe des Verarbeitenden Gewerbes – Kreise, Jahre, Energiearten” (Themenbereich 42 Energie; Regionalebene: Kreise, Kreisschlüssel 03102000 für Salzgitter).\n- Landesamt für Statistik Niedersachsen (LSN): Statistikbereich Energie, Tabelle “Energieverbrauch der Betriebe im Verarbeitenden Gewerbe nach Kreisen und Jahren” (Einheit: Terajoule).\n\nQuellen:\n- Statistisches Bundesamt (Destatis), GENESIS-Online, Themenbereich 42: Energie – Energieverbrauch der Betriebe des Verarbeitenden Gewerbes (Kreise).\n- Landesamt für Statistik Niedersachsen (LSN), Statistik Energie – Energieverbrauch der Betriebe im Verarbeitenden Gewerbe nach Kreisen."
+}

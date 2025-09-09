@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0141",
+  "run_at": "2025-09-04T17:45:31.145620Z",
+  "question_id": 141,
+  "question": "Gibt es Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden, aufgeteilt in die Stadtbezirke und differenziert nach Geschlecht und verschiedenen Altersgruppen.",
+  "llm_final": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden. Laut dem Datensatz \"Arbeitslose 2012 - 2017 (MD1) 4. Quartal\" auf dem Open Data Portal der Stadt Dresden ([opendata.dresden.de](https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal?utm_source=openai)) betrug die Arbeitslosenquote im Dezember 2015 7,0 Prozent. Die genaue Anzahl der Arbeitslosen im 4. Quartal 2015 ist in diesem Datensatz verfügbar. \n\n### Quellen\n- **[1]** Arbeitslose 2012 - 2017 (MD1) 4. Quartal (opendata.dresden.de) – https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal?utm_source=openai"
+}

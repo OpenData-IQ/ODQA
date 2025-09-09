@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0188",
+  "run_at": "2025-09-04T16:11:57.562046Z",
+  "question_id": 188,
+  "question": "In welche Länder sind im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen?",
+  "answer": "Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Für Nörvenich sind die Fortzüge ins Ausland im Jahr 2020 auf Gemeindeebene zwar in der Landesdatenbank NRW ausgewiesen, einzelne Zielländer mit nur sehr kleinen Fallzahlen werden dort jedoch aus statistischen Geheimhaltungsgründen unterdrückt. Eine belastbare, öffentlich zugängliche Liste der Zielländer, in die “jeweils mindestens 2” Personen aus Nörvenich 2020 verzogen sind, lässt sich daher aus den offenen Tabellen nicht zuverlässig entnehmen.\n\nQuelle:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Landesdatenbank: Wanderungen über die Gemeindegrenze – Fortzüge – nach Zielland (Gemeinden), Jahr 2020. In diesen Tabellen werden geringe Fallzahlen auf Gemeindeebene teilweise unterdrückt (statistische Geheimhaltung)."
+}

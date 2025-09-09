@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0099",
+  "run_at": "2025-09-06T13:07:45.286838Z",
+  "question_id": 99,
+  "question": "Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar?",
+  "answer": "80",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "CSV ist in englischer Sprache",
+  "llm_final": "Kurz: Ich kann die Zahl momentan nicht liefern — ich habe zwar das Dataset \"Poststationen\" der Metropolregion Rhein‑Neckar gefunden, aber der CSV‑Download/Export ist fehlgeschlagen, sodass ich die Daten nicht auswerten konnte.\n\nGefundene Ressource:\n- Titel: Poststationen (OSM‑Extrakt)\n- Dataset‑Seite: https://daten.digitale-mrn.de/dataset/a1883a60-168a-4e95-a76a-14489decf825#dataset\n- WFS/CSV (versucht): https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=metropolatlas%3AOSM_MRN_amenity_post_office_4326_Point&outputFormat=csv\n\nWie Sie die Zahl selbst ermitteln können (oder ich kann es für Sie machen, wenn ich die Datei herunterladen darf):\n- In OSM heißt das Tag wheelchair; übliche Werte: \"yes\" = uneingeschränkt, \"limited\" = eingeschränkt, \"no\" = nicht rollstuhlgerecht.\n- Mit Python/pandas:\n  df = pd.read_csv(\"poststationen.csv\", encoding=\"utf-8\")\n  count = df[df['wheelchair'].str.lower() == 'yes'].shape[0]\n  print(count)\n- Oder mit csvkit:\n  csvgrep -c wheelchair -m yes poststationen.csv | csvstat --count\n\nMöchten Sie, dass ich es nochmal versuche und die Auswertung direkt durchführe? Wenn ja, bestätigten Sie kurz — ich starte dann einen erneuten Download und liefere die genaue Zahl."
+}

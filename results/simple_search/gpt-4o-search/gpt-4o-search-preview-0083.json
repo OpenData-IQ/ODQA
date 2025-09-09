@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0083",
+  "run_at": "2025-09-04T17:16:53.991641Z",
+  "question_id": 83,
+  "question": "In welchem Berliner Stadtteil war es 2023 am wahrscheinlichsten, dass bei Eheschließungen mindestens ein Ehepartner ausländisch ist?",
+  "answer": "Neukölln",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In 528 von 1.366 Eheschließungen (38,7 %) war mindestens ein*e Ehepartner*in ausländisch",
+  "llm_final": "Die verfügbaren Daten für das Jahr 2023 bieten keine detaillierte Aufschlüsselung der Eheschließungen nach Berliner Stadtteilen in Bezug auf die Staatsangehörigkeit der Ehepartner. Allerdings zeigen frühere Statistiken, dass in Berlin insgesamt ein signifikanter Anteil der Eheschließungen mit mindestens einem ausländischen Partner stattfindet. Beispielsweise wurden 1995 von 16.383 Eheschließungen 1.893 von deutschen Frauen mit ausländischen Männern und 1.710 von deutschen Männern mit ausländischen Frauen geschlossen. ([welt.de](https://www.welt.de/print-welt/article653986/Heiratsgrenze-mitten-in-Berlin.html?utm_source=openai))\n\nZudem weisen aktuelle Bevölkerungsstatistiken darauf hin, dass Bezirke mit höheren Ausländeranteilen tendenziell auch höhere Raten von Eheschließungen mit ausländischen Partnern aufweisen könnten. Im Jahr 2023 hatten die Bezirke Mitte (37,1 %), Friedrichshain-Kreuzberg (30,2 %) und Neukölln (28,0 %) die höchsten Ausländeranteile. ([statistik-berlin-brandenburg.de](https://www.statistik-berlin-brandenburg.de/168-2023?utm_source=openai))\n\nObwohl spezifische Daten für 2023 fehlen, legen diese Informationen nahe, dass in den genannten Bezirken die Wahrscheinlichkeit höher sein könnte, dass bei Eheschließungen mindestens ein Ehepartner ausländischer Herkunft ist. \n\n### Quellen\n- **[1]** Heiratsgrenze mitten in Berlin - WELT (www.welt.de) – https://www.welt.de/print-welt/article653986/Heiratsgrenze-mitten-in-Berlin.html?utm_source=openai\n- **[2]** Berlin wächst im 1. Halbjahr 2023 um 15.576 Personen (www.statistik-berlin-brandenburg.de) – https://www.statistik-berlin-brandenburg.de/168-2023?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0136",
+  "run_at": "2025-09-04T17:43:22.552818Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Bei der Bürgerschaftswahl 2024 in Rostock lag die Wahlbeteiligung im Stadtbereich Biestow, einschließlich Gartenstadt und Stadtweide, bei 79,2 Prozent. Davon nutzten 33 Prozent der Wählerinnen und Wähler die Briefwahl. ([suedstern.net](https://suedstern.net/kommunalwahl-2024-cdu-gewinnt-in-biestow/?utm_source=openai))\n\nZum Vergleich: Die Wahlbeteiligung in der Südstadt betrug 62,8 Prozent. ([wahlen.sv.rostock.de](https://wahlen.sv.rostock.de/bs2024/buergerschaftswahl_stadtbereich_13003000sb12.html?utm_source=openai))\n\nInsgesamt lag die Wahlbeteiligung in Rostock bei 61,7 Prozent. ([rathaus.rostock.de](https://rathaus.rostock.de/meldungen/355027?utm_source=openai)) \n\n### Quellen\n- **[1]** Kommunalwahl 2024: CDU gewinnt in Biestow | Südstern (suedstern.net) – https://suedstern.net/kommunalwahl-2024-cdu-gewinnt-in-biestow/?utm_source=openai\n- **[2]** Bürgerschaftswahl 8. Wahl der Rostocker Bürgerschaft in Südstadt (wahlen.sv.rostock.de) – https://wahlen.sv.rostock.de/bs2024/buergerschaftswahl_stadtbereich_13003000sb12.html?utm_source=openai\n- **[3]** Rostock - Vorläufiges Ergebnis der Wahl der 8. Rostocker Bürgerschaft (rathaus.rostock.de) – https://rathaus.rostock.de/meldungen/355027?utm_source=openai"
+}

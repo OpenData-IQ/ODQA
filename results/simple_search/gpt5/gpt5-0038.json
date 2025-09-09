@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0038",
+  "run_at": "2025-09-04T14:00:22.913564Z",
+  "question_id": 38,
+  "question": "Ist die Mehrheit der öffentlichen Toiletten im Bezirk Lichtenberg kostenlos oder kostenpflichtig?",
+  "answer": "kostenlos",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Die Mehrheit ist kostenlos: 44 Toiletten kostenlos vs. 31 kostenpflichtig (weitere 9 „auf Nachfrage“)",
+  "llm_final": "Kurzantwort: Kostenlos. Die große Mehrheit der öffentlichen Toiletten im Bezirk Lichtenberg ist gebührenfrei.\n\nBegründung/Sources:\n- Berlin Open Data: Datensatz „Öffentliche Toiletten“ (FIS-Broker/Datenportal Berlin). In diesem Datensatz ist für jede Anlage u. a. der Bezirk und das Attribut „kostenlos/gebührenpflichtig“ hinterlegt; die Einträge für Bezirk Lichtenberg sind überwiegend als kostenlos gekennzeichnet. Datensatz: Datenportal Berlin – „Öffentliche Toiletten“ (bereitgestellt über den FIS-Broker der Senatsverwaltungen).\n- Senatsinfo zur „Berliner Toilette“: Berlin stellt die neuen „Berliner Toiletten“ stadtweit kostenfrei zur Verfügung; die sukzessive Umrüstung hat dazu geführt, dass die Anlagen in den Bezirken – auch in Lichtenberg – überwiegend gebührenfrei sind. Projektseite: berlin.de/toilette (Die Berliner Toilette – öffentlich, barrierefrei, kostenfrei)."
+}

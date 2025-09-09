@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0059",
+  "run_at": "2025-09-04T14:21:33.234261Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Am 18. April 2012.\n\nQuelle: Amtliche Bekanntmachungen der Hochschule Bremen – Allgemeiner Teil der Masterprüfungsordnungen (AT MPO) vom 20.03.2012 (veröffentlicht am 18.04.2012)."
+}

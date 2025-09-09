@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0174",
+  "run_at": "2025-09-04T16:01:21.035147Z",
+  "question_id": 174,
+  "question": "An welchem Tag der Kalenderwoche 23 im Jahr 2022 wurde auf der Marsstraße in Atlantis eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "Es gibt keine Marsstraße in Atlantis, daher liegen dazu keine Messdaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Keine. „Atlantis“ ist keine amtlich existierende Gemeinde/Ortseinheit in Deutschland; daher gibt es keine offiziellen Einträge zur Geschwindigkeitsüberwachung in einer „Marsstraße“ dort.\n\nQuellen:\n- Statistisches Bundesamt (Destatis) – Amtliches Gemeindeverzeichnis (GV-ISys), Stand 2022: führt alle Gemeinden/Ortsteile Deutschlands; ein Ort „Atlantis“ ist dort nicht verzeichnet. (Destatis, Gemeindeverzeichnis – GV-ISys)\n- Statistisches Bundesamt – Amtlicher Gemeindeschlüssel (AGS) Verzeichnisse, 2022: kein Eintrag „Atlantis“. (Destatis, AGS-Verzeichnisse)"
+}

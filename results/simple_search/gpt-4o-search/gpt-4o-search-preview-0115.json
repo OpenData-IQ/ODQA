@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0115",
+  "run_at": "2025-09-04T17:32:57.847129Z",
+  "question_id": 115,
+  "question": "Wie heißen die Südwärts Teilprojekte in Dortmund?",
+  "answer": "es gibt keine \"Südwärts\", das heißt Nordwärts",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Das Projekt \"Südwärts\" in Dortmund ist nicht bekannt. Möglicherweise meinen Sie das Projekt \"nordwärts\", das von 2015 bis 2025 lief und sich auf die Entwicklung der nördlichen Stadtbezirke konzentrierte. ([smartcity.dortmund.de](https://smartcity.dortmund.de/2023/03/30/nordwaerts/?utm_source=openai))\n\nIm Rahmen von \"nordwärts\" wurden über 200 Teilprojekte in den Bereichen Soziales, Ökologie, Ökonomie und Zivilgesellschaft umgesetzt. Eine vollständige Übersicht dieser Projekte finden Sie auf der digitalen Projektlandkarte von \"nordwärts\". ([dortmund.de](https://www.dortmund.de/themen/engagement-und-buerger-innenbeteiligung/nordwaerts/projekte/?utm_source=openai))\n\nEin Beispiel für ein solches Teilprojekt ist \"SuPraStadt\" in Mengede, das sich mit der Förderung von umwelt- und ressourcenschonendem Verhalten im Alltag beschäftigte. ([wirindortmund.de](https://www.wirindortmund.de/mengede/zum-nordwaerts-projekt-suprastadt-in-mengede-liegt-erstmals-ein-bericht-vor-147839?utm_source=openai))\n\nBitte beachten Sie, dass das Projekt \"nordwärts\" im Mai 2025 abgeschlossen wurde. ([smartcity.dortmund.de](https://smartcity.dortmund.de/2023/03/30/nordwaerts/?utm_source=openai)) \n\n### Quellen\n- **[1]** Nordwärts – Smart City Dortmund (smartcity.dortmund.de) – https://smartcity.dortmund.de/2023/03/30/nordwaerts/?utm_source=openai\n- **[2]** \"nordwärts\" Projekte in Dortmund | dortmund.de (www.dortmund.de) – https://www.dortmund.de/themen/engagement-und-buerger-innenbeteiligung/nordwaerts/projekte/?utm_source=openai\n- **[3]** Zum \"nordwärts\"-Projekt \"SuPraStadt\" in Mengede liegt erstmals ein Bericht vor | Wir in Dortmund (www.wirindortmund.de) – https://www.wirindortmund.de/mengede/zum-nordwaerts-projekt-suprastadt-in-mengede-liegt-erstmals-ein-bericht-vor-147839?utm_source=openai"
+}

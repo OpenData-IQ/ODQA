@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0045",
+  "run_at": "2025-09-04T17:10:36.921204Z",
+  "question_id": 45,
+  "question": "Was ist die Abkürzung für das Staatliche Schulamt Neuruppin?",
+  "answer": "StSchA NP",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Abkürzung für das Staatliche Schulamt Neuruppin lautet \"StSchA NP\". ([amtmeyenburg.de](https://www.amtmeyenburg.de/verwaltung/einheiten/100050508/staatliches-schulamt-neuruppin.html?utm_source=openai)) \n\n### Quellen\n- **[1]** StSchA NP - Amt Meyenburg (www.amtmeyenburg.de) – https://www.amtmeyenburg.de/verwaltung/einheiten/100050508/staatliches-schulamt-neuruppin.html?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0148",
+  "run_at": "2025-09-04T15:40:39.487115Z",
+  "question_id": 148,
+  "question": "Gab es 2018 mehr Zuzüge nach Linnich aus Deutschland oder mehr Wegzüge aus Linnich nach Deutschland?",
+  "answer": "mehr Zuzüge aus Deutschland",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "841 Zuzüge aus Deutschland und 672 Wegzüge",
+  "llm_final": "2018 gab es mehr Wegzüge aus Linnich in andere Orte Deutschlands als Zuzüge nach Linnich aus Deutschland.\n\nQuellen:\n- Information und Technik Nordrhein-Westfalen (IT.NRW) – Landesdatenbank NRW, Thema Bevölkerung: Wanderungen der Gemeinden nach Herkunfts-/Zielgebiet, Jahr 2018, Gemeinde Linnich (Kreis Düren).\n- Statistisches Bundesamt (Destatis) – Regionaldatenbank Deutschland: Wanderungen der Gemeinden nach Herkunfts-/Zielgebiet, Jahr 2018, Gemeinde Linnich."
+}

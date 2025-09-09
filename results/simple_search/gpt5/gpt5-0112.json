@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0112",
+  "run_at": "2025-09-04T15:07:30.286500Z",
+  "question_id": 112,
+  "question": "Welche Metzgerei ist in der Nähe des Pflegezentrums Hockenheim in Hockenheim?",
+  "answer": "S. Albert in der Rathhausstraße 31",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Als alternative Antwort kann auch Metzgerei Hauser als richtig gelten. Hier ist die Entfernung lt. Geodaten zwar größer, aber lt. Google der kürzere Fußweg. Alternative Nutzung von geojson: pflegeheime.json, metzgereien.json",
+  "llm_final": "Metzgerei Joneleit an der Oberen Hauptstraße (Innenstadt), wenige Gehminuten vom Pflegezentrum an der Luisenstraße entfernt.\n\nQuelle: OpenStreetMap (Kartendaten zu Hockenheim; Pflegezentrum Hockenheim/Luisenstraße und umliegende „butcher“-POIs)."
+}

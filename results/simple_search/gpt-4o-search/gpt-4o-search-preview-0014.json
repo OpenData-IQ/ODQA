@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0014",
+  "run_at": "2025-09-04T17:03:55.953772Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Oldenburg sind über 150 Defibrillatoren (AEDs) an verschiedenen Standorten gemeldet. ([oldenburg.de](https://www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren.html?utm_source=openai)) Die Stadt Oldenburg stellt einen interaktiven Stadtplan zur Verfügung, in dem die Standorte der öffentlich zugänglichen Defibrillatoren verzeichnet sind. Einige dieser Geräte sind rund um die Uhr zugänglich, während andere nur während der Öffnungszeiten der jeweiligen Einrichtungen verfügbar sind.\n\nBeispielsweise sind die Defibrillatoren im Einkaufszentrum Schlosshöfe Oldenburg bei der Sparkasse im Erdgeschoss und im Obergeschoss bei den Sanifair-Toiletten platziert. ([schlosshoefe-oldenburg.de](https://www.schlosshoefe-oldenburg.de/services/defibrillator-s7321/?utm_source=openai)) Da Einkaufszentren in der Regel nicht durchgängig geöffnet sind, sind diese Geräte wahrscheinlich nicht rund um die Uhr zugänglich.\n\nUm herauszufinden, welche Defibrillatoren in Oldenburg durchgängig erreichbar sind, empfiehlt es sich, den interaktiven Stadtplan der Stadt Oldenburg zu nutzen. Dort sind die Standorte der Defibrillatoren verzeichnet, und es können weitere Informationen zu den jeweiligen Zugangszeiten eingeholt werden. ([oldenburg.de](https://www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren.html?utm_source=openai)) \n\n### Quellen\n- **[1]** Defibrillatoren im Stadtplan > Stadt Oldenburg (www.oldenburg.de) – https://www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren.html?utm_source=openai\n- **[2]** Defibrillator | Schlosshöfe Oldenburg (www.schlosshoefe-oldenburg.de) – https://www.schlosshoefe-oldenburg.de/services/defibrillator-s7321/?utm_source=openai"
+}

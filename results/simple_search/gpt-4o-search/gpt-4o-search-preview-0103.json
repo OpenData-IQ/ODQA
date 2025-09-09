@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0103",
+  "run_at": "2025-09-04T17:24:36.220375Z",
+  "question_id": 103,
+  "question": "Wann gab es in Frankfurt am Main prozentual die meisten Fehlalarme bei Feuermeldungen?",
+  "answer": "2024, mit 80,9%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2013 verzeichnete die Feuerwehr Frankfurt am Main einen besonders hohen Anteil an Fehlalarmen bei Feuermeldungen. Von insgesamt 5.547 Alarmierungen waren 3.790 Fehlalarme, was einem Anteil von etwa 68 Prozent entspricht. Hauptursachen waren unnötig ausgelöste oder defekte Brandmelder sowie eine Zunahme fahrlässig verursachter Falschalarme. ([faz.net](https://www.faz.net/aktuell/rhein-main/falscher-feueralarm-in-zwei-von-drei-faellen-brennt-es-nicht-12743448.html?utm_source=openai))\n\nBis 2019 stieg der Anteil der Fehlalarme weiter an. Von 7.050 Feuermeldungen im Jahr 2018 waren 5.357 Fehlalarme, was einem Anteil von etwa 76 Prozent entspricht. Diese Zunahme wurde hauptsächlich auf Brandmeldeanlagen zurückgeführt, die beispielsweise durch Rauchen in Hotelzimmern oder heiße Duschen ausgelöst wurden. ([fr.de](https://www.fr.de/frankfurt/fehlalarm-13230165.html?utm_source=openai))\n\nDaher war der prozentuale Anteil der Fehlalarme bei Feuermeldungen in Frankfurt am Main im Jahr 2018 mit 76 Prozent am höchsten. \n\n### Quellen\n- **[1]** Falscher Feueralarm: In zwei von drei Fällen brennt es nicht | FAZ (www.faz.net) – https://www.faz.net/aktuell/rhein-main/falscher-feueralarm-in-zwei-von-drei-faellen-brennt-es-nicht-12743448.html?utm_source=openai\n- **[2]** Oft Fehlalarm (www.fr.de) – https://www.fr.de/frankfurt/fehlalarm-13230165.html?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0117",
+  "run_at": "2025-09-06T13:27:27.945658Z",
+  "question_id": 117,
+  "question": "In welchem Stadtbereich Rostocks war der Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 am höchsten?",
+  "answer": "Im Stadtbereich Gartenstadt-Stadtweide lag der Anteil ausländischer Einwohnerinnen und Einwohner am 31.12.2010 mit 7,9 % am höchsten.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Stadtbereich Gartenstadt‑Stadtweide: 7,9 % ausländische Einwohner (Stichtag 31.12.2010).\n\nQuelle: Bevölkerungsstruktur 2010 – Bevölkerung nach Staatsangehörigkeit (Stadt Rostock)."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0066",
+  "run_at": "2025-09-04T17:14:16.760050Z",
+  "question_id": 66,
+  "question": "Wie viele Walnussbäume gibt es bei der Aktion Gelbes Band - Naschbäume im Landkreis Regensburg?",
+  "answer": "2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Es gibt nur einen Eintrag für Walnussbaum, aber in der Beschreibung steht, dass dort zwei stehen.",
+  "llm_final": "Im Rahmen der Aktion \"Gelbes Band\" im Landkreis Regensburg sind über 700 Obstbäume entlang öffentlicher Rad- und Wanderwege sowie Kreisstraßen mit einem gelben Band markiert, das signalisiert, dass diese Bäume abgeerntet werden dürfen. ([ogv-kreisverband-regensburg.de](https://www.ogv-kreisverband-regensburg.de/gelbes-band?utm_source=openai)) Eine genaue Aufschlüsselung der Baumarten, einschließlich der Anzahl der Walnussbäume, ist in den verfügbaren Quellen nicht angegeben. Für detaillierte Informationen zu den Standorten und Baumarten können Sie die interaktive Karte auf der Homepage des Landkreises Regensburg konsultieren. ([ostbayern-kurier.de](https://www.ostbayern-kurier.de/streuobstaktion-gelbes-band-im-landkreis-regensburg-startet.html?utm_source=openai)) \n\n### Quellen\n- **[1]** Gelbes Band - OGV Kreisverband Regensburg (www.ogv-kreisverband-regensburg.de) – https://www.ogv-kreisverband-regensburg.de/gelbes-band?utm_source=openai\n- **[2]** Streuobstaktion „Gelbes Band“ im Landkreis Regensburg startet - Ostbayern-Kurier (www.ostbayern-kurier.de) – https://www.ostbayern-kurier.de/streuobstaktion-gelbes-band-im-landkreis-regensburg-startet.html?utm_source=openai"
+}

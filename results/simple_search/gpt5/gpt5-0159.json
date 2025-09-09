@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0159",
+  "run_at": "2025-09-04T15:49:17.408603Z",
+  "question_id": 159,
+  "question": "Wie hat sich die Anzahl der Familien mit drei oder mehr Kindern in Bad Münstereifel von 2011 bis 2021 verändert??",
+  "answer": "Die Anzahl der Familien mit 3 Kindern ist 2021 im Vergleich zu 2011 gesunken.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "2011 gab es 213 Familien mit drei oder mehr Kindern, 2021 waren es 178. 2011 wurde noch nach Stadtgebieten unterschieden, 2021 gibt es nur Daten für das gesamte Stadtgebieten.",
+  "llm_final": "Kurzantwort:\nEine amtliche, gemeindescharfe Zeitreihe „Familien mit drei oder mehr (minderjährigen) Kindern“ bis ins Jahr 2021 gibt es für Bad Münstereifel nicht. Vergleichbar ausgewiesen wird diese Kennzahl auf Gemeindeebene im Zensus 2011 und wieder im Zensus 2022. Daher lässt sich die Veränderung 2011–2021 auf Gemeindeebene nicht belastbar beziffern; als nächster Vergleich bietet sich 2011–2022 an.\n\nWie Sie dennoch zu belastbaren Zahlen kommen:\n- 2011: Zensus 2011 – Familien nach Zahl der minderjährigen Kinder (Gemeinde Bad Münstereifel). \n- 2022: Zensus 2022 – Familien nach Zahl der minderjährigen Kinder (Gemeinde Bad Münstereifel).\n- Diese beiden Stichtage sind methodisch vergleichbar und werden von den Statistischen Ämtern des Bundes und der Länder auf Gemeindeebene veröffentlicht.\n\nQuellen:\n- Statistische Ämter des Bundes und der Länder: Zensus 2011, Tabellen „Familien nach Zahl der minderjährigen Kinder“, Gemeindeergebnisse (Bad Münstereifel). Portal: Zensusdatenbank/Regionaldatenbank Deutschland.\n- Statistische Ämter des Bundes und der Länder: Zensus 2022, Tabellen „Familien nach Zahl der minderjährigen Kinder“, Gemeindeergebnisse (Bad Münstereifel). Portal: Zensus 2022 Datenbank.\n- IT.NRW (Statistikportal NRW/Landesdatenbank): verweist für gemeindescharfe Familienzahlen nach Kinderzahl ebenfalls auf Zensus 2011 bzw. Zensus 2022; für 2021 liegt keine gemeindescharfe amtliche Zahl vor.\n\nHinweis:\nLandes- oder Bundeswerte für 2021 (z. B. aus dem Mikrozensus) sind nicht auf Gemeindeebene verfügbar und daher nicht mit Bad Münstereifel vergleichbar. Für eine kommunale Zeitreihe ist der Zensus 2011 vs. Zensus 2022 der belastbare Weg."
+}

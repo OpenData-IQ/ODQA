@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0084",
+  "run_at": "2025-09-04T14:41:46.134603Z",
+  "question_id": 84,
+  "question": "Wie viele 3-6 jährige Kinder wohnten am 31.12.2011 in Halle (Saale) und waren es mehr Jungen oder mehr Mädchen?",
+  "answer": "7467 Kinder, mehr Jungen",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "3.865 Jungen und 3.602 Mädchen",
+  "llm_final": "- 3–6 Jahre insgesamt: 6.695 Kinder\n- Davon Jungen: 3.430\n- Davon Mädchen: 3.265\n- Fazit: Es waren mehr Jungen als Mädchen.\n\nQuellen:\n- Stadt Halle (Saale), Amt für Statistik: Einwohner nach Altersjahren und Geschlecht, Stichtag 31.12.2011 (kommunale Einwohnerstatistik)\n- Statistisches Landesamt Sachsen‑Anhalt: Bevölkerungsstand der Gemeinden nach einjährigen Altersjahren und Geschlecht am 31.12.2011 (Halle (Saale))"
+}

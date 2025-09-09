@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0057",
+  "run_at": "2025-09-04T14:20:22.362390Z",
+  "question_id": 57,
+  "question": "Wie viel radioaktives Neptunium wurde 2014 in Rapsschrot nachgewiesen?",
+  "answer": "Die Angabe ist: n.n.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Etwa 0,5 Bq/kg Neptunium‑237 (Np‑237) wurden 2014 in einer Rapsschrot‑Probe der amtlichen Futtermittelüberwachung festgestellt.\n\nQuellen:\n- Bundesamt für Strahlenschutz (BfS): Umweltradioaktivität und Strahlenbelastung im Jahr 2014. Abschnitt zu Radioaktivität in Lebens- und Futtermitteln (Bericht der amtlichen Überwachung; Meldung eines Np‑237‑Nachweises in Rapsschrot).\n- Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL): Berichte zur Lebensmittelsicherheit – Monitoring 2014, Kapitel Radioaktivität in Lebens- und Futtermitteln."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0114",
+  "run_at": "2025-09-06T13:23:36.219702Z",
+  "question_id": 114,
+  "question": "Wo sind öffentliche Toiletten in Wien, Österreich?",
+  "answer": "das ist nicht in deutschland",
+  "question_type": "false premise",
+  "source": "1",
+  "remark": "das ist nicht in deutschland",
+  "llm_final": "Ich habe in den mir verfügbaren offenen Datensätzen hier keine Liste mit öffentlichen Toiletten speziell für Wien gefunden. \n\nMöchten Sie, dass ich\n- online nach einer Datendatei für Wien suche (z. B. data.wien.gv.at oder OpenStreetMap), oder\n- die nächstgelegenen öffentlichen Toiletten zu einer bestimmten Adresse/Koordinate in Wien finde?\n\nSagen Sie mir bitte, welche Option Sie möchten (und bei Option 2: die Adresse/den Ort)."
+}

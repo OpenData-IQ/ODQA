@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0027",
+  "run_at": "2025-09-06T10:09:20.589374Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden",
+  "llm_final": "Kurzantwort: Das lässt sich mit den vorliegenden offenen Daten nicht sagen — in den durchsuchten Open‑Data‑Portalen (u. a. Open Data NRW / GovData und kommunale Portale) gibt es keinen Datensatz zur Nutzung von Bildschirmschonern in den Landesverwaltungen von NRW.\n\nKonkrete nächste Schritte (kurz, wählbar):\n1) Ich erstelle Ihnen sofort eine kurze Umfrage (Fragen + Verteilungs‑/Stichprobenempfehlung), mit der Sie schnell einen Prozentwert erheben können.  \n2) Ich formuliere eine Muster‑E‑Mail oder eine IFG‑Anfrage, die Sie an das Ministerium des Innern / IT.NRW schicken können, um vorhandene Zahlen anzufordern.  \n3) Ich suche zusätzlich im regulären Web/PDF‑Berichten (Ministerien, IT‑Berichte, Studien), ob nicht doch interne Auswertungen veröffentlicht wurden.\n\nWelche Option möchten Sie — 1, 2 oder 3 — oder soll ich mehrere gleichzeitig vorbereiten?"
+}

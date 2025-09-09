@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0023",
+  "run_at": "2025-09-04T13:48:19.247464Z",
+  "question_id": 23,
+  "question": "Wie viele Stellplätze von VRNNextbike Fahrrädern gibt es an der Jugendherberge Lindenhof in Mannheim?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "12 Stellplätze\n\nQuellen:\n- Nextbike/VRN GBFS Feeds – station_information (enthält Kapazität/“capacity” je Station): https://gbfs.nextbike.net/maps/gbfs/v1/vrn/gbfs.json (Feed “station_information”)\n- Stadt Mannheim Open Data – Datensatz „VRNnextbike-Stationen in Mannheim (Standorte und Stellplätze)“ (führt die Stellplatzzahlen je Station)"
+}

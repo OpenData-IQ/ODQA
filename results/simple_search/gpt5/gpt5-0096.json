@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0096",
+  "run_at": "2025-09-04T14:52:42.735136Z",
+  "question_id": 96,
+  "question": "In welchen Kölner Stadtteilen gibt es Betriebshöfe zur Abgabe von Elektrokleingeräten?",
+  "answer": "Kalk, Bayenthal, Ehrenfeld",
+  "question_type": "set",
+  "source": "2",
+  "remark": "XML-Datei ist nur über 9805db02-fa3a-49b1-87ec-0cbc293ff25a.html zu finden",
+  "llm_final": "- Braunsfeld (Betriebshof West, am Maarweg)\n- Raderberg (Betriebshof Süd, an der Goltsteinstraße)\n- Niehl (Betriebshof Nord, an der Geestemünder Straße)\n- Kalk (Betriebshof Ost, an der Christian-Sünner-Straße)\n\nQuellen:\n- Abfallwirtschaftsbetriebe Köln (AWB): Recyclinghöfe/Betriebshöfe und Annahme von Elektrokleingeräten – https://www.awbkoeln.de/privatkunden/recyclinghoefe\n- Stadt Köln, Serviceportal: Elektro- und Elektronikgeräte entsorgen (mit Auflistung der AWB-Annahmestellen) – https://www.stadt-koeln.de/service/produkte/elektro-und-elektronikgeraete-entsorgen"
+}

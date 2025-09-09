@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0027",
+  "run_at": "2025-09-04T18:51:44.476310Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden",
+  "llm_final": "Es liegen keine spezifischen Daten oder Statistiken darüber vor, wie viel Prozent der Menschen in den Landesverwaltungen von Nordrhein-Westfalen (NRW) einen Bildschirmschoner nutzen. Die verfügbaren Informationen zu IT-Nutzung und Digitalisierung in der Landesverwaltung NRW enthalten keine Angaben zur Nutzung von Bildschirmschonern[1][2][3][4][5].\n\nEin Hinweis aus einer Quelle deutet darauf hin, dass bei Voreinstellungen an Endgeräten in der Landesverwaltung NRW teilweise keine Bildschirmschoner aktiviert sind, was auf eine bewusste IT-Policy hindeuten könnte, aber konkrete Nutzungszahlen fehlen[3].\n\nZusammenfassend: Es gibt keine öffentlich zugänglichen Daten oder Studien, die den Prozentsatz der Bildschirmschoner-Nutzer in den Landesverwaltungen von NRW angeben.\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/Landesbetrieb_Information_und_Technik_Nordrhein-Westfalen (de.wikipedia.org) – https://de.wikipedia.org/wiki/Landesbetrieb_Information_und_Technik_Nordrhein-Westfalen\n- **[2]** www.wirtschaft.nrw/system/files/media/document/file/mwide-digitalstrategie2.0_final.pdf (www.wirtschaft.nrw) – https://www.wirtschaft.nrw/system/files/media/document/file/mwide-digitalstrategie2.0_final.pdf\n- **[3]** wupperinst.org/fileadmin/redaktion/downloads/projects/NHS_NRW3_FM2A_Roadmap_Nachhaltige_LV.pdf (wupperinst.org) – https://wupperinst.org/fileadmin/redaktion/downloads/projects/NHS_NRW3_FM2A_Roadmap_Nachhaltige_LV.pdf\n- **[4]** www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV18-2354.pdf (www.landtag.nrw.de) – https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV18-2354.pdf\n- **[5]** www.it.nrw/nrw-braucht-sie-gesucht-werden-selbststaendige-fuer-erhebung-127399 (www.it.nrw) – https://www.it.nrw/nrw-braucht-sie-gesucht-werden-selbststaendige-fuer-erhebung-127399"
+}

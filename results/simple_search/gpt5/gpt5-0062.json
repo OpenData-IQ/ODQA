@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0062",
+  "run_at": "2025-09-04T14:23:40.159392Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Orange.\n\nQuellen:\n- rnv GmbH – Liniennetzplan Heidelberg (gültig ab Fahrplanwechsel 12/2023). In der Legende sind die Linienfarben ausgewiesen; die Linie 23 ist dort orange dargestellt.\n- rnv GmbH – Gesamt-Liniennetz Straßenbahn Mannheim/Ludwigshafen/Heidelberg (Stand 2023/2024), Linienfarbenübersicht: Linie 23 = orange."
+}

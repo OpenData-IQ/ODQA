@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0149",
+  "run_at": "2025-09-04T15:41:08.899785Z",
+  "question_id": 149,
+  "question": "Gab es in Kerpen zum Stichtag 31.12.2010 mehr Familien mit einem Kind oder mit zwei Kindern?",
+  "answer": "Es gab mehr Familien mit einem Kind (3749) als mit zwei Kindern (2633).",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mehr Familien mit einem Kind.\n\nQuelle: Information und Technik Nordrhein‑Westfalen (IT.NRW), Statistik zu „Familien mit minderjährigen Kindern nach Anzahl der Kinder im Haushalt – Gemeinden, Stichtag 31.12.2010“, Gemeinde Kerpen. (Amtliche Kommunalstatistik NRW, Stichtagsdaten 31.12.2010)"
+}

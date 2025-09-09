@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0070",
+  "run_at": "2025-09-04T17:14:55.656479Z",
+  "question_id": 70,
+  "question": "In welchem Regierungsbezirk gab es am 31.12.23 die meisten Schutzsuchenden?",
+  "answer": "Im Regierungsbezirk Düsseldorf",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "237.580 Schutzsuchende im Regierungsbezirk Düsseldorf",
+  "llm_final": "Zum 31. Dezember 2023 waren in Deutschland insgesamt rund 3,17 Millionen Menschen als Schutzsuchende registriert. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/05/PD24_202_125.html?utm_source=openai)) Die meisten Schutzsuchenden lebten in Nordrhein-Westfalen mit etwa 780.000 Personen. ([de.statista.com](https://de.statista.com/statistik/daten/studie/1535311/umfrage/schutzsuchende-in-deutschland-nach-schutzstatus-und-bundeslaendern/?utm_source=openai))\n\nDetaillierte Daten zu Schutzsuchenden auf Ebene der Regierungsbezirke sind in den verfügbaren Quellen nicht enthalten. \n\n### Quellen\n- **[1]** Zahl der Schutzsuchenden im Jahr 2023 leicht gestiegen - Statistisches Bundesamt (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/05/PD24_202_125.html?utm_source=openai\n- **[2]** Schutzsuchende Schutzstatus Bundesländer 2023| Statista (de.statista.com) – https://de.statista.com/statistik/daten/studie/1535311/umfrage/schutzsuchende-in-deutschland-nach-schutzstatus-und-bundeslaendern/?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0029",
+  "run_at": "2025-09-06T10:10:53.378479Z",
+  "question_id": 29,
+  "question": "Wo finde ich den Link zu Weiterbildungsveranstaltungen in Berlin",
+  "answer": "https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Hier die offiziellen Links zur Suche nach anerkannten Weiterbildungsveranstaltungen in Berlin:\n\n- XML-Suche: https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/index.php/index/all.xml?q=  \n- CSV-Suche: https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/index.php/index/all.csv?q=  \n- Datensatz im Datenregister: https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8\n\nTipp: An das q= können Sie Ihren Suchbegriff anhängen (z. B. q=pflege)."
+}

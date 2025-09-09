@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0106",
+  "run_at": "2025-09-04T19:00:44.402619Z",
+  "question_id": 106,
+  "question": "Hatte die Stadt Oldenburg 2024 mehr oder weniger Einnahmen aus der Hundesteuer als 2014?",
+  "answer": "Die Stadt Oldenburg hatte 2024 mehr Einnahmen aus der Hundesteuer als 2014",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2014: 650.000€, 2024: 813.000€",
+  "llm_final": "Die Stadt Oldenburg hatte im Jahr 2024 **mehr Einnahmen aus der Hundesteuer als 2014**. Die Einnahmen aus der Hundesteuer sind in den letzten Jahren kontinuierlich gestiegen, im Zehn-Jahresvergleich um etwa 41 Prozent, was bedeutet, dass die Einnahmen 2024 deutlich höher lagen als 2014[5]. \n\nZusätzlich zeigt die Statistik der Stadt Oldenburg für die Jahre 2018 bis 2024 eine steigende Tendenz bei den Einnahmen aus der Hundesteuer[1]. Die Hundesteuer in Oldenburg beträgt 108 Euro für den ersten Hund, 132 Euro für den zweiten Hund und 168 Euro für jeden weiteren Hund, was ebenfalls auf eine stabile Einnahmequelle hinweist[3]. \n\nDamit ist klar, dass die Einnahmen aus der Hundesteuer 2024 höher waren als 2014.\n\n### Quellen\n- **[1]** www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/40_Stadtplanungsamt/402_Geoinformation_und_Statistik/Statistik/1109-2024-AZ.pdf (www.oldenburg.de) – https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/40_Stadtplanungsamt/402_Geoinformation_und_Statistik/Statistik/1109-2024-AZ.pdf\n- **[2]** www.steuerzahler.de/fileadmin/user_upload/Gesch%C3%A4ftsberichte/BdSt_Geschaeftsbericht_2024.pdf (www.steuerzahler.de) – https://www.steuerzahler.de/fileadmin/user_upload/Gesch%C3%A4ftsberichte/BdSt_Geschaeftsbericht_2024.pdf\n- **[3]** www.hundehaftpflichtversicherungen-vergleich.de/hundesteuer-niedersachsen/ (www.hundehaftpflichtversicherungen-vergleich.de) – https://www.hundehaftpflichtversicherungen-vergleich.de/hundesteuer-niedersachsen/\n- –\n- www.aurich.de/fileadmin/user_upload/pdf-files/Haushalt/Haushaltsplan_2025.pdf (www.aurich.de) – https://www.aurich.de/fileadmin/user_upload/pdf-files/Haushalt/Haushaltsplan_2025.pdf\n- www.oldenburger-onlinezeitung.de/nachrichten/einnahmen-aus-hundesteuer-auf-rekordniveau-138605.html (www.oldenburger-onlinezeitung.de) – https://www.oldenburger-onlinezeitung.de/nachrichten/einnahmen-aus-hundesteuer-auf-rekordniveau-138605.html"
+}

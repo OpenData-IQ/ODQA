@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0124",
+  "run_at": "2025-09-04T17:39:15.362604Z",
+  "question_id": 124,
+  "question": "Wie viele Einwohner im Alter von 30 bis unter 45 Jahren lebten am 31.12.2023 im Stadtbezirk Südost in Ingolstadt?",
+  "answer": "Am 31.12.2023 lebten 4598 Einwohner im Alter von 30 bis unter 45 Jahren im Stadtbezirk Südost in Ingolstadt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der Einwohner im Alter von 30 bis unter 45 Jahren im Stadtbezirk Südost von Ingolstadt zum 31. Dezember 2023 ist in den verfügbaren Quellen nicht direkt angegeben. Allerdings zeigen Daten aus dem Jahr 2018, dass der Stadtbezirk Südost eine Gesamtbevölkerung von 18.460 Personen hatte. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Ingolstadt_S%C3%BCdost?utm_source=openai))\n\nFür die Gesamtstadt Ingolstadt betrug der Anteil der 30- bis unter 45-Jährigen im Jahr 2022 etwa 29,68 % der Bevölkerung. ([stadtistik.de](https://stadtistik.de/stadt/ingolstadt-09161000/?utm_source=openai)) Wenn man diesen Prozentsatz auf die Bevölkerungszahl des Stadtbezirks Südost von 2018 anwendet, ergibt sich eine geschätzte Anzahl von etwa 5.480 Personen in dieser Altersgruppe.\n\nBitte beachten Sie, dass diese Schätzung auf Daten von 2018 basiert und die tatsächlichen Zahlen für 2023 aufgrund von Bevölkerungswachstum oder -rückgang variieren können. Für präzisere und aktuellere Informationen empfiehlt es sich, die offiziellen Statistiken der Stadt Ingolstadt zu konsultieren oder direkt bei der Stadtverwaltung nachzufragen. \n\n### Quellen\n- **[1]** Ingolstadt Südost (de.wikipedia.org) – https://de.wikipedia.org/wiki/Ingolstadt_S%C3%BCdost?utm_source=openai\n- **[2]** Ingolstadt - Bevölkerung, Fläche, Wohnen, Arbeiten, Tourismus, Steuern (stadtistik.de) – https://stadtistik.de/stadt/ingolstadt-09161000/?utm_source=openai"
+}

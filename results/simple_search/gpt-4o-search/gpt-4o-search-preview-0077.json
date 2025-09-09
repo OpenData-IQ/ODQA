@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0077",
+  "run_at": "2025-09-04T17:15:55.782283Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77). Dort starben 2023 deutlich mehr Männer als Frauen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "llm_final": "In der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" weisen Suizide das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen auf. Im Jahr 2023 beendeten 10.300 Menschen in Deutschland durch Suizid ihr Leben, wobei 73 % der Verstorbenen Männer und 27 % Frauen waren. ([maennergesundheitsportal.de](https://www.maennergesundheitsportal.de/aktuelles/aktuelle-meldungen/todesursachenstatistik-2023/?utm_source=openai)) Dies entspricht einem Verhältnis von etwa 2,7:1 zugunsten der Männer.\n\nAuch auf europäischer Ebene zeigt sich ein ähnliches Bild: Die standardisierten Sterberaten durch vorsätzliche Selbstbeschädigung waren bei Männern etwa 3,8-mal so hoch wie bei Frauen. ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php?oldid=505329&utm_source=openai))\n\nDiese Daten verdeutlichen, dass Suizide die Todesursache mit dem höchsten männlichen Überschuss im Vergleich zu weiblichen Todesfällen darstellen. \n\n### Quellen\n- **[1]** Todesursachenstatistik 2023 (www.maennergesundheitsportal.de) – https://www.maennergesundheitsportal.de/aktuelles/aktuelle-meldungen/todesursachenstatistik-2023/?utm_source=openai\n- **[2]** Archive:Todesursachenstatistiken - Statistics Explained (ec.europa.eu) – https://ec.europa.eu/eurostat/statistics-explained/index.php?oldid=505329&utm_source=openai"
+}

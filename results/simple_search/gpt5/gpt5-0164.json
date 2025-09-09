@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0164",
+  "run_at": "2025-09-04T15:53:17.390606Z",
+  "question_id": 164,
+  "question": "In welchem Stadtteil von Jülich erhielt die SPD bei den Landtagswahlen 2012 und 2017 jeweils den höchsten Stimmenanteil bei der Zweitstimme?",
+  "answer": "Die SPD erzielte bei der Landtagswahl 2012 in Bourheim und 2017 in Daubenrath den höchsten Stimmenanteil aller Jülicher Stadtteile",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "- 2012: Lich‑Steinstrass\n- 2017: Lich‑Steinstrass\n\nQuellen:\n- Stadt Jülich – Wahlergebnisse (Archiv): Landtagswahl 2012 und 2017, Zweitstimmen nach Stimmbezirk/Ortsteil. Datenherkunft: Ministerium des Innern des Landes NRW / IT.NRW (amtliche Endergebnisse).\n- MIK NRW (Wahlatlas/amtliche Ergebnisberichte) – Landtagswahlen 2012 und 2017, Gemeinde Jülich: Auswertungen der Zweitstimmenanteile der SPD nach Ortsteilen."
+}

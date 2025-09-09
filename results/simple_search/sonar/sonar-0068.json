@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0068",
+  "run_at": "2025-09-04T18:56:01.553494Z",
+  "question_id": 68,
+  "question": "Wie viele Gemeinden hatten der Landkreis und die kreisfreie Stadt Leipzig am 31.12.23 zusammen?",
+  "answer": "31",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Es liegen noch leere Einträge der veralteten Regionalschlüssel vor",
+  "llm_final": "Der Landkreis Leipzig hatte zum 31.12.2023 insgesamt **30 Gemeinden**[1]. Die kreisfreie Stadt Leipzig ist eine eigenständige Gemeinde und zählt somit als eine weitere Gemeinde.\n\nDaher hatten der Landkreis Leipzig und die kreisfreie Stadt Leipzig zusammen **31 Gemeinden** am 31.12.2023.\n\n### Quellen\n- **[1]** www.landkreisleipzig.de/themenwelten/landkreis-leipzig (www.landkreisleipzig.de) – https://www.landkreisleipzig.de/themenwelten/landkreis-leipzig\n- –\n- integreat.app/landkreisleipzig/de/willkommen-wichtige-%C3%A4mter/allgemeine-informationen-2/kreisangeh%C3%B6rige-kommunen/ (integreat.app) – https://integreat.app/landkreisleipzig/de/willkommen-wichtige-%C3%A4mter/allgemeine-informationen-2/kreisangeh%C3%B6rige-kommunen/\n- www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_landkreis-leipzig.pdf (www.bevoelkerungsmonitor.sachsen.de) – https://www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_landkreis-leipzig.pdf\n- www.haushaltssteuerung.de/weblog-kommunalstrukturen-in-deutschland-im-laendervergleich.html (www.haushaltssteuerung.de) – https://www.haushaltssteuerung.de/weblog-kommunalstrukturen-in-deutschland-im-laendervergleich.html\n- de.wikipedia.org/wiki/Landkreis_Leipzig (de.wikipedia.org) – https://de.wikipedia.org/wiki/Landkreis_Leipzig"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0106",
+  "run_at": "2025-09-04T17:25:34.688485Z",
+  "question_id": 106,
+  "question": "Hatte die Stadt Oldenburg 2024 mehr oder weniger Einnahmen aus der Hundesteuer als 2014?",
+  "answer": "Die Stadt Oldenburg hatte 2024 mehr Einnahmen aus der Hundesteuer als 2014",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2014: 650.000€, 2024: 813.000€",
+  "llm_final": "Die Stadt Oldenburg nahm im Jahr 2014 rund 770.000 Euro an Hundesteuer ein. ([nwzonline.de](https://www.nwzonline.de/oldenburg/oldenburg-vierbeiner-was-bekommen-hundehalter-fuer-ihre-hundesteuer_a_51%2C3%2C3637799557.html?utm_source=openai)) Für das Jahr 2024 liegen derzeit keine spezifischen Daten zu den Einnahmen aus der Hundesteuer in Oldenburg vor. Allerdings wurde die Hundesteuer in Oldenburg seit 2020 nicht erhöht, und die Bescheide behalten ihre Gültigkeit, sofern keine Änderungen vorgenommen wurden. ([oldenburg.de](https://www.oldenburg.de/metanavigation/presse/pressemitteilung/news/grundbesitzabgaben-und-hundesteuerbescheide-behalten-ihre-gueltigkeit-2.html?utm_source=openai)) Da die Hundesteuer unverändert blieb, ist anzunehmen, dass die Einnahmen im Jahr 2024 ähnlich hoch sind wie in den Vorjahren. \n\n### Quellen\n- **[1]** Was bekommen Hundehalter für ihre Hundesteuer? (www.nwzonline.de) – https://www.nwzonline.de/oldenburg/oldenburg-vierbeiner-was-bekommen-hundehalter-fuer-ihre-hundesteuer_a_51%2C3%2C3637799557.html?utm_source=openai\n- **[2]** Grundbesitzabgaben- und Hundesteuerbescheide behalten ihre Gültigkeit > Stadt Oldenburg (www.oldenburg.de) – https://www.oldenburg.de/metanavigation/presse/pressemitteilung/news/grundbesitzabgaben-und-hundesteuerbescheide-behalten-ihre-gueltigkeit-2.html?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0045",
+  "run_at": "2025-09-04T14:09:39.775139Z",
+  "question_id": 45,
+  "question": "Was ist die Abkürzung für das Staatliche Schulamt Neuruppin?",
+  "answer": "StSchA NP",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "SSA Neuruppin (SSA = Staatliches Schulamt)\n\nQuellen:\n- Ministerium für Bildung, Jugend und Sport (MBJS) Brandenburg – Informationsseiten zu den Staatlichen Schulämtern, auf denen die Kurzform „SSA Neuruppin“ verwendet wird.\n- Schulportal Brandenburg – Schulverzeichnis/Anschriften der Staatlichen Schulämter; führt die Zuständigkeit als „SSA Neuruppin“."
+}

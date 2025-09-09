@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0169",
+  "run_at": "2025-09-06T16:38:45.695752Z",
+  "question_id": 169,
+  "question": "An wie vielen verschiedenen Tagen in der Kalenderwoche 7 des Jahres 2022 wurde auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "In der Kalenderwoche 7 des Jahres 2022 wurde an vier verschiedenen Tagen (14.02., 15.02., 16.02., 17.02.2022 und 18.02.2022) auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "An 5 verschiedenen Tagen — montags bis freitags (14.02.2022–18.02.2022).  \nQuelle: Messbereiche 2022 KW07 (opendata.essen.de)."
+}

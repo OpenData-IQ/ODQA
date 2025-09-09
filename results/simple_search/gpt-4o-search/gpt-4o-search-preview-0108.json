@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0108",
+  "run_at": "2025-09-04T17:26:15.605505Z",
+  "question_id": 108,
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Soest gibt es mehrere öffentliche Toiletten, die rund um die Uhr geöffnet sind:\n\n1. **CityMotel Soest**: Neben dem CityMotel befindet sich eine kostenlose Toilette, die 24 Stunden zugänglich ist. ([stellplatzfuehrer.de](https://www.stellplatzfuehrer.de/plaetze/listen/alle/2665-sp-city-motel-soest?utm_source=openai))\n\n2. **Raststätten an der A44**:\n   - **Soester Börde Nord**: Diese Raststätte bietet rund um die Uhr geöffnete Toiletten. ([ortsdienst.de](https://www.ortsdienst.de/nordrhein-westfalen/soest/soest/raststaette/?utm_source=openai))\n   - **Soester Börde Süd**: Auch hier sind die Toiletten 24 Stunden zugänglich. ([ortsdienst.de](https://www.ortsdienst.de/nordrhein-westfalen/soest/soest/raststaette/?utm_source=openai))\n\nBitte beachten Sie, dass einige dieser Einrichtungen möglicherweise eine Gebühr für die Nutzung der Toiletten erheben. \n\n### Quellen\n- **[1]** SP City Motel Soest - Stellplatzfuehrer.de (www.stellplatzfuehrer.de) – https://www.stellplatzfuehrer.de/plaetze/listen/alle/2665-sp-city-motel-soest?utm_source=openai\n- **[2]** Raststätte Soest - Ortsdienst.de (www.ortsdienst.de) – https://www.ortsdienst.de/nordrhein-westfalen/soest/soest/raststaette/?utm_source=openai"
+}

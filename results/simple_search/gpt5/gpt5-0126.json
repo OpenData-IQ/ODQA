@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0126",
+  "run_at": "2025-09-04T15:21:27.544862Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Dafür gibt es eine amtliche Zahl, aber ich habe sie hier nicht verlässlich offline vorliegen. Die konkrete Zahl finden Sie in der amtlichen Wanderungsstatistik von IT.NRW:\n\n- Quelle: IT.NRW (Amtliche Statistik NRW), Wanderungen – Fortzüge aus den Gemeinden nach Zielländern (Staaten), Jahr 2021. Merkmale: Gemeinde = Wesseling (Regionalschlüssel 05362040), Zielland = Vereinigte Staaten, Jahr = 2021.\n- Alternativquelle: Stadt Wesseling, Jahresstatistik/Bevölkerungsbewegung 2021 (sofern dort eine Aufschlüsselung der Fortzüge nach Zielland ausgewiesen ist).\n\nHinweis: In Einzelfällen können bei sehr kleinen Fallzahlen aus Datenschutzgründen Unterdrückungen/„x“-Kennzeichnungen auftreten."
+}

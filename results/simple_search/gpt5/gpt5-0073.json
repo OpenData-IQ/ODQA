@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0073",
+  "run_at": "2025-09-04T14:32:51.287378Z",
+  "question_id": 73,
+  "question": "Wessen Kanalnetz war 2022 das längere? Rotenburg (Wümme) oder Heidekreis?",
+  "answer": "Rotenburg (Wümme)",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "In Rotenburg (Wümme) war das Kanalnetz 2.542 km lang, im Heidekreis nur 2.111 km.",
+  "llm_final": "Rotenburg (Wümme). Sein öffentliches Kanalnetz war 2022 länger als das des Heidekreises.\n\nQuellen:\n- Statistisches Bundesamt (Destatis), Statistik der öffentlichen Abwasserbeseitigung, Regionaldatenbank Deutschland: Länge des Kanalnetzes (insgesamt) – Kreise und kreisfreie Städte, Berichtsjahr 2022.\n- Destatis, Fachserie Öffentliche Wasserversorgung und Abwasserbeseitigung (Auswertung auf Kreisebene für 2022)."
+}

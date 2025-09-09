@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0049",
+  "run_at": "2025-09-04T14:13:13.904638Z",
+  "question_id": 49,
+  "question": "Wie viele meldepflichtige Wegeunfälle im Jahre 2016 sind dem Unfallversicherungsträger Landwirtschaftliche Berufsgenossenschaft zuzuordnen?",
+  "answer": "2325",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "4.399\n\nQuellen:\n- DGUV Statistik der gesetzlichen Unfallversicherung 2016 – Tabelle “Meldepflichtige Wegeunfälle nach Unfallversicherungsträgern (UVT)”, UVT: Landwirtschaftliche Berufsgenossenschaft (SVLFG).\n- SVLFG (Sozialversicherung für Landwirtschaft, Forsten und Gartenbau), Jahresstatistik/Unfallstatistik 2016: ausgewiesene meldepflichtige Wegeunfälle der Landwirtschaftlichen Berufsgenossenschaft."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0086",
+  "run_at": "2025-09-04T17:17:22.578465Z",
+  "question_id": 86,
+  "question": "Wie viele jugendliche Arbeitslose unter 20 Jahren gab es in Goslar, Salzgitter und Helmstedt insgeamt im Jahr 2007?",
+  "answer": "337",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2007 betrug die Jugendarbeitslosenquote in Deutschland für die Altersgruppe der 15- bis 24-Jährigen 11,7 %. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_301_132.html?utm_source=openai)) Für Niedersachsen lag die Jugendarbeitslosenquote im selben Jahr bei 10,8 %. ([jugendsozialarbeit.news](https://jugendsozialarbeit.news/1248-2/?utm_source=openai))\n\nSpezifische Daten zur Anzahl der arbeitslosen Jugendlichen unter 20 Jahren in den Städten Goslar, Salzgitter und Helmstedt für das Jahr 2007 sind in den verfügbaren Quellen nicht enthalten. Allerdings ist bekannt, dass die Jugendarbeitslosigkeit in Niedersachsen im Jahr 2007 insgesamt rückläufig war. ([mw.niedersachsen.de](https://www.mw.niedersachsen.de/startseite/uber_uns/presse/presseinformationen/-15481.html?utm_source=openai))\n\nObwohl keine genauen Zahlen für die genannten Städte vorliegen, kann angenommen werden, dass die positive Entwicklung der Jugendarbeitslosigkeit in Niedersachsen auch in diesen Regionen spürbar war. \n\n### Quellen\n- **[1]** Jugenderwerbslosigkeit in Ost und West auf niedrigstem Stand seit 25 Jahren - Statistisches Bundesamt (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_301_132.html?utm_source=openai\n- **[2]** Überblick über den Arbeitsmarkt in Deutschland 2006 - jugendsozialarbeit.news (jugendsozialarbeit.news) – https://jugendsozialarbeit.news/1248-2/?utm_source=openai\n- **[3]** Jugendarbeitslosigkeit | Nds. Ministerium für Wirtschaft, Verkehr und Bauen (www.mw.niedersachsen.de) – https://www.mw.niedersachsen.de/startseite/uber_uns/presse/presseinformationen/-15481.html?utm_source=openai"
+}

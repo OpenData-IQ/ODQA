@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0060",
+  "run_at": "2025-09-04T14:22:11.484693Z",
+  "question_id": 60,
+  "question": "Hat das Bürgerbüro Nord - Bremerhaven am Donnerstag oder am Freitag länger auf?",
+  "answer": "am Donnerstag",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Donnerstag. Das Bürgerbüro Nord hat donnerstags länger geöffnet als freitags.\n\nQuellen:\n- Offizielle Website der Stadt Bremerhaven: Bürgerbüro Nord – Öffnungszeiten (bremerhaven.de, Bereich Verwaltung & Politik > Bürgerservice > Bürgerbüro Nord)\n- Serviceportal Bremen/Bremerhaven: Eintrag „Bürgerbüro Nord (Bremerhaven)“ mit Öffnungszeiten (serviceportal.bremen.de)"
+}

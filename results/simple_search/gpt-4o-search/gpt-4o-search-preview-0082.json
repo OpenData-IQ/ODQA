@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0082",
+  "run_at": "2025-09-04T17:16:42.817425Z",
+  "question_id": 82,
+  "question": "In welchen Kreisen und krfr. Städten wurden 2017 Menschen aus Australien und Ozeanien eingebürgert?",
+  "answer": "Landkreis Segeberg, Hamburg, Landeshauptstadt Hannover, Landkreis Ammerland, Kreis Wesel, kreisfreie Stadt Köln, kreisfreie Stadt Dortmund, Hochsauerlandkreis, Landkreis Altenkirchen (Westerwald), kreisfreie Stadt Pirmasens, Landeshauptstadt Stadtkreis Stuttgart, Landkreis Esslingen, Landkreis Rhein-Neckar-Kreis, Stadtkreis Freiburg im Breisgau, Landkreis Lörrach, Landkreis Tübingen, Landkreis Sigmaringen,  Landeshauptstadt München, Landkreis Oberallgäu, Berlin, Stadt Leipzig,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2017 wurden in Deutschland insgesamt 16 Personen aus Australien und Ozeanien eingebürgert. ([statistik-bw.de](https://www.statistik-bw.de/BevoelkGebiet/MigrNation/MN-Einbuergerungen.jsp?utm_source=openai)) Detaillierte Daten zu den spezifischen Kreisen und kreisfreien Städten, in denen diese Einbürgerungen stattfanden, sind in den verfügbaren Quellen nicht enthalten. \n\n### Quellen\n- **[1]** Einbürgerungen nach Geschlecht, Aufenthaltsdauer, Staatsangehörigkeit seit 1985 (www.statistik-bw.de) – https://www.statistik-bw.de/BevoelkGebiet/MigrNation/MN-Einbuergerungen.jsp?utm_source=openai"
+}

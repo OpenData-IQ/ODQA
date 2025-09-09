@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0022",
+  "run_at": "2025-09-04T17:05:12.487159Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "Ja, es gibt mehrere in der Nähe.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja, in unmittelbarer Nähe der Franklin Boulderhalle in Mannheim befinden sich mehrere E-Ladesäulen. Direkt an der Boulderhalle, in der Abraham-Lincoln-Allee 2, gibt es eine Ladestation mit acht Typ-2-Anschlüssen, die jeweils eine Ladeleistung von 22 kW bieten. ([electromaps.com](https://www.electromaps.com/de/ladestationen/deutschland/karlsruhe/mannheim/mvv-energie-malis2-franklin-boulderhalle-abraham-lincoln-allee?utm_source=openai))\n\nZusätzlich wurde im Juli 2024 der MVV eLadepark Columbus im Stadtquartier FRANKLIN eröffnet. Dieser befindet sich auf dem Gelände der ehemaligen US-Armee-Tankstelle an der Bundesstraße B38 und verfügt über sechs High Power Charging (HPC) Ladesäulen mit insgesamt zwölf Schnellladepunkten, die jeweils bis zu 300 Kilowatt Ladeleistung bieten. In einer weiteren Ausbaustufe sollen fünf weitere Schnellladepunkte mit zehn Ladeplätzen hinzukommen. ([mannheim.de](https://www.mannheim.de/de/nachrichten/neuer-mvv-eladepark-auf-franklin?utm_source=openai))\n\nSomit stehen Ihnen in der Nähe der Franklin Boulderhalle sowohl Normalladepunkte als auch Schnellladepunkte für Ihr Elektrofahrzeug zur Verfügung. \n\n### Quellen\n- **[1]** Ladestationen für Elektrofahrzeuge - ElectromapsMVV Energie - MaLIS2_Franklin_Boulderhalle (www.electromaps.com) – https://www.electromaps.com/de/ladestationen/deutschland/karlsruhe/mannheim/mvv-energie-malis2-franklin-boulderhalle-abraham-lincoln-allee?utm_source=openai\n- **[2]** Neuer MVV eLadepark auf FRANKLIN | Mannheim.de (www.mannheim.de) – https://www.mannheim.de/de/nachrichten/neuer-mvv-eladepark-auf-franklin?utm_source=openai"
+}

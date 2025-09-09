@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0066",
+  "run_at": "2025-09-06T11:56:33.151710Z",
+  "question_id": 66,
+  "question": "Wie viele Walnussbäume gibt es bei der Aktion Gelbes Band - Naschbäume im Landkreis Regensburg?",
+  "answer": "2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Es gibt nur einen Eintrag für Walnussbaum, aber in der Beschreibung steht, dass dort zwei stehen.",
+  "llm_final": "Es gibt 2 Walnussbäume.\n\nQuelle: Datensatz \"Aktion Gelbes Band - Naschbäume im Landkreis Regensburg\" (Eintrag APP_GELBESBAND_1: baumart = \"Walnuss\", Beschreibung: \"Zwei Walnussbäume…\")."
+}

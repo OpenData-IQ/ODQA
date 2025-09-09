@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0200",
+  "run_at": "2025-09-04T16:18:40.588574Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kirchherten.\n\nQuellen:\n- Stadt Bedburg, Wahlamt: Bundestagswahl 2017 – Amtliches Endergebnis für Bedburg nach Stadtteilen/Ortsteilen (Veröffentlichung des Wahlamts, Stand 25.09.2017).\n- Kreiswahlleiter Rhein-Erft-Kreis: Bundestagswahl 2017 – Endgültige Ergebnisse, Anlage mit Stadtteilergebnissen Bedburg."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0053",
+  "run_at": "2025-09-04T18:54:41.278758Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver  PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Das Treibladungspulver **PCL 2595** muss im Inneren der Verpackung in **Säcken aus Kunststoff** verpackt werden. Es gibt keine Zwischenverpackung, und die Außenverpackung besteht aus einem **Fass aus Pappe (UN1G)** mit einem Volumen von mindestens 24,6 Litern, das maximal 23 kg Nettomasse (NEM) des Pulvers enthält[2].\n\nZusammengefasst:\n\n- **Innenverpackung:** Säcke aus Kunststoff  \n- **Zwischenverpackung:** keine erforderlich  \n- **Außenverpackung:** Fass aus Pappe (UN1G), mindestens 24,6 l Volumen  \n- **Maximale Füllmenge pro Außenverpackung:** 23 kg NEM  \n\nDiese Angaben entsprechen der Einstufung 1.3C für das Treibladungspulver PCL 2595 und sind in den offiziellen Sprengstoffrecht-Listen der BAM (Bundesanstalt für Materialforschung und -prüfung) dokumentiert[2][1].\n\n### Quellen\n- **[1]** ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle.csv (ssr.tes.bam.de) – https://ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle.csv\n- **[2]** ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle-de.html (ssr.tes.bam.de) – https://ssr.tes.bam.de/de/sprengstoffrecht/explo/ex-listen/publi_explo_lager_alle-de.html\n- –\n- www.waffen-ingold.ch/product/treibmittel-bp-clermont-f-tl-pcl-2595-typ-96fv1kg-fuer-pistolen-kein-postversand/ (www.waffen-ingold.ch) – https://www.waffen-ingold.ch/product/treibmittel-bp-clermont-f-tl-pcl-2595-typ-96fv1kg-fuer-pistolen-kein-postversand/\n- marcoawardsgroup.com/site/download.php (marcoawardsgroup.com) – https://marcoawardsgroup.com/site/download.php?target=x25_CP795-R.pdf\n- www.packagingimpressions.com/wp-content/uploads/sites/10/2020/09/PKI08_16-25-1.pdf (www.packagingimpressions.com) – https://www.packagingimpressions.com/wp-content/uploads/sites/10/2020/09/PKI08_16-25-1.pdf?x19603&x95129&x68149"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0050",
+  "run_at": "2025-09-04T14:14:20.845690Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "2014 gab es insgesamt 736 tödliche Arbeits- und Wegeunfälle.\n\nAufschlüsselung:\n- Tödliche Arbeitsunfälle: 386\n- Tödliche Wegeunfälle: 350\n\nQuellen:\n- Deutsche Gesetzliche Unfallversicherung (DGUV), Statistik „Arbeitsunfallgeschehen 2014“ – Kennzahlen zu tödlichen Arbeits- und Wegeunfällen (UV-Träger der gewerblichen Wirtschaft und der öffentlichen Hand).\n- Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA), „Sicherheit und Gesundheit bei der Arbeit – Berichtsjahr 2014“, Kapitel Unfallgeschehen (BAuA übernimmt die DGUV-Daten)."
+}

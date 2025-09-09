@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0114",
+  "run_at": "2025-09-04T15:09:26.691024Z",
+  "question_id": 114,
+  "question": "Wo sind öffentliche Toiletten in Wien, Österreich?",
+  "answer": "das ist nicht in deutschland",
+  "question_type": "false premise",
+  "source": "1",
+  "remark": "das ist nicht in deutschland",
+  "llm_final": "Kurzantwort: Alle öffentlichen WC-Anlagen der Stadt Wien sind auf der offiziellen Stadtkarte als eigener Layer erfasst und als Open-Data-Datensatz mit Koordinaten, Ausstattung (z. B. barrierefrei) und Öffnungszeiten veröffentlicht. So findest du die nächstgelegene Toilette:\n\n- Interaktive Karte: Stadtplan Wien öffnen, den Layer „Öffentliche WC‑Anlagen“ aktivieren und zur eigenen Position zoomen. Quelle: Stadt Wien – Stadtplan Wien (Layer: Öffentliche WC-Anlagen): https://www.wien.gv.at/stadtplan/\n- Offene Daten (für Liste/Koordinaten/Apps): Datensatz „WC-Anlagen (OGD Wien)“ mit allen Standorten in Wien.\n  - Metadaten/Download: https://www.data.gv.at/katalog/dataset/stadt-wien_wc-anlagen\n  - Direkter Geo‑API‑Abruf (WFS, JSON): https://data.wien.gv.at/daten/geo?service=WFS&request=GetFeature&version=1.1.0&typename=ogdwien:WCANLAGEOGD&outputFormat=application/json\n\nHinweise:\n- Die Standorte decken alle Bezirke ab; viele Anlagen sind 24/7 zugänglich, zahlreiche sind barrierefrei. Details pro Standort (Adresse, Öffnungszeiten, Ausstattung) stehen in den oben genannten Quellen.\n\nQuellen:\n- Stadt Wien – Stadtplan (Layer „Öffentliche WC-Anlagen“): https://www.wien.gv.at/stadtplan/\n- OGD Wien Datensatz „WC-Anlagen (WCANLAGEOGD)“: https://www.data.gv.at/katalog/dataset/stadt-wien_wc-anlagen\n- WFS/GeoJSON-Endpunkt (OGD Wien): https://data.wien.gv.at/daten/geo?service=WFS&request=GetFeature&version=1.1.0&typename=ogdwien:WCANLAGEOGD&outputFormat=application/json"
+}

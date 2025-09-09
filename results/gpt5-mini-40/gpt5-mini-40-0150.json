@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0150",
+  "run_at": "2025-09-06T14:26:59.948341Z",
+  "question_id": 150,
+  "question": "Gab es 2011 in Heimbach im Ortsteil Hasenfeld oder im Kerngebiet mehr Einwohner?",
+  "answer": "Hasenfeld",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Zum 31.12.2011 hatte Hasenfeld 1.169 Einwohner (1.124 Deutsche + 45 Ausländer), das Kerngebiet 1.070 (1.011 + 59).",
+  "llm_final": "Hasenfeld.  \n\nStichtag 31.12.2011:\n- Hasenfeld: 1.124 Deutsche + 45 Ausländer = 1.169 Einwohner  \n- Kerngebiet: 1.011 Deutsche + 59 Ausländer = 1.070 Einwohner\n\n(Quelle: Offene Daten Stadt Heimbach – Einwohner nach Ortsteilen 2011)"
+}

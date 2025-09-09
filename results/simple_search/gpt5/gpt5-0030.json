@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0030",
+  "run_at": "2025-09-04T13:53:58.540186Z",
+  "question_id": 30,
+  "question": "Wie viele Kehrmeter hat der Anne-Frank-Weg in Rostock?",
+  "answer": "369.21",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Dazu habe ich offline keinen verlässlichen Einzelwert vorliegen. Die Kehrmeter des Anne-Frank-Wegs sind im offiziellen Straßenreinigungsverzeichnis (Kehrmeter) der Hanse- und Universitätsstadt Rostock veröffentlicht. Dort können Sie in der Spalte für den Straßennamen nach „Anne-Frank-Weg“ filtern; die ausgewiesenen Kehrmeter (ggf. über mehrere Teilabschnitte) ergeben die Gesamtsumme.\n\nQuellen:\n- Hanse- und Universitätsstadt Rostock – Open-Data-Portal: Datensatz „Straßenreinigung – Kehrmeter je Straße“ (Herausgeber: Stadt/KOE bzw. zuständiger Servicebetrieb Stadtreinigung)\n- Straßenreinigungssatzung der Hanse- und Universitätsstadt Rostock (mit Straßenverzeichnis), Amtsblatt/Veröffentlichungen der Stadt"
+}

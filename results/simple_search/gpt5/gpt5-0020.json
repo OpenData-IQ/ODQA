@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0020",
+  "run_at": "2025-09-04T13:46:22.041777Z",
+  "question_id": 20,
+  "question": "Von wann bis wann ging 2024 die Badesaison am Vollstedter See?",
+  "answer": "01.06.24 bis 15.09.24",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "15.05.2024 bis 15.09.2024.\n\nQuellen:\n- Land Schleswig-Holstein – Offizielle Informationen zu Badegewässern: In Schleswig-Holstein dauert die Badesaison regulär vom 15. Mai bis 15. September. \n- Europäische Umweltagentur (EEA), Bathing Water Quality – Eintrag zum Badegewässer „Vollstedter See“ in Schleswig-Holstein, Saison 2024 mit Start 15.05. und Ende 15.09."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0136",
+  "run_at": "2025-09-06T15:55:46.693344Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Ja. Im Datensatz \"Ergebnisse der Bürgerschaftswahl 2024\" ist die Wahlbeteiligung nach Stadtbereichen aufgeführt. Für Biestow (Stadtbereich-Code M) beträgt die Wahlbeteiligung 80,2 %.\n\nQuelle:\n- https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26\n- https://geo.sv.rostock.de/download/opendata/buergerschaftswahl_2024/buergerschaftswahl_2024_ergebnisse.csv"
+}

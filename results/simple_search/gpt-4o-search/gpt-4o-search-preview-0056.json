@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0056",
+  "run_at": "2025-09-04T18:44:54.245761Z",
+  "question_id": 56,
+  "question": "Was ist die Adresse des Deutschen Wetterdienstes?",
+  "answer": "Frankfurter Straße 135, 63067 Offenbach am Main",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n## [Deutscher Wetterdienst](https://www.google.com/maps/search/De?utm_source=openai"
+}

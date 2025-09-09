@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0199",
+  "run_at": "2025-09-06T17:22:33.714927Z",
+  "question_id": 199,
+  "question": "Welcher männliche Vorname wurde im Jahr 2020 in Brühl am häufigsten vergeben?",
+  "answer": "Elias, Luca",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: In Brühl 2020 wurden die männlichen Vornamen Elias und Luca am häufigsten vergeben (je 5 Vergaben). Quelle: https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl/resource/9795f3ab-425b-47e0-8390-0dfe3571d6e3"
+}

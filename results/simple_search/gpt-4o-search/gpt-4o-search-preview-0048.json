@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0048",
+  "run_at": "2025-09-04T17:11:40.332042Z",
+  "question_id": 48,
+  "question": "Sind 2023 im Land Bremen mehr Männer oder mehr Frauen gestorben?",
+  "answer": "mehr Männer",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2023 starben im Land Bremen 4.335 Männer und 4.193 Frauen",
+  "llm_final": "Im Jahr 2023 verstarben im Land Bremen insgesamt 8.528 Personen. ([gbe-bund.de](https://www.gbe-bund.de/gbe/isgbe.information?p_aid=84243989&p_sprache=D&p_thema_id=14187&p_thema_id2=3600&p_thema_id3=3800&p_thema_id4=3850&p_uid=gast&utm_source=openai)) Detaillierte Angaben zur Verteilung der Sterbefälle nach Geschlecht für dieses Jahr liegen derzeit nicht vor. Allgemein ist jedoch festzustellen, dass in Deutschland die Sterberaten bei Männern in allen Altersgruppen höher sind als bei Frauen. ([statistik.bremen.de](https://www.statistik.bremen.de/themen/bevoelkerung/sterbefallzahlen-45290?utm_source=openai)) Daher ist es wahrscheinlich, dass auch im Land Bremen im Jahr 2023 mehr Männer als Frauen verstorben sind. \n\n### Quellen\n- **[1]** Information (www.gbe-bund.de) – https://www.gbe-bund.de/gbe/isgbe.information?p_aid=84243989&p_sprache=D&p_thema_id=14187&p_thema_id2=3600&p_thema_id3=3800&p_thema_id4=3850&p_uid=gast&utm_source=openai\n- **[2]** Sterbefallzahlen - Statistisches Landesamt Bremen (www.statistik.bremen.de) – https://www.statistik.bremen.de/themen/bevoelkerung/sterbefallzahlen-45290?utm_source=openai"
+}

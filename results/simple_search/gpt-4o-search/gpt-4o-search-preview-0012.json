@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0012",
+  "run_at": "2025-09-04T17:03:36.397717Z",
+  "question_id": 12,
+  "question": "Welche Leistung haben die Vestas Windkraftanlagen in Stormarn Feldhorst?",
+  "answer": "es gibt dort keine von vestas",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Gemeinde Feldhorst im Kreis Stormarn, Schleswig-Holstein, sind Windkraftanlagen des Typs Vestas V80-2.0 MW installiert. Jede dieser Anlagen hat eine Nennleistung von 2 Megawatt (MW). ([wind-turbine.com](https://wind-turbine.com/anlagenbetreiber/statkraft-windenergie-gmbh-co-kg?utm_source=openai)) \n\n### Quellen\n- **[1]** Statkraft Windenergie GmbH & Co. KG - Betreiber von Windkraftanlagen | wind-turbine.com (wind-turbine.com) – https://wind-turbine.com/anlagenbetreiber/statkraft-windenergie-gmbh-co-kg?utm_source=openai"
+}

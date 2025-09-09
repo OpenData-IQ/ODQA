@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0047",
+  "run_at": "2025-09-04T14:11:19.986012Z",
+  "question_id": 47,
+  "question": "Gibt es Daten über die Mediennutzung älterer Menschen in Bremen?",
+  "answer": "https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Die Daten liegen zwar vor, aber die Fragen fehlen im Datensatz",
+  "llm_final": "Ja. Offene, amtliche Daten zur (digitalen) Mediennutzung älterer Menschen sind für das Land Bremen verfügbar – insbesondere zur Internet-/Onlinenutzung in den Altersgruppen 65–74 und 75+.\n\nWas Sie finden können\n- Anteil der 65–74- und 75+-Jährigen, die das Internet nutzen (mind. einmal in den letzten 3 Monaten)\n- Nutzungsfrequenz (tägliche Nutzung etc.)\n- Online-Aktivitäten (z. B. Onlinebanking, E‑Government, Kommunikation)\n- Geräteausstattung (z. B. Smartphone-/PC-Nutzung) nach Alter\n- Haushalte mit Internetzugang nach Altersgruppen\n\nQuellen\n- Statistisches Bundesamt (Destatis) – Erhebung „IKT in privaten Haushalten“ (Länderergebnisse):\n  Regionaldatenbank Deutschland, Themenbereich Informations- und Kommunikationstechnologien (IKT) – Private Haushalte/Personen – Länder; Land: Bremen; Altersgruppen u. a. 65–74 und 75+. Diese Tabellen enthalten die oben genannten Indikatoren.\n  Quelle: Statistisches Bundesamt (Destatis), IKT in privaten Haushalten, Länderergebnisse (Regionaldatenbank Deutschland).\n\n- Statistisches Landesamt Bremen – Mikrozensusbasierte Indikatoren:\n  Daten zu „Haushalte mit Internetzugang“ sowie „Personen, die das Internet nutzen, nach Alter“ für Bremen und Bremerhaven werden über das Open‑Data‑Portal des Landes bereitgestellt.\n  Quelle: Statistisches Landesamt Bremen, daten.bremen.de (Themen: Gesellschaft/Bevölkerung, IKT/Internetnutzung).\n\nHinweise\n- Für klassische Medien (TV, Radio, Print) existieren in der Regel keine amtlichen, kleinräumigen Open‑Data‑Reihen speziell für Bremen; hier liegen überwiegend bundesweite Studien (z. B. ARD/ZDF) vor, meist ohne belastbare Bremen‑Auswertung. Die oben genannten amtlichen Quellen decken jedoch die digitale Medien-/Internetnutzung der älteren Bevölkerung in Bremen ab."
+}

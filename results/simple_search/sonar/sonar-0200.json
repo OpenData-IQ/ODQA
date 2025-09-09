@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0200",
+  "run_at": "2025-09-04T19:11:16.430548Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Stadtteil von Bedburg, in dem die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil erhielt, ist Bedburg selbst mit einem Erststimmenanteil von **41,37 %** für die CDU (Dr. Kippels)[1]. \n\nDie Quelle zeigt die Ergebnisse der Bundestagswahl 2017 auf Stadtteilebene für Bedburg, wobei der höchste Anteil der CDU bei den Erststimmen in Bedburg mit 41,37 % lag[1]. Weitere detaillierte Stadtteilwerte sind in der Quelle nicht explizit genannt, aber Bedburg als Stadtteil weist den höchsten Wert aus.\n\n### Quellen\n- **[1]** wahlen.kdvz.nrw/production/bw2017/05362004/html5/Bundestagswahl_103_Stadtteil_Bedburg_Erststimmen.html (wahlen.kdvz.nrw) – https://wahlen.kdvz.nrw/production/bw2017/05362004/html5/Bundestagswahl_103_Stadtteil_Bedburg_Erststimmen.html\n- –\n- www.stadt-koeln.de/mediaasset/content/pdf15/statistik-wahlanalysen/bundestagswahl_2017_analyse_des_k%C3%B6lner_wahlergebnisses_pv_ksn_7_2017.pdf (www.stadt-koeln.de) – https://www.stadt-koeln.de/mediaasset/content/pdf15/statistik-wahlanalysen/bundestagswahl_2017_analyse_des_k%C3%B6lner_wahlergebnisses_pv_ksn_7_2017.pdf\n- statistik.nrw/sites/default/files/municipalprofiles/l05770036.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05770036.pdf\n- www.bpb.de/kurz-knapp/zahlen-und-fakten/bundestagswahlen/zuf-btw-2017/ (www.bpb.de) – https://www.bpb.de/kurz-knapp/zahlen-und-fakten/bundestagswahlen/zuf-btw-2017/\n- wahlen.kdvz.nrw/production/bw2013/05362004/guvgrafik55627446_Z.htm (wahlen.kdvz.nrw) – https://wahlen.kdvz.nrw/production/bw2013/05362004/guvgrafik55627446_Z.htm"
+}

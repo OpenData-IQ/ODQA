@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0165",
+  "run_at": "2025-09-04T15:53:52.922772Z",
+  "question_id": 165,
+  "question": "Wie viele der Wahllokale zur Bundestagswahl 2017 und zur Ratswahl 2020 in Bedburg waren barrierefrei zugänglich?",
+  "answer": "Alle aufgelisteten Wahllokale zur Bundestagswahl 2017 (21 Wahllokale) und zur Ratswahl 2020 (22 Wahllokale) in Bedburg waren barrierefrei zugänglich.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mir liegen die exakten Zahlen für Bedburg nicht offline vor. Die Angaben, wie viele Wahllokale barrierefrei sind, stehen jeweils in der offiziellen Wahlbekanntmachung der Stadt, in der alle Wahlräume mit dem Hinweis „barrierefrei“ bzw. „nicht barrierefrei“ aufgelistet sind. Dort können Sie die Anzahl direkt abzählen.\n\nQuellen (amtliche Veröffentlichungen der Stadt Bedburg):\n- Öffentliche Wahlbekanntmachung der Stadt Bedburg zur Bundestagswahl am 24.09.2017 (Abschnitt „Wahlräume und barrierefreie Wahlräume“; listet alle Wahllokale mit Barrierefrei-Hinweis).\n- Öffentliche Wahlbekanntmachung der Stadt Bedburg zu den Kommunalwahlen am 13.09.2020 (Ratswahl) (Abschnitt „Wahlräume und barrierefreie Wahlräume“; listet alle Wahllokale mit Barrierefrei-Hinweis).\n\nWo Sie die Dokumente finden:\n- Stadt Bedburg – Bereich Rathaus/Politik -> Wahlen -> Bekanntmachungen/Amtsblatt\n- Alternativ über das Ratsinformationssystem/Amtsblatt der Stadt Bedburg unter den Bekanntmachungen zu den jeweiligen Wahlterminen\n\nHinweis: Wenn Sie mir die beiden Bekanntmachungen (PDF/Link) schicken, zähle ich Ihnen die barrierefreien Wahllokale sofort aus und nenne die konkreten Zahlen."
+}

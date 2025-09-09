@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0109",
+  "run_at": "2025-09-06T13:18:38.965614Z",
+  "question_id": 109,
+  "question": "Wo steht, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten?",
+  "answer": "https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Die Informationen stehen im OpenData‑Datensatz der Stadt Soest:  \n- Titel: „Grundschulempfehlungen der angemeldeten/aufgenommenen Schüler zur Jahrgangsstufe 5“ (Schuljahr 2024/25)  \n- Dataset-Seite: https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5  \n- Direkter CSV-Download: https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5/resource/ccf3d2d1-482a-49b0-86ca-55fc8bbbf202/download/grundschulempfehlungen_der_angemeldeten_aufgenommenen_schueler_zur_jahrgangsstufe5.csv\n\nDie Datei enthält für jede Schule die Anzahl und den Prozentanteil der Grundschulempfehlungen (Hauptschule, Realschule, Gymnasium u. a.). Datenquelle: Stadt Soest, Abteilung Schule und Sport."
+}

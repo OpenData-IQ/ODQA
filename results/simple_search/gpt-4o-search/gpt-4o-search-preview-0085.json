@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0085",
+  "run_at": "2025-09-04T17:17:09.910103Z",
+  "question_id": 85,
+  "question": "In welchem Kreis Deutschlands wurde am 01.03.24 der höchste Anteil der dort lebenden Kinder unter 1 Jahr betreut, und wie hoch war dieser Prozentsatz?“,In Mansfeld-Südharz wurden 9",
+  "answer": "2% der dort lebenden unter 1-Jährigen betreut\"",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Am 1. März 2024 lag die Betreuungsquote der unter 3-jährigen Kinder im Landkreis Wittenberg bei 63,7 % und war damit die höchste in Sachsen-Anhalt. ([statistik.sachsen-anhalt.de](https://statistik.sachsen-anhalt.de/news/news-details/sachsen-anhalt-mit-zweithoechster-betreuungsquote-bei-kindern-unter-3-jahren-in-kindertagesbetreuung-im-bundesgebiet?utm_source=openai)) Für Kinder unter 1 Jahr ist die Betreuungsquote in Deutschland generell sehr niedrig. Im Jahr 2019 betrug sie in Ostdeutschland 3,0 % und in Westdeutschland 1,7 %. ([jugendhilfeportal.de](https://jugendhilfeportal.de/artikel/betreuungsquote-unter-dreijaehriger-kinder-neues-kartenangebot-zeigt-betreuungssituation-auf-kreisebene?utm_source=openai)) Aktuellere spezifische Daten für Kinder unter 1 Jahr auf Kreisebene liegen nicht vor. \n\n### Quellen\n- **[1]** Sachsen-Anhalt mit zweithöchster Betreuungsquote bei Kindern unter 3 Jahren in Kindertagesbetreuung im Bundesgebiet (statistik.sachsen-anhalt.de) – https://statistik.sachsen-anhalt.de/news/news-details/sachsen-anhalt-mit-zweithoechster-betreuungsquote-bei-kindern-unter-3-jahren-in-kindertagesbetreuung-im-bundesgebiet?utm_source=openai\n- **[2]** Betreuungsquote unter dreijähriger Kinder: Neues Kartenangebot zeigt Betreuungssituation auf Kreisebene | Jugendhilfeportal (jugendhilfeportal.de) – https://jugendhilfeportal.de/artikel/betreuungsquote-unter-dreijaehriger-kinder-neues-kartenangebot-zeigt-betreuungssituation-auf-kreisebene?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0157",
+  "run_at": "2025-09-04T15:47:24.773311Z",
+  "question_id": 157,
+  "question": "Hat die Stadt Aachen im November 2021 oder im Dezember 2021 mehr Verstöße bei Geschwindigkeitskontrollen gemessen?",
+  "answer": "Im November 2021 wurden 3298 Verstöße verzeichnet, wohingegen es im Dezember nur 2800 waren.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "In beiden Dateien muss erst eine Summe errechnet werden, die dann mit der jeweils anderen verglichen wird.",
+  "llm_final": "November 2021.\n\nQuellen:\n- Stadt Aachen, Ordnungsamt – Monatsübersicht/Monatsstatistik Geschwindigkeitsüberwachung November 2021\n- Stadt Aachen, Ordnungsamt – Monatsübersicht/Monatsstatistik Geschwindigkeitsüberwachung Dezember 2021\n(Veröffentlicht von der Stadt Aachen auf dem städtischen Web-/Open‑Data‑Auftritt; die Monatsberichte weisen die Gesamtzahl der festgestellten Geschwindigkeitsverstöße aus.)"
+}

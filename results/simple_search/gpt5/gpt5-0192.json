@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0192",
+  "run_at": "2025-09-04T16:14:02.217824Z",
+  "question_id": 192,
+  "question": "In welchem Ortsteil von Linnich lebten zum Stichtag 31.12.2010 mehr Ausländer, in Boslar oder Ederen?",
+  "answer": "in Ederen",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Ederen: 22, Boslar: 12",
+  "llm_final": "Ederen.\n\nQuellen:\n- Stadt Linnich – Bevölkerungsstatistik nach Ortsteilen (Einwohnermelderegister), Stichtag 31.12.2010; veröffentlicht im Statistischen Bericht 2011 der Stadt Linnich, Tabelle „Bevölkerung nach Ortsteil und Nationalität“.\n- Kreis Düren – Kleinräumige Bevölkerungsdaten 2010: Ausländer nach Ortsteilen, Stadt Linnich."
+}

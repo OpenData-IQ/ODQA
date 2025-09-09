@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0003",
+  "run_at": "2025-09-04T18:49:13.420105Z",
+  "question_id": 3,
+  "question": "Wie viele Plätze hat die Kinderkrippe \"Biene Maja\" in Rostock?",
+  "answer": "66",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Die Kinderkrippe „Biene Maja“ in Rostock hat laut den verfügbaren Informationen keine explizit genannte Platzkapazität in den Suchergebnissen. Die Adresse der integrativen Kindertagesstätte „Biene Maja“ in Rostock ist Bützower Straße 11, 18109 Rostock[2]. \n\nDie Dokumente geben keine konkrete Zahl der Plätze für diese Einrichtung in Rostock an. Die allgemeine Kapazität für Krippenplätze in Rostock liegt bei etwa 2.987 Plätzen insgesamt (Stand 2016), aber eine spezifische Zahl für „Biene Maja“ wird nicht genannt[1].\n\nZur Klarstellung: Die Kita „Biene Maja“ mit einer Kapazität von 45 Kindern befindet sich in Heckelberg-Brunow, nicht in Rostock[3].\n\nDaher ist die genaue Anzahl der Plätze der Kinderkrippe „Biene Maja“ in Rostock in den vorliegenden Daten nicht verfügbar. Für eine verbindliche Auskunft empfiehlt sich eine direkte Anfrage bei der Einrichtung oder der Stadt Rostock.\n\n### Quellen\n- **[1]** rathaus.rostock.de/media/4984/JHA15112016_BV2010_AnlageKitabedarfsplanung.pdf (rathaus.rostock.de) – https://rathaus.rostock.de/media/4984/JHA15112016_BV2010_AnlageKitabedarfsplanung.pdf\n- **[2]** www.dokumentation.landtag-mv.de/Parldok/dokument/32086/inklusion-in-den-kindertagesst%C3%A4tten-mecklenburg-vorpommern.pdf (www.dokumentation.landtag-mv.de) – https://www.dokumentation.landtag-mv.de/Parldok/dokument/32086/inklusion-in-den-kindertagesst%C3%A4tten-mecklenburg-vorpommern.pdf\n- **[3]** www.drk-mol-ost.de/angebote/kinder-jugend-und-familie/kita-biene-maja-1.html (www.drk-mol-ost.de) – https://www.drk-mol-ost.de/angebote/kinder-jugend-und-familie/kita-biene-maja-1.html\n- –\n- www.kita-rostock.de/aktuelles/archiv.html (www.kita-rostock.de) – https://www.kita-rostock.de/aktuelles/archiv.html?page_n4=15\n- www.kindergarten-maja.de/wp-content/uploads/2021/11/2021_11_Krippenkonzeption.pdf (www.kindergarten-maja.de) – https://www.kindergarten-maja.de/wp-content/uploads/2021/11/2021_11_Krippenkonzeption.pdf"
+}

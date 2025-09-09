@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0014",
+  "run_at": "2025-09-06T09:39:15.893178Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Folgende AED-Standorte im Datensatz der Stadt Oldenburg sind laut Beschreibung durchgängig / rund um die Uhr erreichbar:\n\n- Johanniter-Unfall-Hilfe e. V., Alte Fleiwa 2a — \"Der AED ist in der Regel durchgängig erreichbar.\"  \n- Bäcker Bruno, Butjadinger Straße 344 — \"Dieser AED ... ist 24 Stunden erreichbar.\" (Eigentümer: Bürgerverein Etzhorn)  \n- Stadt Oldenburg, Zentraler Außendienst und City Wache, Wallstraße 14 — \"Der AED ist durchgehend erreichbar.\"  \n- Dorfgemeinschaft Bunker Club Bornhorst e. V., Klein-Bornhorster-Straße 22 — \"In der Regel ist der AED für jeden jederzeit zugänglich.\"\n\nQuelle: Datensatz \"Standorte der Defibrillatoren\" (Stadt Oldenburg) — https://opendata.oldenburg.de/dataset/standorte-der-defibrillatoren  \nCSV: https://opendata.oldenburg.de/sites/default/files/E0701_AEDs_2025_04_01.csv\n\nHinweis: Angaben stammen aus dem Datensatz; Verfügbarkeit kann sich ändern — im Notfall kurz vor Ort prüfen."
+}

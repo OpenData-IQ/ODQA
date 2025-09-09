@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0020",
+  "run_at": "2025-09-04T17:04:51.285848Z",
+  "question_id": 20,
+  "question": "Von wann bis wann ging 2024 die Badesaison am Vollstedter See?",
+  "answer": "01.06.24 bis 15.09.24",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "\n## [Badestelle am Vollstedter See](https://www.google.com/maps/search/Bad?utm_source=openai"
+}

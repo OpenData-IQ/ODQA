@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0055",
+  "run_at": "2025-09-04T14:18:56.038836Z",
+  "question_id": 55,
+  "question": "An welche IBAN soll ich meine Kraftfahrzeugssteuer entrichten, wenn ich nicht am Lastschrifteinzugsverfahren teilnehme und in Halle (Saale) wohne?",
+  "answer": "DE96 8600 0000 0086 0011 60",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Domänenwissen erforderlich: Halle gehört zur KfZ-Stelle Magdeburg",
+  "llm_final": "Kurzantwort: Für die Kraftfahrzeugsteuer gibt es keine einheitliche „Halle (Saale)“-IBAN. Zahlen Sie ausschließlich auf die IBAN der Bundeskasse, die in Ihrem Kfz‑Steuerbescheid bzw. in der Zahlungsaufforderung des zuständigen Hauptzollamts angegeben ist. Verwenden Sie dabei unbedingt das Kassenzeichen/den im Bescheid genannten Verwendungszweck. Für Halle (Saale) ist in der Regel das Hauptzollamt Magdeburg zuständig; die Zahlung läuft über die Bundeskasse (nicht an die Stadtkasse Halle).\n\nHinweise:\n- Ohne das individuelle Kassenzeichen kann Ihre Zahlung nicht korrekt zugeordnet werden.\n- Wenn Ihnen der Bescheid/Zahlungsaufforderung mit IBAN fehlt, wenden Sie sich an das Hauptzollamt Magdeburg (Kfz‑Steuerbereich), damit Ihnen die korrekten Zahlungsdaten (IBAN der Bundeskasse und Kassenzeichen) mitgeteilt werden.\n\nQuellen:\n- Zoll (Bundeszollverwaltung): Kraftfahrzeugsteuer – Bezahlung. Dort wird u. a. erläutert, dass Zahlungen – sofern kein SEPA‑Lastschriftmandat erteilt ist – auf das im Bescheid ausgewiesene Konto der Bundeskasse unter Angabe des Kassenzeichens zu leisten sind. Quelle: zoll.de, Themenbereich „Privatpersonen > Kraftfahrzeugsteuer > Bezahlung“.\n- Zoll (Bundeszollverwaltung): Zuständigkeit der Zollverwaltung für die Kraftfahrzeugsteuer seit 2014 und Hinweis auf die Hauptzollämter als Ansprechpartner. Quelle: zoll.de, Themenbereich „Privatpersonen > Kraftfahrzeugsteuer > Allgemeine Informationen“."
+}

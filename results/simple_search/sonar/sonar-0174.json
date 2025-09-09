@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0174",
+  "run_at": "2025-09-04T19:08:42.892040Z",
+  "question_id": 174,
+  "question": "An welchem Tag der Kalenderwoche 23 im Jahr 2022 wurde auf der Marsstraße in Atlantis eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "Es gibt keine Marsstraße in Atlantis, daher liegen dazu keine Messdaten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In den Suchergebnissen gibt es keine Hinweise auf eine Geschwindigkeitsüberwachung auf der Marsstraße in Atlantis in der Kalenderwoche 23 des Jahres 2022. Die Datenquelle aus Essen listet Messbereiche der Geschwindigkeitsüberwachung für KW 23/2022 (06.06.2022 - 12.06.2022), nennt aber keine Straße namens Marsstraße in Atlantis[1]. \n\nDa Atlantis keine reale Stadt in Deutschland ist und in den Ergebnissen keine entsprechende Messung genannt wird, liegen keine Informationen zu einer Geschwindigkeitsüberwachung an diesem Ort und Zeitraum vor. \n\nFalls es sich um einen fiktiven oder nicht in den Daten erfassten Ort handelt, sind keine konkreten Angaben möglich.\n\n### Quellen\n- **[1]** opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8 (opendata.essen.de) – https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022/resource/2ae4c9e2-61aa-4e17-8eb8-9f83b03f36f8\n- –\n- www.zeit.de/news/2023-04/22/blitzermarathon-13-000-geschwindigkeitsverstoesse-erfasst (www.zeit.de) – https://www.zeit.de/news/2023-04/22/blitzermarathon-13-000-geschwindigkeitsverstoesse-erfasst\n- opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2023/resource/444616a7-f558-4fca-b122-a63d212742cd (opendata.essen.de) – https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2023/resource/444616a7-f558-4fca-b122-a63d212742cd"
+}

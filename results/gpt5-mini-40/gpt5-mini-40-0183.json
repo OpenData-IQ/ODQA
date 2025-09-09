@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0183",
+  "run_at": "2025-09-06T16:58:34.921729Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Gemeinde Titz gab es im Jahr 2015 insgesamt 55 Eheschließungen.\n\nQuelle: Open Data der Gemeinde Titz — \"Änderung Familienstände 2015\" (EWO_990_sim_OpDat172-2015_20161111.csv)."
+}

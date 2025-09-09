@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0033",
+  "run_at": "2025-09-04T17:08:00.087419Z",
+  "question_id": 33,
+  "question": "Ist die Anzahl der Zoobesuche in Dortmund 1990 bis 2022 gestiegen oder gesunken?",
+  "answer": "gesunken",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "1990 besuchten 707.656 Menschen den Dortmunder Zoo, 2022 waren es 460.803",
+  "llm_final": "Die Besucherzahlen des Zoos Dortmund sind zwischen 1990 und 2022 insgesamt gesunken. Im Jahr 1990 verzeichnete der Zoo 707.682 Besucher. ([leszoosdanslemonde.com](https://www.leszoosdanslemonde.com/documentation.zoo-dortmund.php?utm_source=openai)) Bis 2011 fiel die Zahl auf 414.000 Besucher. ([waz.de](https://www.waz.de/lokales/dortmund/article401705962/tierisch-viel-arbeit-im-zoo-dortmund.html?utm_source=openai)) In den Jahren 2011 bis 2014 lag die durchschnittliche Besucherzahl bei etwa 440.000 pro Jahr. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Zoo_Dortmund?utm_source=openai)) Für die Jahre 2015 und 2017 wurden 465.751 bzw. 445.694 Besucher verzeichnet. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Zoo_Dortmund?utm_source=openai)) Aktuellere Daten bis 2022 sind in den verfügbaren Quellen nicht enthalten. \n\n### Quellen\n- **[1]** Les Zoos dans le Monde - Zoo Dortmund (www.leszoosdanslemonde.com) – https://www.leszoosdanslemonde.com/documentation.zoo-dortmund.php?utm_source=openai\n- **[2]** Tierisch viel Arbeit im Zoo Dortmund (www.waz.de) – https://www.waz.de/lokales/dortmund/article401705962/tierisch-viel-arbeit-im-zoo-dortmund.html?utm_source=openai\n- **[3]** Zoo Dortmund (de.wikipedia.org) – https://de.wikipedia.org/wiki/Zoo_Dortmund?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0122",
+  "run_at": "2025-09-04T17:37:55.088163Z",
+  "question_id": 122,
+  "question": "Wie viele Radfahrer wurden am Mannesmannufer in Düsseldorf im Jahr 2014 insgesamt gezählt?",
+  "answer": "Die genaue Gesamtzahl der gezählten Radfahrer im Jahr 2014 am Mannesmannufer betrug insgesamt 988143.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im ersten Halbjahr 2014 wurden an der Dauerzählstelle am Mannesmannufer in Düsseldorf 493.012 Radfahrer gezählt. ([wz.de](https://www.wz.de/nrw/duesseldorf/berufsverkehr-immer-mehr-duesseldorfer-steigen-aufs-rad_aid-28157295?utm_source=openai)) Für das gesamte Jahr 2014 liegen keine spezifischen Zahlen vor. Allerdings wurde die Zählstelle im Herbst 2014 mit einer Informationstafel ausgestattet, die Tages- und Jahreswerte anzeigt. ([govdata.de](https://www.govdata.de/suche/daten/jahresubersicht-der-dauerzahlstellen-radverkehr-seit-2012?utm_source=openai)) \n\n### Quellen\n- **[1]** Düsseldorf: Berufsverkehr: Immer mehr Düsseldorfer steigen aufs Rad (www.wz.de) – https://www.wz.de/nrw/duesseldorf/berufsverkehr-immer-mehr-duesseldorfer-steigen-aufs-rad_aid-28157295?utm_source=openai\n- **[2]** Jahresübersicht der Dauerzählstellen Radverkehr seit 2012 - GovData (www.govdata.de) – https://www.govdata.de/suche/daten/jahresubersicht-der-dauerzahlstellen-radverkehr-seit-2012?utm_source=openai"
+}

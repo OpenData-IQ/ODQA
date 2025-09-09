@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0199",
+  "run_at": "2025-09-04T18:33:11.676094Z",
+  "question_id": 199,
+  "question": "Welcher männliche Vorname wurde im Jahr 2020 in Brühl am häufigsten vergeben?",
+  "answer": "Elias, Luca",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadt Brühl veröffentlicht jährlich die vergebenen Vornamen, einschließlich der Anzahl der Nennungen, auf dem Open Data Portal der kdvz Rhein-Erft-Rur. Für das Jahr 2020 sind diese Daten verfügbar und können unter folgendem Link eingesehen werden: ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl?utm_source=openai))\n\nIn Nordrhein-Westfalen war \"Noah\" im Jahr 2020 der am häufigsten vergebene Jungenname. ([beliebte-vornamen.de](https://www.beliebte-vornamen.de/jahrgang/j2020/nw2020?utm_source=openai))\n\nFür detaillierte Informationen zu den beliebtesten Jungennamen in Brühl im Jahr 2020 empfiehlt es sich, die oben genannten Datenquellen zu konsultieren. \n\n### Quellen\n- **[1]** D01 Vornamen eines Geburtsjahres Stadt Brühl | Offene Daten kdvz Rhein-Erft-Rur (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-stadt-br%C3%BChl?utm_source=openai\n- **[2]** Nordrhein-Westfalens beliebteste Babynamen 2020 (www.beliebte-vornamen.de) – https://www.beliebte-vornamen.de/jahrgang/j2020/nw2020?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0026",
+  "run_at": "2025-09-04T17:05:47.562843Z",
+  "question_id": 26,
+  "question": "Gibt es 2024 mehr Menschen türkischer Staatbürgerschaft in Frankfurt oder weniger als in 2018?",
+  "answer": "weniger",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Anzahl der Einwohnerinnen und Einwohner mit türkischer Staatsangehörigkeit in Frankfurt am Main hat von 2018 bis 2024 leicht zugenommen. Ende 2018 waren 24.452 Personen mit türkischer Staatsangehörigkeit in Frankfurt gemeldet. Bis Ende 2024 stieg diese Zahl auf 24.344 Personen an. ([statistikportal.frankfurt.de](https://statistikportal.frankfurt.de/statistik_aktuell/2025/FSA_2025_05_AuslaenderEnde2024.html?utm_source=openai))\n\nDieser leichte Anstieg ist bemerkenswert, insbesondere vor dem Hintergrund, dass die Gesamtzahl der Einbürgerungen türkischer Staatsangehöriger in Deutschland im Jahr 2024 deutlich zugenommen hat. Laut dem Statistischen Bundesamt wurden 2024 insgesamt 22.525 Personen mit türkischer Staatsangehörigkeit eingebürgert, was einem Anstieg von 110 % gegenüber dem Vorjahr entspricht. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_204_125.html?utm_source=openai))\n\nTrotz dieser erhöhten Einbürgerungszahlen blieb die Anzahl der in Frankfurt lebenden Personen mit türkischer Staatsangehörigkeit stabil, was auf eine kontinuierliche Zuwanderung aus der Türkei oder einen geringeren Anteil an Einbürgerungen in Frankfurt im Vergleich zum Bundesdurchschnitt hindeuten könnte. \n\n### Quellen\n- **[1]** Vielfalt in Zahlen: 178 Nationen sind in Frankfurt zuhause (statistikportal.frankfurt.de) – https://statistikportal.frankfurt.de/statistik_aktuell/2025/FSA_2025_05_AuslaenderEnde2024.html?utm_source=openai\n- **[2]** 291 955 Einbürgerungen im Jahr 2024 - Statistisches Bundesamt (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_204_125.html?utm_source=openai"
+}

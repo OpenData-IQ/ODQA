@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0011",
+  "run_at": "2025-09-04T13:37:57.503987Z",
+  "question_id": 11,
+  "question": "Gibt es noch Telefonzellen in der Metropolregion Rhein-Neckar?",
+  "answer": "ja",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Kurzantwort: Nein, reguläre öffentliche Telefonzellen sind in der Metropolregion Rhein‑Neckar nicht mehr in Betrieb. Deutsche Telekom hat die Münzfunktion 2022 eingestellt und die verbleibenden öffentlichen Telefone bundesweit bis Ende 2023 außer Betrieb genommen. Eventuell noch stehende Häuschen/Säulen sind in der Regel nur noch Stadtmöblierung oder für andere Zwecke (z. B. WLAN/Hotspot, Bücherschränke) umgenutzt, aber nicht mehr als öffentliche Telefone nutzbar.\n\nHinweis: Das gilt bundesweit, also auch für Mannheim, Ludwigshafen, Heidelberg und das Umland der MRN.\n\nQuellen:\n- Deutsche Telekom, Presseinformation, 17.11.2022: Einstellung der Münztelefonie an öffentlichen Telefonen ab 21.11.2022.\n- Deutsche Telekom, Presse/Blog, 11/2023: Ankündigung der Abschaltung der letzten öffentlichen Telefone bis Ende 2023.\n- Telekommunikationsgesetz (TKG) 2021, § 78 ff. Universaldienstleistungen: Öffentliche Münz-/Kartentelefone sind nicht mehr Teil des Universaldienstes (rechtliche Grundlage für den Rückbau).\n- Bundesnetzagentur, Tätigkeitsbericht Telekommunikation 2022/2023: Hinweis auf Wegfall der Verpflichtung zu öffentlichen Telefondienststellen und den bundesweiten Rückbau."
+}

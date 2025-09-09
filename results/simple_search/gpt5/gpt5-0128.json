@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0128",
+  "run_at": "2025-09-04T15:22:59.161938Z",
+  "question_id": 128,
+  "question": "An welcher Kreuzung befindet sich die Lichtzeichenanlage mit der Nummer 1205 in Düsseldorf?",
+  "answer": "Fischerstr. / Venloerst. / Sittarderstr./ Cordobastr.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Tut mir leid — die konkrete Zuordnung der LSA‑Nummer 1205 zur Kreuzung habe ich lokal nicht vorliegen. Sie ist jedoch im offenen Datensatz der Landeshauptstadt Düsseldorf enthalten:\n\nQuelle:\n- Open Data Portal Düsseldorf – Datensatz „Lichtsignalanlagen (LSA)“ (enthält u. a. Anlagen‑Nr., Kreuzungs-/Knotenbezeichnung, Straßen, Koordinaten). Zu finden unter: https://opendata.duesseldorf.de/ (Datensatzname: „Lichtsignalanlagen (LSA)“; im CSV/GeoJSON nach Anlagen‑Nr. = 1205 filtern)\n\nHinweis: Im Ressourcendownload (CSV/GeoJSON) gibt es in der Regel Felder wie „Anlagen-Nr.“ und „Knoten/Kreuzung“ bzw. Straßen-/Querstraßenangaben. Durch Filtern auf 1205 erhalten Sie die gesuchte Kreuzungsbezeichnung."
+}

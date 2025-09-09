@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0053",
+  "run_at": "2025-09-04T14:17:06.716263Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver  PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Kurzantwort:\nAls rauchloses Treibladungspulver (UN 0161 bzw. UN 0509, Kl. 1, VG C) muss PCL 2595 in staub- und feuchtigkeitsdichten Innenverpackungen verpackt werden. Zulässig sind hermetisch dicht verschlossene Kunststoffbeutel oder dicht schließende Innengefäße aus Metall oder Kunststoff. Die Innenverpackung muss chemisch verträglich sein, ein Austreten von Pulver verhindern, gegen unbeabsichtigtes Öffnen gesichert sein und so beschaffen/ausgeführt werden, dass keine gefährliche elektrostatische Aufladung entsteht. Die so verpackten Innengebinde werden anschließend in ein zugelassenes Außenpackmittel (gemäß P112) eingesetzt und darin fixiert.\n\nQuellen:\n- ADR (Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße), Ausgabe 2025:\n  - 3.2.1 Tabelle A: Einträge für UN 0161/UN 0509 „Powder, smokeless“ (Klasse 1, Verträglichkeitsgruppe C)\n  - 4.1.1 Allgemeine Vorschriften für die Verwendung von Verpackungen (u. a. Dichtheit, gesicherte Verschlüsse, Stoffverträglichkeit, Vermeidung gefährlicher elektrostatischer Aufladung)\n  - 4.1.4.1 Verpackungsanweisung P112 (für Explosivstoffe der Klasse 1, u. a. zulässige Innenverpackungen: metallische oder Kunststoff-Innengefäße bzw. Kunststoffbeutel, jeweils staub- und feuchtigkeitsdicht/„hermetisch“ zu verschließen)"
+}

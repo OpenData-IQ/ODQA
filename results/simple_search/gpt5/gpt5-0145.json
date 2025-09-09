@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0145",
+  "run_at": "2025-09-04T15:38:04.240027Z",
+  "question_id": 145,
+  "question": "Kann ich irgendwo nachschauen, wie viele Straßenverkehrsunfälle es in Dresden pro Jahr gibt?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_allgemein_1995ff_dresden",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die Anzahl der Straßenverkehrsunfälle in Dresden ab 1995 jährlich ausweist.",
+  "llm_final": "Ja. Offizielle Stellen veröffentlichen die Zahlen jährlich; für Dresden eignen sich besonders diese Quellen:\n\n- Unfallatlas (Statistische Ämter des Bundes und der Länder)\n  - Interaktive Karte mit allen polizeilich erfassten Unfällen mit Personenschaden (kein reiner Sachschaden), nach Jahr filterbar und auf die Stadt Dresden einschränkbar; Download möglich.\n  - https://unfallatlas.statistikportal.de\n  - Hinweis: Deckt i. d. R. die Jahre ab 2016 bis zum jüngsten verfügbaren Jahr ab.\n\n- Regionaldatenbank Deutschland (GENESIS‑Online, Statistisches Bundesamt)\n  - Tabellen zum Themenbereich „Verkehrsunfälle“ (Kennziffernbereich 46241), u. a. Gesamtzahl der Unfälle, Unfälle mit Personenschaden, Getötete/Verletzte. Region auf „Dresden, Kreisfreie Stadt“ setzen und Jahr wählen.\n  - https://www-genesis.destatis.de/regional bzw. https://www.regionalstatistik.de\n\n- Statistisches Landesamt des Freistaates Sachsen\n  - Jährlicher Statistischer Bericht „Unfälle im Straßenverkehr im Freistaat Sachsen“ (Reihe B VII 2 – j) mit Tabellen nach Kreis/Kreisfreier Stadt, darunter Dresden, und Zeitreihen.\n  - https://www.statistik.sachsen.de (Rubrik Veröffentlichungen/Statistische Berichte → Verkehr)\n\n- Landeshauptstadt Dresden – Statistik und Jahrbuch\n  - Statistisches Jahrbuch der Stadt (Kapitel Verkehr) mit Kennzahlen zu Straßenverkehrsunfällen in Dresden nach Jahr.\n  - https://www.dresden.de/de/leben/stadtportrait/zahlen-und-fakten/statistik/statistisches-jahrbuch.php\n\nWichtig: „Straßenverkehrsunfälle insgesamt“ (inkl. Sachschaden) finden Sie in den Tabellen von GENESIS bzw. im sächsischen Statistischen Bericht; der Unfallatlas zeigt nur Unfälle mit Personenschaden."
+}

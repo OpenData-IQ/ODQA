@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0142",
+  "run_at": "2025-09-06T14:14:06.859838Z",
+  "question_id": 142,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018?",
+  "answer": "https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die gesamte Bevölkerungsbewegung im Jahr 2018 für die verschiedenen Stadtbereiche von Rostock enthält. Er umfasst unter anderem die absolute und relative Bestandsveränderung sowie die Veränderung je 1.000 Einwohnerinnen und Einwohner.",
+  "llm_final": "Ja. Die Stadt Rostock stellt umfangreiche Daten zur Bevölkerungsentwicklung 2018 nach Stadtbereichen bereit (Datensatz \"Bevölkerungsstruktur 2018\" auf opendata-hro.de).\n\nWichtige CSV-Dateien (mit direkten Download-Links)\n- Gesamte Bevölkerungsbewegung 2018 (Bestandsveränderung gegenüber Vorjahr):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_bewegung_gesamt.csv\n- Räumliche Bevölkerungsbewegung 2018 (Zuzüge, Wegzüge, Wanderungssaldo):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_bewegung_raeumlich.csv\n- Natürliche Bevölkerungsbewegung 2018 (Geburten, Sterbefälle):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_bewegung_natuerlich.csv\n- Bevölkerung insgesamt (Einwohnerzahl, Dichte):  \n  https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/bevoelkerungsstruktur_2018_insgesamt.csv\n- Bevölkerung nach Alter, Geschlecht, Staatsangehörigkeit, Haushalts- und Familienstand:  \n  jeweils unter https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2018/ mit den Dateinamen, die oben beschrieben sind.\n\nQuelle / Metadatenseite: https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd\n\nMöchten Sie, dass ich eine der CSV-Dateien herunterlade und für Sie die Werte pro Stadtbereich zusammenfasse (z. B. Top-/Flop-Stadtbereiche nach Einwohnerzuwachs, Migration oder absolute Bestandsveränderung)?"
+}

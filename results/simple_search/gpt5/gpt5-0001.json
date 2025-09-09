@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0001",
+  "run_at": "2025-09-04T10:54:04.472121Z",
+  "question_id": 1,
+  "question": "Wo finde ich Daten zu Spielgeräten auf Dortmunder Spielplätzen?",
+  "answer": "https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Kurzantwort: Auf dem Open-Data-Portal und im Geoportal der Stadt Dortmund. Der Datensatz „Spielplätze“ enthält pro Standort die Ausstattung/Spielgeräte.\n\nQuellen und Zugriff:\n- Offene Daten Dortmund – Datensatz „Spielplätze“: Enthält u. a. Name/Adresse/Bezirk sowie eine Spalte zur Ausstattung/Spielgeräte (z. B. Schaukel, Rutsche, Klettergerüst). Ressourcen i. d. R. als CSV, GeoJSON, Shapefile sowie über WFS verfügbar.\n  Quelle: https://opendata.dortmund.de (Datensatz: „Spielplätze“)\n- Geoportal Dortmund – Thema/Layer „Spielplätze“ bzw. „Spielplatzkataster“: Interaktive Karte; in den Objektattributen ist die Ausstattung je Spielplatz aufgeführt. Layer auch als WMS/WFS nutzbar.\n  Quelle: https://geoportal.dortmund.de\n- Spiegel auf Landes-/Bundesportalen: Der Dortmunder Datensatz „Spielplätze“ ist häufig auch auf Open.NRW bzw. GovData gespiegelt, falls Sie von dort ernten oder föderiert suchen.\n  Quellen: https://open.nrw/ und https://www.govdata.de (Suche nach „Spielplätze Dortmund“)\n\nHinweis zur Nutzung:\n- Die gesuchten Spielgeräte stehen meist in einem Attribut wie „Ausstattung“, „Spielgeräte“ oder „Angebote“ im Datensatz „Spielplätze“. Für maschinellen Zugriff können Sie die Ressourcen auf der Datensatzseite als CSV/GeoJSON laden oder den WFS-Endpunkt verwenden (verlinkt in den Ressourcen des Datensatzes)."
+}

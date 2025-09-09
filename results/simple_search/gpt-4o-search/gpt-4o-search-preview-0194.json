@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0194",
+  "run_at": "2025-09-04T18:32:36.943833Z",
+  "question_id": 194,
+  "question": "An wie vielen Tagen im Jahr 2020 lag die minimale Temperatur (Tmin) an der Wetterstation der Universität Düsseldorf unter 0 Grad Celsius?",
+  "answer": "An 19 Tagen lag die minimale Temperatur unter 0 Grad Celsius",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2020 wurden an der Wetterstation der Universität Düsseldorf 34 Frosttage verzeichnet, an denen die minimale Temperatur unter 0 °C lag. ([wetterkontor.de](https://www.wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=50&utm_source=openai)) \n\n### Quellen\n- **[1]** Rückblick für Düsseldorf - WetterKontor (www.wetterkontor.de) – https://www.wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=50&utm_source=openai"
+}

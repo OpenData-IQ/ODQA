@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0098",
+  "run_at": "2025-09-04T17:23:03.479698Z",
+  "question_id": 98,
+  "question": "War das Budget des \"Bundesministeriums für Bildung und Forschung\" für Betriebliche Weiterbildung im Jahr 2015 oder 2016 höher?",
+  "answer": "2016 war es höher",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2015: 11,1 Milliarden Euro und 2016: 11,2 Milliarden Euro",
+  "llm_final": "Die spezifischen Ausgaben des Bundesministeriums für Bildung und Forschung (BMBF) für betriebliche Weiterbildung in den Jahren 2015 und 2016 sind in den verfügbaren Quellen nicht detailliert ausgewiesen. Allerdings zeigen die Gesamtbudgets des BMBF für Bildung und Forschung in diesen Jahren einen Anstieg:\n\n- **2015**: Das BMBF-Budget betrug 15,3 Milliarden Euro.\n- **2016**: Das Budget stieg auf 16,4 Milliarden Euro an. ([webarchiv.bundestag.de](https://webarchiv.bundestag.de/archive/2016/0318/bundestag/ausschuesse18/a18/kw37_ak_bildung/385540.html?utm_source=openai))\n\nDieser Anstieg deutet darauf hin, dass die Mittel für verschiedene Bildungsbereiche, einschließlich der betrieblichen Weiterbildung, im Jahr 2016 höher gewesen sein könnten als im Jahr 2015. Für genaue Zahlen zu den Ausgaben für betriebliche Weiterbildung wäre jedoch eine detailliertere Aufschlüsselung des BMBF-Haushalts erforderlich. \n\n### Quellen\n- **[1]** Deutscher Bundestag - Bildung und Forschung: Eine Milliarde Euro mehr für Bildungsetat (webarchiv.bundestag.de) – https://webarchiv.bundestag.de/archive/2016/0318/bundestag/ausschuesse18/a18/kw37_ak_bildung/385540.html?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0035",
+  "run_at": "2025-09-04T13:57:54.865787Z",
+  "question_id": 35,
+  "question": "An welchen Tagen im Jahr 2024 hat die Smarte Bank - Klimastation Werner Hellweg 519 einen UV-Index von 10 oder mehr gemessen?",
+  "answer": "21.06.24, 12.07.24, 16.07.24, 23.07.24",
+  "question_type": "set",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Keine. Die Smarte Bank – Klimastation „Werner Hellweg 519“ hat im Jahr 2024 keinen UV‑Index von 10 oder höher gemessen.\n\nQuellen:\n- Stadt Bochum – Open-Data-Portal: Datensatz „Smarte Bank – Klimastationen: Messdaten“, Station „Werner Hellweg 519“, Jahr 2024 (Zeitreihe UV‑Index).\n- Deutscher Wetterdienst (DWD): UV‑Index in Deutschland – Beobachtungen/Maxima 2024 in NRW (Vergleich: auf der geographischen Breite Bochums wurden 2024 keine UVI‑Werte ≥10 registriert)."
+}

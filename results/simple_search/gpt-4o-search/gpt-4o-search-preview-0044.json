@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0044",
+  "run_at": "2025-09-04T17:10:27.257551Z",
+  "question_id": 44,
+  "question": "Was ist der Durchschnitt der im Beruf Kanalbauer in den Jahren 2022 und 2023 abgeschlossenen Ausbildungsverträge?",
+  "answer": "112",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Für den Ausbildungsberuf Kanalbauer/Kanalbauerin wurden im Jahr 2021 insgesamt 48 Ausbildungsverträge abgeschlossen. Im Vergleich zum Vorjahr 2020 bedeutet dies einen Rückgang um 5,9 %. Von den Auszubildenden waren 47 männlich und 1 weiblich. ([pa-bbne.de](https://pa-bbne.de/bb/kanalbauer-in/?utm_source=openai))\n\nAktuelle Daten für die Jahre 2022 und 2023 liegen nicht vor. Allgemein ist jedoch festzustellen, dass die Zahl der neu abgeschlossenen Ausbildungsverträge in der dualen Berufsausbildung in Deutschland im Jahr 2023 um 2,1 % auf rund 479.900 gestiegen ist. Im Handwerksbereich, zu dem der Beruf des Kanalbauers gehört, gab es 2023 einen Anstieg um 1,9 % auf 129.800 neue Ausbildungsverträge. ([presseportal.de](https://www.presseportal.de/pm/32102/5755545?utm_source=openai))\n\nObwohl spezifische Zahlen für den Beruf des Kanalbauers in den Jahren 2022 und 2023 fehlen, deutet der allgemeine Trend auf eine leichte Zunahme der Ausbildungsverträge im Handwerksbereich hin. \n\n### Quellen\n- **[1]** Kanalbauer/Kanalbauerin | PA-BBNE (pa-bbne.de) – https://pa-bbne.de/bb/kanalbauer-in/?utm_source=openai\n- **[2]** Duale Berufsausbildung: Zahl neuer Ausbildungsverträge 2023 um 2,1 % gestiegen | Presseportal (www.presseportal.de) – https://www.presseportal.de/pm/32102/5755545?utm_source=openai"
+}

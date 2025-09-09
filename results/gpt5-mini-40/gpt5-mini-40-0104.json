@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0104",
+  "run_at": "2025-09-06T13:13:35.287764Z",
+  "question_id": 104,
+  "question": "In welchem Monat wurde 2025 bisher die meiste Margarine hergestellt?",
+  "answer": "im März",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "26.028t Margarine",
+  "llm_final": "März 2025 — 26,028 (Angabe in 1.000 t) → 26,028 × 1.000 t = 26.028 t.  \nQuelle: Monatsbericht \"Öle, Fette und Hülsenfrüchte\" (BLE), https://open-data.ble.de/dataset/84b3b1da-c1bb-46c7-affe-dde1d492aeb8"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0147",
+  "run_at": "2025-09-04T18:24:13.545557Z",
+  "question_id": 147,
+  "question": "Wie viele Straßen warem am 11.08.2024 (KW 32) insgesamt als Messbereiche für die Geschwindigkeitsüberwachung vorgesehen?",
+  "answer": "Insgesamt 6 Straßen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Unter den 6 Straßen ist die Bottroper Straße als Duplikat aufgeführt. Alternativ können auch 5 Straßen in der Antwort als richtig gelten.",
+  "llm_final": "Am 11. August 2024 (Kalenderwoche 32) fanden europaweite Geschwindigkeitskontrollen im Rahmen der ROADPOL-Initiative statt. ([muenster.polizei.nrw](https://muenster.polizei.nrw/presse/europaweite-kontrollen-zur-geschwindigkeitsueberwachung-vom-5-bis-11-august-2024?utm_source=openai)) Die genaue Anzahl der Straßen, die an diesem Tag als Messbereiche für die Geschwindigkeitsüberwachung vorgesehen waren, variiert je nach Stadt und Region. Beispielsweise veröffentlicht die Stadt Essen regelmäßig Listen der geplanten Messbereiche für die Geschwindigkeitsüberwachung. Für die Kalenderwoche 33 (12.08.2024 - 18.08.2024) sind solche Daten verfügbar. ([opendata.essen.de](https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/eb0307fd-a3de-435c-b195-b5f122166d03?utm_source=openai)) Für den 11. August 2024 liegen jedoch keine spezifischen Daten vor. \n\n### Quellen\n- **[1]** Europaweite Kontrollen zur Geschwindigkeitsüberwachung vom 5. bis 11. August 2024 (muenster.polizei.nrw) – https://muenster.polizei.nrw/presse/europaweite-kontrollen-zur-geschwindigkeitsueberwachung-vom-5-bis-11-august-2024?utm_source=openai\n- **[2]** Messbereiche GSÜ 2024 KW33 - Geschwindigkeitsüberwachungen 2024 | Offene Daten Essen (opendata.essen.de) – https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/eb0307fd-a3de-435c-b195-b5f122166d03?utm_source=openai"
+}

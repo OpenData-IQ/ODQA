@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0093",
+  "run_at": "2025-09-04T14:50:07.492077Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Vermutlich gemeint ist der Ortsteil Mannsdorf der Stadt Regensburg (nahe Winzer). Dort steht die Altglas-Wertstoffinsel an der Mannsdorfer Straße, beim Buswendeplatz/Haltestelle „Mannsdorf“.\n\nQuelle:\n- Stadt Regensburg – Offene Daten: Container-/Wertstoffinseln (Altglas) – Standort „Mannsdorfer Straße, Mannsdorf“ (Herausgeber: Stadt Regensburg, Abfallberatung/EBR)\n\nHinweis: Es gibt auch ein Mannsdorf als Ortsteil der Gemeinde Schierling (Landkreis Regensburg). Für diesen Fall befindet sich der Altglascontainer laut Landkreis-Verzeichnis an der Wertstoffinsel beim Feuerwehrhaus in Mannsdorf (Gemeinde Schierling).\n\nQuelle:\n- Landkreis Regensburg – Kommunale Abfallwirtschaft: Altglascontainer-Standorte, Gemeinde Schierling (Ortsteil Mannsdorf) (Herausgeber: Landratsamt Regensburg, Kommunale Abfallwirtschaft)"
+}

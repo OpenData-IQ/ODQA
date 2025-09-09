@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0007",
+  "run_at": "2025-09-04T10:59:17.202202Z",
+  "question_id": 7,
+  "question": "Wie viele Querbeet Gemeinschaftsgärten gibt es in Dortmund?",
+  "answer": "57",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "34\n\nQuellen:\n- Stadt Dortmund – Projektseite „Querbeet – Gemeinschaftsgärten in Dortmund“ (mit Übersicht und Karte), Stand 2024: https://www.dortmund.de/leben_in_dortmund/umwelt/umweltamt/projekte/querbeet/\n- Geoportal/Offene Daten der Stadt Dortmund – Datensatz/Karte „Gemeinschaftsgärten (Querbeet)“ (Einträge = Anzahl der Gärten), Stand 2024: https://opendata.dortmund.de/ (Suche nach „Gemeinschaftsgärten (Querbeet)“ bzw. Karte im Geoportal)"
+}

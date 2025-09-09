@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0039",
+  "run_at": "2025-09-04T18:53:01.616322Z",
+  "question_id": 39,
+  "question": "Was ist der häufigste Anfangsbuchstabe von Stadtteilen in Köln?",
+  "answer": "B",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Kölner Stadtteile mit B: Bayenthal, Bickendorf, Bilderstöckchen, Blumenberg, Bocklemünd/Mengenich, Braunsfeld, Brück, Buchforst, Buchheim",
+  "llm_final": "Der häufigste Anfangsbuchstabe von Stadtteilen in Köln ist der Buchstabe **\"L\"**.\n\nDies lässt sich aus der Liste der Stadtteile im Bezirk Porz ableiten, die eine Vielzahl von Stadtteilen mit \"L\" am Anfang enthält, darunter: Langel, Liburd, Lind, Lindenthal (im Bezirk Lindenthal), und weitere Stadtteile in Köln beginnen ebenfalls mit \"L\" (z.B. Lövenich, Longerich). Insgesamt gibt es viele Stadtteile mit \"L\" als Anfangsbuchstabe, was diesen Buchstaben zum häufigsten macht[5].\n\nZur Einordnung: Köln hat insgesamt 86 Stadtteile, verteilt auf verschiedene Bezirke, und einige Bezirke wie Porz zeigen eine Häufung von Stadtteilen mit \"L\" am Anfang[4][5]. Andere häufige Anfangsbuchstaben sind \"E\" (Ehrenfeld, Eil, Elsdorf, Ensen) und \"W\" (Weidenpesch, Wahn, Wahnheide, Westhoven), aber \"L\" scheint am häufigsten vertreten zu sein[5].\n\n### Quellen\n- **[1]** koeln.mitvergnuegen.com/koelnhaktnach/telefonzelle-deutzer-rheinufer (koeln.mitvergnuegen.com) – https://koeln.mitvergnuegen.com/koelnhaktnach/telefonzelle-deutzer-rheinufer\n- **[2]** www.ogts-kgs-lebensbaumweg.de/images/blog/Spiele_drinnen_und_drau%C3%9Fen/Buchstabengitter_Koelner_Stadtteile.pdf (www.ogts-kgs-lebensbaumweg.de) – https://www.ogts-kgs-lebensbaumweg.de/images/blog/Spiele_drinnen_und_drau%C3%9Fen/Buchstabengitter_Koelner_Stadtteile.pdf\n- –\n- timeleft.com/de/blog/2025/06/16/koln-stadtteile-im-uberblick-welcher-passt-zu-deinem-leben/ (timeleft.com) – https://timeleft.com/de/blog/2025/06/16/koln-stadtteile-im-uberblick-welcher-passt-zu-deinem-leben/\n- www.stadt-koeln.de/leben-in-koeln/stadtbezirke/index.html (www.stadt-koeln.de) – https://www.stadt-koeln.de/leben-in-koeln/stadtbezirke/index.html\n- www.th-koeln.de/mam/downloads/deutsch/internationales/incomings/koln_uberblick_stadtbezirke.pdf (www.th-koeln.de) – https://www.th-koeln.de/mam/downloads/deutsch/internationales/incomings/koln_uberblick_stadtbezirke.pdf"
+}

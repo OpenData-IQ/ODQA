@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0139",
+  "run_at": "2025-09-04T15:31:42.090882Z",
+  "question_id": 139,
+  "question": "Wo finde ich die Quantilgrenzen der Boxplots für die 6-Wochen-Vorhersage des Pegel Kaub?",
+  "answer": "https://gdk.gdi-de.org/inspire/srv/eng/xml_iso19139?uuid=3c871590-c5db-440f-a34d-3a675b8cec39",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Kurzantwort:\n- In ELWIS direkt auf der 6‑Wochen‑Vorhersage-Seite für den Pegel Kaub: Dort gibt es unter/ neben der Grafik einen Link bzw. ein Info‑Symbol „Erläuterungen/Legende“. Darin sind die Quantilgrenzen der Boxplots beschrieben.\n- In der BfG‑Dokumentation zur „6‑Wochen‑Vorhersage Pegel Kaub“ (Methodik/Produktbeschreibung). Dort ist die Darstellung der Boxplots inkl. Quantile erläutert.\n\nWas steht dort (Inhalt):\n- Box: Interquartilsabstand (25‑ und 75‑Perzentil)\n- Mittellinie: Median (50‑Perzentil)\n- „Whisker“: 5‑ und 95‑Perzentil\n\nQuellen:\n- ELWIS – 6‑Wochen‑Vorhersage Pegel Kaub, Erläuterungen/Legende (Elektronischer Wasserstraßen‑Informationsservice der WSV): Navigation in ELWIS: Wasserstände -> Vorhersagen -> Rhein -> 6‑Wochen‑Vorhersage Pegel Kaub -> „Erläuterungen/Legende“.\n- Bundesanstalt für Gewässerkunde (BfG): Produkt-/Methodenbeschreibung „6‑Wochen‑Vorhersage am Pegel Kaub“, Abschnitt zur grafischen Darstellung (Boxplots)."
+}

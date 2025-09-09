@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0035",
+  "run_at": "2025-09-06T16:20:17.073327Z",
+  "question_id": 35,
+  "question": "An welchen Tagen im Jahr 2024 hat die Smarte Bank - Klimastation Werner Hellweg 519 einen UV-Index von 10 oder mehr gemessen?",
+  "answer": "21.06.24, 12.07.24, 16.07.24, 23.07.24",
+  "question_type": "set",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT"
+}

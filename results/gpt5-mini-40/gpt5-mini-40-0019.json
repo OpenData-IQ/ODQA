@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0019",
+  "run_at": "2025-09-06T09:46:22.788177Z",
+  "question_id": 19,
+  "question": "Wie lang ist die Badestelle am Vollstedter See?",
+  "answer": "30m",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Die Badestelle am Vollstedter See ist 30 m lang (laut den Badegewässer‑Stammdaten).\n\nQuelle: Open Data Schleswig‑Holstein, „Badegewässer Stammdaten“ (v_badegewaesser_odata.csv)."
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0200",
+  "run_at": "2025-09-04T18:33:16.897261Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Bei der Bundestagswahl 2017 erzielte die CDU in Bedburg einen Stimmenanteil von rund 35 %. ([radioerft.de](https://www.radioerft.de/artikel/bundestagswahl-so-hat-der-rhein-erft-kreis-gewaehlt-2251217.html?utm_source=openai)) Detaillierte Ergebnisse auf Stadtteilebene sind in den verfügbaren Quellen nicht angegeben. \n\n### Quellen\n- **[1]** Bundestagswahl: So hat der Rhein-Erft-Kreis gewählt - Radio Erft (www.radioerft.de) – https://www.radioerft.de/artikel/bundestagswahl-so-hat-der-rhein-erft-kreis-gewaehlt-2251217.html?utm_source=openai"
+}

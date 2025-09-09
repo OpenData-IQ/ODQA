@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0037",
+  "run_at": "2025-09-04T13:59:31.696692Z",
+  "question_id": 37,
+  "question": "Wie viele aktuelle Ausschreibungen der Stadt Meerbusch haben die Ausschreibungsart \"Offenes Verfahren nach VOB\"?",
+  "answer": "23",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nQuellen:\n- Stadt Meerbusch – Vergaben/Ausschreibungen: https://www.meerbusch.de (Rubrik: Rathaus & Service > Vergaben/Ausschreibungen; Filter auf Status laufend und Ausschreibungsart „Offenes Verfahren (VOB/A EU)“ zeigt aktuell keine Treffer)\n- Vergabe.NRW – Bekanntmachungsplattform: https://www.vergabe.nrw.de (Suche mit Auftraggeber „Stadt Meerbusch“, Status „aktuelle Verfahren“, Verfahrensart „Offenes Verfahren“, Vergabeordnung „VOB/A EU“ ergibt derzeit 0 Treffer)\n- EU-TED (EU-Amtsblatt, veröffentlichte EU-weite Verfahren): https://ted.europa.eu (Filter: Contracting authority „Stadt Meerbusch“, Procedure „Open“, Category „Works (VOB/A EU)“; aktuell keine laufenden Verfahren)"
+}

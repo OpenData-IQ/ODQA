@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0047",
+  "run_at": "2025-09-06T11:18:26.308450Z",
+  "question_id": 47,
+  "question": "Gibt es Daten über die Mediennutzung älterer Menschen in Bremen?",
+  "answer": "https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Die Daten liegen zwar vor, aber die Fragen fehlen im Datensatz",
+  "llm_final": "Ja. Im Transparenzportal Bremen gibt es den Datensatz \"Mediennutzung ältere Menschen Bremen\".\n\n- Datensatzseite: https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de  \n- Direkter CSV-Download: https://www.transparenz.bremen.de/sixcms/media.php/bremen02.a.13.de/download/Mediennutzung_aeltere_Menschen_Bremen.csv\n\nSoll ich die CSV für Sie herunterladen und eine Auswertung machen (z. B. Zusammenfassung, Diagramme, Aufschlüsselung nach Altersgruppen oder Gerätetypen)? Wenn ja: welche Auswertungen interessieren Sie konkret?"
+}

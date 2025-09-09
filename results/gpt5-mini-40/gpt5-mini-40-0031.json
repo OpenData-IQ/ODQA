@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0031",
+  "run_at": "2025-09-06T10:12:05.540357Z",
+  "question_id": 31,
+  "question": "Wie lang ist der Rundweg im Alsterland?",
+  "answer": "13 Kilometer",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche, viele Geodaten",
+  "llm_final": "Der Rundweg „Im Alsterland“ ist 13 km lang.\n\nQuelle: Datensatz „Rundweg Im Alsterland“ (Norderstedt) — https://geoservice.norderstedt.de/geoserver/gru/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=gru:rundweg1&outputFormat=CSV"
+}

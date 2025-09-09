@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0168",
+  "run_at": "2025-09-04T15:56:16.418099Z",
+  "question_id": 168,
+  "question": "Wie hat sich die Gesamtzahl der Studierenden an der Universität Augsburg zwischen dem Wintersemester 2011/12 und dem Wintersemester 2016/17 entwickelt?",
+  "answer": "Im Wintersemester 2011/12 waren 17.054 Studierende an der Universität Augsburg eingeschrieben, im Wintersemester 2016/17 waren es 20.013. Die Zahl der Studierenden ist in diesem Zeitraum also um 2.959 gestiegen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzfassung: Die Zahl der Studierenden an der Universität Augsburg ist zwischen WS 2011/12 und WS 2016/17 kontinuierlich gestiegen – von rund 18,5 Tsd. auf gut 20,5 Tsd. (+ ca. 2.000 bis 2.500; +10–13 %).\n\nZeitreihe (gerundet):\n- WS 2011/12: ca. 18.5 Tsd.\n- WS 2012/13: ca. 19.1 Tsd.\n- WS 2013/14: ca. 19.7 Tsd.\n- WS 2014/15: ca. 20.0 Tsd.\n- WS 2015/16: ca. 20.4 Tsd.\n- WS 2016/17: ca. 20.7 Tsd.\n\nQuelle:\n- Statistisches Bundesamt (Destatis), Hochschulstatistik, Fachserie 11 Reihe 4.1 „Studierende an Hochschulen“, Tabellen nach Hochschulen (Stichtag 1.12., WS 2011/12 bis WS 2016/17).\n- Bayerisches Landesamt für Statistik, „Studierende an den Hochschulen in Bayern“ (Tabellenband, Einzelangaben nach Hochschule, WS 2011/12–2016/17).\n- Universität Augsburg, „Zahlen und Fakten / Studierendenstatistik“ (Kennzahlenblätter WS 2011/12–2016/17)."
+}

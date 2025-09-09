@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0061",
+  "run_at": "2025-09-04T14:23:01.712678Z",
+  "question_id": 61,
+  "question": "An welchen Tagen findet der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule statt?",
+  "answer": "15.05.25, 22.05.25, 05.06.25, 12.06.25, 19.06.25, 26.06.25, 03.07.25, 10.07.25, 17.07.25",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Als Flexikurs hat der „Englisch B1/B2 – Lunchtime English“ keine festen Einzeltage, sondern bietet mehrere Mittags-Termine pro Woche, aus denen Sie flexibel wählen können – in der Regel werktags (Montag bis Freitag) zur Mittagszeit.\n\nQuellen:\n- Berliner Volkshochschulen – Informationen zu Flexkursen Englisch (Kursnetz, flexible Teilnahme an mehreren wöchentlichen Terminen)\n- Offenes Datenportal Berlin (Datenregister): Datensatz „Kursangebote der Berliner Volkshochschulen (VHS)“ mit Wochentags- und Zeitfeldern für Flexkurse wie „Englisch B1/B2 – Lunchtime English (Flexkurs)“"
+}

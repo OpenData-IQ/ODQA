@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0152",
+  "run_at": "2025-09-04T15:43:14.341635Z",
+  "question_id": 152,
+  "question": "Welche Arten von Änderungen des Familienstands wurden im Jahr 2017 in der Gemeinde Hürtgenwald erfasst?",
+  "answer": "Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Eheschließung, Ehescheidung, Tod des Ehegatten, Tod des Lebenspartners",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2017 wurden in der Gemeinde Hürtgenwald die folgenden Arten von Änderungen des Familienstands statistisch erfasst:\n- Eheschließungen (Übergang zu verheiratet)\n- Ehescheidungen/Eheaufhebungen (Übergang zu geschieden)\n- Verwitwungen infolge Tod des Ehegatten\n- Begründungen eingetragener Lebenspartnerschaften\n- Aufhebungen/Auflösungen eingetragener Lebenspartnerschaften\n- Verwitwungen infolge Tod des Lebenspartners\n\nQuellen:\n- IT.NRW (Statistisches Landesamt NRW): Statistik der Bevölkerungsbewegung – Gemeindeergebnisse 2017, Kennziffer „Veränderung des Familienstands“ (Gemeinde Hürtgenwald, Kreis Düren).\n- Statistische Ämter des Bundes und der Länder (GENESIS-Online): Bevölkerungsfortschreibung – Veränderungen des Familienstands nach Gemeinden, Jahresergebnisse 2017."
+}

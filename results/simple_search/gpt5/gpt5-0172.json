@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0172",
+  "run_at": "2025-09-04T16:00:05.741598Z",
+  "question_id": 172,
+  "question": "Wie viele Briefwahlbezirke gab es bei der Landtagswahl 2021 in der Stadt Paris?",
+  "answer": "In Paris gab es keine Briefwahlbezirke für die Landtagswahl 2021, da diese Wahl nur in Rostock stattfand.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nBegründung: Paris liegt in Frankreich und nimmt nicht an deutschen Landtagswahlen teil. Briefwahlbezirke sind eine organisatorische Einheit deutscher Wahlen; sie werden nur für Wahlen in den deutschen Ländern gebildet.\n\nQuellen:\n- Bundesministerium der Justiz – Bundeswahlordnung, § 11 (Bildung der Wahl- und Briefwahlbezirke): https://www.gesetze-im-internet.de/bwo_1991/__11.html\n- Bundeszentrale für politische Bildung – Lexikon: Landtagswahl: https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17570/landtagswahl/\n- Offizielle Seite der Stadt Paris (zur Einordnung des Ortes): https://www.paris.fr"
+}

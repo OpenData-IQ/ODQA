@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0170",
+  "run_at": "2025-09-04T15:58:31.412915Z",
+  "question_id": 170,
+  "question": "Wie viele Einwohner mit deutscher und wie viele mit syrischer Staatsangehörigkeit lebten 2011 und 2019 in der Gemeinde Hürtgenwald?",
+  "answer": "Im Jahr 2011 lebten in der Gemeinde Hürtgenwald 8.379 Einwohner*innen mit deutscher Staatsangehörigkeit und 2 Einwohner*innen mit syrischer Staatsangehörigkeit. Im Jahr 2019 lebten in der Gemeinde Hürtgenwald 8.238 Einwohner*innen mit deutscher Staatsangehörigkeit und 41 Einwohner*innen mit syrischer Staatsangehörigkeit.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Die Zahlen müssen für jede Staatsangehörigkeit summiert werden.",
+  "llm_final": "Ich kann die exakten Gemeindewerte hier nicht verlässlich aus dem Kopf wiedergeben, ohne die amtlichen Tabellen aufzuschlagen. Die gesuchten Zahlen stehen jedoch in den folgenden amtlichen Quellen (jeweils mit filterbarer Gemeindeebene):\n\n- IT.NRW: Bevölkerung nach Staatsangehörigkeit und Geschlecht (Gemeinden), Stichtag 31.12., Reihe der Bevölkerungsfortschreibung. Quelle: Information und Technik Nordrhein‑Westfalen (IT.NRW), Statistik der Bevölkerung – Gemeinden in NRW.\n- Statistische Ämter des Bundes und der Länder: Regionaldatenbank Deutschland, Tabelle „Bevölkerung nach Staatsangehörigkeit – Gemeinden, Stichtag 31.12.“ (Bevölkerungsfortschreibung). Alternativ: GENESIS‑Online (Destatis), 12411‑Reihe auf Gemeindeebene.\n\nHinweis zum inhaltlichen Befund:\n- 2011 lag die Zahl der syrischen Staatsangehörigen in vielen kleinen NRW‑Gemeinden (darunter sehr wahrscheinlich auch Hürtgenwald) bei 0 oder im einstelligen Bereich.\n- Bis 2019 stieg sie infolge der Fluchtzuwanderung deutlich an; die Werte für Hürtgenwald liegen (je nach Stichtag 31.12.2019) typischerweise im niedrigen bis mittleren dreistelligen Bereich, während die Zahl der deutschen Staatsangehörigen im gleichen Zeitraum leicht zurückging.\n\nBitte entnehmen Sie die exakten Stückzahlen für Hürtgenwald (2011 und 2019; Staatsangehörigkeiten „deutsch“ und „syrisch“) direkt aus den oben genannten amtlichen Tabellen."
+}

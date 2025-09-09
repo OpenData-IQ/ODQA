@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0188",
+  "run_at": "2025-09-06T17:06:13.963494Z",
+  "question_id": 188,
+  "question": "In welche Länder sind im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen?",
+  "answer": "Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2020 sind jeweils mindestens 2 Personen aus Nörvenich in folgende Länder/Regionen weggezogen:\n\n- Deutschland: 76  \n- Polen: 10  \n- Rumänien: 9  \n- Türkei: 2  \n- Unbekanntes Ausland: 2\n\nDatenquelle: Offene Daten Gemeinde Nörvenich (Einzelnachweise Zu- und Wegzüge 2020). Möchtest du die Rohdaten/Zeilen dazu sehen?"
+}

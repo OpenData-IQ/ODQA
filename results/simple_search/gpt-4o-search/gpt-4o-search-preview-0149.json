@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0149",
+  "run_at": "2025-09-04T18:25:03.410688Z",
+  "question_id": 149,
+  "question": "Gab es in Kerpen zum Stichtag 31.12.2010 mehr Familien mit einem Kind oder mit zwei Kindern?",
+  "answer": "Es gab mehr Familien mit einem Kind (3749) als mit zwei Kindern (2633).",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 31.12.2010 gab es in Kerpen mehr Familien mit einem Kind als mit zwei Kindern. Die genaue Anzahl der Familien nach Kinderanzahl ist in den offenen Daten der Stadt Kerpen verfügbar. Diese Daten können unter folgendem Link eingesehen werden: ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-kerpen?utm_source=openai)). \n\n### Quellen\n- **[1]** D07 Familien mit Anzahl Kinder Kerpen | Offene Daten kdvz Rhein-Erft-Rur (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-kerpen?utm_source=openai"
+}

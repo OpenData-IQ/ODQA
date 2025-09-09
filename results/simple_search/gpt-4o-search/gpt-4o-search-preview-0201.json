@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0201",
+  "run_at": "2025-09-04T18:33:26.408711Z",
+  "question_id": 201,
+  "question": "Wie viele Krankenhäuser gab es im Jahr 2023 in Frankfurt am Main?",
+  "answer": "12",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 gab es in Frankfurt am Main 16 Krankenhäuser mit etwa 6.000 Betten für stationäre Behandlungen. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Frankfurt_am_Main?utm_source=openai))\n\nZu den größten Krankenhäusern der Stadt zählen:\n\n- **Universitätsklinikum Frankfurt**: Mit 1.270 Betten ist es das größte Krankenhaus in Hessen. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Universit%C3%A4tsklinikum_Frankfurt?utm_source=openai))\n\n- **Bürgerhospital Frankfurt am Main**: Verfügt über 320 Betten und betreibt eine der geburtenstärksten Frauenkliniken Deutschlands. ([de.wikipedia.org](https://de.wikipedia.org/wiki/B%C3%BCrgerhospital_%28Frankfurt_am_Main%29?utm_source=openai))\n\n- **Markus-Krankenhaus**: Ein evangelisches Krankenhaus der Schwerpunktversorgung mit rund 700 Betten. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Markus-Krankenhaus?utm_source=openai))\n\n- **Sankt Katharinen-Krankenhaus**: Ein Krankenhaus der Schwerpunktversorgung mit ca. 350 Betten. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Sankt_Katharinen-Krankenhaus_%28Frankfurt_am_Main%29?utm_source=openai))\n\nDiese Einrichtungen tragen maßgeblich zur medizinischen Versorgung der Bevölkerung in Frankfurt am Main bei. \n\n### Quellen\n- **[1]** Frankfurt am Main (de.wikipedia.org) – https://de.wikipedia.org/wiki/Frankfurt_am_Main?utm_source=openai\n- **[2]** Universitätsklinikum Frankfurt (de.wikipedia.org) – https://de.wikipedia.org/wiki/Universit%C3%A4tsklinikum_Frankfurt?utm_source=openai\n- **[3]** Bürgerhospital (Frankfurt am Main) (de.wikipedia.org) – https://de.wikipedia.org/wiki/B%C3%BCrgerhospital_%28Frankfurt_am_Main%29?utm_source=openai\n- **[4]** Markus-Krankenhaus (de.wikipedia.org) – https://de.wikipedia.org/wiki/Markus-Krankenhaus?utm_source=openai\n- **[5]** Sankt Katharinen-Krankenhaus (Frankfurt am Main) (de.wikipedia.org) – https://de.wikipedia.org/wiki/Sankt_Katharinen-Krankenhaus_%28Frankfurt_am_Main%29?utm_source=openai"
+}

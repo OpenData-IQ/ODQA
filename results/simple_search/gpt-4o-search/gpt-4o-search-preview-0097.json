@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0097",
+  "run_at": "2025-09-04T17:22:33.791357Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Rostock werden Müllsammelaktionen von verschiedenen Organisationen durchgeführt, die den Teilnehmern in der Regel Handschuhe und weitere Ausrüstung zur Verfügung stellen. Der Verein **Rostock Müllfrei e.V.** organisiert regelmäßig solche Aktionen und stellt dabei Handschuhe, Greifer und Eimer bereit. Teilnehmer werden jedoch gebeten, eigene Handschuhe mitzubringen, falls vorhanden. ([rostockmuellfrei.de](https://www.rostockmuellfrei.de/mitmachen/m%C3%BCllsammelaktionen/?utm_source=openai))\n\nEin weiteres Beispiel ist der **DoYours SUP-Center**, das im Rahmen von \"Rostock räumt auf\" eine Müllsammelaktion auf der Warnow veranstaltet hat. Für diese spezielle Aktion war Voraussetzung, dass die Teilnehmer sicher auf dem SUP-Board sind; Informationen zur Bereitstellung von Handschuhen wurden nicht explizit erwähnt. ([rathaus.rostock.de](https://rathaus.rostock.de/de/rostock_raeumt_auf/346960?utm_source=openai))\n\nZusammenfassend stellen viele Müllsammelveranstalter in Rostock den Teilnehmern Handschuhe zur Verfügung, bitten jedoch oft darum, eigene Handschuhe mitzubringen, falls vorhanden. \n\n### Quellen\n- **[1]** Müllsammelaktionen - Rostock Müllfrei e.V. (www.rostockmuellfrei.de) – https://www.rostockmuellfrei.de/mitmachen/m%C3%BCllsammelaktionen/?utm_source=openai\n- **[2]** Rostock - Rostock räumt auf - Rostock räumt auf (rathaus.rostock.de) – https://rathaus.rostock.de/de/rostock_raeumt_auf/346960?utm_source=openai"
+}

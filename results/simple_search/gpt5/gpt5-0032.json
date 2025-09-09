@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0032",
+  "run_at": "2025-09-04T13:55:32.207643Z",
+  "question_id": 32,
+  "question": "Wo gibt es mehr Info zu den sofort verfügbaren Gewerbefläche im Gewerbegebiet Hackenbroich?",
+  "answer": "https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/rhein-kreis-neuss-gewerbeflachen",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "https://www.gewerbeflaechen-rkn.de/commercialspace/parcel/expose/de/211903",
+  "llm_final": "Am schnellsten bekommen Sie verlässliche Informationen (inkl. „sofort verfügbar“) direkt über die kommunale und regionale Wirtschafts­förderung sowie deren Immobilien-/Flächenbörsen:\n\n- Stadt Dormagen – Wirtschaftsförderung (SWD) / Gewerbeflächenbörse\n  Zweck: Konkrete, sofort verfügbare kommunale Flächen im Gewerbegebiet Hackenbroich; direkte Ansprechpartner.\n  Quelle: https://www.swd-dormagen.de und https://www.dormagen.de/wirtschaft\n\n- Rhein-Kreis Neuss – Wirtschaftsförderung / Immobilien- und Flächenbörse\n  Zweck: Regionale Übersicht zu verfügbaren Gewerbeflächen und -immobilien in Dormagen (inkl. Hackenbroich).\n  Quelle: https://www.standort-rhein-kreis-neuss.de bzw. https://www.rhein-kreis-neuss.de (Bereich Wirtschaftsförderung)\n\n- IHK Mittlerer Niederrhein – Gewerbeimmobilienbörse\n  Zweck: Ergänzende Angebote aus der Wirtschaft (Vermietung/Verkauf) mit Filter nach Ort/Verfügbarkeit.\n  Quelle: https://www.ihk.de/mittlerer-niederrhein (Stichwort: Gewerbeimmobilienbörse)\n\nFür planungsrechtliche Rahmenbedingungen (Bebauungspläne, Festsetzungen) zum Gewerbegebiet Hackenbroich:\n- Geoportal/TIM-online NRW\n  Quelle: https://www.tim-online.nrw.de (Bauleitpläne/ALKIS; nach „Dormagen – Hackenbroich“ suchen)\n\nHinweis: Für den tagesaktuellen Status „sofort verfügbar“ empfiehlt sich der direkte Kontakt zur SWD Dormagen über die Kontaktseite der Wirtschaftsförderung (siehe oben)."
+}

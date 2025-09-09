@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0019",
+  "run_at": "2025-09-04T17:04:46.513850Z",
+  "question_id": 19,
+  "question": "Wie lang ist die Badestelle am Vollstedter See?",
+  "answer": "30m",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "\n## [Badestelle am Vollstedter See](https://www.google.com/maps/search/Bad?utm_source=openai"
+}

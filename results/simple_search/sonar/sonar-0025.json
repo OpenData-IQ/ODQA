@@ -1,0 +1,11 @@
+{
+  "thread_id": "sonar-0025",
+  "run_at": "2025-09-04T18:51:33.571580Z",
+  "question_id": 25,
+  "question": "Welches Museum in Frankfurt am Main hatte von 2018 bis 2024 die meisten Besuche?",
+  "answer": "Senckenberg Naturmuseum Frankfurt",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Das Senckenberg Naturmuseum Frankfurt hatte 2.476.691 Besucher",
+  "llm_final": "Das Museum in Frankfurt am Main mit den meisten Besuchen von 2018 bis 2024 war das **Städel Museum**. Im Jahr 2018 verzeichnete es 390.593 Besucher und war damit das meistbesuchte Museum in Frankfurt[2]. Auch in den Folgejahren blieb das Städel Museum führend, mit z.B. 318.732 Besuchern im Jahr 2020 trotz pandemiebedingter Einschränkungen[3]. \n\nDas Städel Museum ist Frankfurts ältestes Museum und beherbergt eine bedeutende Sammlung europäischer Kunst vom 14. Jahrhundert bis zur Gegenwart[1][3]. Es ist Teil des Museumsufers und gilt als eines der wichtigsten Kunstmuseen Deutschlands.\n\nAndere Museen wie das Senckenberg Naturmuseum oder die Schirn Kunsthalle hatten zwar ebenfalls hohe Besucherzahlen, erreichten aber nicht die Spitzenwerte des Städel Museums[2]. Das Jüdische Museum Frankfurt verzeichnete nach seiner Wiedereröffnung 2020 steigende Besucherzahlen, erreichte aber 2023 knapp 100.000 Besucher, was deutlich unter den Zahlen des Städel liegt[4].\n\nZusammenfassend ist das **Städel Museum** das Museum mit den meisten Besuchern in Frankfurt am Main im Zeitraum 2018 bis 2024.\n\n### Quellen\n- **[1]** www.hotels.com/go/germany/best-museums-frankfurt (www.hotels.com) – https://www.hotels.com/go/germany/best-museums-frankfurt\n- **[2]** www.stadtkindfrankfurt.de/besucherzahlen-der-frankfurter-museen-2018/ (www.stadtkindfrankfurt.de) – https://www.stadtkindfrankfurt.de/besucherzahlen-der-frankfurter-museen-2018/\n- **[3]** en.wikipedia.org/wiki/St%C3%A4del (en.wikipedia.org) – https://en.wikipedia.org/wiki/St%C3%A4del\n- **[4]** www.juedischesmuseum.de/museum/beitrag/detail/jahrespk-2024/ (www.juedischesmuseum.de) – https://www.juedischesmuseum.de/museum/beitrag/detail/jahrespk-2024/\n- –\n- www.tripadvisor.co.nz/Attractions-g187337-Activities-c49-oa30-Frankfurt_Hesse.html (www.tripadvisor.co.nz) – https://www.tripadvisor.co.nz/Attractions-g187337-Activities-c49-oa30-Frankfurt_Hesse.html"
+}

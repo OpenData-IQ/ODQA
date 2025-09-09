@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0025",
+  "run_at": "2025-09-04T13:50:26.716264Z",
+  "question_id": 25,
+  "question": "Welches Museum in Frankfurt am Main hatte von 2018 bis 2024 die meisten Besuche?",
+  "answer": "Senckenberg Naturmuseum Frankfurt",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Das Senckenberg Naturmuseum Frankfurt hatte 2.476.691 Besucher",
+  "llm_final": "Das Senckenberg Naturmuseum Frankfurt.\n\nBegründung in Kürze: In den amtlichen Frankfurter Kulturstatistiken führt das Senckenberg Naturmuseum über die Jahre 2018 bis 2024 die Besucherzahlen unter den Frankfurter Museen insgesamt an (auch wenn in einzelnen Jahren, z. B. 2019 mit „Making Van Gogh“, das Städel Museum vorübergehend die Jahresliste anführte).\n\nQuellen:\n- Stadt Frankfurt am Main, Amt für Statistik und Wahlen: Statistisches Jahrbuch Frankfurt am Main (Kapitel Kultur), Tabelle „Museumsbesuche nach Häusern“, Jahrgänge 2020–2024 (Berichtsjahre ab 2018).\n- Kulturdezernat Frankfurt am Main: Jahres-/Geschäftsberichte und Kulturbericht (Kennzahl Besucher/innen der Museen), Berichtsjahre 2018–2023."
+}

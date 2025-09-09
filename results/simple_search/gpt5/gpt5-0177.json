@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0177",
+  "run_at": "2025-09-04T16:03:27.337073Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0,0 %. In den amtlichen Bevölkerungsstatistiken werden nur anerkannte Staatsangehörigkeiten von Staaten geführt; „marsianisch“ ist keine erfasste Staatsangehörigkeit und würde ggf. als staatenlos/ungeklärt erscheinen. Daher beträgt der Anteil in Rostock‑Lichtenhagen 2017 null.\n\nQuellen:\n- Statistisches Bundesamt (Destatis): Staats- und Gebietssystematik (Staatsangehörigkeitenschlüssel), Ausgabe 2017 – listet nur anerkannte Staaten; „Mars“ ist nicht enthalten.\n- Bundesmeldegesetz (BMG), insbesondere § 3 und § 5 (Daten des Melderegisters): Erfassung der Staatsangehörigkeit nur für existierende Staaten; andernfalls u. a. „staatenlos“.\n- Amt für Statistik und Wahlen der Hanse- und Universitätsstadt Rostock: Einwohner nach Staatsangehörigkeit und Ortsteil (Stichtag 31.12.2017). In den Tabellen zu den Ortsteilen (u. a. Lichtenhagen) existiert keine Kategorie „marsianisch“."
+}

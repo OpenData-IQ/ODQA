@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0105",
+  "run_at": "2025-09-04T15:01:58.660342Z",
+  "question_id": 105,
+  "question": "In welchem Bezirk von Freiburg im Breisgau war das Durchschnittsalter der Mütter bei Geburt in den Jahren 2003 bis 2007 im Mittelwert am niedrigsten?",
+  "answer": "Im Bezirk 232",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beim Bezirk 232 handelt es sich um Brühl-Industriegebiet. Der Name kann aber nicht aus den Daten erschlossen werden",
+  "llm_final": "Weingarten.\n\nQuellen:\n- Stadt Freiburg im Breisgau – Statistisches Amt: Indikatorenatlas Freiburg, Indikator „Durchschnittsalter der Mütter bei Geburt (Mittelwert 2003–2007)“ nach Stadtbezirken."
+}

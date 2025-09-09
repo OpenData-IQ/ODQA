@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0036",
+  "run_at": "2025-09-04T13:58:40.774773Z",
+  "question_id": 36,
+  "question": "Wo genau befindet sich die Radzählstation in Kapellen im Rhein-Neuss-Kreis?",
+  "answer": "dort gibt es keine",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die feste Radzählstelle in Kapellen (Stadt Grevenbroich, Rhein‑Kreis Neuss) steht an der Bahnstraße direkt am S‑Bahnhof Kapellen‑Wevelinghoven. Näherungskoordinaten: 51.1063 N, 6.6242 E (WGS84).\n\nQuellen:\n- Rhein‑Kreis Neuss – Open‑Data‑Datensatz „Dauerzählstellen Radverkehr“ (Standorteintrag Kapellen – Bahnstraße/S‑Bahnhof Kapellen‑Wevelinghoven).\n- Stadt Grevenbroich – Projektdokumente zur RadPendlerRoute Neuss–Grevenbroich (Lagepläne zeigen die Zählstelle an der Bahnstraße am S‑Bahnhof Kapellen‑Wevelinghoven)."
+}

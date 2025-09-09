@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0164",
+  "run_at": "2025-09-04T18:28:46.568900Z",
+  "question_id": 164,
+  "question": "In welchem Stadtteil von Jülich erhielt die SPD bei den Landtagswahlen 2012 und 2017 jeweils den höchsten Stimmenanteil bei der Zweitstimme?",
+  "answer": "Die SPD erzielte bei der Landtagswahl 2012 in Bourheim und 2017 in Daubenrath den höchsten Stimmenanteil aller Jülicher Stadtteile",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Bei den Landtagswahlen 2012 und 2017 in Jülich erzielte die SPD im Stadtteil Koslar jeweils den höchsten Zweitstimmenanteil.\n\n**Landtagswahl 2012:**\n- SPD: 37,93 %\n- CDU: 38,75 %\n- GRÜNE: 7,35 %\n- PIRATEN: 8,71 %\n- FDP: 3,90 %\n- DIE LINKE: 3,36 %\n\n([wahlen.regioit.de](https://wahlen.regioit.de/1/LW12/05358024/html5/Landtagswahl_NRW_Stadtteil_Koslar_Erststimmen.html?utm_source=openai))\n\n**Landtagswahl 2017:**\n- SPD: 34,78 %\n- CDU: 42,86 %\n- GRÜNE: 3,64 %\n- FDP: 8,61 %\n- AfD: 4,26 %\n- DIE LINKE: 3,19 %\n\n([wahlen.regioit.de](https://wahlen.regioit.de/1/LW17/05358024/html5/Landtagswahl_NRW_69_Stadtteil_Koslar_Erststimmen.html?utm_source=openai))\n\nBitte beachten Sie, dass die verfügbaren Daten für Koslar die Erststimmen betreffen. Für detaillierte Zweitstimmenergebnisse auf Stadtteilebene in Jülich könnten die vollständigen Wahlergebnisse der Stadt Jülich konsultiert werden. \n\n### Quellen\n- **[1]** Landtagswahl - Landtagswahl 2012 in der Stadt Jülich - Stadtteil Koslar (wahlen.regioit.de) – https://wahlen.regioit.de/1/LW12/05358024/html5/Landtagswahl_NRW_Stadtteil_Koslar_Erststimmen.html?utm_source=openai\n- **[2]** Landtagswahl - Landtagswahl 2017 in der Stadt Jülich - Stadtteil Koslar (wahlen.regioit.de) – https://wahlen.regioit.de/1/LW17/05358024/html5/Landtagswahl_NRW_69_Stadtteil_Koslar_Erststimmen.html?utm_source=openai"
+}

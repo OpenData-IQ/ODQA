@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0088",
+  "run_at": "2025-09-04T17:17:43.492305Z",
+  "question_id": 88,
+  "question": "Stell dir vor, es ist der 04.06.2025, wann ist der nächste Flug vom Flughafen Münster/Osnabrück nach München?",
+  "answer": "05.06.25 um 17:20 Uhr",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Link führt zu HTML (79054aed-5eaf-4aba-9239.html) und dort gibt es erst die XML (sie ist tagesaktuell)",
+  "llm_final": "Am 4. Juni 2025 (Mittwoch) gibt es vom Flughafen Münster/Osnabrück (FMO) nach München (MUC) folgende Flüge:\n\n- **09:15 Uhr**: Abflug in Münster/Osnabrück, Ankunft in München um 10:25 Uhr, Flugnummer LH2135.\n\n- **20:25 Uhr**: Abflug in Münster/Osnabrück, Ankunft in München um 21:35 Uhr, Flugnummer LH2141.\n\nBitte beachten Sie, dass sich der Flugplan regelmäßig ändern kann. ([lufthansa.com](https://www.lufthansa.com/xx/de/fluege/flug-muenster%2B_%2Bosnabrueck-muenchen?utm_source=openai)) \n\n### Quellen\n- **[1]** Flug von Münster/Osnabrück nach München (FMO-MUC) buchen | Lufthansa (www.lufthansa.com) – https://www.lufthansa.com/xx/de/fluege/flug-muenster%2B_%2Bosnabrueck-muenchen?utm_source=openai"
+}

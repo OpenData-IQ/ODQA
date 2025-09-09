@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0143",
+  "run_at": "2025-09-06T14:14:39.365743Z",
+  "question_id": 143,
+  "question": "Gibt es Daten zur Anzahl der Einwohner mit und ohne Migrationshintergrund in Dresden im Jahr 2019, aufgeschlüsselt nach Geschlecht und Herkunftsregion?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der für das Jahr 2019 die Einwohnerzahl in Dresden nach Geschlecht, Migrationshintergrund (mit und ohne), sowie nach Herkunftsregionen beziehungsweise Bezugsland zusammengefasst ausweist.",
+  "llm_final": "Ja — das OpenData-Portal der Landeshauptstadt Dresden stellt genau solche Daten für 2019 bereit: Einwohner (Hauptwohner) nach Migrationshintergrund (mit / ohne), Geschlecht und Bezugsland (Staatenzusammenfassung / Herkunftsregion).\n\nDirekter Datensatz:\nhttps://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb\nDirekter CSV-Download:\nhttps://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-einwohner___md104ie_2019_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb/content.csv\n\nSoll ich die Datei für Sie herunterladen und die konkreten Zahlen (z. B. Summen nach Geschlecht und Herkunftsregion, oder eine Tabelle mit allen Kategorien) extrahieren und zusammenfassen? Wenn ja: welche Darstellung wünschen Sie (gesamte Stadt, nach Geschlecht getrennt, nur mit/ohne Migrationshintergrund, oder vollständige Aufschlüsselung nach allen Herkunftsregionen)?"
+}

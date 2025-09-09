@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0187",
+  "run_at": "2025-09-04T18:32:02.750663Z",
+  "question_id": 187,
+  "question": "Wie viele Radfahrer wurden am 1. Januar 2014 zwischen 0 und 4 Uhr an der Oberkasseler Brücke Süd in Düsseldorf gezählt?",
+  "answer": "28",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Alternativ mögliche Antwort (bei Interpretation 00:00–03:59 Uhr): 26 Radfahrer",
+  "llm_final": "Die Stadt Düsseldorf betreibt seit 2012 Dauerzählstellen für den Radverkehr, die Daten im 15-Minuten-Takt erfassen. Eine dieser Zählstellen befindet sich an der Oberkasseler Brücke Süd. ([data.gov.de](https://data.gov.de/suche/daten/jahresubersicht-der-dauerzahlstellen-radverkehr-seit-2012?utm_source=openai))\n\nFür den 1. Januar 2014 zwischen 0 und 4 Uhr liegen jedoch keine spezifischen Zählwerte für die Oberkasseler Brücke Süd vor. In den verfügbaren Datensätzen für das Jahr 2014 sind nur Daten für andere Zählstellen wie die Oberkasseler Brücke Nord enthalten. ([govdata.de](https://www.govdata.de/suche/daten/wetterabhangige-jahresubersicht-der-dauerzahlstellen-radverkehr-2014?utm_source=openai))\n\nDaher kann ich Ihnen leider keine genaue Anzahl der Radfahrer für den gewünschten Zeitraum an der Oberkasseler Brücke Süd bereitstellen. \n\n### Quellen\n- **[1]** Jahresübersicht der Dauerzählstellen Radverkehr seit 2012 - GovData (data.gov.de) – https://data.gov.de/suche/daten/jahresubersicht-der-dauerzahlstellen-radverkehr-seit-2012?utm_source=openai\n- **[2]** Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2014 - GovData (www.govdata.de) – https://www.govdata.de/suche/daten/wetterabhangige-jahresubersicht-der-dauerzahlstellen-radverkehr-2014?utm_source=openai"
+}

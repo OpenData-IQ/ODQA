@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0164",
+  "run_at": "2025-09-06T16:27:19.560294Z",
+  "question_id": 164,
+  "question": "In welchem Stadtteil von Jülich erhielt die SPD bei den Landtagswahlen 2012 und 2017 jeweils den höchsten Stimmenanteil bei der Zweitstimme?",
+  "answer": "Die SPD erzielte bei der Landtagswahl 2012 in Bourheim und 2017 in Daubenrath den höchsten Stimmenanteil aller Jülicher Stadtteile",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2012: Bourheim — SPD Zweitstimmenanteil 40,44%  \n2017: Daubenrath — SPD Zweitstimmenanteil 38,89%\n\nQuellen (Stadtteilebene Jülich):  \n- Landtagswahl 2012: https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/36cd9ec5-fdbf-4dfe-a00c-4cedcbff55db  \n- Landtagswahl 2017: https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich/resource/460e0ada-1c39-4c9c-bcd1-ea6ec12db9fc"
+}

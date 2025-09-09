@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt-4o-search-preview-0202",
+  "run_at": "2025-09-04T18:33:35.284792Z",
+  "question_id": 202,
+  "question": "Wie viel Biomüll wurde insgesamt im Jahr 2024 in Konstanz gesammelt?",
+  "answer": "Im Jahr 2024 wurden in Konstanz insgesamt 6580,34 Tonnen Biomüll gesammelt.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2024 wurden in Konstanz insgesamt 6.580 Tonnen Biomüll gesammelt, was etwa 77 Kilogramm pro Person entspricht. Diese Menge ist im Vergleich zum Vorjahr nahezu unverändert; 2023 wurden 6.516 Tonnen Biomüll gesammelt. ([konstanz.de](https://www.konstanz.de/service/presse/pressemitteilungen/abfallstatistik%2Bstadt%2Bkonstanz%2B2024?utm_source=openai))\n\nDer Konstanzer Biomüll wird in Singen verwertet, wo er zu Biogas, Dünger und Kompost verarbeitet wird. Es ist wichtig, darauf zu achten, dass kein Plastik, einschließlich sogenannter \"Bio-Plastik\"-Tüten, im Bioabfall landet, da diese den Verwertungsprozess stören können. ([konstanz.de](https://www.konstanz.de/entsorgungsbetriebe%2CLde/abfallberatung/abfallwege/biomuell?utm_source=openai)) \n\n### Quellen\n- **[1]** Abfallstatistik Stadt Konstanz 2024 - Stadt Konstanz (www.konstanz.de) – https://www.konstanz.de/service/presse/pressemitteilungen/abfallstatistik%2Bstadt%2Bkonstanz%2B2024?utm_source=openai\n- **[2]** Biomüll - Entsorgungsbetriebe Konstanz (www.konstanz.de) – https://www.konstanz.de/entsorgungsbetriebe%2CLde/abfallberatung/abfallwege/biomuell?utm_source=openai"
+}

@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0120",
+  "run_at": "2025-09-04T15:16:09.924063Z",
+  "question_id": 120,
+  "question": "Wie lautet der Straßenschlüssel für die Straße 'Knallerballerweg' in Rostock?",
+  "answer": "06100",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Ich kann den exakten amtlichen Straßenschlüssel für den Knallerballerweg in Rostock ohne Zugriff auf die amtlichen Straßen­verzeichnisse nicht sicher nennen.\n\nSo finden Sie den Schlüssel in den amtlichen Open‑Data‑Quellen:\n- Hanse- und Universitätsstadt Rostock – Straßenverzeichnis (Open-Data-Datensatz der Stadt). Enthält je Straße den amtlichen Straßenschlüssel, Straßennamen und Ortsteil. Quelle: Open-Data-Portal der Hanse- und Universitätsstadt Rostock, Datensatz “Straßenverzeichnis” des Stadtvermessungsamts.\n- Landesamt für innere Verwaltung Mecklenburg‑Vorpommern (Statistisches Amt) – Amtliches Straßenverzeichnis M‑V. Landesweit geführtes Verzeichnis mit Straßenschlüsseln je Gemeinde. Quelle: LAiV M‑V, Statistisches Amt, Amtliches Straßenverzeichnis.\n- DESTATIS (Zensus 2011) – Straßenverzeichnis. Enthält für jede Gemeinde die amtlichen (damals gültigen) Straßenschlüssel; für Rostock können Sie dort den Eintrag „Knallerballerweg“ nachschlagen. Quelle: Statistisches Bundesamt, Zensus 2011, Straßenverzeichnis.\n\nPraktischer Tipp:\n- Im städtischen Adress-/Hausnummern‑WFS bzw. -Download (Rostock Open Data) ist das Feld “Straßenschlüssel/StrSchl” bei allen Hausnummern enthalten. Wählen Sie eine Hausnummer am Knallerballerweg aus; der zugehörige Straßenschlüssel ist der gesuchte Code für die gesamte Straße.\n\nWenn Sie möchten, kann ich den Schlüssel für Sie nachschlagen, sobald ich Zugriff auf die oben genannten Datensätze habe."
+}

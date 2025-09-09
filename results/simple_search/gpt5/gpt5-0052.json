@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0052",
+  "run_at": "2025-09-04T14:15:57.134804Z",
+  "question_id": 52,
+  "question": "Wurden 2023 mehr Patente für Solartechnik oder für Windkraftmaschinen angemeldet?",
+  "answer": "Solartechnik",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2023 wurden 597 Anmeldungen für Solartechnik veröffentlicht, für Windkraftmaschinen 540.",
+  "llm_final": "Solartechnik. Laut der DPMA-Jahresstatistik 2023 wurden im Technologiefeld „Solartechnik“ mehr Patentanmeldungen eingereicht als im Feld „Windkraftmaschinen (F03D)“.\n\nQuellen:\n- Deutsches Patent- und Markenamt (DPMA) – Jahresstatistik 2023: Patente, Anmeldungen nach Technologiefeldern (u. a. „Solartechnik“ und „Windkraftmaschinen/F03D“)\n- DPMA – Technologiefeldklassifikation (Zuordnung der Technologiefelder, z. B. „Solartechnik“, „Windkraftmaschinen (F03D)“)"
+}

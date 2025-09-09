@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0042",
+  "run_at": "2025-09-04T14:07:22.101469Z",
+  "question_id": 42,
+  "question": "Wo finde ich heraus, ob es ein Zertifikat für meinen Altersvorsorgenvertrag gibt?",
+  "answer": "https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Kurzantwort:\nEin staatliches Zertifikat gibt es nur für Riester-Verträge (Altersvorsorgeverträge) und Basisrenten (Rürup). Ob Ihr Vertrag zertifiziert ist, prüfen Sie so:\n\nSo gehen Sie vor:\n- Auf Ihren Unterlagen nachsehen: In Vertragsbedingungen/Produktinformationsblatt ist bei Riester/Basisrente die Zertifizierungsnummer (oft „Zertifikat-/Produktnummer“) angegeben.\n- In der BZSt-Liste nachschlagen: Das Bundeszentralamt für Steuern (ZfA im BZSt) veröffentlicht eine öffentlich zugängliche Liste aller zertifizierten Altersvorsorge- und Basisrentenprodukte (Suchmöglichkeit nach Anbieter/Produkt).\n- Beim Anbieter anfordern: Bitten Sie Ihren Versicherer/Anbieter um die Zertifizierungsnummer bzw. eine Bestätigung der Zertifizierung.\n- Hinweis zu anderen Vorsorgeformen: Betriebliche Altersversorgung (Direktversicherung, Pensionskasse, Pensionsfonds etc.) und ungeförderte private Renten/ETF-Sparpläne haben kein BZSt‑Zertifikat.\n\nWarum das wichtig ist:\n- Riester: Ohne Zertifikat gibt es keine Zulagen/steuerliche Förderung.\n- Basisrente: Die Zertifizierung bestätigt, dass die Produktmerkmale die steuerliche Abziehbarkeit als Sonderausgaben erfüllen.\n\nQuellen:\n- Bundeszentralamt für Steuern (BZSt), Zentrale Zulagenstelle für Altersvermögen (ZfA): „Zertifizierung von Altersvorsorge- und Basisrentenverträgen“ und „Liste der zertifizierten Produkte“ (öffentliche Produktliste beim BZSt).\n- Gesetz: Altersvorsorgeverträge‑Zertifizierungsgesetz (AltZertG) – regelt die Zertifizierung von Riester- und Basisrentenverträgen.\n- Einkommensteuergesetz (EStG): § 10a und §§ 79–99 EStG (Riester-Förderung), § 10 Abs. 1 Nr. 2b EStG (Basisrente als Sonderausgaben)."
+}

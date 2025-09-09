@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0093",
+  "run_at": "2025-09-06T13:00:20.711621Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Glascontainer in Mannsdorf (Kfz-Kennzeichen Regensburg) steht an der Adresse:\n\n- \"letzte Str. rechts vor Scheune, 84069 Schierling\"  \n- Koordinaten: 48.809083 N, 12.144333 E\n\nQuelle: Entsorgungseinrichtungen Landkreis Regensburg (OGC API)."
+}

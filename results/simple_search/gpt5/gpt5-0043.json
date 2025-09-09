@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0043",
+  "run_at": "2025-09-04T14:08:15.999988Z",
+  "question_id": 43,
+  "question": "Für wie viele Flüsse in Sachsen-Anhalt gibt es Messwerte zu Stoffeinträgen in Gewässern zwischen 1983 und 2016?",
+  "answer": "97",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "27\n\nQuellen:\n- Landesamt für Umweltschutz Sachsen-Anhalt (LAU): Datensatz „Stoffeinträge in Gewässer – Flüsse (Zeitreihe 1983–2016)“, veröffentlicht über das Datenportal Sachsen-Anhalt und gespiegelt auf GovData."
+}

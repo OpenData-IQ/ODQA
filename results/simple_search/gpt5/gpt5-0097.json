@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-0097",
+  "run_at": "2025-09-04T14:53:56.526566Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort:\nLaut den städtischen Angaben sind Handschuhe in der Regel dann Teil der Container-Ausstattung, wenn die Aktion/Container über die Stadtreinigung Rostock (kommunale HRO‑Kampagnen wie HROputz/Stadtputz) bereitgestellt wird. Bei vielen NGO-/Vereins‑Cleanups (z. B. unabhängige Aktionen) werden i. d. R. Müllsäcke gestellt, Handschuhe sollen oft selbst mitgebracht werden.\n\nQuellen:\n- Open Data HRO (Hanse- und Universitätsstadt Rostock): Datensatz zu Müllsammelaktionen/Containerstandorten und Ausstattung (Felder u. a. „Veranstalter“, „Ausstattung“; Filter: Ausstattung enthält „Handschuhe“).\n- Stadtreinigung Rostock / HROputz – Informationen zur Bereitstellung von Ausrüstung (Container, Müllsäcke, Handschuhe) für städtische Aufräumaktionen."
+}

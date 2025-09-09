@@ -1,0 +1,11 @@
+{
+  "thread_id": "gpt5-mini-40-0046",
+  "run_at": "2025-09-06T11:17:21.366681Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "es ist keine angegeben",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Laut dem offiziellen Theater‑Datensatz des Landes Brandenburg ist für die Neue Bühne Senftenberg keine E‑Mail‑Adresse eingetragen.\n\nGegebene Kontaktdaten aus dem Datensatz:\n- Adresse: Rathenaustraße 6–8, 01968 Senftenberg  \n- Telefon: 03573 8010  \n- Fax: 03573 792334  \n- Website: http://www.theater-senftenberg.de\n\nQuelle: Landes‑Brandenburg Theater‑Datensatz (CSV: https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/theater.csv). Soll ich über die Website nach einer E‑Mail‑Adresse suchen?"
+}
