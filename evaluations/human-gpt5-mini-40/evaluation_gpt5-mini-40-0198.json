@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0198",
+  "run_at": "2025-09-06T17:21:28.926050Z",
+  "question_id": 198,
+  "question": "Wie viele Familien mit vier Personen lebten zum 31.12.2021 im Ortsteil Badorf in Brühl?",
+  "answer": "Im Ortsteil Badorf lebten zum 31.12.2021 insgesamt 257 Familien mit vier Personen.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 31.12.2021 lebten im Ortsteil Badorf in Brühl 257 Familien mit vier Personen.\n\nQuelle: Offene Daten Stadt Brühl — \"Familien nach Größe Stadt Brühl (Ortsteile) 2021\" (EWO_990_sim_OpDat419_20220101.csv).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Anzahl der Familien und die relevante Quelle, was die Antwort sehr nützlich macht."
+  }
+}

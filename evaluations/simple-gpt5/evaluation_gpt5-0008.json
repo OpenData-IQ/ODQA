@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0008",
+  "run_at": "2025-09-04T11:00:39.226999Z",
+  "question_id": 8,
+  "question": "Wie groß ist das Bergbaufeld \"Prinzessin Victoria\"?",
+  "answer": "8 421 307 m2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Das Bergbaufeld „Prinzessin Victoria“ umfasst rund 5,7 km² (ca. 570 ha).\n\nQuellen:\n- Bezirksregierung Arnsberg – Bergbau-Informationssystem NRW (BIS): Datensatz „Bergbauberechtigungen (Bergwerksfelder) – Steinkohle“, Eintrag „Prinzessin Victoria“, Attribut „Feldesgröße“.\n- Geoserver/Viewer von Geobasis NRW: Layer „Bergbauberechtigungen (Felder)“, Objekt „Prinzessin Victoria“ mit ausgewiesenem Attribut „Feldesgröße“.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine Fläche von 5,7 km² an, während die korrekte Antwort 8.421.307 m² (was 8,42 km² entspricht) ist. Die angegebene Fläche ist somit falsch."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0197",
+  "run_at": "2025-09-04T19:11:04.603392Z",
+  "question_id": 197,
+  "question": "Wie viele Grabstätten gibt es insgesamt in der Stadt Bergheim zum Stichtag 06.01.2021?",
+  "answer": "17.718",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 06.01.2021 gibt es eine Grabstättenstatistik für die Stadt Bergheim, die den Gesamtbestand an Grabstätten zu diesem Datum abbildet. Die genaue Anzahl der Grabstätten zum Stichtag 06.01.2021 ist in der entsprechenden Datendatei „Grabstätten 2020 zum Stichtag 06.01.2021 Bergheim“ verfügbar, die auf dem Open Data Portal des Kommunalen Rechenzentrums für den Regierungsbezirk Köln (kdvz.nrw) bereitgestellt wird[2].\n\nDie öffentlich zugänglichen Daten enthalten sowohl belegte als auch freie Grabstätten. Leider ist die exakte Zahl der Grabstätten zum genannten Stichtag in den Suchergebnissen nicht direkt genannt, sondern nur die Verfügbarkeit der Datei bestätigt.\n\nFür eine präzise Zahl müsste die Datei „Grabstätten 2020 zum Stichtag 06.01.2021 Bergheim“ aus dem Datensatz „D14 Grabstätten und Bestattungen Bergheim“ heruntergeladen und ausgewertet werden[2]. Dort sind alle Grabstätten, die zu diesem Stichtag vorhanden waren, aufgelistet.\n\nZusammengefasst: Die Gesamtzahl der Grabstätten in Bergheim zum 06.01.2021 ist in der offiziellen Grabstättenstatistik des Kommunalen Rechenzentrums NRW dokumentiert und kann aus der entsprechenden Datei entnommen werden[2]. Eine direkte Zahl aus den Suchergebnissen liegt nicht vor.\n\n### Quellen\n- **[1]** offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim/resource/ded11196-a5bc-4431-ad6f-c9e8bcd48368 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim/resource/ded11196-a5bc-4431-ad6f-c9e8bcd48368\n- –\n- offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim\n- de.wikipedia.org/wiki/Bergheim (de.wikipedia.org) – https://de.wikipedia.org/wiki/Bergheim\n- www.statistik.bayern.de/mam/produkte/statistik_kommunal/2021/09185118.pdf (www.statistik.bayern.de) – https://www.statistik.bayern.de/mam/produkte/statistik_kommunal/2021/09185118.pdf\n- de.wikipedia.org/wiki/Volksbund_Deutsche_Kriegsgr%C3%A4berf%C3%BCrsorge (de.wikipedia.org) – https://de.wikipedia.org/wiki/Volksbund_Deutsche_Kriegsgr%C3%A4berf%C3%BCrsorge",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort liefert keine konkrete Zahl, sondern verweist nur auf die Datenquelle. Die exakte Antwort (17.718) wird nicht genannt, obwohl sie laut Goldstandard verfügbar ist."
+  }
+}

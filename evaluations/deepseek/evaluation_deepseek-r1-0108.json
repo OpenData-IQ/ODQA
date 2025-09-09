@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0108",
+  "run_at": "2025-09-01T21:58:34.859711Z",
+  "question_id": "108",
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer**  \nIn Soest gibt es zwei öffentliche Toiletten, die 24 Stunden am Tag geöffnet sind:  \n\n1. **WC Jakobitor**  \n   Adresse: Jakobistraße 77a  \n\n2. **WC Am Bahnhof**  \n   Adresse: Bahnhofstraße 2  \n\nQuelle: [Öffentliche Toiletten im Stadtgebiet Soest](https://opendata.soest.de/dataset/e96b9f10-0684-4d1c-ba5f-43dcbef1c209).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort listet exakt die beiden gefragten Adressen und stimmt mit dem Goldstandard überein. Zusätzlich wird eine Quelle angegeben."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0061",
+  "run_at": "2025-09-01T20:54:55.221879Z",
+  "question_id": 61,
+  "question": "An welchen Tagen findet der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule statt?",
+  "answer": "15.05.25, 22.05.25, 05.06.25, 12.06.25, 19.06.25, 26.06.25, 03.07.25, 10.07.25, 17.07.25",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Das LLM gab nur eine Server-Fehlermeldung (HTTP 500) aus und keine inhaltliche Antwort. Die Frage wurde damit nicht beantwortet."
+  }
+}

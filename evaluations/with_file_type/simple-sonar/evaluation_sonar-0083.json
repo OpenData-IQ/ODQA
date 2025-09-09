@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0083",
+  "run_at": "2025-09-04T18:57:54.350394Z",
+  "question_id": 83,
+  "question": "In welchem Berliner Stadtteil war es 2023 am wahrscheinlichsten, dass bei Eheschließungen mindestens ein Ehepartner ausländisch ist?",
+  "answer": "Neukölln",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In 528 von 1.366 Eheschließungen (38,7 %) war mindestens ein*e Ehepartner*in ausländisch",
+  "llm_final": "Der Berliner Stadtteil, in dem es 2023 am wahrscheinlichsten war, dass bei Eheschließungen mindestens ein Ehepartner ausländisch war, ist sehr wahrscheinlich **Mitte**. Dies lässt sich daraus ableiten, dass Mitte den höchsten Anteil an Ausländerinnen und Ausländern sowie Menschen mit Migrationshintergrund in Berlin aufweist (über 70.000 Ausländerinnen und über 78.000 Ausländer laut Einwohnerregisterstatistik 2023)[1]. Da die Wahrscheinlichkeit, dass bei Eheschließungen mindestens ein Partner ausländisch ist, stark mit dem Anteil der ausländischen Bevölkerung korreliert, ist Mitte der Bezirk mit der höchsten Wahrscheinlichkeit.\n\nZur Einordnung: Mitte hat die größte ausländische Bevölkerung in Berlin, gefolgt von Bezirken wie Friedrichshain-Kreuzberg und Charlottenburg-Wilmersdorf[1][3]. Die Daten zu Eheschließungen mit ausländischen Partnern auf Bezirksebene sind nicht direkt in den Suchergebnissen verfügbar, aber die Bevölkerungsstruktur ist ein guter Indikator.\n\nZusätzlich ist bekannt, dass in Deutschland die häufigste Kombination bei Eheschließungen die eines deutschen Mannes mit einer ausländischen Frau ist, gefolgt von der umgekehrten Kombination[2]. Die hohe Anzahl von Ausländerinnen und Ausländern in Mitte unterstützt die Annahme, dass hier die Wahrscheinlichkeit für Eheschließungen mit mindestens einem ausländischen Partner am höchsten ist.\n\n**Kurzfassung:**  \nDer Berliner Bezirk **Mitte** war 2023 am wahrscheinlichsten der Stadtteil, in dem bei Eheschließungen mindestens ein Ehepartner ausländisch war, basierend auf der höchsten ausländischen Bevölkerungszahl in diesem Bezirk[1][3].\n\n### Quellen\n- **[1]** www.berlin.de/sen/frauen/gleichstellung/gender-daten/daten/2023_1_1_bevoelkerung_final.xlsx (www.berlin.de) – https://www.berlin.de/sen/frauen/gleichstellung/gender-daten/daten/2023_1_1_bevoelkerung_final.xlsx\n- **[2]** www.bib.bund.de/DE/Fakten/Fakt/L118-Eheschliessungen-Deutsche-Auslaender-Nationalitaet-ab-1991.html (www.bib.bund.de) – https://www.bib.bund.de/DE/Fakten/Fakt/L118-Eheschliessungen-Deutsche-Auslaender-Nationalitaet-ab-1991.html\n- **[3]** de.statista.com/statistik/daten/studie/1109703/umfrage/bevoelkerung-bezirke-nach-migrationshintergrund-berlin/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/1109703/umfrage/bevoelkerung-bezirke-nach-migrationshintergrund-berlin/\n- –\n- www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html (www.gesetze-im-internet.de) – https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html\n- de.statista.com/statistik/daten/studie/589502/umfrage/eheschliessungen-in-berlin/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/589502/umfrage/eheschliessungen-in-berlin/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt Mitte, während laut Goldstandard Neukölln korrekt ist. Die Antwort ist daher sachlich falsch."
+  },
+  "file_type": "csv"
+}

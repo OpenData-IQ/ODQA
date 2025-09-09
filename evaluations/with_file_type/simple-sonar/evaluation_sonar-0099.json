@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0099",
+  "run_at": "2025-09-04T18:59:53.106119Z",
+  "question_id": 99,
+  "question": "Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar?",
+  "answer": "80",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "CSV ist in englischer Sprache",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine spezifischen Informationen darüber, wie viele Poststationen in der Metropolregion Rhein-Neckar uneingeschränkt mit dem Rollstuhl erreichbar sind. Es gibt allgemeine Hinweise zu Barrierefreiheit im öffentlichen Nahverkehr und zu barrierefreien Angeboten, jedoch keine konkrete Zahl oder Liste zu barrierefreien Poststationen in dieser Region.\n\nFür eine genaue Auskunft wäre es empfehlenswert, direkt bei der Deutschen Post oder der regionalen Postdienstleister nachzufragen oder auf deren offiziellen Websites nach barrierefreien Filialen zu suchen. Auch lokale Behörden oder Behindertenverbände in der Metropolregion Rhein-Neckar könnten entsprechende Informationen bereitstellen.\n\nZusammenfassung:\n- Keine konkrete Zahl zu rollstuhlgerechten Poststationen in der Metropolregion Rhein-Neckar in den Suchergebnissen.\n- Hinweise auf Barrierefreiheit im ÖPNV und bei S-Bahn-Stationen, aber nicht bei Poststationen.\n- Empfehlung: Direkte Anfrage bei der Deutschen Post oder regionalen Dienstleistern für genaue Informationen.\n\n### Quellen\n- **[1]** www.arriva-service.de/unternehmen/news/wir-wachsen-weiter-jetzt-auch-mit-abholung-und-zustellung-im-rhein-neckar-gebiet/ (www.arriva-service.de) – https://www.arriva-service.de/unternehmen/news/wir-wachsen-weiter-jetzt-auch-mit-abholung-und-zustellung-im-rhein-neckar-gebiet/\n- **[2]** www.rnz.de/politik/nachrichten_artikel,-Verkehr-Mehr-barrierefreie-Haltestellen-im-OePNV-_arid,852976.html (www.rnz.de) – https://www.rnz.de/politik/nachrichten_artikel,-Verkehr-Mehr-barrierefreie-Haltestellen-im-OePNV-_arid,852976.html\n- **[3]** www.s-bahn-rheinneckar.de/service/service_handicap (www.s-bahn-rheinneckar.de) – https://www.s-bahn-rheinneckar.de/service/service_handicap\n- **[4]** wheelmap.org/node/416821865 (wheelmap.org) – https://wheelmap.org/node/416821865\n- **[5]** www.rhein-neckar-kreis.de/start/service/erklaerung+zur+barrierefreiheit.html (www.rhein-neckar-kreis.de) – https://www.rhein-neckar-kreis.de/start/service/erklaerung+zur+barrierefreiheit.html",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Antwort gibt klar an, dass keine konkrete Zahl zu barrierefreien Poststationen gefunden wurde. Es werden nur allgemeine Hinweise und Empfehlungen gegeben, aber keine direkte Beantwortung der Frage."
+  },
+  "file_type": "csv"
+}

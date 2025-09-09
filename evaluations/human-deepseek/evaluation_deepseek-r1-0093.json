@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0093",
+  "run_at": "2025-09-01T21:38:12.421763Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 105910 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 105910 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die Antwort ist ein Tokenlimit-/Eingabelängen-Fehler und enthält keine inhaltliche Antwort."
+  }
+}

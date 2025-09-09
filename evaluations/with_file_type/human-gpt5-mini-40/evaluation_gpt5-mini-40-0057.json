@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0057",
+  "run_at": "2025-09-06T11:33:43.872293Z",
+  "question_id": 57,
+  "question": "Wie viel radioaktives Neptunium wurde 2014 in Rapsschrot nachgewiesen?",
+  "answer": "Die Angabe ist: n.n.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: In den durchsuchten öffentlichen Messdaten (u. a. Transparenz‑Portal Hamburg) gibt es keine dokumentierte Messung bzw. keinen nachgewiesenen Wert für radioaktives Neptunium in Rapsschrot aus dem Jahr 2014.\n\nWas dahinter steckt / Hinweise:\n- Ich habe die verfügbaren Routinedatensätze zu Rapsschrot durchsucht, aber kein Prüfmerkmal „Neptunium“ bzw. keinen Np‑Wert aus 2014 gefunden. Beispiele für geführte Prüfmerkmale in Rapsschrot sind Cs‑137, K‑40, Be‑7, Sr‑90 usf.\n- Neptunium (z. B. Np‑237) ist kein typisches Prüfmerkmal in einfachen Gamma‑Spektralanalysen (es ist hauptsächlich ein Alpha‑Emitter) und wird daher bei Routinemonitoring von Futtermitteln selten bestimmt. Messungen würden spezielle Analysen (Alpha‑Spektrometrie oder Massenspektrometrie/ICP‑MS) erfordern; wenn überhaupt, sind Werte oft unter der Nachweisgrenze angegeben.\n\nWenn Sie möchten, kann ich:\n- weitere Quellen (z. B. Landesumweltämter, BfS/Bundesamt für Strahlenschutz) gezielt durchsuchen,\n- prüfen, ob es Messdaten für andere Jahre gibt,\n- erklären, welche Analyseverfahren nötig wären oder wie ein Labor nach Neptunium misst.\n\nWas soll ich als Nächstes tun?",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt. Die Antwort nennt den relevanten Rapsschrot-Datensatz aus dem Transparenzportal. Ein genauer Link fehlt."
+  },
+  "file_type": "csv"
+}

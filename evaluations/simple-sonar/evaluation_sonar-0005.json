@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0005",
+  "run_at": "2025-09-04T18:49:26.120706Z",
+  "question_id": 5,
+  "question": "Wie viele Geschwindigkeitsüberschreitungen gab es in Aachen im Jahr 2021?",
+  "answer": "67949",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der **Geschwindigkeitsüberschreitungen in Aachen im Jahr 2021** ist in den bereitgestellten Quellen nicht direkt als Gesamtzahl genannt. Allerdings gibt es relevante Datenquellen, die Hinweise liefern:\n\n- Das Polizeipräsidium Aachen veröffentlichte eine Verkehrsunfallstatistik 2021, die jedoch keine explizite Zahl der Geschwindigkeitsüberschreitungen nennt, sondern sich auf Unfälle, Verletzte und Unfallfluchten konzentriert[1].\n\n- Das Open Data Portal der Stadt Aachen bietet Datensätze zu **Geschwindigkeitskontrollen 2021** (monatlich aufgeschlüsselt) sowie zu den Bußgeldern für Geschwindigkeitsübertretungen im fließenden Verkehr. Diese Datensätze enthalten detaillierte Messwerte und Bußgeldfälle, aus denen sich die Anzahl der festgestellten Geschwindigkeitsüberschreitungen ableiten ließe[3][4].\n\n- Eine zusammenfassende Zahl der Geschwindigkeitsüberschreitungen bei Kontrollen in Aachen im Jahr 2021 wird in den verfügbaren Quellen nicht explizit genannt. Die Daten sind jedoch öffentlich zugänglich und können ausgewertet werden.\n\nZusammengefasst: Die **exakte Gesamtzahl der Geschwindigkeitsüberschreitungen in Aachen 2021 ist nicht direkt in den Suchergebnissen angegeben**, aber es existieren umfangreiche Datensätze zu den Kontrollen und Bußgeldern, die diese Zahl enthalten oder berechenbar machen[3][4]. Für eine genaue Zahl müsste man diese Datensätze auswerten.\n\nFalls Sie eine grobe Schätzung oder eine Auswertung der vorhandenen Daten wünschen, kann ich Ihnen dabei helfen, die Datensätze zu interpretieren.\n\n### Quellen\n- **[1]** aachen.polizei.nrw/sites/default/files/2022-03/Pressekonferenz%20Verkehr%20f%C3%BCr%202021.docx.pdf (aachen.polizei.nrw) – https://aachen.polizei.nrw/sites/default/files/2022-03/Pressekonferenz%20Verkehr%20f%C3%BCr%202021.docx.pdf\n- **[2]** www.bussgeldkatalog.org/blitzermarathon/ (www.bussgeldkatalog.org) – https://www.bussgeldkatalog.org/blitzermarathon/\n- **[3]** offenedaten.aachen.de/dataset/geschwindigkeitskontrollen-2021 (offenedaten.aachen.de) – https://offenedaten.aachen.de/dataset/geschwindigkeitskontrollen-2021\n- –\n- offenedaten.aachen.de/eu/dataset/bussgelder-fliessender-verkehr-2021-der-stadt-aachen (offenedaten.aachen.de) – https://offenedaten.aachen.de/eu/dataset/bussgelder-fliessender-verkehr-2021-der-stadt-aachen\n- www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/Publikationen/Downloads-Verkehrsunfaelle/verkehrsunfaelle-jahr-2080700217004.pdf (www.destatis.de) – https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/Publikationen/Downloads-Verkehrsunfaelle/verkehrsunfaelle-jahr-2080700217004.pdf?__blob=publicationFile",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": ""
+  }
+}

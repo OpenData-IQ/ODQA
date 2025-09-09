@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0152",
+  "run_at": "2025-09-04T19:06:14.043218Z",
+  "question_id": 152,
+  "question": "Welche Arten von Änderungen des Familienstands wurden im Jahr 2017 in der Gemeinde Hürtgenwald erfasst?",
+  "answer": "Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Eheschließung, Ehescheidung, Tod des Ehegatten, Tod des Lebenspartners",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2017 wurden in der Gemeinde Hürtgenwald verschiedene Arten von Änderungen des Familienstands erfasst, typischerweise umfassen diese:\n\n- Eheschließungen (Heiraten)\n- Scheidungen\n- Verwitwungen (Tod des Ehepartners)\n- Änderungen des Familienstands durch sonstige amtliche Feststellungen (z. B. Anerkennung einer Lebenspartnerschaft oder deren Auflösung)\n\nKonkrete Daten zu den Arten der Familienstandsänderungen in Hürtgenwald für 2017 sind in den verfügbaren statistischen Jahrbüchern Nordrhein-Westfalens enthalten, die solche demografischen Veränderungen auf Gemeindeebene dokumentieren. Das Statistische Jahrbuch Nordrhein-Westfalen 2017 enthält beispielsweise Tabellen zur Bevölkerung nach Familienstand und deren Veränderungen, die auch für Hürtgenwald relevant sind[4]. \n\nDie üblichen Kategorien der Familienstandsänderungen, die statistisch erfasst werden, sind:\n\n- Eheschließungen (Heirat)\n- Scheidungen\n- Verwitwungen\n- Sonstige Änderungen (z. B. Änderung von ledig zu verheiratet, eingetragene Lebenspartnerschaften)\n\nDa die spezifischen Zahlen oder detaillierte Aufschlüsselungen für Hürtgenwald im Jahr 2017 in den bereitgestellten Quellen nicht direkt genannt werden, empfiehlt sich ein Blick in das Statistische Jahrbuch Nordrhein-Westfalen 2017 oder die kommunalen Meldestatistiken, die solche Daten erfassen und veröffentlichen[4].\n\nZusammenfassend wurden im Jahr 2017 in Hürtgenwald die üblichen Arten von Familienstandsänderungen erfasst, wie Heiraten, Scheidungen und Verwitwungen, die in den amtlichen Statistiken dokumentiert sind.\n\n### Quellen\n- **[1]** webshop.it.nrw.de/gratis/Z026%20201900.pdf (webshop.it.nrw.de) – https://webshop.it.nrw.de/gratis/Z026%20201900.pdf\n- –\n- www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00011132/a123201722_A.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00011132/a123201722_A.pdf\n- www.wochenspiegellive.de/altkreis-monschau/artikel/duell-um-das-buergermeisteramt (www.wochenspiegellive.de) – https://www.wochenspiegellive.de/altkreis-monschau/artikel/duell-um-das-buergermeisteramt\n- webshop.it.nrw.de/gratis/Z026%20201700.pdf (webshop.it.nrw.de) – https://webshop.it.nrw.de/gratis/Z026%20201700.pdf\n- www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00001791/Z071200303.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00001791/Z071200303.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt die üblichen Arten von Familienstandsänderungen, bleibt aber etwas allgemein und wiederholt sich. Die exakten Begriffe aus der Goldantwort (z.B. Begründung/Aufhebung einer Lebenspartnerschaft) könnten klarer genannt werden."
+  },
+  "file_type": "csv"
+}

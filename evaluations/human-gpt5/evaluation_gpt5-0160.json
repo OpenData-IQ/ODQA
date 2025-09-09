@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0160",
+  "run_at": "2025-09-01T02:24:18.419601Z",
+  "question_id": 160,
+  "question": "War der Vorname Maria in Bremen 2009 oder 2012 häufiger?",
+  "answer": "2012 wurde der Name Maria 41 mal vergeben und somit häufiger als 2009 mit 35",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2012. Maria wurde 2012 41‑mal vergeben, 2009 35‑mal.\n\nQuelle:\n- 2009: https://www.transparenz.bremen.de/de/datensatz/bremen248.c.9573.de\n- 2012: https://www.transparenz.bremen.de/de/datensatz/bremen248.c.9594.de",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie gibt die genaue Anzahl der Vergaben für beide Jahre an und liefert die entsprechenden Quellen-URLs, was die Antwort sehr gut nachvollziehbar macht."
+  }
+}

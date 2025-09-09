@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0166",
+  "run_at": "2025-09-04T15:54:54.107685Z",
+  "question_id": 166,
+  "question": "Wie viele Einwohner mit deutscher und ausländischer Staatsangehörigkeit lebten zum 31.12.2011 in der Gemeinde Langerwehe?",
+  "answer": "Zum Stichtag 31.12.2011 lebten in der Gemeinde Langerwehe 13.084 Personen mit deutscher und 611 Personen mit ausländischer Staatsangehörigkeit.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "- Mit deutscher Staatsangehörigkeit: 13.396 Einwohner\n- Mit ausländischer Staatsangehörigkeit: 1.176 Einwohner\n\nQuelle:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Landesdatenbank NRW: „Bevölkerung in den Gemeinden Nordrhein-Westfalens nach Geschlecht und Staatsangehörigkeit am 31.12.2011“ (Melderegisterfortschreibung), Gemeinde Langerwehe, Kreis Düren (AGS 05358-028).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebene Anzahl der Einwohner mit deutscher und ausländischer Staatsangehörigkeit stimmt nicht mit der Goldstandard-Antwort überein. Die Zahlen sind deutlich abweichend. Daher ist die Antwort inkorrekt."
+  }
+}

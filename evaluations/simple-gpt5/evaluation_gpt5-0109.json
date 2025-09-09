@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0109",
+  "run_at": "2025-09-04T15:04:47.548202Z",
+  "question_id": 109,
+  "question": "Wo steht, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten?",
+  "answer": "https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Kurz: Öffentlich ist das nirgends nachlesbar. Die Grundschulempfehlung steht nur in den individuellen Übergangsunterlagen der jeweiligen Schüler*innen (Beiblatt/Empfehlung zum Zeugnis Klasse 4). Sie wird in NRW nicht zentral/statistisch veröffentlicht und ist für die Aufnahme in Klasse 5 nicht bindend. Aggregierte Auswertungen (falls überhaupt erstellt) finden sich höchstens in kommunalen Schulentwicklungsplänen; für Soest wäre das der Schulentwicklungsplan der Stadt Soest.\n\nQuellen\n- Schulgesetz NRW (SchulG NRW), § 11 „Übergang von der Grundschule in die weiterführenden Schulen“: regelt das Verfahren und die (nicht bindende) Empfehlung der Grundschule.\n- Schulgesetz NRW, § 120 „Verarbeitung personenbezogener Daten in Schulen“: personenbezogene Schüler*innendaten (wie die Empfehlung) sind nicht öffentlich.\n- Ausbildungsordnung Grundschule (AO-GS; BASS 13-11 Nr. 1) sowie RdErl. „Übergang von der Grundschule in die weiterführenden Schulen“ (BASS 13-11 Nr. 2): legen Form und Aushändigung der Empfehlung/Übergangsunterlagen an die Erziehungsberechtigten fest.\n- Schulgesetz NRW, § 80 „Schulentwicklungsplanung“: Kommunen (z. B. Stadt Soest) erstellen Schulentwicklungspläne; dort werden teils aggregierte Übergangsdaten berichtet, sofern erhoben.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM correctly states that the information is not publicly available and explains why, citing relevant laws. It also provides the correct alternative where aggregated data might be found. The answer is comprehensive and accurate."
+  }
+}

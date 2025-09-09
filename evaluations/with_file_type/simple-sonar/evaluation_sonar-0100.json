@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0100",
+  "run_at": "2025-09-04T19:00:00.853139Z",
+  "question_id": 100,
+  "question": "Welche kostenlosen Freizeitangebote gibt es in 10117 Berlin?",
+  "answer": "Denkmal für die ermordeten Juden Europas, Forum Willy Brandt Berlin, Friedrichwerdersche Kirche, Mendelssohn-Remise, PalaisPopulaire, Tränenpalast, Werkbundarchiv - Museum der Dinge, Deutsche Kinemathek Museum für Film- und Fernsehen, Futurium",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In 10117 Berlin gibt es zahlreiche **kostenlose Freizeitangebote**, darunter:\n\n- **Haus der Zukünfte Futurium**: Ein interaktives Museum, das Zukunftsthemen spannend aufbereitet und kostenfreien Eintritt bietet[1].\n\n- **Tempelhofer Feld**: Ein großer öffentlicher Park auf dem ehemaligen Flughafen, ideal zum Spazieren, Radfahren, Skaten oder Picknicken[1].\n\n- **Spielplätze**: Berlin bietet viele schöne, kostenfreie Spielplätze, auch in der Nähe von 10117, die sich für Familien eignen[1].\n\n- **Volkspark Friedrichshain mit Märchenbrunnen**: Ein schöner Park zum Entspannen, Lesen oder einfach Verweilen auf den Bänken rund um den Brunnen[3].\n\n- **Kostenlose Sportangebote \"Berlin bewegt sich\"**: Im Sommer gibt es diverse kostenlose Sportkurse wie Yoga, Laufgruppen oder Urban Fitness an verschiedenen Orten in Berlin[3].\n\n- **Collage Concerts an der Hochschule für Musik**: Donnerstags gibt es kostenlose Konzerte von Studierenden, die öffentlich zugänglich sind[5].\n\n- **Ausblick von der TU Mensa am Ernst-Reuter-Platz**: Kostenloser Zugang zur Cafeteria mit tollem Blick über Berlin, ideal für eine Pause mit Aussicht[5].\n\n- **Kinderbauernhof im Görlitzer Park**: Ein kostenfreier Bauernhof mit Tieren zum Streicheln, auch für Erwachsene zugänglich[5].\n\nZusätzlich gibt es viele kostenlose kulturelle Events, Lesungen, Comedy und Theater, die regelmäßig in Berlin angeboten werden[2].\n\nDiese Angebote sind gut erreichbar von 10117 Berlin und bieten vielfältige Möglichkeiten, die Stadt kostenlos zu genießen[1][2][3][5].\n\n### Quellen\n- **[1]** www.familienreisefieber.de/kostenlose-aktivitaeten-berlin/ (www.familienreisefieber.de) – https://www.familienreisefieber.de/kostenlose-aktivitaeten-berlin/\n- **[2]** www.gratis-in-berlin.de/heute (www.gratis-in-berlin.de) – https://www.gratis-in-berlin.de/heute\n- **[3]** mitvergnuegen.com/2024/sommer-berlin-umsonst-draussen-tipps (mitvergnuegen.com) – https://mitvergnuegen.com/2024/sommer-berlin-umsonst-draussen-tipps\n- **[4]** spontacts.com/berlin (spontacts.com) – https://spontacts.com/berlin\n- –\n- mitvergnuegen.com/2015/11-schoene-sachen-die-ihr-in-berlin-kostenlos-machen-koennt (mitvergnuegen.com) – https://mitvergnuegen.com/2015/11-schoene-sachen-die-ihr-in-berlin-kostenlos-machen-koennt",
+  "judgement": {
+    "category": "problem_answer",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Antwort bietet viele Beispiele, aber sie enthält auch Angebote, die nicht direkt im PLZ-Gebiet 10117 liegen. Einige der im Goldstandard genannten Orte fehlen."
+  },
+  "file_type": "csv"
+}

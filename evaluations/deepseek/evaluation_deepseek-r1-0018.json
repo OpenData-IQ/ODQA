@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0018",
+  "run_at": "2025-09-01T19:56:58.110526Z",
+  "question_id": 18,
+  "question": "Wie viele Dioxine wurden 1994 in Frauenmilch nachgewiesen?",
+  "answer": "20,4 PCDD/PCDF",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Expecting value: line 2361 column 1 (char 12980)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Das Modell gab eine Fehlermeldung statt einer Antwort zurück und adressierte die Frage nicht."
+  }
+}

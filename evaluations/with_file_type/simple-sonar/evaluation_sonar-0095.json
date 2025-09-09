@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0095",
+  "run_at": "2025-09-04T18:59:16.110417Z",
+  "question_id": 95,
+  "question": "Von wem ist die Zweifachhalle Sprakel in Münster am Sonntag belegt?",
+  "answer": "MSC Münster City e.V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "XML-Datei ist nur über 759d6b77-c81a-44da-a775-781792e84217.html zu finden",
+  "llm_final": "Die Suchergebnisse enthalten keine spezifischen Informationen zur Belegung der Zweifachhalle Sprakel in Münster am kommenden Sonntag. Weder der Veranstaltungskalender noch die Seiten des Kulturamts oder anderer städtischer Einrichtungen listen eine Belegung oder Nutzung dieser Sporthalle an diesem Tag auf.\n\nFür eine genaue Auskunft zur Belegung der Zweifachhalle Sprakel am Sonntag empfiehlt sich die direkte Kontaktaufnahme mit dem Sportamt oder der zuständigen Verwaltung der Stadt Münster, da diese die aktuellen Belegungspläne für Sporthallen führen und bereitstellen.\n\nZusammengefasst: Die Belegung der Zweifachhalle Sprakel am Sonntag ist in den verfügbaren öffentlichen Online-Quellen nicht einsehbar. Eine Anfrage beim Sportamt Münster ist der beste Weg, um diese Information zu erhalten.\n\n### Quellen\n- **[1]** www.muenster.de/veranstaltungskalender/scripts/frontend/ausblendungen/frieden-komplett.php (www.muenster.de) – https://www.muenster.de/veranstaltungskalender/scripts/frontend/ausblendungen/frieden-komplett.php\n- **[2]** www.stadtdekanat-muenster.de/kreisdekanate/stadtdekanat-muenster/sonderseiten/startseite/ (www.stadtdekanat-muenster.de) – https://www.stadtdekanat-muenster.de/kreisdekanate/stadtdekanat-muenster/sonderseiten/startseite/\n- **[3]** www.muenster.de/veranstaltungskalender/scripts/frontend/tourismus/top-veranstaltungen.php (www.muenster.de) – https://www.muenster.de/veranstaltungskalender/scripts/frontend/tourismus/top-veranstaltungen.php?guestID=101\n- **[4]** www.betriebssport-nrw.de/SiB/archiv/sib219.pdf (www.betriebssport-nrw.de) – https://www.betriebssport-nrw.de/SiB/archiv/sib219.pdf\n- **[5]** www.stadt-muenster.de/kulturamt/startseite (www.stadt-muenster.de) – https://www.stadt-muenster.de/kulturamt/startseite",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zur Belegung gefunden wurden, obwohl laut Goldstandard die Halle vom MSC Münster City e.V. belegt ist. Die Antwort verweist auf fehlende Daten."
+  },
+  "file_type": "xml"
+}

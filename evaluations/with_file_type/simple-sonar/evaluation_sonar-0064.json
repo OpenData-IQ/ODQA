@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0064",
+  "run_at": "2025-09-04T18:55:42.889157Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Die Illustration \"Die Wanze stinkt\" aus der \"Biene Maja\"-Reihe von Peter Christian Rasmussen ist Teil eines Künstleralbums mit Radierungen von 1920. Dieses Album mit dem Titel \"Biene Maja\" enthält zehn Radierungen des Künstlers Peter Christian Rasmussen (1897–1935)[1]. \n\nAllerdings konnte in den verfügbaren Suchergebnissen keine direkte Quelle gefunden werden, die die Illustration \"Die Wanze stinkt\" in voller Auflösung zum Download oder zur Ansicht anbietet. Das Museumsportal Nord zeigt das Künstleralbum mit den Radierungen, aber es stellt keine hochauflösende Datei der einzelnen Illustrationen frei zugänglich bereit[1].\n\nFür eine hochauflösende Version der Illustration empfiehlt sich daher:\n\n- Kontaktaufnahme mit dem Museumsportal Nord oder der Institution, die das Künstleralbum besitzt, um eine Lizenz oder eine hochauflösende Kopie anzufragen.\n- Alternativ kann eine Anfrage bei Archiven oder Bibliotheken, die Werke von Peter Christian Rasmussen oder \"Biene Maja\"-Illustrationen führen, gestellt werden.\n\nEine direkte, frei verfügbare Vollauflösung der Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen konnte in den Suchergebnissen nicht gefunden werden.\n\n### Quellen\n- **[1]** museen-nord.de/en/objects/DE-MUS-076111/lido/dc00018511 (museen-nord.de) – https://museen-nord.de/en/objects/DE-MUS-076111/lido/dc00018511?ceid=7&no_cache=1&tx_joportal_listeneinstieg%5Bbrowse%5D=1&tx_joportal_listeneinstieg%5BjoDel%5D=1&tx_joportal_listeneinstieg%5Bjopaginatepage%5D=1&v=List\n- –\n- archive.org/stream/McGillLibrary-116647-551/116647_djvu.txt (archive.org) – https://archive.org/stream/McGillLibrary-116647-551/116647_djvu.txt\n- de.scribd.com/doc/144019645/Palabras-Mas-Usadas-Aleman (de.scribd.com) – https://de.scribd.com/doc/144019645/Palabras-Mas-Usadas-Aleman",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort behauptet, dass keine hochauflösende Version gefunden werden konnte, obwohl die Goldantwort einen direkten Link zur Vollauflösung liefert. Die Antwort ist daher sachlich falsch."
+  },
+  "file_type": "xml"
+}

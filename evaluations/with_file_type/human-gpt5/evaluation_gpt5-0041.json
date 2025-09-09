@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0041",
+  "run_at": "2025-08-31T22:09:00.559358Z",
+  "question_id": 41,
+  "question": "Welche Hausnummer ist in Leipzig die häufigste?",
+  "answer": "3",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "2046 Vorkommen für die Hausnummer 3",
+  "llm_final": "Hausnummer 3.\n\nBegründung: In der Leipziger Adressliste (adressen.csv) kommt die Hausnummer 3 am häufigsten vor (2.046 Einträge). Hausnummern mit Buchstaben-Zusätzen wie 3A wurden dabei separat gezählt.\n\nQuelle: Kommunale Gebietsgliederung Leipzig: Adressen (adressen.csv) – https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie nennt die richtige Hausnummer, begründet die Antwort mit der Häufigkeit in der Datenquelle und liefert die genaue Quelle inklusive URL."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0124",
+  "run_at": "2025-09-01T06:05:04.787314Z",
+  "question_id": 124,
+  "question": "Wie viele Einwohner im Alter von 30 bis unter 45 Jahren lebten am 31.12.2023 im Stadtbezirk Südost in Ingolstadt?",
+  "answer": "Am 31.12.2023 lebten 4598 Einwohner im Alter von 30 bis unter 45 Jahren im Stadtbezirk Südost in Ingolstadt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n\nDaher kann die Frage nach der Anzahl der Einwohner im Alter von 30 bis unter 45 Jahren im Stadtbezirk Südost in Ingolstadt am 31.12.2023 mit den vorliegenden Daten nicht beantwortet werden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM behauptet, die Frage könne mit den vorliegenden Daten nicht beantwortet werden, und liefert keinen Wert. Die Goldantwort nennt jedoch eindeutig 4598. Daher liegt ein „dataset(s) were not found“‑Fehler vor."
+  }
+}

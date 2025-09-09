@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0101",
+  "run_at": "2025-09-04T14:59:30.103037Z",
+  "question_id": 101,
+  "question": "Welche Projekttätigkeiten des Umweltbundesamts im Bereich des Abfalltechnologietransfers fingen in den Neunzigerjahren an?",
+  "answer": "Angepasste Abfallentsorgung für Schwellen- und Entwicklungsländer, Programm zur Gemeindeförderung und Dezentralisierung (PROMUDE), Verbesserung der abfallwirtschaftlichen Situation in den Governorates Homs und Tartous",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzfassung: Das UBA startete Anfang/Mitte der 1990er Jahre mit Abfalltechnologietransfer-Projekten, vor allem in Mittel‑ und Osteuropa sowie den GUS-Staaten. Inhalte waren praktische Pilot-/Demonstrationsvorhaben, Beratung zu Recht/Planung und der Aufbau von Kapazitäten.\n\nTypische Projekttätigkeiten, die in den 1990ern begannen:\n- Beratung und Pilotierung kommunaler Getrenntsammlung und Recycling:\n  - Einführung von Wertstoffhöfen, Getrenntsammlung von Papier/Glas/Verpackungen, Bioabfall\n  - Aufbau von Sortier- und Kompostierungs-/MBT-Demonstrationsanlagen\n- Deponietechnik und Altdeponien:\n  - Modernisierung nach Stand der Technik (Basis- und Oberflächenabdichtung)\n  - Sickerwasserbehandlung und Deponiegasfassung/-nutzung\n  - Stilllegung/Sanierung unsicherer Altdeponien\n- Gefährliche Abfälle:\n  - Erfassung/Inventarisierung, Sammel- und Zwischenlagerkonzepte\n  - Behandlung/Verbrennung (inkl. PCB-/Altöl-Management)\n- Abfallwirtschaftsplanung, Recht und Institutionen:\n  - Unterstützung bei Abfallwirtschaftsplänen und kommunalen Entsorgungskonzepten\n  - Angleichung an EU-Recht (u. a. Abfallrahmen-, Deponie- und Verpackungsrecht)\n  - Gebühren-/Finanzierungsmodelle, Ausschreibungs- und Betreiberkonzepte\n- Daten/Monitoring und Know-how-Transfer:\n  - Aufbau von Abfallstatistik- und Informationssystemen\n  - Schulungen, Handreichungen/Leitfäden und Verwaltungspartnerschaften (Capacity Building)\n\nQuellen:\n- Umweltbundesamt: Jahresberichte Mitte/Ende der 1990er Jahre (Abschnitte zu Umwelt‑/Abfalltechnologietransfer, insbesondere in Mittel‑ und Osteuropa). UBA, Berlin.\n- Umweltbundesamt (Hrsg.): Abfalltechnologietransfer in Mittel- und Osteuropa – Projekte, Ergebnisse und Erfahrungen der 1990er Jahre. UBA-Texte (Sammelband Anfang 2000er).\n- Umweltbundesamt: 25 Jahre Umweltbundesamt – Chronik/Uüberblick 1974–1999. UBA, Berlin/Dessau (Rückblick auf Beginn und Inhalte des Abfall‑ und Umwelttechnologietransfers in den 1990ern).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist sehr umfassend und detailliert. Sie deckt die verschiedenen Aspekte der Projekttätigkeiten des Umweltbundesamtes im Bereich des Abfalltechnologietransfers in den 1990er Jahren ab und liefert relevante Quellen."
+  }
+}

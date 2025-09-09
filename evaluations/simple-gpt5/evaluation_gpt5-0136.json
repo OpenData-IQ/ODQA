@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0136",
+  "run_at": "2025-09-04T15:28:56.719372Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Ja. Die Hanse- und Universitätsstadt Rostock veröffentlicht die Wahlbeteiligung der Bürgerschaftswahl 2024 feinräumig nach statistischen Stadtbereichen – darunter der Stadtbereich Biestow. In den amtlichen Ergebnisunterlagen finden Sie für Biestow u. a. Zahl der Wahlberechtigten, Zahl der Wählerinnen und Wähler sowie die Wahlbeteiligung in Prozent; verfügbar sowohl im Ergebnisportal als auch als offene Daten (CSV/XLSX) mit Auswertungen nach Stadtbereich und Stimmbezirk.\n\nQuellen:\n- Amt für Statistik und Wahlen, Hanse- und Universitätsstadt Rostock: Bürgerschaftswahl 2024 – endgültiges Ergebnis; Tabellen nach Stadtbereichen (inkl. Biestow). Ergebnisportal der Stadt Rostock (wahlen.rostock.de) und Veröffentlichungen des Amts für Statistik und Wahlen.\n- Open-Data-Portal der Hanse- und Universitätsstadt Rostock (opendata-hro.de): Datensätze „Bürgerschaftswahl 2024 – Ergebnisse/Wahlbeteiligung nach Stadtbereich und Stimmbezirk“ (CSV/XLSX), bereitgestellt vom Amt für Statistik und Wahlen.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und sehr umfassend. Sie nennt die relevanten Datenpunkte, die Verfügbarkeit (Ergebnisportal, Open Data) und verweist auf die korrekten Quellen, einschließlich der Open-Data-URL, die der Goldstandard-Antwort entspricht."
+  }
+}

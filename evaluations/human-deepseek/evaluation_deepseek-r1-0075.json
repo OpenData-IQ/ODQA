@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0075",
+  "run_at": "2025-09-01T21:21:55.891828Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "<FinalAnswer>\nAufgrund der aktuell verfügbaren Datensätze und der wiederholten Fehler bei der Datenverarbeitung konnte keine spezifische Information zu Fachabteilungen ohne Betten in Nordfriesland zum Stichtag 31.12.2023 ermittelt werden. Es wird empfohlen, direkt beim Statistischen Amt für Hamburg und Schleswig-Holstein nachzufragen oder die Daten unter folgendem Link zu überprüfen: [Statistikportal Nord](https://www.statistik-nord.de).\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Antwort liefert keine konkrete Liste der gesuchten Fachabteilungen und verweist stattdessen auf eine externe Quelle. Damit wurden die erforderlichen Daten nicht gefunden und die Frage nicht beantwortet."
+  }
+}

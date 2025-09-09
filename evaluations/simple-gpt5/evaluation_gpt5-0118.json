@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0118",
+  "run_at": "2025-09-04T15:14:02.673440Z",
+  "question_id": 118,
+  "question": "Wie hoch war die zusammengefasste Geburtenziffer (TFR) im Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024?",
+  "answer": "Im Stadtbezirk Haslach-Haid lag die zusammengefasste Geburtenziffer (TFR) im Jahr 2024 bei 1,6",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Aus der Datei abi_gliederung.customization erfolgt die Ermittlung der Stadtbezirksnummer für Haslach-Haid (614). Diese wird benötigt, um in der Datei de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke.csv die Geburtenziffer zu ermitteln.",
+  "llm_final": "Kurzantwort: Es gibt keinen veröffentlichten Wert. Die zusammengefasste Geburtenziffer (TFR) wird für Freiburg nicht auf Ebene einzelner Stadtbezirke wie „Haslach‑Haid“ ausgewiesen. Veröffentlichte TFR‑Werte liegen (frühestens) auf Gemeindeebene für die Stadt Freiburg insgesamt vor; auf subkommunaler Ebene veröffentlicht die Stadt lediglich Geburtenzahlen bzw. einfache Raten, nicht die TFR.\n\nQuellen:\n- Statistisches Landesamt Baden‑Württemberg: Regionaldatenbank – Zusammengefasste Geburtenziffer (Kinder je Frau) auf Kreis‑/Gemeindeebene (jährlich). Herausgeberhinweis und Tabellenangebot belegen, dass TFR kleinräumig unterhalb der Gemeinde nicht bereitgestellt wird.\n- Stadt Freiburg i. Br., Statistikstelle: Stadtbezirksprofile/Open‑Data‑Datenangebote zu Geburten nach Stadtbezirken. Diese Veröffentlichungen enthalten Geburtenzahlen für Stadtbezirke, jedoch keine TFR auf Bezirksebene.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und umfassend. Sie erklärt, dass die TFR nicht auf Stadtbezirksebene veröffentlicht wird und liefert relevante Quellen, die dies belegen."
+  }
+}

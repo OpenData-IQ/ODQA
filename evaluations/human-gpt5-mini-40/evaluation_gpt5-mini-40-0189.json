@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0189",
+  "run_at": "2025-09-06T17:07:08.416708Z",
+  "question_id": 189,
+  "question": "Wie viele Ausleihen hatte die Stadtteilbücherei Eller der Stadt Düsseldorf von 2008 bis 2018 insgesamt?",
+  "answer": "1953960 Ausleihen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadtteilbücherei Eller verzeichnete von 2008 bis 2018 insgesamt 1.953.960 Ausleihen.\n\nQuelle: Datensatz \"Jahreszahlen der Stadtbüchereien der Landeshauptstadt Düsseldorf\" (Stadtteilbücherei Eller) — https://opendata.duesseldorf.de/dataset/jahreszahlen-der-stadtb%C3%BCchereien-der-landeshauptstadt-d%C3%BCsseldorf",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Anzahl der Ausleihen und die relevante Quelle mit URL, was sie sehr nützlich macht."
+  }
+}

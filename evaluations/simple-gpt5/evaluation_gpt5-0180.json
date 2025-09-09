@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0180",
+  "run_at": "2025-09-04T16:05:34.154404Z",
+  "question_id": 180,
+  "question": "Wie viele Einwohner der Gemeinde Langerwehe sind im Jahr 2019 nach Hogwarts umgezogen?",
+  "answer": "Es sind keine Einwohner der Gemeinde Langerwehe im Jahr 2019 nach Hogwarts umgezogen, da Hogwarts eine fiktive Schule aus der Harry-Potter-Welt ist und nicht als reales Zuzugsziel existiert.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0\n\nBegründung: Hogwarts ist ein fiktiver Ort und kommt in amtlichen Melderegistern bzw. der Wanderungsstatistik nicht als zulässiges Ziel vor. Umzüge werden nur zu real existierenden Gemeinden im In- oder ins Ausland zu Staaten/Territorien erfasst.\n\nQuellen:\n- Bundesmeldegesetz (BMG), insbesondere §17 (Anmeldung) und §20 (Abmeldung ins Ausland) – regelt, dass An- und Abmeldungen nur zu realen Anschriften bzw. zu realen Staaten möglich sind. Herausgeber: Bundesministerium des Innern und für Heimat / Bundesgesetzblatt.\n- Statistisches Bundesamt (Destatis): Staats- und Gebieteverzeichnis (StAV) – verbindliche Liste der Staaten/Territorien für die amtliche Statistik; Hogwarts ist dort nicht enthalten.\n- Statistisches Bundesamt (Destatis): Gemeindeverzeichnis-Informationssystem (GV-ISys) – amtliches Verzeichnis der Gemeinden/Verwaltungseinheiten; Hogwarts ist dort nicht enthalten.\n- Rowling, J. K.: Harry Potter (Romanreihe) – belegt, dass „Hogwarts School of Witchcraft and Wizardry“ ein fiktiver Ort ist.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und umfassend. Sie erklärt klar, warum keine Umzüge nach Hogwarts stattfinden können, und liefert relevante Quellen zur Untermauerung der Aussage."
+  }
+}

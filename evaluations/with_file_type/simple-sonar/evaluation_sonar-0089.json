@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0089",
+  "run_at": "2025-09-04T18:58:38.551598Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Den Artikel mit dem Titel **\"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"** finden Sie auf der Webseite der Senats­pressestelle Bremen. Die URL beginnt mit https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-u..., was auf eine offizielle Pressemitteilung der Bremer Landesregierung hinweist[5].\n\nDie anderen Suchergebnisse enthalten verwandte Informationen zur Förderung von Professorinnen an der Universität Bremen, insbesondere im Rahmen des Professorinnenprogramms des Bundesministeriums für Bildung und Forschung (BMBF), sind aber nicht der gesuchte Artikel selbst[1][2]. \n\nFür den direkten Zugriff auf den Artikel empfiehlt sich die Suche auf der offiziellen Webseite der Senats­pressestelle Bremen oder eine gezielte Suche mit dem vollständigen Titel dort.\n\n### Quellen\n- **[1]** www.karriere-aktuell.de/uni-bremen-ist-wieder-erfolgreich-bei-der-foerderung-von-frauen-in-der-wissenschaft-20140922.html (www.karriere-aktuell.de) – https://www.karriere-aktuell.de/uni-bremen-ist-wieder-erfolgreich-bei-der-foerderung-von-frauen-in-der-wissenschaft-20140922.html\n- **[2]** up2date.uni-bremen.de/artikel/wie-die-universitaet-bremen-wissenschaftskarrieren-von-frauen-foerdert (up2date.uni-bremen.de) – https://up2date.uni-bremen.de/artikel/wie-die-universitaet-bremen-wissenschaftskarrieren-von-frauen-foerdert\n- **[3]** www.uni-bremen.de/fileadmin/user_upload/sites/zentrale-frauenbeauftragte/Berichte/Dokumentation_Professorinnenprogramm.pdf (www.uni-bremen.de) – https://www.uni-bremen.de/fileadmin/user_upload/sites/zentrale-frauenbeauftragte/Berichte/Dokumentation_Professorinnenprogramm.pdf\n- –\n- www.hs-bremen.de/assets/hsb/de/Dokumente/Gleichstellungsstelle/Gleichstellungsprogramme/Gender_Equality_Plan_2023%E2%80%932027_der_Hochschule_Bremen__6._Aktionsprogramm_zur_Gleichstellung.pdf (www.hs-bremen.de) – https://www.hs-bremen.de/assets/hsb/de/Dokumente/Gleichstellungsstelle/Gleichstellungsprogramme/Gender_Equality_Plan_2023%E2%80%932027_der_Hochschule_Bremen__6._Aktionsprogramm_zur_Gleichstellung.pdf\n- www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429 (www.senatspressestelle.bremen.de) – https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt die exakte URL des gesuchten Artikels und gibt zusätzliche Hinweise zur Auffindbarkeit. Sie ist vollständig und direkt umsetzbar."
+  },
+  "file_type": "xml"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0102",
+  "run_at": "2025-09-01T05:56:48.719812Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe zeigt einen Recursion-Limit-Fehler und keine inhaltliche Antwort. Daher ist es ein Problemfall mit Typ „recursion limit“."
+  }
+}

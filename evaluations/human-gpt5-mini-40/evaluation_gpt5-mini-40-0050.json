@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0050",
+  "run_at": "2025-09-06T11:20:39.009778Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Es gab 2014 insgesamt 971 tödliche Arbeits- und Wegeunfälle (Tödliche Unfälle gesamt).  \nQuelle: BAuA-Tabelle \"Tödliche Unfälle (Arbeitsunfälle und Wegeunfälle) 2014–2016\" (Spalte 2014).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie gibt die genaue Zahl an und nennt die Quelle, was die Antwort sehr glaubwürdig macht."
+  }
+}

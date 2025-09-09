@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0087",
+  "run_at": "2025-08-31T12:08:04.990622Z",
+  "question_id": 87,
+  "question": "Wie viele Weihnachtsbaum-Sammelstellen gibt es in 51145 Köln?",
+  "answer": "10",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Link führt zu HTML (62f568ac-8db1-410c-96dc-26b52209ad18.html) und dort gibt es erst die XML",
+  "llm_final": "In der Postleitzahl 51145 (Köln) gibt es 10 Weihnachtsbaum‑Sammelstellen.\n\nQuelle: AWB Köln – Sammelplätze Weihnachtsbäume (Datensatz): http://www.awbkoeln.de/geodaten/sammelplaetze-weihnachtsbaeume/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Sammelstellen an. Sie enthält auch eine relevante Quelle, die die Information bestätigt."
+  }
+}

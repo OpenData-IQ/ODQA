@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0095",
+  "run_at": "2025-09-04T14:51:21.640409Z",
+  "question_id": 95,
+  "question": "Von wem ist die Zweifachhalle Sprakel in Münster am Sonntag belegt?",
+  "answer": "MSC Münster City e.V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "XML-Datei ist nur über 759d6b77-c81a-44da-a775-781792e84217.html zu finden",
+  "llm_final": "Dazu liegen mir keine tagesaktuellen Hallenbelegungsdaten vor. Die Belegung der Zweifachhalle Sprakel am Sonntag wird vom Sportamt der Stadt Münster im offiziellen Hallenbelegungsplan veröffentlicht. Dort ist je Halle und Wochentag ersichtlich, welcher Verein/Verband zu welchen Zeiten eingetragen ist.\n\nQuellen:\n- Stadt Münster, Sportamt – Hallenbelegungspläne (Open Data: „Hallenbelegung Sporthallen (Wochenplan)“)\n- Stadt Münster, Sportamt – Offizielle Hallenbelegung/Belegungspläne je Sporthalle (zuständige Stelle für die Vergabe)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, keine tagesaktuellen Daten zu haben und verweist auf das Sportamt, anstatt die korrekte Belegung zu nennen. Die Antwort ist somit falsch, da sie die Frage nicht beantwortet."
+  }
+}

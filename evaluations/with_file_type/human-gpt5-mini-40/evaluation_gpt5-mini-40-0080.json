@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0080",
+  "run_at": "2025-09-06T12:36:13.524391Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden in Deutschland?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Für Umweltthermie (Luft/Wasser) sind 54.584 Wohnungen vermerkt, gefolgt von Gas mit 19.444 Wohnungen",
+  "llm_final": "Die beliebteste Heizenergie 2023 bei neuen Wohngebäuden in Deutschland war \"Umweltthermie (Luft/Wasser)\" (z. B. Luft/Wasser‑Wärmepumpen) — 46.357 neue Wohngebäude (Primärenergie, Wohngebäude insgesamt).\n\nQuelle: Statistik der Baugenehmigungen (Tabelle 31111, Regionalstatistik GENESIS) — https://www.regionalstatistik.de/genesisws/downloader/00/tables/31111-06-01-4_00.csv",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt für 2024. Es wird aber nach 2023 gefragt."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0068",
+  "run_at": "2025-09-06T12:06:56.022713Z",
+  "question_id": 68,
+  "question": "Wie viele Gemeinden hatten der Landkreis und die kreisfreie Stadt Leipzig am 31.12.23 zusammen?",
+  "answer": "31",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Es liegen noch leere Einträge der veralteten Regionalschlüssel vor",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
+  },
+  "file_type": "csv"
+}

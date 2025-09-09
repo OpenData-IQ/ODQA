@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0006",
+  "run_at": "2025-09-04T18:49:32.870027Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf deutschen Großmärkten?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Die Kosten für 100 kg Elstar-Äpfel aus Belgien auf deutschen Großmärkten in der Kalenderwoche 16 (KW16) im Jahr 2025 lagen bei etwa **155 Euro pro 100 kg**. Dieser Preis wurde in mehreren deutschen Großmärkten wie Frankfurt, Hamburg, Köln, München und Berlin angegeben[2].\n\nZur Einordnung: Die Preise für Elstar-Äpfel aus Belgien waren in KW16/2025 konstant bei 155 €/100 kg, was auf eine stabile Marktsituation hindeutet. Im Vergleich dazu lagen die Preise für Elstar-Äpfel aus Deutschland in der gleichen Zeit nicht explizit vor, aber tendenziell ähnlich oder leicht darunter[2].\n\nZusätzlich ist zu beachten, dass der Markt für Elstar-Äpfel aus Belgien laut einem Händlerbericht unter Druck steht, da die Qualität nachlässt und der Markt sich abschwächt, was sich möglicherweise auf die Preise auswirken könnte[5].\n\n**Kurzfassung:**\n- Preis Elstar Äpfel aus Belgien, lose, KW16/2025: ca. 155 €/100 kg auf deutschen Großmärkten (Frankfurt, Hamburg, Köln, München, Berlin)[2].\n- Markt für Elstar-Äpfel ist leicht unter Druck, Qualität nimmt ab[5].\n\nDiese Angaben basieren auf offiziellen Marktberichten des Bundesministeriums für Ernährung und Landwirtschaft (BMEL)[2].\n\n### Quellen\n- **[1]** www.bmel-statistik.de/fileadmin/daten/0010050-0000.pdf (www.bmel-statistik.de) – https://www.bmel-statistik.de/fileadmin/daten/0010050-0000.pdf\n- **[2]** www.bmel-statistik.de/fileadmin/daten/0010180-0000.pdf (www.bmel-statistik.de) – https://www.bmel-statistik.de/fileadmin/daten/0010180-0000.pdf\n- –\n- www.bmel-statistik.de/fileadmin/daten/0010020-0000.pdf (www.bmel-statistik.de) – https://www.bmel-statistik.de/fileadmin/daten/0010020-0000.pdf\n- www.fruchtportal.de/download/ble/8b5fcfc2 (www.fruchtportal.de) – https://www.fruchtportal.de/download/ble/8b5fcfc2\n- www.freshplaza.de/article/9742802/weltmarkt-apfel/ (www.freshplaza.de) – https://www.freshplaza.de/article/9742802/weltmarkt-apfel/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält den exakten Preis, relevante Markthintergründe und verweist auf die offizielle Quelle. Sie ist vollständig und direkt umsetzbar."
+  }
+}

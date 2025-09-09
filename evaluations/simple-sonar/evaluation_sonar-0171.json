@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0171",
+  "run_at": "2025-09-04T19:08:28.267528Z",
+  "question_id": 171,
+  "question": "Welche drei Vornamen wurden im Jahr 2020 in Kerpen am häufigsten vergeben und wie viele Kinder erhielten jeweils diese Namen?",
+  "answer": "Die drei am häufigsten vergebenen Vornamen in Kerpen im Jahr 2020 waren Sophie (14 Kinder), Marie (9 Kinder) und Maximilian (8 Kinder)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Für die Stadt Kerpen liegen in den Suchergebnissen keine spezifischen Daten zu den drei am häufigsten vergebenen Vornamen im Jahr 2020 vor. Die gefundenen Informationen beziehen sich entweder auf andere Städte, Regionen oder Länder (z.B. Schweiz, Gronau, Liechtenstein, Deutschland insgesamt), enthalten aber keine Kerpen-spezifischen Angaben[1][2][3][4][5].\n\nDie deutschlandweiten oder regionalen Top-Vornamen 2020 waren beispielsweise Noah, Ben, Matteo bei Jungen und Mia, Emilia, Hannah bei Mädchen, jedoch ohne konkrete Zahlen für Kerpen[4][5].\n\nOhne eine spezielle Quelle oder offizielle Statistik für Kerpen aus dem Jahr 2020 kann ich die drei häufigsten Vornamen und deren genaue Anzahl dort nicht nennen. Für solche lokale Daten empfiehlt sich eine Anfrage beim Standesamt Kerpen oder beim zuständigen Statistikamt der Stadt oder des Kreises Rhein-Erft, zu dem Kerpen gehört.\n\n### Quellen\n- **[1]** interaktiv.tagesanzeiger.ch/2020/der-kampf-der-vornamen (interaktiv.tagesanzeiger.ch) – https://interaktiv.tagesanzeiger.ch/2020/der-kampf-der-vornamen\n- **[2]** www.gronau.de/rathaus/news/2021/news-januar-2021/die-geburten-und-beliebtesten-vornamen-2020-in-gronau/ (www.gronau.de) – https://www.gronau.de/rathaus/news/2021/news-januar-2021/die-geburten-und-beliebtesten-vornamen-2020-in-gronau/\n- **[3]** www.statistikportal.li/de/news/vornamen-und-familiennamenstatistik-2020-veroeffentlicht (www.statistikportal.li) – https://www.statistikportal.li/de/news/vornamen-und-familiennamenstatistik-2020-veroeffentlicht\n- **[4]** www.beliebte-vornamen.de/jahrgang/j2020 (www.beliebte-vornamen.de) – https://www.beliebte-vornamen.de/jahrgang/j2020\n- **[5]** de.statista.com/infografik/12251/die-beliebtesten-vornamen/ (de.statista.com) – https://de.statista.com/infografik/12251/die-beliebtesten-vornamen/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt klar, dass keine spezifischen Daten für Kerpen 2020 gefunden wurden und verweist auf andere Regionen. Damit wurde die Frage nicht beantwortet, da die Daten nicht verfügbar sind."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0067",
+  "run_at": "2025-09-04T17:14:29.636026Z",
+  "question_id": 67,
+  "question": "Wo gab es am 30.06.24 mehr männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss? In Lübeck oder in Halle?",
+  "answer": "In Halle",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "In Halle gab es 1.489 ausländische männliche Beschäftigte mit akadem. Abschluss, in Lübeck 946.",
+  "llm_final": "Die spezifischen Daten zur Anzahl männlicher ausländischer sozialversicherungspflichtig Beschäftigter mit akademischem Abschluss in Lübeck und Halle (Saale) zum Stichtag 30.06.2024 sind in den verfügbaren Quellen nicht direkt zugänglich. Allerdings lassen sich anhand allgemeiner Beschäftigungsstatistiken und demografischer Merkmale einige Rückschlüsse ziehen.\n\nIn der Hansestadt Lübeck waren am 30.06.2024 insgesamt 170.417 Personen sozialversicherungspflichtig beschäftigt. ([arbeitsagentur.de](https://www.arbeitsagentur.de/vor-ort/luebeck/statistik?utm_source=openai)) Davon hatten 10,5 % (17.651 Personen) eine ausländische Staatsangehörigkeit. ([arbeitsagentur.de](https://www.arbeitsagentur.de/vor-ort/luebeck/presse/2023-40-jahresbilanz-hansestadt-lubeck-arbeitsmarkt-blieb-trotz-herausforderungen-stabil?utm_source=openai)) Detaillierte Angaben zum Anteil der Beschäftigten mit akademischem Abschluss oder zur Geschlechterverteilung innerhalb dieser Gruppe liegen jedoch nicht vor.\n\nFür Halle (Saale) sind in den verfügbaren Quellen keine spezifischen Daten zu sozialversicherungspflichtig Beschäftigten mit akademischem Abschluss oder zur Geschlechterverteilung innerhalb dieser Gruppe verfügbar.\n\nAuf Bundeslandebene zeigt sich, dass der Anteil der sozialversicherungspflichtig Beschäftigten mit akademischem Abschluss in Sachsen-Anhalt (zu dem Halle gehört) bei 14,8 % liegt, während er in Schleswig-Holstein (zu dem Lübeck gehört) 16,0 % beträgt. ([statistik-bw.de](https://www.statistik-bw.de/Arbeit/Beschaeftigte/SB_beschaeftQualifikation.jsp?utm_source=openai)) Diese Zahlen beziehen sich jedoch auf die Gesamtbevölkerung und nicht speziell auf ausländische oder männliche Beschäftigte.\n\nAngesichts der verfügbaren Daten ist es daher nicht möglich, eine definitive Aussage darüber zu treffen, ob am 30.06.2024 in Lübeck oder in Halle (Saale) mehr männliche ausländische sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss tätig waren. \n\n### Quellen\n- **[1]** Statistik | Agentur für Arbeit Luebeck (www.arbeitsagentur.de) – https://www.arbeitsagentur.de/vor-ort/luebeck/statistik?utm_source=openai\n- **[2]** Jahresbilanz Hansestadt Lübeck: Arbeitsmarkt blieb trotz Herausforderungen stabil | Bundesagentur für Arbeit (www.arbeitsagentur.de) – https://www.arbeitsagentur.de/vor-ort/luebeck/presse/2023-40-jahresbilanz-hansestadt-lubeck-arbeitsmarkt-blieb-trotz-herausforderungen-stabil?utm_source=openai\n- **[3]** Anteil der sozialversicherungspflichtig Beschäftigten mit hoher Qualifikation in Deutschland nach Bundesländern (www.statistik-bw.de) – https://www.statistik-bw.de/Arbeit/Beschaeftigte/SB_beschaeftQualifikation.jsp?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM states that it is not possible to make a definitive statement, which contradicts the gold standard answer. The LLM indicates that the specific data is not directly accessible, leading to an incorrect conclusion."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0191",
+  "run_at": "2025-09-04T19:10:26.342489Z",
+  "question_id": 191,
+  "question": "Welcher Stadtteil von Konstanz hatte im Jahr 2024 den höchsten natürlichen Bevölkerungssaldo?",
+  "answer": "Petershausen-West hatte im Jahr 2024 mit 43 den höchsten natürlichen Bevölkerungssaldo unter den Stadtteilen von Konstanz.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Stadtteil von Konstanz mit dem höchsten natürlichen Bevölkerungssaldo im Jahr 2024 ist aus den verfügbaren Daten nicht explizit benannt. Die detaillierten Stadtteilprofile 2024 der Stadt Konstanz enthalten umfangreiche demografische Daten, darunter Bevölkerungszahlen und Veränderungen bis 2023, jedoch wird der natürliche Saldo (Geburten minus Sterbefälle) für einzelne Stadtteile in den öffentlich zugänglichen Dokumenten nicht direkt ausgewiesen[1][3].\n\nDie Stadt Konstanz ist in 15 Stadtteile unterteilt, und die Einwohnerfortschreibung sowie die Statistik der Einwohnerbewegung werden von der Stadt selbst geführt. Die Daten zu Geburten und Sterbefällen sind vorhanden, aber eine Aufschlüsselung des natürlichen Saldos nach Stadtteilen für 2024 ist in den öffentlich verfügbaren Quellen nicht explizit dargestellt[3].\n\nUm den Stadtteil mit dem höchsten natürlichen Bevölkerungssaldo zu ermitteln, wäre eine Auswertung der Geburten- und Sterbefalldaten je Stadtteil notwendig, die in den offiziellen Stadtteilprofilen oder der Einwohnerfortschreibung der Stadt Konstanz vorliegen könnte. Diese Daten sind jedoch in den öffentlich zugänglichen Dokumenten nicht direkt ersichtlich.\n\nZusammenfassend: **Die öffentlich verfügbaren Datenquellen nennen nicht explizit, welcher Stadtteil von Konstanz im Jahr 2024 den höchsten natürlichen Bevölkerungssaldo hatte.** Für eine genaue Antwort wäre eine direkte Anfrage bei der Stadt Konstanz oder Einsicht in detaillierte interne Statistikberichte erforderlich[1][3].\n\n### Quellen\n- **[1]** www.konstanz.de/site/Konstanz/get/params_E248891382/635674/Konstanzer%20Stadtteilprofile%202024%20-%20Statistik-Bericht%202024-4.pdf (www.konstanz.de) – https://www.konstanz.de/site/Konstanz/get/params_E248891382/635674/Konstanzer%20Stadtteilprofile%202024%20-%20Statistik-Bericht%202024-4.pdf\n- **[2]** offenedaten-konstanz.de/catalog.xml (offenedaten-konstanz.de) – https://offenedaten-konstanz.de/catalog.xml\n- –\n- offenedaten-konstanz.de/dataset/geburten-und-sterbef-lle/resource/91e9c01e-48d6-4656-8140-1bd98c92db00 (offenedaten-konstanz.de) – https://offenedaten-konstanz.de/dataset/geburten-und-sterbef-lle/resource/91e9c01e-48d6-4656-8140-1bd98c92db00\n- planen-bauen.jena.de/system/files/2025-01/Jena%20Wohnstadt_Monitoring_2023_Januar%202025_Gesamtbericht.pdf (planen-bauen.jena.de) – https://planen-bauen.jena.de/system/files/2025-01/Jena%20Wohnstadt_Monitoring_2023_Januar%202025_Gesamtbericht.pdf\n- de.wikipedia.org/wiki/Konstanz (de.wikipedia.org) – https://de.wikipedia.org/wiki/Konstanz",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort stellt klar, dass die gesuchten Daten in den öffentlich verfügbaren Quellen nicht explizit vorhanden sind. Sie verweist auf die fehlende Ausweisung des natürlichen Saldos nach Stadtteilen für 2024."
+  },
+  "file_type": "csv"
+}

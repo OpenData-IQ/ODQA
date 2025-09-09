@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0112",
+  "run_at": "2025-09-04T19:01:35.475783Z",
+  "question_id": 112,
+  "question": "Welche Metzgerei ist in der Nähe des Pflegezentrums Hockenheim in Hockenheim?",
+  "answer": "S. Albert in der Rathhausstraße 31",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Als alternative Antwort kann auch Metzgerei Hauser als richtig gelten. Hier ist die Entfernung lt. Geodaten zwar größer, aber lt. Google der kürzere Fußweg. Alternative Nutzung von geojson: pflegeheime.json, metzgereien.json",
+  "llm_final": "Die nächstgelegene Metzgerei zum Pflegezentrum Hockenheim in Hockenheim ist die **Metzgerei Hauser GmbH**. Sie befindet sich in der Karlsruher Straße 12, 68766 Hockenheim, und bietet erstklassige Wurst- und Fleischwaren aus eigener Herstellung an[1][4]. \n\nDie Metzgerei Hauser ist zentral in Hockenheim gelegen und hat von Montag bis Freitag von 08:00 bis 18:00 Uhr sowie samstags von 07:30 bis 13:00 Uhr geöffnet[4]. \n\nWeitere Metzgereien in Hockenheim sind ebenfalls gelistet, jedoch ist die Metzgerei Hauser die prominenteste und am besten dokumentierte in der Nähe des Pflegezentrums[2].\n\n### Quellen\n- **[1]** hauser-metzgerei.de/de/metzgerei/ (hauser-metzgerei.de) – https://hauser-metzgerei.de/de/metzgerei/\n- **[2]** www.gelbeseiten.de/branchen/metzgerei/hockenheim (www.gelbeseiten.de) – https://www.gelbeseiten.de/branchen/metzgerei/hockenheim\n- **[3]** hauser-metzgerei.de/ (hauser-metzgerei.de) – https://hauser-metzgerei.de\n- –\n- hauser-metzgerei.de/de/metzgerei/filialen/ (hauser-metzgerei.de) – https://hauser-metzgerei.de/de/metzgerei/filialen/\n- www.schwetzinger-zeitung.de/orte/hockenheim_artikel,-hockenheim-hockenheimer-pflegedienst-offenloch-aus-zwei-mitarbeitern-wurden-ueber-200-_arid,2050751.html (www.schwetzinger-zeitung.de) – https://www.schwetzinger-zeitung.de/orte/hockenheim_artikel,-hockenheim-hockenheimer-pflegedienst-offenloch-aus-zwei-mitarbeitern-wurden-ueber-200-_arid,2050751.html",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt eine der beiden laut Bemerkung akzeptablen Metzgereien, liefert Adresse, Öffnungszeiten und mehrere Quellen. Sie ist umfassend und direkt umsetzbar."
+  }
+}

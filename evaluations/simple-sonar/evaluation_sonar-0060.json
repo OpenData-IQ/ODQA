@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0060",
+  "run_at": "2025-09-04T18:55:21.462359Z",
+  "question_id": 60,
+  "question": "Hat das Bürgerbüro Nord - Bremerhaven am Donnerstag oder am Freitag länger auf?",
+  "answer": "am Donnerstag",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Das Bürgerbüro Nord in Bremerhaven hat am **Donnerstag länger geöffnet als am Freitag**. Die Öffnungszeiten sind:\n\n- Donnerstag: 08:00 Uhr bis 13:00 Uhr  \n- Freitag: 08:00 Uhr bis 12:00 Uhr\n\nSomit ist das Bürgerbüro am Donnerstag eine Stunde länger geöffnet als am Freitag[1][2][3].\n\n### Quellen\n- **[1]** www.finanzen.bremen.de/visitenkarte/dl-buerger-und-ordnungsamt-buergerbuero-nord-48829 (www.finanzen.bremen.de) – https://www.finanzen.bremen.de/visitenkarte/dl-buerger-und-ordnungsamt-buergerbuero-nord-48829\n- **[2]** www.service.bremen.de/sixcms/detail.php (www.service.bremen.de) – https://www.service.bremen.de/sixcms/detail.php?gsid=bremen128.c.210216.de&template=00_html_to_pdf_d\n- **[3]** kennzeichen.express/pages/wunschkennzeichen/wunschkennzeichen-bremerhaven-nord (kennzeichen.express) – https://kennzeichen.express/pages/wunschkennzeichen/wunschkennzeichen-bremerhaven-nord\n- –\n- www.nordenham.de/de/ (www.nordenham.de) – https://www.nordenham.de/de/\n- bremerhavenbus.de/ (bremerhavenbus.de) – https://bremerhavenbus.de",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält die exakten Öffnungszeiten für beide Tage, erklärt den Unterschied klar und gibt mehrere relevante Quellen an. Sie ist vollständig und direkt umsetzbar."
+  }
+}

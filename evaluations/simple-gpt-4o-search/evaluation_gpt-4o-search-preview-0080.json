@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0080",
+  "run_at": "2025-09-04T17:16:22.690917Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden in Deutschland?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Für Umweltthermie (Luft/Wasser) sind 54.584 Wohnungen vermerkt, gefolgt von Gas mit 19.444 Wohnungen",
+  "llm_final": "Im Jahr 2023 wurden in Deutschland knapp zwei Drittel (64,6 %) der fertiggestellten Wohngebäude mit Wärmepumpen als primäre Heizenergiequelle ausgestattet. Dies entspricht einem Anstieg von 8 Prozentpunkten gegenüber dem Vorjahr und einer Verdopplung seit 2014, als der Anteil bei 31,8 % lag. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_N031_31_51.html?utm_source=openai))\n\nWärmepumpen kamen vor allem in Ein- und Zweifamilienhäusern zum Einsatz: In 68,9 % dieser Gebäude wurde eine Wärmepumpe als primäre Heizenergie genutzt, während der Anteil in Mehrfamilienhäusern bei 41,1 % lag. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_N031_31_51.html?utm_source=openai))\n\nAls zweitwichtigste primäre Energiequelle wurde im Jahr 2023 in 20,1 % der Neubauten Erdgas eingesetzt. Der Anteil von Gasheizungen als primäre Energiequelle hat sich binnen zehn Jahren mehr als halbiert: 2014 lag er noch bei 50,7 %. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_N031_31_51.html?utm_source=openai))\n\nInsgesamt wurden im Jahr 2023 in Deutschland 96.800 Wohngebäude fertiggestellt. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_N031_31_51.html?utm_source=openai)) \n\n### Quellen\n- **[1]** Mehr als zwei Drittel der im Jahr 2024 errichteten Wohngebäude heizen mit Wärmepumpen - Statistisches Bundesamt (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_N031_31_51.html?utm_source=openai}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Angaben aus der LLM-Antwort beziehen sich auf eine Pressemitteilung mit Zahlen aus dem Jahr 2024."
+  }
+}

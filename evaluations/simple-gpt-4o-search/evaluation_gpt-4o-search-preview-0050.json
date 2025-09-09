@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0050",
+  "run_at": "2025-09-04T17:11:53.080404Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Im Jahr 2014 wurden in Deutschland insgesamt 639 tödliche Arbeitsunfälle verzeichnet. ([haufe.de](https://www.haufe.de/personal/hr-management/arbeitssicherheit-mehr-toedliche-arbeitsunfaelle_80_331806.html?utm_source=openai)) Zusätzlich ereigneten sich 332 tödliche Wegeunfälle. ([rehm-verlag.de](https://www.rehm-verlag.de/arbeitsrecht-und-tarifrecht/aktuelle-beitraege-zum-arbeitsrecht-und-tarifrecht/weniger-arbeitsunfaelle-2014-bericht-zum-arbeitsschutz/?utm_source=openai)) Somit gab es im Jahr 2014 insgesamt 971 tödliche Arbeits- und Wegeunfälle. \n\n### Quellen\n- **[1]** Arbeitssicherheit: Mehr tödliche Arbeitsunfälle | Personal | Haufe (www.haufe.de) – https://www.haufe.de/personal/hr-management/arbeitssicherheit-mehr-toedliche-arbeitsunfaelle_80_331806.html?utm_source=openai\n- **[2]** Weniger Arbeitsunfälle 2014 – Bericht zum Arbeitsschutz (www.rehm-verlag.de) – https://www.rehm-verlag.de/arbeitsrecht-und-tarifrecht/aktuelle-beitraege-zum-arbeitsrecht-und-tarifrecht/weniger-arbeitsunfaelle-2014-bericht-zum-arbeitsschutz/?utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genaue Zahl 971, die mit der Goldstandard-Antwort übereinstimmt. Sie bietet eine detaillierte Aufschlüsselung der Arbeits- und Wegeunfälle sowie relevante Quellen, was die Antwort umfassend und nachvollziehbar macht."
+  }
+}

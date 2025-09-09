@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0055",
+  "run_at": "2025-09-06T11:29:04.499053Z",
+  "question_id": 55,
+  "question": "An welche IBAN soll ich meine Kraftfahrzeugssteuer entrichten, wenn ich nicht am Lastschrifteinzugsverfahren teilnehme und in Halle (Saale) wohne?",
+  "answer": "DE96 8600 0000 0086 0011 60",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Domänenwissen erforderlich: Halle gehört zur KfZ-Stelle Magdeburg",
+  "llm_final": "Wenn Sie in Halle (Saale) wohnen und nicht am Lastschrifteinzugsverfahren teilnehmen, ist das zuständige Hauptzollamt: Hauptzollamt Magdeburg. Die Bankverbindung lautet:\n\n- IBAN: DE96 8600 0000 0086 0011 60  \n- BIC: MARKDEF1860  \n- Institut: Bundesbank – Filiale Leipzig\n\nBitte bei der Überweisung als Verwendungszweck Ihr Name und das Kfz-Kennzeichen (und ggf. das auf dem Bescheid angegebene Akten-/Vorgangszeichen) angeben.\n\nQuellen: Zoll-OpenData (Dienststellen und Bundeskassen): zoll_dienststellen_kfz.csv und opendata_kfz (Bundeskassen-IBANs).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die richtige IBAN, den BIC, das Institut und wichtige Hinweise für den Verwendungszweck. Die Quellenangaben sind ebenfalls hilfreich."
+  },
+  "file_type": "csv"
+}

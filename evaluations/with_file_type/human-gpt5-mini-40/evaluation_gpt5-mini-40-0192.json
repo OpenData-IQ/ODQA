@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0192",
+  "run_at": "2025-09-06T17:11:34.663476Z",
+  "question_id": 192,
+  "question": "In welchem Ortsteil von Linnich lebten zum Stichtag 31.12.2010 mehr Ausländer, in Boslar oder Ederen?",
+  "answer": "in Ederen",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Ederen: 22, Boslar: 12",
+  "llm_final": "Ederen. Am 31.12.2010 lebten in Boslar 12 Ausländer und in Ederen 22 Ausländer. Quelle: offenedaten.kdvz.nrw (Einwohner nach Ortsteilen Linnich, Stichtag 31.12.2010).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und liefert die genauen Zahlen für beide Ortsteile sowie die Quelle. Dies macht die Antwort sehr vollständig und nachvollziehbar."
+  },
+  "file_type": "csv"
+}

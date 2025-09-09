@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0073",
+  "run_at": "2025-09-01T05:38:02.832106Z",
+  "question_id": 73,
+  "question": "Wessen Kanalnetz war 2022 das längere? Rotenburg (Wümme) oder Heidekreis?",
+  "answer": "Rotenburg (Wümme)",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Suche nach \"Kanalnetz 2022 Rotenburg Wümme Heidekreis\" liefert keine relevanten Ergebnisse. Die gefundenen Datensätze beziehen sich auf Schutzsuchende, Ausländer, Wohnungslose, Personenkraftwagen, Kraftfahrzeugbestand und Gebietsfläche, aber nicht auf Kanalnetze. Es ist möglich, dass die Daten zum Kanalnetz unter einem anderen Begriff oder in einer anderen Datenbank verfügbar sind.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das Modell gab an, keine relevanten Daten zu finden, und beantwortete die Vergleichsfrage nicht. Es lieferte weder eine Entscheidung noch Quellen zum Kanalnetz."
+  }
+}

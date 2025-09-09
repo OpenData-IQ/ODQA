@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0140",
+  "run_at": "2025-09-04T19:04:46.051689Z",
+  "question_id": 140,
+  "question": "Gibt es Daten zur Anzahl der Einwohner in Nörvenich im Jahr 2012, aufgeschlüsselt nach Alter und Staatsangehörigkeit?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-n%C3%B6rvenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine Aufstellung der Einwohnerzahlen in Nörvenich zum Stichtag 31.12.2012, differenziert nach Altersgruppen und Staatsangehörigkeit.",
+  "llm_final": "Ja, es gibt Daten zur Anzahl der Einwohner in Nörvenich im Jahr 2012, aufgeschlüsselt nach Alter und Staatsangehörigkeit. Diese Daten sind in einer Datensammlung verfügbar, die die Einwohnerzahlen nach Altersgruppen und der Unterscheidung „deutsch“ und „nichtdeutsch“ enthält[4]. \n\nDas Kommunalprofil von Nörvenich enthält zudem Bevölkerungsstrukturdaten, die auf der Bevölkerungsfortschreibung basieren, mit Angaben zur Altersverteilung und zur Staatsangehörigkeit (deutsch/nichtdeutsch) ab dem Jahr 2000, beeinflusst durch die Reform des Staatsangehörigkeitsrechts von 1999[1]. \n\nFür das Jahr 2012 sind demnach detaillierte demografische Daten vorhanden, die auch die Staatsangehörigkeit berücksichtigen. Diese Daten können über das Open Data Portal NRW (offenedaten.kdvz.nrw) als Datensatz „Einwohner nach Alter und Staatsangehörigkeit Nörvenich 2012“ abgerufen werden[4].\n\nZusätzlich bieten die statistischen Landesämter und kommunalen Datenquellen wie Wegweiser Kommune weitere demografische Entwicklungen, allerdings meist für Zeiträume ab 2016 oder später[2][5].\n\n**Kurzfassung:**\n- Einwohnerzahlen Nörvenich 2012 nach Alter und Staatsangehörigkeit sind verfügbar.\n- Datenquelle: Open Data Portal NRW, Kommunalprofil Nörvenich, Bevölkerungsfortschreibung IT.NRW.\n- Staatsangehörigkeit wird in „deutsch“ und „nichtdeutsch“ unterschieden.\n- Altersgruppen sind detailliert erfasst.\n\nFalls Sie die genauen Zahlen benötigen, kann der Datensatz von offenedaten.kdvz.nrw heruntergeladen werden[4].\n\n### Quellen\n- **[1]** statistik.nrw/sites/default/files/municipalprofiles/l05358052.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05358052.pdf\n- **[2]** www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2016-2019+tabelle.pdf (www.wegweiser-kommune.de) – https://www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2016-2019+tabelle.pdf\n- **[3]** ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/norvenich/20158283/4 (ugeo.urbistat.com) – https://ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/norvenich/20158283/4\n- **[4]** offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-n%C3%B6rvenich (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-n%C3%B6rvenich\n- –\n- www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2012-2022+tabelle.csv (www.wegweiser-kommune.de) – https://www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2012-2022+tabelle.csv",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält die exakte Datenquelle aus der Goldantwort, liefert zusätzliche relevante Quellen und eine klare Zusammenfassung. Sie ist umfassend und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

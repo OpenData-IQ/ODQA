@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0042",
+  "run_at": "2025-09-04T17:09:55.429673Z",
+  "question_id": 42,
+  "question": "Wo finde ich heraus, ob es ein Zertifikat für meinen Altersvorsorgenvertrag gibt?",
+  "answer": "https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Um festzustellen, ob Ihr Altersvorsorgevertrag zertifiziert ist, sollten Sie nach der sechsstelligen Zertifizierungsnummer suchen. Diese Nummer wird von der Zertifizierungsstelle des Bundeszentralamts für Steuern (BZSt) vergeben und ist ein Indikator für die Zertifizierung des Produkts. Der Anbieter ist verpflichtet, diese Zertifizierungsnummer in den Anträgen auf Abschluss eines Vertrags und/oder den Vertragsbedingungen anzugeben. Sie befindet sich auch oben links auf der zweiten Seite des Muster-Produktinformationsblattes (Muster-PIB) sowie des individuellen Produktinformationsblattes. Das Muster-PIB finden Sie auf der Internetseite Ihres jeweiligen Anbieters. Das individuelle Produktinformationsblatt händigt Ihnen Ihr Anbieter vor Vertragsabschluss aus. ([karriere.bzst.de](https://karriere.bzst.de/DE/Unternehmen/RenteVorsorge/ZertifizierungAltersvorsorgeprodukte/FAQ/faq_node.html?utm_source=openai))\n\nBitte beachten Sie, dass die Zertifizierung lediglich bestätigt, dass der Vertrag die gesetzlichen Anforderungen für die staatliche Förderung erfüllt. Sie stellt jedoch kein Gütesiegel für die Qualität oder Wirtschaftlichkeit des Produkts dar. Es wird empfohlen, vor Vertragsabschluss eine umfassende Beratung in Anspruch zu nehmen, um sicherzustellen, dass der Vertrag Ihren individuellen Bedürfnissen entspricht. ([tagesspiegel.de](https://www.tagesspiegel.de/wirtschaft/altersvorsorge-gutesiegel-vom-staat-burgt-nicht-fur-anlagequalitat-825361.html?utm_source=openai)) \n\n### Quellen\n- **[1]** BZSt - Fragen und Antworten (karriere.bzst.de) – https://karriere.bzst.de/DE/Unternehmen/RenteVorsorge/ZertifizierungAltersvorsorgeprodukte/FAQ/faq_node.html?utm_source=openai\n- **[2]** Wirtschaft: Altersvorsorge: Gütesiegel vom Staat bürgt nicht für Anlagequalität (www.tagesspiegel.de) – https://www.tagesspiegel.de/wirtschaft/altersvorsorge/gutesiegel-vom-staat-burgt-nicht-fur-anlagequalitat-825361.html?utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend und korrekt. Sie erklärt, wo die Zertifizierungsnummer zu finden ist und liefert relevante Hintergrundinformationen sowie weiterführende Links."
+  }
+}

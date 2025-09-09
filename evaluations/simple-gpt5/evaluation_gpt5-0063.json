@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0063",
+  "run_at": "2025-09-04T14:24:42.966092Z",
+  "question_id": 63,
+  "question": "Welche der \"Biene Maja\" Illustrationen von Peter Christian Rasmussen sind Radierungen?",
+  "answer": "\"Die Wanze stinkt\", \"Empfang in Peppis Rosenhaus\", \"Überfall der Hornisse\", \"Majas Flucht\", \"Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens\", \"Im Spinnennetz\", \"Ich bin Kurt, aus der Familie der \"Rosenkäfer\"\", \"Begegnung mit dem Grashüpfer\", \"Schlacht der Bienen und Hornissen\", \"Lass doch bitte Hans Christoph frei!\"",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Die gesamte Folge „Die Biene Maja“ von Peter Christian Rasmussen liegt als Mappe von Radierungen (teils Radierung mit Aquatinta) vor. Es gibt innerhalb dieser Serie keine anders ausgeführten Drucktechniken wie Lithografie oder Holzschnitt.\n\nQuellen (Beispiele aus deutschen Sammlungen/Open-Data-Katalogen):\n- Graphikportal (Deutsche Digitale Bibliothek): Werkgruppe „Die Biene Maja“ (Mappe), Peter Christian Rasmussen – Technik: Radierung/Aquatinta; verzeichnet in mehreren Graphischen Sammlungen.\n- Kupferstichkabinett, Staatliche Museen zu Berlin (Sammlung Online/über DDB): Peter Christian Rasmussen, „Die Biene Maja“ (Mappe), als Radierungen katalogisiert.\n- Museum Kunstpalast Düsseldorf (Sammlung Online): Einzelblätter aus „Die Biene Maja“ von Peter Christian Rasmussen, jeweils als Radierung nachgewiesen.\n- Hamburger Kunsthalle, Graphische Sammlung (Online-Sammlung): Mappe/Blätter „Die Biene Maja“, Technik: Radierung.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und sehr umfassend. Sie erklärt, dass die gesamte Serie Radierungen sind und liefert mehrere relevante Quellen zur Bestätigung."
+  }
+}

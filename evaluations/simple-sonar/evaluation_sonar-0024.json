@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0024",
+  "run_at": "2025-09-04T18:51:27.371511Z",
+  "question_id": 24,
+  "question": "Wann wurden die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim gezählt?",
+  "answer": "Am 15.10.2018 um 15 Uhr, da waren es 320",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim wurden im Jahr 2023 gezählt, wobei rund 810.000 Radfahrende die Brücke nutzten. Dies war eine Steigerung gegenüber 2022, als etwa 780.000 Radfahrende registriert wurden. Konkrete Zahlen zu Fußgängern an dieser Brücke liegen in den verfügbaren Daten nicht vor, da die Zählstellen vor allem den Radverkehr erfassen[1][2].\n\nDie Zählungen erfolgen mittels Induktionsschleifen im Boden an 19 Dauerzählstellen im Stadtgebiet Mannheim, darunter auch an der Konrad-Adenauer-Brücke. Die Daten dienen der Verkehrsplanung und zeigen, dass die Brücke eine wichtige Route für Radfahrende ist, auch wenn sie nicht die meistfrequentierte ist (die Kurpfalzbrücke führt mit knapp 2 Mio. Radfahrenden)[1][3].\n\nZusammengefasst:\n- **Jahr mit den meisten Radfahrenden an der Konrad-Adenauer-Brücke (Süd): 2023**\n- **Anzahl Radfahrende 2023: ca. 810.000**\n- **Fußgängerzahlen an dieser Brücke sind nicht explizit erfasst oder veröffentlicht**[1][2][3].\n\n### Quellen\n- **[1]** www.mannheim.de/de/nachrichten/rund-79-mio-radfahrende-an-19-zaehlstellen (www.mannheim.de) – https://www.mannheim.de/de/nachrichten/rund-79-mio-radfahrende-an-19-zaehlstellen\n- **[2]** www.mannheim.de/de/presse/rund-79-mio-radfahrende-an-19-zaehlstellen-wichtige-daten-fuer-den-weiteren-ausbau (www.mannheim.de) – https://www.mannheim.de/de/presse/rund-79-mio-radfahrende-an-19-zaehlstellen-wichtige-daten-fuer-den-weiteren-ausbau\n- **[3]** www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/dauerradzaehlstellen-fuer-den-radverkehr (www.mannheim.de) – https://www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/dauerradzaehlstellen-fuer-den-radverkehr\n- –\n- www.rhein-neckar-industriekultur.de/route/mannheims-bruecken-rund-um-die-innenstadt (www.rhein-neckar-industriekultur.de) – https://www.rhein-neckar-industriekultur.de/route/mannheims-bruecken-rund-um-die-innenstadt\n- www.adfc-bw.de/fileadmin/dateien/Landesverband/Texte/Radverkehr-vor-Ort/Mannheim.pdf (www.adfc-bw.de) – https://www.adfc-bw.de/fileadmin/dateien/Landesverband/Texte/Radverkehr-vor-Ort/Mannheim.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort liefert aggregierte Jahreszahlen und ignoriert die konkrete Tages- und Uhrzeitangabe der Goldantwort. Sie beantwortet die Frage nicht korrekt und ist daher falsch."
+  }
+}

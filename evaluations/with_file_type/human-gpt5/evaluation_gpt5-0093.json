@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0093",
+  "run_at": "2025-09-01T00:06:42.442794Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Glascontainer steht in Mannsdorf (Gemeinde Schierling, Landkreis Regensburg) an der „letzten Straße rechts vor der Scheune“, 84069 Schierling.\nKoordinaten (WGS84): 48.809083 N, 12.144333 E\n\nQuelle: Entsorgungseinrichtungen im Landkreis Regensburg\nDataset-URI: https://open.bydata.de/api/hub/repo/datasets/https-lk-regensburg-bydata-de-dataset-enstsorgungseinrichtungen",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer is perfectly aligned with the gold standard, providing the exact location and coordinates. It also includes the source and a dataset URI, making it comprehensive and actionable."
+  },
+  "file_type": "xml"
+}

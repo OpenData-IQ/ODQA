@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0106",
+  "run_at": "2025-09-04T15:02:40.296746Z",
+  "question_id": 106,
+  "question": "Hatte die Stadt Oldenburg 2024 mehr oder weniger Einnahmen aus der Hundesteuer als 2014?",
+  "answer": "Die Stadt Oldenburg hatte 2024 mehr Einnahmen aus der Hundesteuer als 2014",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2014: 650.000€, 2024: 813.000€",
+  "llm_final": "Mehr.\n\nQuellen:\n- Stadt Oldenburg – Haushaltsplan 2024, Ergebnisplan/Teilergebnisplan Finanzen: Position „Erträge aus Hundesteuer“ (Ratsinformationssystem/Haushaltsplan-Dokumente der Stadt Oldenburg).\n- Stadt Oldenburg – Haushaltsplan 2014 bzw. Jahresabschluss 2014: Position „Erträge aus Hundesteuer“ (Ratsinformationssystem/Haushaltsplan- und Abschlussdokumente der Stadt Oldenburg).\n- Niedersächsisches Landesamt für Statistik (Gemeindefinanzstatistik): Einnahmen der Gemeinden aus Steuern nach Arten, darunter Hundesteuer, für die Gemeinde Oldenburg (Jahreswerte).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und präzise. Sie liefert nicht nur die richtige Antwort, sondern auch detaillierte und relevante Quellen, die die Aussage untermauern."
+  }
+}

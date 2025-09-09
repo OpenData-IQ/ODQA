@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0058",
+  "run_at": "2025-09-04T14:20:58.759443Z",
+  "question_id": 58,
+  "question": "In welchem Essener Stadtteil gibt es 2023 die wenigsten Haushalte mit drei oder mehr Kindern?",
+  "answer": "Fulerum",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In Fulerum gab 2023 nur 18 Haushalte mit drei oder mehr Kindern",
+  "llm_final": "Stadtkern — 0 Haushalte mit drei oder mehr Kindern (2023).\n\nQuelle: Stadt Essen, Amt für Statistik, Stadtforschung und Wahlen – Tabellen „Haushalte mit Kindern nach Zahl der Kinder (Stadtteile), Stand 31.12.2023“ (Kleinräumige Statistik/Statistikportal der Stadt Essen).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt den Stadtteil Stadtkern mit 0 Haushalten, während die Goldstandard-Antwort Fulerum mit 18 Haushalten angibt. Die LLM-Antwort ist somit falsch. Die Quelle ist korrekt, aber die Information daraus wurde falsch interpretiert."
+  }
+}

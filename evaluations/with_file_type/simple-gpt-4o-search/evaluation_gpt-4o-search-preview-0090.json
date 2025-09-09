@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0090",
+  "run_at": "2025-09-04T17:18:08.226209Z",
+  "question_id": 90,
+  "question": "Welche Auswirkung hatte der Friedensvertrag von Versailles auf die Landkreise und Gemeinden in Bayern?",
+  "answer": "Durch den Friedensvertrag von Versailles wurden der Landkreis Sankt Ingbert, 11 Gemeinden des Landkreises Homburg und 15 Gemeinden des Landkreises Zweibrücken im Regierungsbezirk Pfalz dem Saargebiet zugeteilt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Zeile 885 im XML-Dokument",
+  "llm_final": "Der Friedensvertrag von Versailles, der nach dem Ersten Weltkrieg 1919 unterzeichnet wurde, hatte direkte Auswirkungen auf die territorialen Grenzen Bayerns, insbesondere im Regierungsbezirk Pfalz. Durch den Vertrag wurden westliche Teile der Pfalz vom Freistaat Bayern abgetrennt und dem neu geschaffenen Saargebiet unterstellt, das unter der Verwaltung des Völkerbundes stand. Konkret betraf dies das Bezirksamt St. Ingbert, große Teile des Bezirksamtes Homburg sowie Teile des Bezirksamtes Zweibrücken. Diese Gebiete wurden in das Saargebiet eingegliedert, wodurch Bayern einen Teil seines Territoriums verlor. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Pfalz_%28Bayern%29?utm_source=openai))\n\nZusätzlich kam es 1920 zu einer Gebietsveränderung zugunsten Bayerns: Nach einer Volksabstimmung am 30. November 1919 wurde der Landesteil Coburg des ehemaligen Freistaates Coburg und Sachsen-Gotha in den Freistaat Bayern eingegliedert und dem Kreis Oberfranken zugeordnet. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Verwaltungsgliederung_des_Deutschen_Reichs_1925?utm_source=openai))\n\nDiese Gebietsveränderungen führten zu Anpassungen in der Verwaltungsstruktur Bayerns, insbesondere in den betroffenen Landkreisen und Gemeinden. Die Abtretung von Gebieten an das Saargebiet bedeutete für die betroffenen Gemeinden den Verlust ihrer bisherigen Zugehörigkeit zu Bayern und eine Neuausrichtung unter der Verwaltung des Völkerbundes. Die Eingliederung Coburgs erforderte hingegen die Integration neuer Gemeinden in die bayerische Verwaltungsstruktur. \n\n### Quellen\n- **[1]** Pfalz (Bayern) (de.wikipedia.org) – https://de.wikipedia.org/wiki/Pfalz_%28Bayern%29?utm_source=openai\n- **[2]** Verwaltungsgliederung des Deutschen Reichs 1925 (de.wikipedia.org) – https://de.wikipedia.org/wiki/Verwaltungsgliederung_des_Deutschen_Reichs_1925?utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und sehr detailliert. Sie nennt die betroffenen Gebiete in der Pfalz und ergänzt relevante Informationen zur Eingliederung Coburgs, was die Antwort umfassender macht als die Goldstandard-Antwort."
+  },
+  "file_type": "xml"
+}

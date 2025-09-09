@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0055",
+  "run_at": "2025-09-04T18:54:56.075952Z",
+  "question_id": 55,
+  "question": "An welche IBAN soll ich meine Kraftfahrzeugssteuer entrichten, wenn ich nicht am Lastschrifteinzugsverfahren teilnehme und in Halle (Saale) wohne?",
+  "answer": "DE96 8600 0000 0086 0011 60",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Domänenwissen erforderlich: Halle gehört zur KfZ-Stelle Magdeburg",
+  "llm_final": "Wenn Sie in Halle (Saale) wohnen und nicht am SEPA-Lastschrifteinzugsverfahren für die Kraftfahrzeugsteuer teilnehmen, müssen Sie die Zahlung **manuell an das zuständige Hauptzollamt** überweisen. Die genaue IBAN wird im Steuerbescheid angegeben, den Sie nach der Zulassung Ihres Fahrzeugs erhalten. Dort finden Sie unter dem Abschnitt „Zahlungsaufforderung“ die Höhe des Betrags, das Fälligkeitsdatum und die IBAN für die Überweisung[3][5].\n\nDas zuständige Hauptzollamt für Halle (Saale) ist in der Regel das Hauptzollamt Halle. Die IBAN ist nicht pauschal öffentlich angegeben, da sie individuell im Steuerbescheid genannt wird. Wenn Sie kein SEPA-Lastschriftmandat erteilen, erhalten Sie einen Steuerbescheid mit den Zahlungsinformationen, inklusive der IBAN, an Ihre Adresse[3][5].\n\nZusammengefasst:\n\n- Sie erhalten einen Steuerbescheid mit der IBAN des Hauptzollamts Halle.\n- Überweisen Sie die Kraftfahrzeugsteuer dann manuell unter Angabe des Verwendungszwecks (z.B. Ihr Kfz-Kennzeichen).\n- Ohne SEPA-Lastschriftmandat erfolgt keine automatische Abbuchung.\n\nFalls Sie die IBAN vorab benötigen oder Fragen haben, können Sie das Hauptzollamt Halle direkt kontaktieren oder auf der Webseite des Zolls nach den Kontodaten fragen. Ein allgemeines SEPA-Lastschriftmandat-Formular (Formular 032021) ist für die Teilnahme am Lastschriftverfahren vorgesehen, nicht für manuelle Zahlungen[1][3][5].\n\n### Quellen\n- **[1]** kreis-ahrweiler.de/wp-content/uploads/2021/04/SEPA-Mandat.pdf (kreis-ahrweiler.de) – https://kreis-ahrweiler.de/wp-content/uploads/2021/04/SEPA-Mandat.pdf\n- **[2]** www.kfz-steuer-rechner.de/kfz-steuer-bankverbindung-aendern.html (www.kfz-steuer-rechner.de) – https://www.kfz-steuer-rechner.de/kfz-steuer-bankverbindung-aendern.html\n- **[3]** halle.de/serviceportal/dienstleistungen/leistung/kfz-kraftfahrzeugssteuer-festsetzen/325907631 (halle.de) – https://halle.de/serviceportal/dienstleistungen/leistung/kfz-kraftfahrzeugssteuer-festsetzen/325907631\n- –\n- www.bayernportal.de/dokumente/leistung/0110877505 (www.bayernportal.de) – https://www.bayernportal.de/dokumente/leistung/0110877505\n- www.zoll.de/DE/Privatpersonen/Kraftfahrzeugsteuer/Zahlung-der-Kfz-Steuer/zahlung-der-kfz-steuer_node.html (www.zoll.de) – https://www.zoll.de/DE/Privatpersonen/Kraftfahrzeugsteuer/Zahlung-der-Kfz-Steuer/zahlung-der-kfz-steuer_node.html",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort liefert keine konkrete IBAN, sondern verweist nur auf den Steuerbescheid und allgemeine Hinweise. Die korrekte IBAN (DE96 8600 0000 0086 0011 60) wird nicht genannt, daher ist die Antwort nur teilweise korrekt."
+  }
+}

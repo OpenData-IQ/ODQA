@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0052",
+  "run_at": "2025-09-04T18:54:35.142531Z",
+  "question_id": 52,
+  "question": "Wurden 2023 mehr Patente für Solartechnik oder für Windkraftmaschinen angemeldet?",
+  "answer": "Solartechnik",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2023 wurden 597 Anmeldungen für Solartechnik veröffentlicht, für Windkraftmaschinen 540.",
+  "llm_final": "Im Jahr 2023 wurden in Deutschland **mehr Patente für Solartechnik (597) als für Windkraftmaschinen (540) angemeldet**. Die Zahl der Patentanmeldungen für Solartechnik stieg dabei deutlich um 32,7 %, während die Windkraft nur um 2,3 % zunahm[2].\n\nZur Einordnung: Insgesamt wurden 1.289 Patentanmeldungen für Solartechnik, Windkraft und andere regenerative Energietechnologien veröffentlicht, wobei Solartechnik mit 597 Anmeldungen den größten Anteil hatte, gefolgt von Windkraft mit 540 Anmeldungen[2]. Für Solartechnik wurden 2023 beim Deutschen Patent- und Markenamt 480 Patentanmeldungen von ausländischen Anmeldern eingereicht, was die hohe Innovationsaktivität in diesem Bereich unterstreicht[1].\n\nZusammengefasst zeigt sich, dass 2023 die Innovationsdynamik bei Solartechnik stärker war als bei Windkraftmaschinen, gemessen an der Anzahl der Patentanmeldungen in Deutschland[2][1].\n\n### Quellen\n- **[1]** de.statista.com/statistik/daten/studie/246898/umfrage/patentanmeldungen-im-bereich-solartechnik-in-deutschland/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/246898/umfrage/patentanmeldungen-im-bereich-solartechnik-in-deutschland/\n- **[2]** www.dpma.de/service/presse/pressemitteilungen/25042024/index.html (www.dpma.de) – https://www.dpma.de/service/presse/pressemitteilungen/25042024/index.html\n- –\n- www.dpma.de/service/presse/pressemitteilungen/22052025_1/index.html (www.dpma.de) – https://www.dpma.de/service/presse/pressemitteilungen/22052025_1/index.html\n- www.verivox.de/strom/nachrichten/boom-bei-patenten-fuer-windkraft-und-solar-93809/ (www.verivox.de) – https://www.verivox.de/strom/nachrichten/boom-bei-patenten-fuer-windkraft-und-solar-93809/\n- de.statista.com/statistik/daten/studie/247586/umfrage/patentanmeldungen-im-bereich-wasserkraft-in-deutschland/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/247586/umfrage/patentanmeldungen-im-bereich-wasserkraft-in-deutschland/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist vollständig, korrekt und enthält genaue Zahlen sowie relevante Quellen. Sie geht über die reine Nennung hinaus und liefert Kontext zur Entwicklung und Bedeutung der Patentanmeldungen."
+  },
+  "file_type": "csv"
+}

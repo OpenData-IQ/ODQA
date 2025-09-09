@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0185",
+  "run_at": "2025-08-31T14:26:43.759778Z",
+  "question_id": 185,
+  "question": "Wie hoch ist die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 in Prozent?",
+  "answer": "191,6%",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 beträgt +26 % (von 8.017 auf 10.100).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine prozentuale Veränderung von +26 % an, während die korrekte Antwort 191,6 % ist. Die LLM-Antwort ist daher falsch."
+  }
+}

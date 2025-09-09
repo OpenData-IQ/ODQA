@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0102",
+  "run_at": "2025-08-31T12:27:37.950681Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2016, 2017, 2018 und 2019.\n\n(Datenquelle: Open Data Dortmund — \"Eheschließungen in Dortmund seit 2016\")",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt alle Jahre, die in der Goldstandard-Antwort aufgeführt sind und gibt zusätzlich die Datenquelle an."
+  }
+}

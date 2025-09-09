@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0200",
+  "run_at": "2025-08-31T14:46:10.118286Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates that the agent failed to provide an answer due to a recursion limit being hit."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0030",
+  "run_at": "2025-09-04T18:51:59.387529Z",
+  "question_id": 30,
+  "question": "Wie viele Kehrmeter hat der Anne-Frank-Weg in Rostock?",
+  "answer": "369.21",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine direkte Angabe zur Länge des Anne-Frank-Wegs in Rostock in Kehrmetern. \n\nDer Anne-Frank-Weg befindet sich im Stadtteil Evershagen in Rostock und ist als Anliegerstraße und verkehrsberuhigter Bereich (Spielstraße) gestaltet[3]. Konkrete Längenangaben in Kehrmetern oder Metern sind in den gefundenen Quellen jedoch nicht enthalten.\n\nKehrmeter ist eine Maßeinheit, die in der Forstwirtschaft verwendet wird, um das Volumen von Holzstämmen zu messen, und wird üblicherweise nicht zur Längenmessung von Straßen verwendet. Falls Sie die Länge der Straße in Metern oder Kilometern meinen, so ist diese Information in den Suchergebnissen ebenfalls nicht verfügbar.\n\nFür eine genaue Angabe der Straßenlänge empfiehlt sich eine Anfrage bei der Stadt Rostock oder eine Nutzung von Online-Stadtplänen mit Messfunktion.\n\n### Quellen\n- **[1]** rostock.aufstadtplan.de/anne-frank-weg/37 (rostock.aufstadtplan.de) – https://rostock.aufstadtplan.de/anne-frank-weg/37\n- –\n- rathaus.rostock.de/de/ausstellung_anne_frank_eine_geschichte_f_uuml_r_heute_2001_in_rostock/306516 (rathaus.rostock.de) – https://rathaus.rostock.de/de/ausstellung_anne_frank_eine_geschichte_f_uuml_r_heute_2001_in_rostock/306516\n- onlinestreet.de/strassen/Anne-Frank-Weg.Rostock.258961.html (onlinestreet.de) – https://onlinestreet.de/strassen/Anne-Frank-Weg.Rostock.258961.html\n- ulm-boefingen.de/wege-details/anne-frank-weg.html (ulm-boefingen.de) – https://ulm-boefingen.de/wege-details/anne-frank-weg.html\n- www.annefrank.org/de/anne-frank/die-zeitleiste/ (www.annefrank.org) – https://www.annefrank.org/de/anne-frank/die-zeitleiste/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt korrekt, dass keine Angabe zu Kehrmetern für den Anne-Frank-Weg in Rostock gefunden wurde. Die Antwort ist ausführlich und verweist auf fehlende Daten, daher Kategorie 'not found'."
+  },
+  "file_type": "csv"
+}

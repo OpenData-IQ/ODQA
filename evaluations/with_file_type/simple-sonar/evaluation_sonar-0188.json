@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0188",
+  "run_at": "2025-09-04T19:10:00.917870Z",
+  "question_id": 188,
+  "question": "In welche Länder sind im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen?",
+  "answer": "Deutschland, Polen, Rumänien, Türkei, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine spezifischen Daten darüber, in welche Länder im Jahr 2020 jeweils mindestens 2 Menschen aus Nörvenich weggezogen sind. Die demografischen Daten zu Nörvenich aus [5] zeigen Wanderungssalden und Fortzüge, aber keine detaillierte Aufschlüsselung nach Zielländern.\n\nFür eine genaue Antwort auf die Frage, in welche Länder mindestens 2 Personen aus Nörvenich im Jahr 2020 weggezogen sind, wäre eine Auswertung der lokalen Melde- oder Statistikämter notwendig, die Wanderungsbewegungen nach Zielländern auf Gemeindeebene erfassen. Solche Daten sind in den bereitgestellten Quellen nicht enthalten.\n\nZusammengefasst: Es liegen keine öffentlich zugänglichen Daten vor, die die Abwanderung aus Nörvenich im Jahr 2020 nach Zielländern mit mindestens 2 Personen pro Land dokumentieren.\n\n### Quellen\n- **[1]** mediendienst-integration.de/migration/wer-kommt-wer-geht.html (mediendienst-integration.de) – https://mediendienst-integration.de/migration/wer-kommt-wer-geht.html\n- –\n- www.abendzeitung-muenchen.de/politik/2020-mehr-menschen-denn-je-auf-der-flucht-art-735964 (www.abendzeitung-muenchen.de) – https://www.abendzeitung-muenchen.de/politik/2020-mehr-menschen-denn-je-auf-der-flucht-art-735964\n- prezi.com/p/ffbgk0wmbgha/in-welche-lander-sind-deutsche-emigriert/ (prezi.com) – https://prezi.com/p/ffbgk0wmbgha/in-welche-lander-sind-deutsche-emigriert/\n- web.de/magazine/politik/trotz-coronakrise-hunderte-2020-flucht-europa-35367208 (web.de) – https://web.de/magazine/politik/trotz-coronakrise-hunderte-2020-flucht-europa-35367208\n- www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2012-2023+tabelle.xlsx (www.wegweiser-kommune.de) – https://www.wegweiser-kommune.de/data-api/rest/export/demografische-entwicklung+noervenich+2012-2023+tabelle.xlsx",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort stellt klar, dass keine spezifischen Daten zu den Zielländern mit mindestens 2 Wegzügen aus Nörvenich 2020 gefunden wurden. Die Quellen enthalten keine entsprechende Aufschlüsselung. Die Antwort ist korrekt als 'not found' kategorisiert."
+  },
+  "file_type": "csv"
+}

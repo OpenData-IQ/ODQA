@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0201",
+  "run_at": "2025-09-04T19:11:22.095601Z",
+  "question_id": 201,
+  "question": "Wie viele Krankenhäuser gab es im Jahr 2023 in Frankfurt am Main?",
+  "answer": "12",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 gab es in Frankfurt am Main mindestens mehrere Krankenhäuser, darunter die beiden Krankenhäuser der AGAPLESION FRANKFURTER DIAKONIE KLINIKEN (AGAPLESION BETHANIEN KRANKENHAUS und AGAPLESION MARKUS KRANKENHAUS) mit insgesamt 872 Betten[1]. Eine genaue Gesamtzahl aller Krankenhäuser in Frankfurt am Main für 2023 lässt sich aus den Suchergebnissen nicht eindeutig entnehmen, jedoch listet das Deutsche Krankenhausverzeichnis für Frankfurt am Main zahlreiche Klinikstandorte auf, was auf mindestens 10 bis 15 Krankenhäuser oder Klinikstandorte in der Stadt hindeutet[3].\n\nZusammenfassend:\n\n- AGAPLESION betreibt zwei Krankenhäuser in Frankfurt am Main[1].\n- Das Deutsche Krankenhausverzeichnis zeigt mindestens etwa ein Dutzend Klinikstandorte in Frankfurt am Main[3].\n- Eine exakte Gesamtzahl aller Krankenhäuser in Frankfurt am Main im Jahr 2023 ist in den vorliegenden Quellen nicht direkt angegeben.\n\nFür eine präzise Zahl empfiehlt sich eine Anfrage bei der Stadt Frankfurt oder dem Hessischen Ministerium für Soziales und Integration, die offizielle Krankenhausstatistiken führen.\n\n### Quellen\n- **[1]** www.markus-krankenhaus.de/ueber-uns/presse-veranstaltungen/detailansicht/hervorragende-platzierung-im-focus-klinikranking-2024-1-13155 (www.markus-krankenhaus.de) – https://www.markus-krankenhaus.de/ueber-uns/presse-veranstaltungen/detailansicht/hervorragende-platzierung-im-focus-klinikranking-2024-1-13155\n- **[2]** www.menschlichkeit-verbindet.de/wp-content/uploads/2024/01/Geburtenliste-2023.pdf (www.menschlichkeit-verbindet.de) – https://www.menschlichkeit-verbindet.de/wp-content/uploads/2024/01/Geburtenliste-2023.pdf\n- –\n- www.deutsches-krankenhaus-verzeichnis.de/app/suche/bundesland/hessen/d68b7b9f54697300 (www.deutsches-krankenhaus-verzeichnis.de) – https://www.deutsches-krankenhaus-verzeichnis.de/app/suche/bundesland/hessen/d68b7b9f54697300\n- www.gesundheitsmarkt.de/anzahl-und-statistik-kliniken-in-deutschland/ (www.gesundheitsmarkt.de) – https://www.gesundheitsmarkt.de/anzahl-und-statistik-kliniken-in-deutschland/\n- www.deutsches-krankenhaus-verzeichnis.de/app/suche/bundesland/hessen (www.deutsches-krankenhaus-verzeichnis.de) – https://www.deutsches-krankenhaus-verzeichnis.de/app/suche/bundesland/hessen",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Das LLM bleibt in der Antwort vage und nennt nicht die präzise Zahl aus dem Goldstandard."
+  },
+  "file_type": "csv"
+}

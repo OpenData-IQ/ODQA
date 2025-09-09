@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0133",
+  "run_at": "2025-09-04T17:42:31.265736Z",
+  "question_id": 133,
+  "question": "In welche Länder sind im Jahr 2020 200 oder mehr Menschen aus Elsdorf im Rhein-Erft-Kreis weggezogen?",
+  "answer": "Deutschland, Kamerun, Ägypten, Pakistan, Thailand, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die spezifischen Daten zu den Ländern, in die im Jahr 2020 jeweils 200 oder mehr Personen aus Elsdorf im Rhein-Erft-Kreis verzogen sind, sind in den verfügbaren Quellen nicht detailliert aufgeführt. Allgemeine Bevölkerungsstatistiken für Elsdorf zeigen jedoch, dass die Gesamtbevölkerung im Jahr 2020 bei 21.745 Einwohnern lag. ([citypopulation.de](https://www.citypopulation.de/de/germany/nordrheinwestfalen/rhein_erft_kreis/05362016__elsdorf/?utm_source=openai)) Für detaillierte Informationen zu Wanderungsbewegungen und spezifischen Auswanderungszahlen empfiehlt es sich, direkt bei der Stadtverwaltung Elsdorf oder dem Statistischen Landesamt Nordrhein-Westfalen nachzufragen. \n\n### Quellen\n- **[1]** https://www.citypopulation.de/de/germany/nordrheinwestfalen/rhein_erft_kreis/05362016__elsdorf/?utm_source=openai (www.citypopulation.de) – https://www.citypopulation.de/de/germany/nordrheinwestfalen/rhein_erft_kreis/05362016__elsdorf/?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort besagt, dass die spezifischen Daten nicht verfügbar sind, während die Goldstandard-Antwort konkrete Länder auflistet."
+  },
+  "file_type": "csv"
+}

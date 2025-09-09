@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0103",
+  "run_at": "2025-09-04T15:00:51.607792Z",
+  "question_id": 103,
+  "question": "Wann gab es in Frankfurt am Main prozentual die meisten Fehlalarme bei Feuermeldungen?",
+  "answer": "2024, mit 80,9%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Nach den veröffentlichten Einsatzstatistiken der Feuerwehr Frankfurt am Main war der prozentuale Anteil der Fehlalarme an den Feuermeldungen im jüngsten verfügbaren Berichtsjahr am höchsten, also im Jahr 2022.\n\nQuellen:\n- Feuerwehr Frankfurt am Main – Jahresbericht 2022, Kapitel Einsatzstatistik (Kennzahlen zu Feuermeldungen und Fehlalarmen/Brandmeldeanlagen).\n- Stadt Frankfurt am Main, Amt für Statistik und Stadtforschung – Statistisches Jahrbuch 2023, Kapitel Ordnung und Sicherheit, Tabelle „Feuerwehr: Einsätze, davon Fehlalarme“.\n- Offene Daten Frankfurt – Datensätze zur Einsatz- und Fehlalarm-Statistik der Feuerwehr Frankfurt am Main (Zeitreihen nach Jahr).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt das Jahr 2022 an, während die Goldstandard-Antwort das Jahr 2024 nennt. Die LLM-Antwort ist somit inkorrekt bezüglich des Jahres mit den meisten Fehlalarmen."
+  }
+}

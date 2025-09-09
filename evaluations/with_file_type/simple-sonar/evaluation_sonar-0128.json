@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0128",
+  "run_at": "2025-09-04T19:03:13.662265Z",
+  "question_id": 128,
+  "question": "An welcher Kreuzung befindet sich die Lichtzeichenanlage mit der Nummer 1205 in Düsseldorf?",
+  "answer": "Fischerstr. / Venloerst. / Sittarderstr./ Cordobastr.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Lichtzeichenanlage mit der Nummer **1205** in Düsseldorf befindet sich an der Kreuzung **Benrather Schloßallee / Urdenbacher Allee / Heubesstraße**[3]. \n\nDiese Information stammt aus dem Datensatz der Standorte der Lichtzeichenanlagen in Düsseldorf, der die Nummern und genauen Standorte der Ampeln enthält[1][3].\n\n### Quellen\n- **[1]** opendata.duesseldorf.de/dataset/standorte-der-lichtzeichenanlagen-ampeln-d%C3%BCsseldorf (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/standorte-der-lichtzeichenanlagen-ampeln-d%C3%BCsseldorf\n- **[2]** www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_Ergebnisse_Dresdner_Debatte.pdf (www.dresden.de) – https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_Ergebnisse_Dresdner_Debatte.pdf\n- –\n- opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a4dff2f2-8d54-4de7-a557-45fcb69f5d99 (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/f93fc752-a90e-4ffd-b940-d36e21af75a8/resource/a4dff2f2-8d54-4de7-a557-45fcb69f5d99\n- www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/a5412d3327f5d7d0c1258163003c84f7/$FILE/GRDrs%202017-591_Anlage%204_alle%20Vorschl%C3%A4ge.pdf (www.domino1.stuttgart.de) – https://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/a5412d3327f5d7d0c1258163003c84f7/$FILE/GRDrs%202017-591_Anlage%204_alle%20Vorschl%C3%A4ge.pdf\n- www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV17-1960.pdf (www.landtag.nrw.de) – https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV17-1960.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt eine völlig andere Kreuzung als im Goldstandard und ist damit sachlich falsch."
+  },
+  "file_type": "csv"
+}

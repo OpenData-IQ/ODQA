@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0113",
+  "run_at": "2025-09-04T19:01:41.195940Z",
+  "question_id": 113,
+  "question": "Wo finde ich die amtlichen Ergebnisse zur Bundestagswahl 2013?",
+  "answer": "https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Die amtlichen Ergebnisse zur Bundestagswahl 2013 finden Sie auf der Webseite des Bundeswahlleiters. Das endgültige amtliche Ergebnis wurde am 9. Oktober 2013 vom Bundeswahlleiter im Paul-Löbe-Haus in Berlin bekanntgegeben und ist dort dokumentiert[1][5].\n\nWichtige Details zum Ergebnis:\n- Wahlbeteiligung: 71,5 %\n- CDU/CSU: 41,5 % der Zweitstimmen\n- SPD: 25,7 %\n- Die Linke: 8,6 %\n- Bündnis 90/Die Grünen: 8,4 %\n- FDP: 4,8 % (verfehlte den Einzug in den Bundestag)\n\nDas offizielle Ergebnis umfasst auch Sitzverteilungen und Veränderungen gegenüber der Wahl 2009[1][3].\n\nFür weitergehende Auswertungen, etwa nach Altersgruppen oder Geschlecht, gibt es ergänzende amtliche Veröffentlichungen, beispielsweise vom Statistischen Bundesamt oder den Landeswahlleitern[2][4].\n\nZusammengefasst finden Sie das amtliche Endergebnis der Bundestagswahl 2013 direkt auf der Website des Bundeswahlleiters unter der Rubrik „Endgültiges amtliches Ergebnis der Bundestagswahl 2013“[1].\n\n### Quellen\n- **[1]** www.bundeswahlleiterin.de/info/presse/mitteilungen/bundestagswahl-2013/2013-10-09-endgueltiges-amtliches-ergebnis-der-bundestagswahl-2013.html (www.bundeswahlleiterin.de) – https://www.bundeswahlleiterin.de/info/presse/mitteilungen/bundestagswahl-2013/2013-10-09-endgueltiges-amtliches-ergebnis-der-bundestagswahl-2013.html\n- **[2]** www.statistik-bw.de/Service/Veroeff/Monatshefte/20130808 (www.statistik-bw.de) – https://www.statistik-bw.de/Service/Veroeff/Monatshefte/20130808\n- **[3]** www.bpb.de/kurz-knapp/hintergrund-aktuell/169417/viele-verlierer-eine-siegerin/ (www.bpb.de) – https://www.bpb.de/kurz-knapp/hintergrund-aktuell/169417/viele-verlierer-eine-siegerin/\n- **[4]** www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00006953/B759%20201351_Korrektur_A.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00006953/B759%20201351_Korrektur_A.pdf\n- **[5]** www.bundestag.de/webarchiv/textarchiv/2013/47270185_kw41_wahlausschuss-213774 (www.bundestag.de) – https://www.bundestag.de/webarchiv/textarchiv/2013/47270185_kw41_wahlausschuss-213774",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält mehrere offizielle und relevante Links, gibt präzise Hinweise auf die amtlichen Ergebnisse und bietet zusätzliche Kontextinformationen. Sie ist umfassend und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

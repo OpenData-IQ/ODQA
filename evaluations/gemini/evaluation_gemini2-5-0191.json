@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0191",
+  "run_at": "2025-09-01T08:46:00.990994Z",
+  "question_id": 191,
+  "question": "Welcher Stadtteil von Konstanz hatte im Jahr 2024 den höchsten natürlichen Bevölkerungssaldo?",
+  "answer": "Petershausen-West hatte im Jahr 2024 mit 43 den höchsten natürlichen Bevölkerungssaldo unter den Stadtteilen von Konstanz.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die LLM-Antwort meldet eine überschrittene Rekursionstiefe und liefert keine inhaltliche Antwort. Daher liegt ein 'recursion limit'-Problem vor."
+  }
+}

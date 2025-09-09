@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0067",
+  "run_at": "2025-08-31T11:14:51.342495Z",
+  "question_id": 67,
+  "question": "Wo gab es am 30.06.24 mehr männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss? In Lübeck oder in Halle?",
+  "answer": "In Halle",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states that a recursion limit was reached. This indicates that the agent could not complete its task due to an internal limit."
+  },
+  "file_type": "csv"
+}

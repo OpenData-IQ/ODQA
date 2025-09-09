@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0032",
+  "run_at": "2025-09-04T18:52:11.109673Z",
+  "question_id": 32,
+  "question": "Wo gibt es mehr Info zu den sofort verfügbaren Gewerbefläche im Gewerbegebiet Hackenbroich?",
+  "answer": "https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/rhein-kreis-neuss-gewerbeflachen",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "https://www.gewerbeflaechen-rkn.de/commercialspace/parcel/expose/de/211903",
+  "llm_final": "Mehr Informationen zu sofort verfügbaren Gewerbeflächen im Gewerbegebiet Hackenbroich in Dormagen bietet vor allem das Exposé auf der Plattform blis-online, das ein Grundstück mit 22.759 m² beschreibt, das im Erbbaurecht für mindestens 30 Jahre vergeben wird. Der Preis liegt bei 150 €/m², mit einem jährlichen Erbbauzins von 5 % und einem einmaligen Kanalanschlussbeitrag von ca. 10 €/m². Ansprechpartner ist Rainer Bertelsmeier von der Stadt Dormagen, erreichbar unter 02133/257452 oder rainer.bertelsmeier@swd-dormagen.de[1].\n\nZusätzlich gibt es auf Immobilienportalen wie Anzeigenmarkt Düsseldorf und ImmobilienScout24 weitere Angebote für Gewerbeimmobilien in Hackenbroich, die zum Kauf oder zur Miete verfügbar sind, darunter Hallen, Werkstätten und Ladenflächen mit unterschiedlichen Größen und Nutzungen[2][3][4].\n\nDer SWD Gewerbeflächen-Newsletter von Januar 2025 listet zudem aktuelle Gesuche und Verfügbarkeiten für Gewerbehallen und Büroflächen in Dormagen, inklusive Hackenbroich, mit Ansprechpartnern für weitere Details[5].\n\nFür eine umfassende Übersicht und konkrete Verfügbarkeiten empfiehlt sich die direkte Kontaktaufnahme mit der Stadt Dormagen (SWD) oder die Nutzung der genannten Immobilienportale.\n\n### Quellen\n- **[1]** rkn.blis-online.eu/commercialspace/parcel/expose/de/211903 (rkn.blis-online.eu) – http://rkn.blis-online.eu/commercialspace/parcel/expose/de/211903\n- **[2]** www.anzeigenmarkt-duesseldorf.de/immobilien/dormagen:hackenbroich/gewerbeimmobilie-kaufen/ (www.anzeigenmarkt-duesseldorf.de) – https://www.anzeigenmarkt-duesseldorf.de/immobilien/dormagen:hackenbroich/gewerbeimmobilie-kaufen/\n- **[3]** www.immobilienscout24.de/expose/157168077 (www.immobilienscout24.de) – https://www.immobilienscout24.de/expose/157168077\n- **[4]** www.anzeigenmarkt-koeln.de/immobilien/dormagen:hackenbroich/gewerbeimmobilie-mieten/ (www.anzeigenmarkt-koeln.de) – https://www.anzeigenmarkt-koeln.de/immobilien/dormagen:hackenbroich/gewerbeimmobilie-mieten/\n- **[5]** www.swd-dormagen.de/fileadmin/user_upload/SWD-Gewerbeflaechen-Newsletter_01-2025.pdf (www.swd-dormagen.de) – https://www.swd-dormagen.de/fileadmin/user_upload/SWD-Gewerbeflaechen-Newsletter_01-2025.pdf",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält mehrere relevante und aktuelle Quellen. Verwaltungsinformationen tauchen allerdings nicht auf."
+  }
+}

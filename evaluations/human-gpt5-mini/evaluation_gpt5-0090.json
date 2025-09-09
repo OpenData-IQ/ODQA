@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0090",
+  "run_at": "2025-08-31T12:12:16.239278Z",
+  "question_id": 90,
+  "question": "Welche Auswirkung hatte der Friedensvertrag von Versailles auf die Landkreise und Gemeinden in Bayern?",
+  "answer": "Durch den Friedensvertrag von Versailles wurden der Landkreis Sankt Ingbert, 11 Gemeinden des Landkreises Homburg und 15 Gemeinden des Landkreises Zweibrücken im Regierungsbezirk Pfalz dem Saargebiet zugeteilt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort\n- Der Versailler Vertrag selbst brachte für Bayern keine direkten Gebietsverluste oder formalen Änderungen der Landkreise und Gemeinden.  \n- Seine Auswirkungen auf bayerische Kommunen waren vorwiegend indirekt: wirtschaftliche Belastungen, staatliche Demobilisierung und starke politische Instabilität wirkten sich massiv auf kommunale Finanzen, Verwaltung, Ordnung und soziale Lage aus.\n\nWichtigste Folgen für Landkreise und Gemeinden in Bayern\n- Territorium/Verwaltung: Keine direkten Gebietsabtretungen Bayerns durch Versailles; kommunale Gebietsänderungen später erfolgten aus innerstaatlichen Gründen, nicht wegen des Vertrags.  \n- Sicherheit und öffentliche Ordnung: Rückkehr entlassener Soldaten, Entstehung von Freikorps und paramilitärischen Gruppen, sowie revolutionäre Unruhen (u. a. Münchner Räterepublik 1918/19) führten zu Belastungen der örtlichen Verwaltungen, Polizeiorganisation und zu zeitweiligen Besetzungen bzw. Störungen kommunaler Abläufe.  \n- Wirtschaft/Kommunalhaushalte: Reparationen, Exportverluste und vor allem die Hyperinflation (1922/23) schwächten die Wirtschaft; Gemeinden litten unter Einnahmeausfällen, steigender Verschuldung und wachsendem Sozialhilfebedarf → Einschränkungen bei Investitionen und Dienstleistungen.  \n- Sozialpolitik und Infrastruktur: Höhere Arbeitslosigkeit und Armut erhöhten die Nachfrage nach kommunaler Armenfürsorge, Wohlfahrt und Infrastrukturunterstützung (z. B. Unterbringung von Rückkehrern/Flüchtlingen).  \n- Politische Folgen vor Ort: Polarisierung und Radikalisierung (rechts wie links) veränderten die Zusammensetzung kommunaler Vertretungen und erhöhten Konflikte zwischen Gemeinden und der Reichs-/Landesregierung.  \n- Handel/Industrie in Regionen: Handels‑ und Industrieprobleme trafen lokal unterschiedliche Gemeinden unterschiedlich stark (Exportstandorte, Branchenabhängigkeit), was regionale Verschuldungs‑ und Arbeitsmarktprobleme verstärkte.\n\nWenn Sie mehr wollen\n- Ich kann konkrete Fallbeispiele (z. B. Auswirkungen auf München, einzelne ländliche Landkreise oder Kommunalhaushalte) liefern oder Quellenangaben und weiterführende Literatur nennen. Soll ich gezielt nach Primärquellen/Archivbeständen (Bayerisches Hauptstaatsarchiv, zeitgenössische Gemeinderatsprotokolle) oder nach Sekundärliteratur (Monographien zur bayerischen Revolution, Weimarer Wirtschaftsgeschichte) suchen?",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort behauptet, dass der Versailler Vertrag keine direkten Gebietsverluste für Bayern mit sich brachte, was falsch ist. Der Goldstandard nennt spezifische Gebietsabtretungen in der Pfalz, die zu Bayern gehörte."
+  }
+}

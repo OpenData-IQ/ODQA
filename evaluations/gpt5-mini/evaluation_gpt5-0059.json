@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0059",
+  "run_at": "2025-08-31T10:58:32.647550Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached. This indicates a technical problem preventing the generation of a proper answer."
+  }
+}

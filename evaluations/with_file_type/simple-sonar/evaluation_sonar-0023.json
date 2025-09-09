@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0023",
+  "run_at": "2025-09-04T18:51:18.308096Z",
+  "question_id": 23,
+  "question": "Wie viele Stellplätze von VRNNextbike Fahrrädern gibt es an der Jugendherberge Lindenhof in Mannheim?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "An der Jugendherberge Lindenhof in Mannheim gibt es keine spezifisch ausgewiesenen VRNnextbike-Stellplätze direkt an der Jugendherberge. Die nächstgelegene VRNnextbike-Station im Stadtteil Lindenhof befindet sich am Meeräckerplatz, wo auch eigene Stellplätze für Lastenräder (eCargobikes) markiert sind[1]. \n\nEs liegen keine Informationen vor, dass es direkt an der Jugendherberge Lindenhof eine eigene VRNnextbike-Station oder Stellplätze gibt. Die Station Meeräckerplatz im Lindenhof ist die relevante Station für VRNnextbike-Fahrräder und Lastenräder in diesem Stadtteil. \n\nZusammengefasst:  \n- VRNnextbike-Station im Lindenhof: Meeräckerplatz  \n- Eigene Stellplätze für Lastenräder sind dort markiert  \n- Keine separate Station oder Stellplätze direkt an der Jugendherberge Lindenhof bekannt[1].\n\n### Quellen\n- **[1]** www.vrn.de/verbund/presse/pressemeldungen/pm/016410/index.html (www.vrn.de) – https://www.vrn.de/verbund/presse/pressemeldungen/pm/016410/index.html\n- –\n- rhein-neckar.adfc.de/fileadmin/Gliederungen/Pedale/heidelberg/user_upload/rtp-2024-maluhd-web.pdf (rhein-neckar.adfc.de) – https://rhein-neckar.adfc.de/fileadmin/Gliederungen/Pedale/heidelberg/user_upload/rtp-2024-maluhd-web.pdf\n- www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/vrnnextbike (www.mannheim.de) – https://www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/vrnnextbike\n- www.vrn.de/mam/verbund/presse/pm/dokumente/2023/22-23_vrnnextbike_schlie%C3%9Ft_2022_mit_rekordwerten_ab.pdf (www.vrn.de) – https://www.vrn.de/mam/verbund/presse/pm/dokumente/2023/22-23_vrnnextbike_schlie%C3%9Ft_2022_mit_rekordwerten_ab.pdf\n- www.vrnnextbike.de/de/ (www.vrnnextbike.de) – https://www.vrnnextbike.de/de/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist umfassend, nennt aber nicht die korrekte Zahl."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0136",
+  "run_at": "2025-09-04T19:04:12.218029Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Für die Bürgerschaftswahl 2024 im Stadtbereich Biestow liegen keine spezifischen Daten zur Wahlbeteiligung vor. Die letzte Bürgerschaftswahl in Hamburg fand am 2. März 2025 statt, mit einer stadtweiten Wahlbeteiligung von 67,6 %[3][5]. Biestow ist ein Stadtteil von Rostock, nicht Hamburg, und die verfügbaren Daten zur Wahlbeteiligung beziehen sich auf Hamburg oder auf andere Kommunalwahlen in Mecklenburg-Vorpommern ohne detaillierte Aufschlüsselung für Biestow[1][4].\n\nFür Rostock, zu dem Biestow gehört, gibt es Daten zur Europawahl 2024 mit einer Wahlbeteiligung von 62,8 %[2], aber keine spezifischen Zahlen zur Bürgerschaftswahl 2024 im Stadtbereich Biestow.\n\nZusammenfassend: **Es gibt keine öffentlich verfügbaren, differenzierten Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 speziell für den Stadtbereich Biestow.** Die Wahlbeteiligung für die Bürgerschaftswahl in Hamburg 2025 lag stadtweit bei 67,6 %[3][5], und für Rostock bei der Europawahl 2024 bei 62,8 %[2].\n\n### Quellen\n- **[1]** www.hamburgische-buergerschaft.de/aktuelles/nachrichten/wahlen-2024-890172 (www.hamburgische-buergerschaft.de) – https://www.hamburgische-buergerschaft.de/aktuelles/nachrichten/wahlen-2024-890172\n- **[2]** www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/bund-99/land-13/kreis-13003.html (www.bundeswahlleiterin.de) – https://www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/bund-99/land-13/kreis-13003.html\n- **[3]** de.wikipedia.org/wiki/B%C3%BCrgerschaftswahl_in_Hamburg_2025 (de.wikipedia.org) – https://de.wikipedia.org/wiki/B%C3%BCrgerschaftswahl_in_Hamburg_2025\n- **[4]** www.amt-warnow-west.de/wp-content/uploads/2024/09/3433_WarnowWest_35_24.pdf (www.amt-warnow-west.de) – https://www.amt-warnow-west.de/wp-content/uploads/2024/09/3433_WarnowWest_35_24.pdf\n- **[5]** de.statista.com/statistik/daten/studie/3165/umfrage/wahlbeteiligung-bei-den-buergerschaftswahlen-in-hamburg-seit-1946/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/3165/umfrage/wahlbeteiligung-bei-den-buergerschaftswahlen-in-hamburg-seit-1946/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Goldantwort liefert einen konkreten Link zu den Daten, während die LLM-Antwort ausführlich erklärt, dass keine spezifischen Daten verfügbar seien."
+  }
+}

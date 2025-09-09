@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0202",
+  "run_at": "2025-09-04T16:20:52.325671Z",
+  "question_id": 202,
+  "question": "Wie viel Biomüll wurde insgesamt im Jahr 2024 in Konstanz gesammelt?",
+  "answer": "Im Jahr 2024 wurden in Konstanz insgesamt 6580,34 Tonnen Biomüll gesammelt.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mir liegen keine endgültigen Zahlen für 2024 zur Stadt Konstanz vor (Stand meines Datenbestands: Veröffentlichungen bis Oktober 2024). Die jährlichen Gesamtmengen werden in der Regel von den Entsorgungsbetrieben Stadt Konstanz (EBK) bzw. in der Landes-Abfallbilanz veröffentlicht. Für die verlässliche Zahl 2024 verweisen die folgenden Quellen:\n\nQuellen (wo die 2024-Gesamtmenge zu finden ist):\n- Entsorgungsbetriebe Stadt Konstanz (EBK) – Abfallstatistik/Jahresbericht bzw. Open-Data-Datensatz „Abfallmengen nach Fraktionen (monatlich), Stadt Konstanz“; aus den 12 Monatswerten „Biomüll/Bioabfall“ wird die Jahresgesamtmenge gebildet. Herausgeber: Stadt Konstanz/EBK.\n- LUBW Landesanstalt für Umwelt Baden‑Württemberg – Abfallbilanz Baden‑Württemberg (Jahresbericht). Dort sind kommunale bzw. kreisbezogene Mengen für die Fraktion „Bioabfälle“ ausgewiesen. Herausgeber: LUBW.\n- Alternativ: Statistisches Landesamt Baden‑Württemberg – Veröffentlichungen/Regionaldatenbank zu Siedlungsabfällen (Kennzahlen u. a. „Bioabfälle“), meist nach Gemeinde bzw. Kreis. Herausgeber: Statistisches Landesamt BW.\n\nHinweis: Wenn Sie Zugriff auf den monatlichen Open‑Data‑Datensatz der Stadt Konstanz haben, erhalten Sie die 2024‑Gesamtmenge, indem Sie die zwölf Monatswerte der Fraktion „Biomüll/Bioabfall“ aufsummieren.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass keine Daten für 2024 vorliegen, während die Goldstandard-Antwort eine spezifische Zahl für 2024 liefert. Die LLM-Antwort ist somit falsch, da sie die Existenz der Daten verneint."
+  }
+}

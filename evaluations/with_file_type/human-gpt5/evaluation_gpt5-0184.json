@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0184",
+  "run_at": "2025-09-01T03:30:01.230008Z",
+  "question_id": 184,
+  "question": "Welcher weibliche Vorname wurde 2021 in der Landgemeinde Titz am häufigsten vergeben?",
+  "answer": "Sophie (5-mal)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Sophie (5-mal). Quelle: Landgemeinde Titz – Vornamen 2021\nhttps://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-titz/resource/b67ebd3f-aa9d-4413-a1f5-a8235aaa3e8e",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die richtige Antwort sowie die genaue Quelle, einschließlich eines direkten Links zum Datensatz."
+  },
+  "file_type": "csv"
+}

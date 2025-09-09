@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0001",
+  "run_at": "2025-08-31T09:51:37.176515Z",
+  "question_id": 1,
+  "question": "Wo finde ich Daten zu Spielgeräten auf Dortmunder Spielplätzen?",
+  "answer": "https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Sie finden die Daten auf dem Dortmunder Open‑Data‑Portal:\n\n- Datensatz „Spielgeräte“ (Einträge zu einzelnen Spielgeräten):\n  https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete  \n  CSV‑Export:  \n  https://open-data.dortmund.de/api/explore/v2.1/catalog/datasets/fb63-spielgeraete/exports/csv?use_labels=true\n\n- Datensatz „Spielplätze“ (Standorte der Spielplätze, meist mit Angaben zur Anzahl der Spielgeräte):\n  https://open-data.dortmund.de/api/v2/catalog/datasets/spielplatze  \n  CSV‑Export:  \n  https://open-data.dortmund.de/api/explore/v2.1/catalog/datasets/spielplatze/exports/csv?use_labels=true\n\nKurz‑Tipps:\n- Die Access‑URLs öffnen den CSV‑Export direkt (im Browser herunterladen oder in Excel/QGIS importieren).  \n- Im Portal finden Sie ggf. auch Metadaten und weitere Exportformate.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM enthält den primären Ressourcenlink aus der Goldstandard-Antwort und bietet zusätzlich weitere relevante Links und nützliche Tipps. Sie ist umfassend und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

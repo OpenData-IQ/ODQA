@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0158",
+  "run_at": "2025-09-04T19:06:56.623582Z",
+  "question_id": 158,
+  "question": "Wie hoch waren die Auszahlungen der Stadt Oldenburg für Schule und Bildung in den Jahren 2022 und 2023 insgesamt?",
+  "answer": "7775300€ insgesamt",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadt Oldenburg hat im Haushaltsjahr 2023 für den Bereich Schule und Bildung Auszahlungen in Höhe von etwa **4.101.800 Euro** vorgesehen[1]. Für das Jahr 2022 liegen keine expliziten Auszahlungszahlen im Suchergebnis vor, jedoch wird im Rechenschaftsbericht 2023 erwähnt, dass im Teilhaushalt 12 (Schule und Bildung) Mehrerträge von rund 200.000 Euro entstanden sind, was auf eine solide Finanzierung und Ausgaben in diesem Bereich hindeutet[2].\n\nKonkret sind im Finanzhaushalt 2023 für Schule und Bildung folgende Zahlen genannt:\n- 2.800.000 Euro (vermutlich geplante Ausgaben oder Teilbudget)\n- 4.101.800 Euro (vermutlich tatsächliche oder geplante Auszahlungen)[1]\n\nFür 2022 sind keine genauen Gesamtauszahlungen in den Suchergebnissen enthalten, aber der Rechenschaftsbericht 2023 gibt Hinweise auf positive finanzielle Entwicklungen im Bereich Schule und Bildung, ohne konkrete Gesamtsummen zu nennen[2].\n\nZusammenfassend:\n- **2023**: Auszahlungen für Schule und Bildung ca. **4,1 Mio. Euro**[1]\n- **2022**: Keine genaue Summe verfügbar, aber positive finanzielle Entwicklung im Bereich Schule und Bildung[2]\n\nFür detailliertere Zahlen zu 2022 empfiehlt sich eine Einsicht in den Jahresabschluss oder Haushaltsplan 2022 der Stadt Oldenburg, die öffentlich zugänglich sein sollten.\n\n### Quellen\n- **[1]** opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612 (opendata.oldenburg.de) – https://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023/resource/c7c7c1a3-6d5e-4e09-a842-b3a7613c2612\n- **[2]** www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/20_Controlling_und_Finanzen/200_Finanzen/Jahresabschluss_2023/00.0_NEU_Gesamtdokument_Rechenschaftsbericht_2023.pdf (www.oldenburg.de) – https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/20_Controlling_und_Finanzen/200_Finanzen/Jahresabschluss_2023/00.0_NEU_Gesamtdokument_Rechenschaftsbericht_2023.pdf\n- –\n- www.oldenburg-holstein.de/index.php (www.oldenburg-holstein.de) – https://www.oldenburg-holstein.de/index.php?ModID=7&FID=3218.14.1&object=tx%7C3218.14.1\n- www.oldenburg.de/startseite/wissenschaft-bildung/schule/die-schulen-in-zahlen.html (www.oldenburg.de) – https://www.oldenburg.de/startseite/wissenschaft-bildung/schule/die-schulen-in-zahlen.html\n- www.oldenburg.de/startseite/politik/verwaltung-finanzen/finanzen/haushalt-2023.html (www.oldenburg.de) – https://www.oldenburg.de/startseite/politik/verwaltung-finanzen/finanzen/haushalt-2023.html",
+  "judgement": {
+    "category": "problem_answer",
+    "problem_type": "answer incorrect",
+    "rationale": "In der Antwort wird zu viel spekuliert. Es werden keine genauen Beträge angegeben."
+  },
+  "file_type": "csv"
+}

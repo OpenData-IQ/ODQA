@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0063",
+  "run_at": "2025-08-31T11:11:17.101416Z",
+  "question_id": 63,
+  "question": "Welche der \"Biene Maja\" Illustrationen von Peter Christian Rasmussen sind Radierungen?",
+  "answer": "\"Die Wanze stinkt\", \"Empfang in Peppis Rosenhaus\", \"Überfall der Hornisse\", \"Majas Flucht\", \"Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens\", \"Im Spinnennetz\", \"Ich bin Kurt, aus der Familie der \"Rosenkäfer\"\", \"Begegnung mit dem Grashüpfer\", \"Schlacht der Bienen und Hornissen\", \"Lass doch bitte Hans Christoph frei!\"",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Alle — alle zehn Illustrationen der Künstlermappe \"Biene Maja\" (Peter Christian Rasmussen, 1920) sind als Radierung ausgewiesen. Titel laut Datensatz:\n\n1. Lass doch bitte Hans Christoph frei!  \n2. Begegnung mit dem Grashüpfer  \n3. Ich bin Kurt, aus der Familie der \"Rosenkäfer\"  \n4. Im Spinnennetz  \n5. Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens  \n6. Majas Flucht  \n7. Die Wanze stinkt  \n8. Empfang in Peppis Rosenhaus  \n9. Überfall der Hornisse  \n10. Schlacht der Bienen und Hornissen\n\nQuelle: digiCULT / Schleswig‑Holsteinische Landesbibliothek (Datensatz: \"Biene Maja\" Illustrationen von Peter Christian Rasmussen).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und vollständig. Sie listet alle zehn Radierungen auf, die in der Goldstandard-Antwort genannt werden, und gibt zusätzliche Kontextinformationen zur Quelle."
+  },
+  "file_type": "xml"
+}

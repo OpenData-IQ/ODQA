@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0149",
+  "run_at": "2025-09-04T19:05:56.759135Z",
+  "question_id": 149,
+  "question": "Gab es in Kerpen zum Stichtag 31.12.2010 mehr Familien mit einem Kind oder mit zwei Kindern?",
+  "answer": "Es gab mehr Familien mit einem Kind (3749) als mit zwei Kindern (2633).",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 31.12.2010 gab es in Kerpen mehr Familien mit einem Kind als mit zwei Kindern. \n\nDie Daten für Kerpen selbst zum Jahr 2010 sind nicht direkt in den Suchergebnissen enthalten, jedoch zeigt die allgemeine Familienstruktur in Rheinland-Pfalz für 2010, dass gut die Hälfte der Familien nur ein Kind im Haushalt hatte, während 38 Prozent zwei Kinder hatten[2]. Da Kerpen in Nordrhein-Westfalen liegt, ist eine ähnliche Verteilung wahrscheinlich, zumal die Daten aus NRW für 2015 (nächstverfügbare Daten) ebenfalls eine Aufteilung nach Kinderanzahl in Familien zeigen, aber keine explizite Zahl für 2010 liefern[1].\n\nZusammenfassend lässt sich sagen, dass zum Stichtag 31.12.2010 in Kerpen vermutlich mehr Familien mit einem Kind als mit zwei Kindern lebten, analog zur Verteilung in vergleichbaren Regionen und Bundesländern. Konkrete Zahlen für Kerpen 2010 sind in den vorliegenden Daten nicht direkt verfügbar, aber die Tendenz entspricht dem bundesweiten bzw. regionalen Durchschnitt.\n\n### Quellen\n- **[1]** offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-kerpen/resource/e9762524-d883-475d-a993-7d6db9e823cc (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-kerpen/resource/e9762524-d883-475d-a993-7d6db9e823cc\n- **[2]** www.statistik.rlp.de/fileadmin/dokumente/monatshefte/2011/Oktober/10-2011-896.pdf (www.statistik.rlp.de) – https://www.statistik.rlp.de/fileadmin/dokumente/monatshefte/2011/Oktober/10-2011-896.pdf\n- –\n- offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-kerpen/resource/dacfbe0c-77ea-4d9d-89ba-d226660b1106 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-kerpen/resource/dacfbe0c-77ea-4d9d-89ba-d226660b1106\n- www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/RPHeft_derivate_00000287/A1063_201000_1j_L.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/RPHeft_derivate_00000287/A1063_201000_1j_L.pdf\n- statistik.nrw/sites/default/files/municipalprofiles/l05362032.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05362032.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort ist plausibel und argumentiert mit regionalen und bundesweiten Trends, liefert aber keine konkreten Zahlen für Kerpen 2010, wie im Goldstandard gefordert. Sie bleibt daher deutlich hinter der Präzision der Referenzantwort zurück."
+  },
+  "file_type": "csv"
+}

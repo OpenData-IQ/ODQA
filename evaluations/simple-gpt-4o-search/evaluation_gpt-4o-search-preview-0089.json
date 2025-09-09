@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0089",
+  "run_at": "2025-09-04T17:17:50.495213Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\" finden Sie auf der Website bildungsklick.de. Der Artikel berichtet über die Bewerbung der Bremer Hochschulen für das Professorinnenprogramm, das darauf abzielt, den Anteil von Frauen in Spitzenpositionen an Universitäten und Hochschulen zu erhöhen. ([bildungsklick.de](https://bildungsklick.de/hochschule-und-forschung/detail/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen?utm_source=openai)) \n\n### Quellen\n- **[1]** Bremer Hochschulen bewerben sich um Förderung von Professorinnen (bildungsklick.de) – https://bildungsklick.de/hochschule-und-forschung/detail/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen?utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM provides a link to the article."
+  }
+}

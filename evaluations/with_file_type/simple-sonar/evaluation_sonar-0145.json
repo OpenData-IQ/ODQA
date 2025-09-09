@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0145",
+  "run_at": "2025-09-04T19:05:25.838672Z",
+  "question_id": 145,
+  "question": "Kann ich irgendwo nachschauen, wie viele Straßenverkehrsunfälle es in Dresden pro Jahr gibt?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_allgemein_1995ff_dresden",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die Anzahl der Straßenverkehrsunfälle in Dresden ab 1995 jährlich ausweist.",
+  "llm_final": "Ja, Sie können die Anzahl der Straßenverkehrsunfälle in Dresden pro Jahr auf der offiziellen Webseite der Landeshauptstadt Dresden nachschauen. Für das Jahr 2024 wurden dort beispielsweise **13.308 Straßenverkehrsunfälle** registriert, mit insgesamt **2.709 verunglückten Verkehrsteilnehmern**, darunter **7 Tote**, **383 Schwerverletzte** und **2.319 Leichtverletzte**[1].\n\nWeitere Jahreszahlen und detaillierte Statistiken finden Sie ebenfalls auf der Seite der Stadt Dresden oder in Polizeistatistiken. Zum Beispiel gab es im Jahr 2022 in Dresden **12.591 Verkehrsunfälle** mit **2.626 verunglückten Personen** und **6 Todesfällen**[3].\n\nZusätzlich bietet die Verkehrsunfallforschung an der TU Dresden (VUFO) detaillierte Analysen zu Verkehrsunfällen im Großraum Dresden an, die für vertiefte Studien genutzt werden können[4].\n\nFür historische Daten und weitere Details zu Unfallarten und Verletztenzahlen können Sie auch statistische Berichte des Freistaats Sachsen konsultieren[5].\n\n### Quellen\n- **[1]** www.dresden.de/de/leben/stadtportrait/statistik/bauen-wohnen-verkehr/strassenverkehrsunfaelle.php (www.dresden.de) – https://www.dresden.de/de/leben/stadtportrait/statistik/bauen-wohnen-verkehr/strassenverkehrsunfaelle.php\n- **[2]** statistik-dresden.de/archives/tag/verkehrstote/ (statistik-dresden.de) – https://statistik-dresden.de/archives/tag/verkehrstote/\n- **[3]** www.landratsamt-pirna.de/polizeiliche-verkehrsunfallstatistik-2022-28923.html (www.landratsamt-pirna.de) – https://www.landratsamt-pirna.de/polizeiliche-verkehrsunfallstatistik-2022-28923.html\n- **[4]** www.vufo.de/ (www.vufo.de) – https://www.vufo.de\n- –\n- www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/SNHeft_derivate_00010085/statistik-sachsen_hI3_strassenverkehrsunfaelle.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/SNHeft_derivate_00010085/statistik-sachsen_hI3_strassenverkehrsunfaelle.pdf",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält mehrere relevante und offizielle Quellen, konkrete Zahlen und weiterführende Hinweise. Sie ist umfassend, präzise und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

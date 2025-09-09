@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0153",
+  "run_at": "2025-09-04T19:06:21.344212Z",
+  "question_id": 153,
+  "question": "Mit wie vielen Kindern pro Familie gab es 2021 in Heimbach Familien?",
+  "answer": "1, 2, 3, 4, 5",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Für das Jahr 2021 liegen keine spezifischen Daten zur Anzahl der Kinder pro Familie in der Gemeinde Heimbach vor. Die verfügbaren demographischen Statistiken für Heimbach aus 2022 geben zwar die Einwohnerzahl (1.022) und weitere allgemeine Bevölkerungsdaten an, enthalten aber keine Angaben zur Anzahl der Familien oder zur Kinderzahl pro Familie[1]. \n\nEine Datenquelle, die Familien mit Anzahl der Kinder in Heimbach auflistet, existiert zwar (D07 Familien mit Anzahl Kinder Stadt Heimbach), jedoch ist kein direkter Zugriff auf die Zahlen aus 2021 möglich oder in den Suchergebnissen enthalten[4].\n\nFür Deutschland insgesamt gibt es Daten zur Kinderzahl pro Familie, aber diese sind nicht auf Heimbach heruntergebrochen und beziehen sich auf größere Gebietseinheiten[5].\n\nZusammengefasst: **Es sind keine öffentlich verfügbaren, spezifischen Daten zur Anzahl der Kinder pro Familie in Heimbach für 2021 in den vorliegenden Quellen enthalten**. Für detaillierte Zahlen müsste man auf kommunale Statistikämter oder spezielle Erhebungen zurückgreifen.\n\n### Quellen\n- **[1]** ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/heimbach/20165119/4 (ugeo.urbistat.com) – https://ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/heimbach/20165119/4\n- **[2]** www.oif.ac.at/fileadmin/user_upload/p_oif/FiZ/FiZ_2022.pdf (www.oif.ac.at) – https://www.oif.ac.at/fileadmin/user_upload/p_oif/FiZ/FiZ_2022.pdf\n- **[3]** www.statistik.bayern.de/presse/mitteilungen/2022/pm298/index.html (www.statistik.bayern.de) – https://www.statistik.bayern.de/presse/mitteilungen/2022/pm298/index.html\n- –\n- offenedaten.kdvz.nrw/node/2857/dataset (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/node/2857/dataset\n- www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Tabellen/2-1-familien.html (www.destatis.de) – https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Tabellen/2-1-familien.html",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt ausführlich, dass keine spezifischen Daten für die Frage existieren und verweist auf fehlende Quellen. Dies entspricht der Kategorie 'not found'."
+  },
+  "file_type": "csv"
+}

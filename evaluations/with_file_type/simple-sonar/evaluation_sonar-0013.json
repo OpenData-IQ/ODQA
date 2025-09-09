@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0013",
+  "run_at": "2025-09-04T18:50:12.725063Z",
+  "question_id": 13,
+  "question": "Wie viele Linden gibt es in Rostock?",
+  "answer": "12462",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Spalte gattung_deutsch==linde, nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Eine genaue Zahl, wie viele Linden es insgesamt in Rostock gibt, ist in den verfügbaren Quellen nicht direkt angegeben. Es gibt jedoch Hinweise auf Lindenbestände an bestimmten Orten:\n\n- Im Rostocker Rosengarten stehen 140 Jahre alte Linden, von denen eine kleine Anzahl gefällt werden soll[5].\n- Der Lindenpark in Rostock ist ein bekannter Park, der nach Linden benannt ist und in dem viele Lindenbäume stehen, allerdings wird keine genaue Anzahl genannt[2][3].\n\nDer offizielle Baumbericht 2022 der Stadt Rostock enthält detaillierte Baumstatistiken, jedoch liegen keine spezifischen Zahlen zu Linden in den bereitgestellten Auszügen vor[4]. Auch die Pressemitteilung zur Herbst-Baumpflanzung 2021 erwähnt neue Baumpflanzungen, aber keine genaue Anzahl von Linden[1].\n\nZusammenfassend lässt sich sagen, dass es in Rostock mehrere bedeutende Lindenbestände gibt, insbesondere im Lindenpark und Rosengarten, aber eine exakte Gesamtzahl der Linden in der Stadt ist öffentlich nicht dokumentiert. Für eine präzise Zahl wäre eine Anfrage beim Amt für Stadtgrün, Naturschutz und Friedhofswesen Rostock empfehlenswert.\n\n### Quellen\n- **[1]** rathaus.rostock.de/de/herbst_baumpflanzung_in_rostock_152_baeume_an_48_standorten/324180 (rathaus.rostock.de) – https://rathaus.rostock.de/de/herbst_baumpflanzung_in_rostock_152_baeume_an_48_standorten/324180\n- **[2]** jahreszeitenbriefe.blogspot.com/2016/05/im-lindenpark-in-rostock.html (jahreszeitenbriefe.blogspot.com) – https://jahreszeitenbriefe.blogspot.com/2016/05/im-lindenpark-in-rostock.html\n- **[3]** www.meck-pomm-lese.de/sehenswuerdigkeiten/oertlichkeiten/lindenpark-in-rostock/ (www.meck-pomm-lese.de) – https://www.meck-pomm-lese.de/sehenswuerdigkeiten/oertlichkeiten/lindenpark-in-rostock/\n- **[4]** rathaus.rostock.de/media/4984/Baumbericht%202022.pdf (rathaus.rostock.de) – https://rathaus.rostock.de/media/4984/Baumbericht%202022.pdf\n- **[5]** www.youtube.com/watch (www.youtube.com) – https://www.youtube.com/watch?v=0vbbyryL1y8",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort liefert keine konkrete Zahl, obwohl die Goldantwort (12462) eindeutig ist. Die Antwort ist daher sachlich falsch und nicht ausreichend."
+  },
+  "file_type": "csv"
+}

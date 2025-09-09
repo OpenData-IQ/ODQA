@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0130",
+  "run_at": "2025-09-04T19:03:29.675419Z",
+  "question_id": 130,
+  "question": "In welchem Ortsteil der Gemeinde Kreuzau gab es zum Stichtag 31.12.2011 die meisten Familien mit vier Personen?",
+  "answer": "Im Kerngebiet gab es die meisten Familien mit vier Personen, nämlich 153 Familien",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Ortsteil der Gemeinde Kreuzau mit den meisten Familien mit vier Personen zum Stichtag 31.12.2011 ist in den verfügbaren Daten nicht direkt in den Suchergebnissen genannt. Allerdings gibt es eine Datensammlung, die Familien nach Größe für die Gemeinde Kreuzau insgesamt zum Stichtag 31.12.2011 auflistet[1]. \n\nFür eine genaue Antwort müsste man diese Datensammlung (Familien nach Größe Gemeinde Kreuzau 2011) einsehen und die Familienanzahl mit genau vier Personen nach Ortsteilen auswerten. Die vorhandenen Datensätze mit Familien nach Anzahl der Kinder beziehen sich auf spätere Jahre (2013, 2017) und sind nicht für 2011 verfügbar oder nicht nach Ortsteilen differenziert[2][3][4].\n\nZusammenfassend: Die spezifische Information, welcher Ortsteil in Kreuzau 2011 die meisten vierköpfigen Familien hatte, ist in den bereitgestellten Datenquellen nicht explizit ausgewiesen. Die Datenquelle [1] enthält die Gesamtzahlen für Kreuzau 2011, aber nicht nach Ortsteilen. Für eine genaue Antwort wäre eine detaillierte Auswertung der Originaldaten aus [1] notwendig.\n\n### Quellen\n- **[1]** offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/c31a4cf4-1c51-415f-b708-0bcaad9a993b (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d08-familien-nach-gr%C3%B6%C3%9Fe-gemeinde-kreuzau/resource/c31a4cf4-1c51-415f-b708-0bcaad9a993b\n- **[2]** offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-kreuzau/resource/71d03ac9-d0ac-40d3-9e46 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-kreuzau/resource/71d03ac9-d0ac-40d3-9e46\n- **[3]** offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-kreuzau/resource/f170f051-cc90-4ce2-9382 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d07-familien-mit-anzahl-kinder-gemeinde-kreuzau/resource/f170f051-cc90-4ce2-9382\n- **[4]** ckan.open.nrw.de/sk/dataset/d08-familien-nach-grosse-gemeinde-kreuzau-rer/resource/b70d0f20-83db-434f-b75c-54971d635f9a (ckan.open.nrw.de) – https://ckan.open.nrw.de/sk/dataset/d08-familien-nach-grosse-gemeinde-kreuzau-rer/resource/b70d0f20-83db-434f-b75c-54971d635f9a?inner_span=True\n- –\n- gpanrw.de/sites/default/files/media/1505289753_gemeinde_kreuzau_gesamtbericht_2017.pdf (gpanrw.de) – https://gpanrw.de/sites/default/files/media/1505289753_gemeinde_kreuzau_gesamtbericht_2017.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt nachvollziehbar, dass die spezifischen Daten nach Ortsteil für 2011 in den verfügbaren Quellen nicht enthalten sind. Die gewünschte Information ist laut Antwort nicht auffindbar."
+  }
+}

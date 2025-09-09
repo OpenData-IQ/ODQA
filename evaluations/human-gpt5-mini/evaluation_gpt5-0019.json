@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0019",
+  "run_at": "2025-08-31T10:10:44.345439Z",
+  "question_id": 19,
+  "question": "Wie lang ist die Badestelle am Vollstedter See?",
+  "answer": "30m",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates a technical limitation prevented a proper answer."
+  }
+}

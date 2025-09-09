@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0058",
+  "run_at": "2025-09-01T20:49:37.945930Z",
+  "question_id": 58,
+  "question": "In welchem Essener Stadtteil gibt es 2023 die wenigsten Haushalte mit drei oder mehr Kindern?",
+  "answer": "Fulerum",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nDer Essener Stadtteil mit den wenigsten Haushalten mit drei oder mehr Kindern im Jahr 2023 ist **Rellinghausen** mit **26 Haushalten**.  \nQuelle: [Privathaushalte Essen](https://opendata.essen.de/dataset/privathaushalte-essen)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der Goldstandard nennt Fulerum. Das LLM antwortet mit Rellinghausen, was dem Goldstandard widerspricht; daher ist die Antwort falsch."
+  }
+}

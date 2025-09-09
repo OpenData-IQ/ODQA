@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0081",
+  "run_at": "2025-08-31T23:40:26.427352Z",
+  "question_id": 81,
+  "question": "Wie hoch war der Energieverbrauch der Betriebe im Verarbeitendem Gewerbe in der kreisfreien Stadt Salzgitter im Jahr 2023?",
+  "answer": "die Daten fehlen in der Statistik",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates a technical problem preventing the generation of a proper answer."
+  },
+  "file_type": "csv"
+}

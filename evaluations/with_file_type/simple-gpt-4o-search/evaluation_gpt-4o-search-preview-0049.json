@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0049",
+  "run_at": "2025-09-04T17:11:46.325819Z",
+  "question_id": 49,
+  "question": "Wie viele meldepflichtige Wegeunfälle im Jahre 2016 sind dem Unfallversicherungsträger Landwirtschaftliche Berufsgenossenschaft zuzuordnen?",
+  "answer": "2325",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Im Jahr 2016 verzeichnete die Landwirtschaftliche Berufsgenossenschaft insgesamt 146.908 angezeigte Arbeits- und Wegeunfälle, von denen 84.520 meldepflichtig waren. ([de.readkong.com](https://de.readkong.com/page/auf-einen-blick-daten-und-zahlen-2020-svlfg-1562888?utm_source=openai)) Eine separate Aufschlüsselung der meldepflichtigen Wegeunfälle liegt in den verfügbaren Quellen nicht vor. \n\n### Quellen\n- **[1]** Auf einen Blick Daten und Zahlen 2020 - SVLFG (de.readkong.com) – https://de.readkong.com/page/auf-einen-blick-daten-und-zahlen-2020-svlfg-1562888?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine falsche Zahl für die meldepflichtigen Wegeunfälle an und behauptet, dass keine separate Aufschlüsselung vorliegt, obwohl die Gold-Antwort eine spezifische Zahl liefert. Die LLM-Antwort bezieht sich auf Arbeits- und Wegeunfälle insgesamt, nicht nur auf Wegeunfälle."
+  },
+  "file_type": "csv"
+}

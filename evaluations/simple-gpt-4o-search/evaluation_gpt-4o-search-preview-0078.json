@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0078",
+  "run_at": "2025-09-04T17:16:04.979628Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja, in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" wird zwischen Wohn- und Nichtwohngebäuden unterschieden. Diese Statistik erfasst die Anzahl der genehmigten Wohnungen, aufgeschlüsselt nach der Anzahl der Räume, und differenziert dabei zwischen Wohnungen in Wohngebäuden und solchen in Nichtwohngebäuden. Ein Beispiel hierfür ist der Datensatz des Thüringer Landesamtes für Statistik, der die Baugenehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume und Gemeinden in Thüringen darstellt. ([statistik.thueringen.de](https://statistik.thueringen.de/datenbank/TabAnzeige.asp?tabelle=ge000763%7C%7C&utm_source=openai)) \n\n### Quellen\n- **[1]** Thüringer Landesamt für Statistik (statistik.thueringen.de) – https://statistik.thueringen.de/datenbank/TabAnzeige.asp?tabelle=ge000763%7C%7C&utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist falsch, da sie behauptet, es gäbe einen Unterschied zwischen Wohn- und Nichtwohngebäuden, während die Goldstandard-Antwort \"nein\" lautet. Die LLM-Antwort widerspricht der korrekten Information."
+  }
+}

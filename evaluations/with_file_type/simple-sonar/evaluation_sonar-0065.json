@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0065",
+  "run_at": "2025-09-04T18:55:47.767544Z",
+  "question_id": 65,
+  "question": "Wie viele Fotos von Bau des Nord-Ostsee-Kanals sind hier zu finden?",
+  "answer": "17",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Bildarchiv des Wasserstraßen- und Schifffahrtsamts (WSA) Nord-Ostsee-Kanal in Kiel befinden sich rund **2.000 historische Fotos und Glasplattenaufnahmen** aus der Zeit des Baus des Nord-Ostsee-Kanals, die ab 2007 eingescannt wurden. Diese Originalaufnahmen zeigen den Bau mit hoher Qualität und Detailgenauigkeit[2].\n\nWeitere Fotos und historische Bilder sind auch im Fotoarchiv des Stadtarchivs der Landeshauptstadt Kiel verfügbar, allerdings ist die genaue Anzahl dort nicht angegeben[2].\n\nZusammengefasst: **Etwa 2.000 Fotos vom Bau des Nord-Ostsee-Kanals sind im WSA-Archiv online zugänglich**[2].\n\n### Quellen\n- **[1]** www.nok-sh.de/geschichte (www.nok-sh.de) – https://www.nok-sh.de/geschichte\n- –\n- www.wsa-nord-ostsee-kanal.wsv.de/Webs/WSA/WSA-Nord-Ostsee-Kanal/DE/6_Presse/1_Bilder/_Historische_Bilder/historische_bilder_node.html (www.wsa-nord-ostsee-kanal.wsv.de) – https://www.wsa-nord-ostsee-kanal.wsv.de/Webs/WSA/WSA-Nord-Ostsee-Kanal/DE/6_Presse/1_Bilder/_Historische_Bilder/historische_bilder_node.html\n- www.youtube.com/watch (www.youtube.com) – https://www.youtube.com/watch?v=-J78sOpdmq4\n- www.ingenieur.de/technik/fachbereiche/verkehr/nord-ostsee-kanal-jahrhundertwerk-wird-aufgehuebscht/ (www.ingenieur.de) – https://www.ingenieur.de/technik/fachbereiche/verkehr/nord-ostsee-kanal-jahrhundertwerk-wird-aufgehuebscht/\n- www.wna-nord-ostsee-kanal.wsv.de/Webs/WNA/WNA-NOK/DE/1_Projekte/2_Investitionsprogramm_NOK-Strecke/1_Ausbau_Oststrecke/8_Bilder/bilder_abo_node.html (www.wna-nord-ostsee-kanal.wsv.de) – https://www.wna-nord-ostsee-kanal.wsv.de/Webs/WNA/WNA-NOK/DE/1_Projekte/2_Investitionsprogramm_NOK-Strecke/1_Ausbau_Oststrecke/8_Bilder/bilder_abo_node.html",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt etwa 2.000 Fotos, während die korrekte Antwort 17 ist. Die Antwort ist somit falsch."
+  },
+  "file_type": "xml"
+}

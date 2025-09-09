@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0004",
+  "run_at": "2025-09-04T10:56:26.453500Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "120 untergebrachte wohnungslose Frauen (Stichtag 31.01.2024) im Kreis Nordfriesland.\n\nQuellen:\n- Statistikamt Nord (2024): Untergebrachte wohnungslose Personen in Schleswig-Holstein am 31.01.2024 – Ergebnisse nach Kreisen und Geschlecht (Tabellenauswertung). Herausgeber: Statistikamt Nord (Statistisches Amt für Hamburg und Schleswig-Holstein).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine Zahl von 120 an, während die korrekte Antwort 510 ist. Die angegebene Zahl ist somit falsch. Obwohl eine Quelle genannt wird, ist die Information nicht korrekt."
+  }
+}

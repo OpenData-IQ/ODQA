@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0123",
+  "run_at": "2025-08-31T12:50:08.533849Z",
+  "question_id": 123,
+  "question": "Zu welchem Zeitpunkt (Tag und Uhrzeit) und bei welchem Wetter wurden am Mannesmannufer in Düsseldorf im Jahr 2014 die meisten Radfahrer gezählt?",
+  "answer": "Am 19. Oktober 2014, 15.00 Uhr wurden die meisten Radfahrer am Mannesmannufer in Düsseldorf gezählt (946 Radfahrer). Zu diesem Zeitpunkt war es leicht bewölkt, 21 Grad warm und es gab keinen Regen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert die Generierung einer vollständigen Antwort."
+  },
+  "file_type": "csv"
+}

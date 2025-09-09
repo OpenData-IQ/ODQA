@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0007",
+  "run_at": "2025-09-01T19:29:54.101822Z",
+  "question_id": 7,
+  "question": "Wie viele Querbeet Gemeinschaftsgärten gibt es in Dortmund?",
+  "answer": "57",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "<FinalAnswer>\nIn Dortmund gibt es laut dem offiziellen Datensatz **12 Querbeet-Gemeinschaftsgärten**.  \nQuelle: [Querbeet-Gemeinschaftsgärten Datensatz](https://open-data.dortmund.de/api/v2/catalog/datasets/querbeet-gemeinschaftsgarten)\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der Goldstandard nennt 57, das LLM gibt 12 an. Daher ist die Antwort faktisch falsch."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0091",
+  "run_at": "2025-09-04T17:18:19.865637Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Nähe von 97286 Sommerhausen gibt es mehrere Agrarorganisationen und Vereine, denen Sie sich anschließen können:\n\n1. **Absatzgenossenschaft für Obst- und Gartenbauerzeugnisse Sommerhausen und Umgebung eG**: Diese Genossenschaft fördert die Vermarktung von Obst und Gemüse sowie anderer landwirtschaftlicher Erzeugnisse. Sie befindet sich in der Industriestraße 1, 97286 Sommerhausen. Kontaktieren können Sie sie telefonisch unter 09333/99936 oder per E-Mail an agsommerhausen@t-online.de. ([raiffeisen.com](https://www.raiffeisen.com/standorte/1443?utm_source=openai))\n\n2. **Obst-, Wein- und Gartenbauverein Sommerhausen am Main**: Dieser Verein bietet Informationen und Aktivitäten rund um den Obst-, Wein- und Gartenbau. Weitere Details finden Sie auf der Vereinswebsite. ([owg.sommerhausen.de](https://owg.sommerhausen.de/?utm_source=openai))\n\n3. **Fränkische Obstbauern e.V.**: Ein regionaler Verband, der Obstbauern in Franken unterstützt. Mitglieder in Ihrer Nähe sind beispielsweise der Sommerhäuser Hofmarkt (Obstbau Steinmann) in der Ochsenfurter Str. 21, 97286 Sommerhausen, und der Obsthof Seubert in der Zaunlücke 9, 97237 Oberaltertheim. ([fraenkische-obstbauern.de](https://fraenkische-obstbauern.de/mitglieder/?utm_source=openai))\n\nDiese Organisationen bieten verschiedene Möglichkeiten zur Beteiligung und Unterstützung im Bereich des Obst- und Gartenbaus. \n\n### Quellen\n- **[1]** Absatzgenossenschaft für Obst- und Gartenbauerzeugnisse Sommerhausen und Umgebung eG « Raiffeisen-Standort-Suche - raiffeisen.com (www.raiffeisen.com) – https://www.raiffeisen.com/standorte/1443?utm_source=openai\n- **[2]** Startseite - OWG | Sommerhausen (owg.sommerhausen.de) – https://owg.sommerhausen.de/?utm_source=openai\n- **[3]** Mitglieder – Fränkische Obstbauern e.V. (fraenkische-obstbauern.de) – https://fraenkische-obstbauern.de/mitglieder/?utm_source=openai",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort listet mehrere Agrarorganisationen auf, die in der Nähe von Sommerhausen relevant sein könnten. Allerdings nennt sie nicht die spezifische Organisation, die in der Goldstandard-Antwort genannt wird. Allerdings wird hier kein so strenger Bewertungssmaßstab angelegt, da die Frage auch allgemein formuliert ist."
+  },
+  "file_type": "xml"
+}

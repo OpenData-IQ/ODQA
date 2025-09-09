@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0136",
+  "run_at": "2025-09-01T01:34:59.288777Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Ja. Für den Stadtbereich Biestow beträgt die Wahlbeteiligung bei der Bürgerschaftswahl 2024 80,2 % (Wahl am 09.06.2024).\n\nQuelle: Datensatz „Bürgerschaftswahl 2024 – Ergebnisse nach Stadtbereichen“\nhttps://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt, vollständig und enthält die exakte URL aus der Goldstandard-Antwort. Sie liefert zudem die spezifische Information zur Wahlbeteiligung, die in der Frage impliziert ist."
+  }
+}

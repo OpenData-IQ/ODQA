@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0028",
+  "run_at": "2025-09-04T13:52:46.606005Z",
+  "question_id": 28,
+  "question": "Warum ist die Theodor-Storm-Schule in Neumünster ein Kulturdenkmal?",
+  "answer": "die Begründung ist Geschichtlich und Städtebaulich: Theodor-Storm-Schule; ehem. Knabenschule; 1885/86; unregelmäßige Dreiflügelanlage, gotisierender zweigeschossiger Backsteinbau, Fassaden durch Glasurziegelgesimse und Backsteinfriese belebt, Hauptfassade gegliedert durch zwei regelmäßig angeordnete Risalite mit gotisierenden Giebeln; Turnhalle an Südostseite des Schulgrundstücks",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurz gesagt: Die Theodor‑Storm‑Schule ist als Kulturdenkmal eingetragen, weil sie als gut erhaltenes, typisches Beispiel des Schulbaus ihrer Entstehungszeit in Neumünster gilt und damit für die Stadt‑ und Bildungsgeschichte bedeutend ist. Die Unterschutzstellung stützt sich auf die Kriterien des Denkmalschutzgesetzes Schleswig‑Holstein (geschichtliche, künstlerische/architektonische und städtebauliche Bedeutung).\n\nWesentliche Gründe für die Denkmaleigenschaft:\n- bau- und architekturgeschichtliche Bedeutung: repräsentatives, weitgehend überliefertes Schulgebäude/-ensemble seiner Zeit mit charakteristischen Gestaltungsmerkmalen des norddeutschen Backstein-/Reformschulbaus\n- geschichtliche Bedeutung: Zeugnis der kommunalen Schul- und Sozialgeschichte Neumünsters (Ausbau des Schulwesens in der ersten Hälfte/ Mitte des 20. Jahrhunderts)\n- städtebauliche Bedeutung: ortsbildprägende Anlage mit Ensemblewert (Schulbau mit zugehörigen Freiflächen/Nebenbauten), die das Straßen- und Quartiersbild mitprägt\n\nQuellen:\n- Landesamt für Denkmalpflege Schleswig-Holstein (LfD SH): Offizielle Denkmalliste/Verzeichnis der Kulturdenkmale, Stadt Neumünster – Eintrag „Theodor‑Storm‑Schule“ (geführt als Kulturdenkmal nach § 2 Abs. 1 DSchG SH). Herausgeber: LfD SH.\n- GeoPortal.SH / Digitaler Atlas Nord: Fachthema „Kulturdenkmale“ – Datensatz der Kulturdenkmale in Neumünster mit Eintrag zur Theodor‑Storm‑Schule. Herausgeber: Landesamt für Vermessung und Geoinformation SH in Zusammenarbeit mit dem LfD SH.\n- Denkmalschutzgesetz Schleswig‑Holstein (DSchG SH), insbesondere § 2 (Begriffsbestimmung der Kulturdenkmale) und § 5 ff. (Unterschutzstellung). Herausgeber: Land Schleswig‑Holstein.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist sehr umfassend und detailliert. Sie liefert nicht nur die Gründe für die Denkmaleigenschaft, sondern auch relevante Quellen und eine klare Strukturierung."
+  }
+}

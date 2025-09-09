@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0122",
+  "run_at": "2025-09-01T15:12:08.815005Z",
+  "question_id": 122,
+  "question": "Wie viele Radfahrer wurden am Mannesmannufer in Düsseldorf im Jahr 2014 insgesamt gezählt?",
+  "answer": "Die genaue Gesamtzahl der gezählten Radfahrer im Jahr 2014 am Mannesmannufer betrug insgesamt 988143.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe ist eine Fehlermeldung zur Rekursionsgrenze und enthält keine Antwort auf die Frage."
+  }
+}

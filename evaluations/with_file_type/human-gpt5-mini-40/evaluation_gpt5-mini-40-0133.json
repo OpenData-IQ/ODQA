@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0133",
+  "run_at": "2025-09-06T13:59:07.022273Z",
+  "question_id": 133,
+  "question": "In welche Länder sind im Jahr 2020 200 oder mehr Menschen aus Elsdorf im Rhein-Erft-Kreis weggezogen?",
+  "answer": "Deutschland, Kamerun, Ägypten, Pakistan, Thailand, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
+  },
+  "file_type": "csv"
+}

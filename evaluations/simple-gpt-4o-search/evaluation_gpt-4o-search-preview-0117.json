@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0117",
+  "run_at": "2025-09-04T17:34:29.149654Z",
+  "question_id": 117,
+  "question": "In welchem Stadtbereich Rostocks war der Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 am höchsten?",
+  "answer": "Im Stadtbereich Gartenstadt-Stadtweide lag der Anteil ausländischer Einwohnerinnen und Einwohner am 31.12.2010 mit 7,9 % am höchsten.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum 31. Dezember 2010 lebten in der Hansestadt Rostock insgesamt 200.621 Personen, darunter 6.716 ausländische Einwohnerinnen und Einwohner. ([rathaus.rostock.de](https://rathaus.rostock.de/de/aemter/309959?utm_source=openai))\n\nDetaillierte Daten zum Anteil ausländischer Einwohnerinnen und Einwohner in den einzelnen Stadtbereichen für das Jahr 2010 sind im Datensatz \"Bevölkerungsstruktur 2010\" der Hanse- und Universitätsstadt Rostock verfügbar. ([opendata-hro.de](https://www.opendata-hro.de/de/dataset/bevoelkerungsstruktur_2010?utm_source=openai))\n\nObwohl spezifische Zahlen für 2010 nicht vorliegen, zeigen Daten aus dem Jahr 2013, dass der Stadtbereich Gartenstadt/Stadtweide mit 9,3 % den höchsten Anteil an ausländischer Bevölkerung aufwies. Dies ist auf die dortige Erstaufnahmeeinrichtung für Asylsuchende zurückzuführen. Weitere Stadtbereiche mit höheren Anteilen waren Evershagen (6,1 %), Dierkow-Neu (5,3 %), Lütten Klein (5,2 %) und Lichtenhagen (5,0 %). ([researchgate.net](https://www.researchgate.net/publication/278027511_Gesundheitsbericht_der_Hansestadt_Rostock_2015_Berichtszeitraum_2004_bis_2013?utm_source=openai))\n\nEs ist anzunehmen, dass die Verteilung im Jahr 2010 ähnlich war, jedoch können genaue Zahlen für dieses Jahr dem genannten Datensatz entnommen werden. \n\n### Quellen\n- **[1]** Rostock - Eckdaten_Bevölkerung_2b_Bevölkerungsentwicklung nach Staatsangehörigkeit (Melderegister) (rathaus.rostock.de) – https://rathaus.rostock.de/de/aemter/309959?utm_source=openai\n- **[2]** Bevölkerungsstruktur 2010 - Datensatz - OpenData.HRO (www.opendata-hro.de) – https://www.opendata-hro.de/de/dataset/bevoelkerungsstruktur_2010?utm_source=openai\n- **[3]** (PDF) Gesundheitsbericht der Hansestadt Rostock 2015 (Berichtszeitraum 2004 bis 2013) (www.researchgate.net) – https://www.researchgate.net/publication/278027511_Gesundheitsbericht_der_Hansestadt_Rostock_2015_Berichtszeitraum_2004_bis_2013?utm_source=openai",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt keine direkte Antwort für das Jahr 2010, sondern verweist auf Daten von 2013 und einen Datensatz, der die genauen Zahlen enthalten soll. Sie beantwortet die Frage nicht direkt und vollständig für das angefragte Jahr."
+  }
+}

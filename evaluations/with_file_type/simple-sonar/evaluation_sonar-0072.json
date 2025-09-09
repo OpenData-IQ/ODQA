@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0072",
+  "run_at": "2025-09-04T18:56:38.853305Z",
+  "question_id": 72,
+  "question": "Gab es 2019 in Berlin Neukölln mehr männliche oder mehr weibliche minderjährige Kinder in Familien?",
+  "answer": "mehr männliche",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2019 gab es ca. 27.000 männliche und 26.000 weibliche minderjährige Kinder in Neuköllner Familien",
+  "llm_final": "Im Jahr 2019 gab es im Berliner Bezirk Neukölln bei minderjährigen Kindern in Familien **mehr männliche als weibliche Kinder**. \n\nDie verfügbaren Daten zeigen, dass in Neukölln insgesamt viele Kinder und Jugendliche leben, wobei die Altersgruppen 0 bis unter 7, 7 bis unter 14 und 14 bis unter 18 Jahre detailliert erfasst sind. Die Zahlen aus dem Jobcenter Neukölln für Dezember 2019 weisen auf insgesamt 22.531 minderjährige Kinder in Bedarfsgemeinschaften hin, ohne explizite Aufteilung nach Geschlecht in der Quelle, jedoch ist aus dem allgemeinen demografischen Geschlechterverhältnis in Neukölln bekannt, dass die männliche Bevölkerung bei Kindern leicht überwiegt[2][3].\n\nDer Bezirk Neukölln hatte 2017 laut Jugendbericht 68.257 junge Menschen im Alter von 6 bis unter 27 Jahren, mit einer Aufteilung nach Altersgruppen, aber ohne explizite Geschlechterverteilung bei Minderjährigen in Familien[1]. Die Gesamtbevölkerung zeigt ein nahezu ausgeglichenes Geschlechterverhältnis, wobei bei Kindern unter 20 Jahren tendenziell mehr Jungen als Mädchen leben[3].\n\nZusammenfassend lässt sich sagen, dass in Neukölln 2019 bei minderjährigen Kindern in Familien **mehr männliche als weibliche Kinder** vorhanden waren, was dem üblichen demografischen Muster entspricht, auch wenn die exakten Zahlen nach Geschlecht für 2019 im Bezirk nicht direkt in den Quellen ausgewiesen sind[2][3].\n\n### Quellen\n- **[1]** www.neukoelln-jugend.de/formulare/Quali/Jugendbericht-ENDv3_korr-Stadtrat_18-12-2019_Reh20-Jan-2020.pdf (www.neukoelln-jugend.de) – https://www.neukoelln-jugend.de/formulare/Quali/Jugendbericht-ENDv3_korr-Stadtrat_18-12-2019_Reh20-Jan-2020.pdf\n- **[2]** pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11987.pdf (pardok.parlament-berlin.de) – https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11987.pdf\n- **[3]** de.wikipedia.org/wiki/Bezirk_Neuk%C3%B6lln (de.wikipedia.org) – https://de.wikipedia.org/wiki/Bezirk_Neuk%C3%B6lln\n- –\n- www.familienbeirat-berlin.de/fileadmin/Startseite/PDF/Familien_2023.pdf (www.familienbeirat-berlin.de) – https://www.familienbeirat-berlin.de/fileadmin/Startseite/PDF/Familien_2023.pdf\n- pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11519.pdf (pardok.parlament-berlin.de) – https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11519.pdf",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist zwar korrekt, sie wurde aber einfach nur geschätzt und basiert auf keiner konkreten Quelle."
+  },
+  "file_type": "csv"
+}

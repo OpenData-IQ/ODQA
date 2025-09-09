@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0075",
+  "run_at": "2025-09-04T18:56:57.096643Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zu Stand 31.12.2023 liegen in den Suchergebnissen keine spezifischen Angaben vor, in welchen Fachabteilungen der Krankenhäuser im Kreis Nordfriesland keine aufgestellten Betten vorhanden sind. Die verfügbaren Quellen geben allgemeine Informationen zur Krankenhausversorgung und Bettenkapazitäten in Schleswig-Holstein und im Kreis Nordfriesland, nennen aber keine detaillierte Aufschlüsselung nach Fachabteilungen mit Angabe von Abteilungen ohne Betten[1][2][4][5].\n\nDas Klinikum Nordfriesland, der größte Krankenhausanbieter im Kreis, verfügt am Standort Husum über 228 Betten, jedoch wird nicht differenziert, in welchen Fachabteilungen Betten aufgestellt sind oder fehlen[2][5]. Der Krankenhausplan Schleswig-Holsteins listet zwar Fachabteilungen auf, enthält aber keine aktuelle Information zu Betten, die in bestimmten Fachabteilungen nicht aufgestellt sind[4].\n\nDaher ist für eine genaue Antwort auf die Frage eine direkte Anfrage beim Klinikum Nordfriesland oder bei der zuständigen Krankenhausplanung des Landes Schleswig-Holstein erforderlich, da öffentlich zugängliche Daten diese Detailinformation nicht enthalten.\n\n### Quellen\n- **[1]** library.fes.de/pdf-files/bueros/jlf/20426.pdf (library.fes.de) – https://library.fes.de/pdf-files/bueros/jlf/20426.pdf\n- **[2]** www.dsn-online.de/fileadmin/user_upload/references-pdf/Integrierte_Versorgung_Nordfriedland_Endbericht.pdf (www.dsn-online.de) – https://www.dsn-online.de/fileadmin/user_upload/references-pdf/Integrierte_Versorgung_Nordfriedland_Endbericht.pdf\n- **[3]** www.ssw.de/dk/emner/krankenhausplanung-nordfriesland-kann-mit-dem-ergebnis-leben-6722 (www.ssw.de) – https://www.ssw.de/dk/emner/krankenhausplanung-nordfriesland-kann-mit-dem-ergebnis-leben-6722\n- **[4]** www.schleswig-holstein.de/DE/fachinhalte/K/krankenhaeuser/Downloads/Krankenhausplan_2017_Teil_A.pdf (www.schleswig-holstein.de) – https://www.schleswig-holstein.de/DE/fachinhalte/K/krankenhaeuser/Downloads/Krankenhausplan_2017_Teil_A.pdf?__blob=publicationFile&v=1\n- –\n- www.klinikum-nf.de/ (www.klinikum-nf.de) – https://www.klinikum-nf.de",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt, dass keine spezifischen Daten zu den gesuchten Fachabteilungen vorliegen und verweist auf fehlende Detailinformationen in den verfügbaren Quellen. Damit ist die Antwort korrekt als 'not found' einzuordnen."
+  }
+}

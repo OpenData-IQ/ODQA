@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0196",
+  "run_at": "2025-09-04T18:32:47.422158Z",
+  "question_id": 196,
+  "question": "Wie viele Einwohner lebten zum 31.12.2015 in der Stadt Bergheim?",
+  "answer": "Zum 31.12.2015 lebten in der Stadt Bergheim 63.068 Einwohner.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum 31. Dezember 2015 hatte die Stadt Bergheim 60.390 Einwohner. ([de.m.wikipedia.org](https://de.m.wikipedia.org/wiki/Bergheim?utm_source=openai)) \n\n### Quellen\n- **[1]** Bergheim – Wikipedia (de.m.wikipedia.org) – https://de.m.wikipedia.org/wiki/Bergheim?utm_source=openai",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die vom LLM angegebene Einwohnerzahl (60.390) stimmt zwar nicht mit dem Goldstandard überein, ist aber korrekt aus dem Wikipedia-Artikel übernommen. Angebene Einwohnerzahlen können leicht variieren (Amtliche Zahlen vs. Melderegister)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0075",
+  "run_at": "2025-09-06T12:21:41.491531Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Antwort: Laut der Krankenhausstatistik zum Stichtag 31.12.2023 (Datensatz \"Krankenhäuser nach Fachabteilungen\" — Regionalstatistik) meldet der Kreis Nordfriesland in folgenden Fachabteilungen keine aufgestellten Betten:\n\n- Augenheilkunde\n- Kinderheilkunde\n- Neurologie\n- Orthopädie\n- Kinder- und Jugendpsychiatrie\n\nHinweis: Die Aufstellung basiert auf den leeren/fehlenden Einträgen im Datensatz (d. h. keine aufgestellten Betten ausgewiesen). Quelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/23111-01-05-4_00.csv (Zeile Kreis Nordfriesland, Stichtag 31.12.2023).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie listet alle Fachabteilungen auf, die in der Goldstandard-Antwort genannt werden, und liefert zusätzlich die genaue Quelle mit URL und Erläuterung."
+  },
+  "file_type": "csv"
+}

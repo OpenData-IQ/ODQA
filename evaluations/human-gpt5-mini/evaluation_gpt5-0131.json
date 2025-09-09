@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0131",
+  "run_at": "2025-08-31T13:08:47.162980Z",
+  "question_id": 131,
+  "question": "Welcher Stadtbereich Rostocks hatte 2017 die höhere Anzahl an Einwohnerinnen und Einwohnern, die 75 Jahre oder älter sind? Lütten Klein oder Lichtenhagen?",
+  "answer": "Lütten Klein",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Lütten Klein: 4.239 Einwohnerinnen/Einwohner 75 Jahre und älter, Lichtenhagen: 1.806 Einwohnerinnen/Einwohner 75 Jahre und älter (Stand 31.12.2017)",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
+  }
+}

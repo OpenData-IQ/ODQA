@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0042",
+  "run_at": "2025-09-04T18:53:25.591157Z",
+  "question_id": 42,
+  "question": "Wo finde ich heraus, ob es ein Zertifikat für meinen Altersvorsorgenvertrag gibt?",
+  "answer": "https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Ob Ihr Altersvorsorgevertrag ein Zertifikat hat, erkennen Sie an der **sechsstelligen Zertifizierungsnummer**, die von der Zertifizierungsstelle des Bundeszentralamts für Steuern (BZSt) vergeben wird. Diese Nummer muss Ihr Anbieter in den Vertragsunterlagen oder im Produktinformationsblatt angeben. Das Muster-Produktinformationsblatt (Muster-PIB) finden Sie auf der Website Ihres Anbieters, das individuelle Produktinformationsblatt erhalten Sie vor Vertragsabschluss direkt von Ihrem Anbieter[1].\n\nZusätzlich können Sie auf der Website des BZSt eine **Liste aller erteilten Zertifikate für Altersvorsorgeverträge** einsehen, die auch als CSV-, PDF- oder XLS-Datei verfügbar ist. Dort sind alle zertifizierten Produkte aufgeführt, was Ihnen bei der Überprüfung helfen kann[2][3].\n\nFür weitere Informationen oder bei Unsicherheiten können Sie sich an die Zertifizierungsstelle des BZSt wenden:\n\n- Bundeszentralamt für Steuern  \n- Referat St II 8 – Zertifizierungsstelle  \n- 11055 Berlin[1].\n\nKurz gesagt: Prüfen Sie Ihre Vertragsunterlagen auf die sechsstellige Zertifizierungsnummer oder suchen Sie in der offiziellen Zertifikatsliste des BZSt nach Ihrem Produkt.\n\n### Quellen\n- **[1]** www.bzst.de/DE/Unternehmen/RenteVorsorge/ZertifizierungAltersvorsorgeprodukte/FAQ/faq_node.html (www.bzst.de) – https://www.bzst.de/DE/Unternehmen/RenteVorsorge/ZertifizierungAltersvorsorgeprodukte/FAQ/faq_node.html\n- **[2]** cloud.csiss.gmu.edu/uddi/nl/dataset/liste-aller-erteilten-zertifikate-fur-altersvorsorgevertrage (cloud.csiss.gmu.edu) – https://cloud.csiss.gmu.edu/uddi/nl/dataset/liste-aller-erteilten-zertifikate-fur-altersvorsorgevertrage\n- **[3]** data.wu.ac.at/schema/govdata_de/MzUzN2VlZGItMmQ2My00M2NlLThmMjgtYWNlMzUwNmExY2My (data.wu.ac.at) – https://data.wu.ac.at/schema/govdata_de/MzUzN2VlZGItMmQ2My00M2NlLThmMjgtYWNlMzUwNmExY2My\n- –\n- www.litzendorf.de/de/verwaltung-service/buergerservice/leistungen (www.litzendorf.de) – https://www.litzendorf.de/de/verwaltung-service/buergerservice/leistungen?tx_hwverwaltungbayern_hwverwaltungbayernleistungen%5Baction%5D=leistungenShow&tx_hwverwaltungbayern_hwverwaltungbayernleistungen%5Bcontroller%5D=VerwaltungFrontend&tx_hwverwaltungbayern_hwverwaltungbayernleistungen%5Bid%5D=103979&type=98&cHash=84b79aa53fc9e2b58e442f136e3b071d",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort erklärt umfassend, wie man das Zertifikat findet, nennt die Zertifizierungsnummer, verweist auf Vertragsunterlagen und bietet mehrere relevante Links und Kontaktmöglichkeiten. Sie ist vollständig und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

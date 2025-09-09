@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0183",
+  "run_at": "2025-09-01T18:25:56.055856Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer:\n\nIm Jahr 2015 gab es in der Gemeinde Titz insgesamt 55 Eheschließungen. Diese Information stammt aus dem Datensatz \"D02 Änderung Familienstände eines Jahres Titz\" für das Jahr 2015, der die Änderungen der Familienstände im gesamten Gemeindegebiet von Titz dokumentiert.\n\nQuelle: https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-titz",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt korrekt die Zahl 55 und stimmt mit der Goldantwort überein. Zudem wird eine passende Quelle mit direktem Link angegeben. Daher ist die Antwort vollständig und belegt."
+  }
+}

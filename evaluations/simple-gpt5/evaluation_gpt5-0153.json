@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0153",
+  "run_at": "2025-09-04T15:43:56.892985Z",
+  "question_id": 153,
+  "question": "Mit wie vielen Kindern pro Familie gab es 2021 in Heimbach Familien?",
+  "answer": "1, 2, 3, 4, 5",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Für 2021 liegen für die Gemeinde/Stadt Heimbach keine amtlichen Ergebnisse zur Zahl der Familien nach Kinderzahl auf Gemeindeebene vor. Der ursprünglich für 2021 geplante Zensus wurde pandemiebedingt in das Jahr 2022 verschoben; kommunal aufgelöste Familien‑/Kinderzahlen stammen aus dem Zensus und wurden daher erst mit Stichtag 15.05.2022 bereitgestellt. Mikrozensus-Ergebnisse werden nicht auf Gemeindeebene veröffentlicht.\n\nQuellen:\n- Gesetz zur Durchführung des Zensus im Jahr 2022 und zur Verschiebung des Zensus (BGBl. I 2020, S. 1018) – Verschiebung des „Zensus 2021“ auf 2022\n- Statistische Ämter des Bundes und der Länder: Zensus 2022, Ergebnisse für Gemeinden – Familien nach Zahl der minderjährigen Kinder (Gebiet: Heimbach, Kreis Düren, NRW), Stichtag 15.05.2022 (Zensusdatenportal/Regionaldatenbank Deutschland)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort erklärt präzise, warum die Daten für 2021 nicht verfügbar sind und verweist auf die Verschiebung des Zensus auf 2022. Sie liefert relevante Quellen und Kontextinformationen, die die Frage umfassend beantworten."
+  }
+}

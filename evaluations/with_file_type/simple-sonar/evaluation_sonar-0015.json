@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0015",
+  "run_at": "2025-09-04T18:50:27.188564Z",
+  "question_id": 15,
+  "question": "Wie viele Apotheken gibt es in 22850 Norderstedt?",
+  "answer": "7",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "In der Postleitzahlregion 22850 Norderstedt gibt es mindestens **16 bis 17 Apotheken**. Verschiedene Quellen listen 16 Apotheken in Norderstedt insgesamt, wobei einige speziell in 22850 liegen[2][3]. Eine weitere Quelle nennt sogar 23 Apotheken in Norderstedt, was aber die gesamte Stadt umfasst und nicht nur die PLZ 22850[4].\n\nZur genaueren Einordnung:\n\n- Apolista.de nennt **16 Apotheken in Norderstedt**, darunter einige mit Adresse in 22850[2].\n- Werkenntdenbesten.de listet **17 Apotheken in Norderstedt** mit Bewertungen, viele davon in 22850[3].\n- Das Örtliche führt **23 Apotheken in Norderstedt** auf, was die gesamte Stadt abdeckt, nicht nur 22850[4].\n\nDaher ist die verlässlichste Zahl für die PLZ 22850 etwa **16 bis 17 Apotheken**.\n\nBeispiele für Apotheken in 22850 Norderstedt sind:\n- Apotheke im Herold-Center, Berliner Allee 38\n- Hubertus-Apotheke, Achternfelde 4\n- Coppernicus-Apotheke, Berliner Allee 34\n- Duvenstedt-Pharma, Langer Kamp 67[3][4]\n\nDiese Apotheken bieten umfassende Gesundheitsdienstleistungen und Beratung in der Region an[1].\n\n**Zusammenfassung:** In 22850 Norderstedt gibt es rund 16 bis 17 Apotheken, die die medizinische Versorgung der Bevölkerung sicherstellen[2][3].\n\n### Quellen\n- **[1]** www.norderstedt-aktuell.de/apotheken-in-norderstedt/ (www.norderstedt-aktuell.de) – https://www.norderstedt-aktuell.de/apotheken-in-norderstedt/\n- **[2]** www.apolista.de/apotheke/norderstedt (www.apolista.de) – https://www.apolista.de/apotheke/norderstedt\n- **[3]** www.werkenntdenbesten.de/apotheke/norderstedt (www.werkenntdenbesten.de) – https://www.werkenntdenbesten.de/apotheke/norderstedt\n- **[4]** www.dasoertliche.de/Top/Apotheken/Norderstedt (www.dasoertliche.de) – https://www.dasoertliche.de/Top/Apotheken/Norderstedt\n- –\n- www.aponet.de/apotheke/apothekensuche/22844/-/50 (www.aponet.de) – https://www.aponet.de/apotheke/apothekensuche/22844/-/50",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort liefert eine deutlich höhere Zahl (16–17) als die Goldantwort (7) und bezieht sich teilweise auf ganz Norderstedt, nicht nur auf 22850. Es gibt richtige Ansätze, aber die Antwort ist nicht präzise genug für die konkrete PLZ."
+  },
+  "file_type": "csv"
+}

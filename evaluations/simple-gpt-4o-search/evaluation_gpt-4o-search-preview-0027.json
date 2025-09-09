@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0027",
+  "run_at": "2025-09-04T17:05:55.432669Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden",
+  "llm_final": "Es liegen keine spezifischen Daten darüber vor, wie viele Beschäftigte in den Landesverwaltungen Nordrhein-Westfalens einen Bildschirmschoner nutzen. Allgemein ist die Verwendung von Bildschirmschonern in modernen Betriebssystemen weniger verbreitet, da sie ursprünglich entwickelt wurden, um Einbrenneffekte auf älteren Monitoren zu verhindern. Heutzutage werden Bildschirmschoner häufig aus ästhetischen Gründen oder zur Anzeige von Informationen verwendet. ",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort behauptet, dass keine spezifischen Daten vorliegen, obwohl die Goldstandard-Antwort konkrete Prozentzahlen angibt. Dies macht die LLM-Antwort falsch."
+  }
+}

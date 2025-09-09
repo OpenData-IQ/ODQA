@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0017",
+  "run_at": "2025-09-06T09:44:11.846681Z",
+  "question_id": 17,
+  "question": "Wo finde ich heraus, welche Kindergärten in Nordfriesland im Jahr 2021 Friesisch unterrichtet haben?",
+  "answer": "https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Am besten in der offenen Datensammlung des Landes Schleswig‑Holstein:  \nDataset: \"Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland – Stand: 01/2021\"  \nSeite: https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915  \nDirekter CSV‑Download (Tabelle_39.csv):  \nhttps://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915/resource/b26b8d2b-ff5f-45ef-9443-91c507b4aa2b/download/tabelle_39.csv\n\nAus dieser Tabelle (Stand 01/2021) stammen die folgenden Kindergärten:\n- Amrum\n- Bredstedt\n- Bredstedt Broder‑Lorenz‑Nissen‑Straße\n- Bredstedt Gartenstraße\n- Bredstedt Kockstraße\n- Bredstedt Westerstraße\n- Fahretoft\n- Föhr Midlum\n- Föhr Süderende\n- Föhr Wyk\n- Helgoland\n- Risum Lindholm\n- Risum Lindholm, Herrenkroog\n- Risum Lindholm, Steege\n- Sylt Hörnum / Rantum\n- Sylt Keitum\n- Sylt List\n- Sylt Wenningstedt\n\nMöchten Sie, dass ich daraus eine gefilterte Liste (z. B. nur Inseln oder nur Gemeinde‑Namen) oder ein PDF/Excel zum Herunterladen erstelle?",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält den primären Link aus der Goldstandard-Antwort und listet zusätzlich die relevanten Kindergärten auf. Sie ist umfassend und direkt umsetzbar."
+  }
+}

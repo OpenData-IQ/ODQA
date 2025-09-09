@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0179",
+  "run_at": "2025-09-04T19:09:11.441691Z",
+  "question_id": 179,
+  "question": "Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?",
+  "answer": "Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Standesamt Düsseldorf wurden im Jahr 2012 **keine Geburten von Einhörnern registriert**. Die offiziellen Geburtenstatistiken des Standesamtes Düsseldorf führen keine Einträge zu Einhörnern oder ähnlichen Fabelwesen auf[1][2][4].\n\nDie Geburtenregister enthalten ausschließlich Daten zu realen menschlichen Geburten, da die Eintragung im Geburtenregister gemäß den gesetzlichen Vorgaben (§§ 18 ff. Personenstandsgesetz) nur für tatsächliche Personen erfolgt[4]. Einhörner sind Fabelwesen und werden daher in solchen amtlichen Statistiken nicht erfasst.\n\nZusammenfassend: Es gibt keine offiziellen Daten oder Einträge zu Einhorn-Geburten im Standesamt Düsseldorf 2012.\n\n### Quellen\n- **[1]** opendata.duesseldorf.de/dataset/8ce644e1-3be3-4234-991d-108b3fcf5051/resource/4a50e489-4f31-4750-8524-c4c83f058b6e (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/8ce644e1-3be3-4234-991d-108b3fcf5051/resource/4a50e489-4f31-4750-8524-c4c83f058b6e\n- **[2]** open.nrw/dataset/statistik-geburtenregister-des-standesamtes-dusseldorf-seit-2008-d (open.nrw) – https://open.nrw/dataset/statistik-geburtenregister-des-standesamtes-dusseldorf-seit-2008-d\n- **[3]** www.gea.de/REST/frontend/download/b2IvMS81NTBfMV8yMDE5LTA5LTMwX0dFQV8tXzIwMTktMDktMzAucGRm/2019-09-30_GEA_-_2019-09-30.pdf (www.gea.de) – https://www.gea.de/REST/frontend/download/b2IvMS81NTBfMV8yMDE5LTA5LTMwX0dFQV8tXzIwMTktMDktMzAucGRm/2019-09-30_GEA_-_2019-09-30.pdf\n- –\n- opendata.duesseldorf.de/dataset/statistik-geburtenregister-des-standesamtes-d%C3%BCsseldorf-seit-2008 (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/statistik-geburtenregister-des-standesamtes-d%C3%BCsseldorf-seit-2008\n- sbc.org.pl/Content/353015/PDF/ow-1940-027.pdf (sbc.org.pl) – https://sbc.org.pl/Content/353015/PDF/ow-1940-027.pdf",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist vollständig, korrekt und liefert zusätzliche Begründung sowie relevante Quellen. Sie geht auf die Fabelwesen-Thematik ein und verweist auf offizielle Statistiken."
+  },
+  "file_type": "csv"
+}

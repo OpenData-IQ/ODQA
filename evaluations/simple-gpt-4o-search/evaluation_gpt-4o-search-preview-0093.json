@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0093",
+  "run_at": "2025-09-04T18:45:27.541517Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n## [Altglascontainer in Mannsdorf](https://www.google.com/maps/search/Alt?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Die Antwort des LLM ist unvollständig. Sie gibt zwar einen Link zu Google Maps, aber keine konkrete Adresse oder Beschreibung, die mit der Goldstandard-Antwort übereinstimmt. Der Link führt zu einer allgemeinen Suche und nicht direkt zum Standort."
+  }
+}

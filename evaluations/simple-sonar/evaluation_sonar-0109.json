@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0109",
+  "run_at": "2025-09-04T19:01:12.991075Z",
+  "question_id": 109,
+  "question": "Wo steht, welche Grundschulempfehlungen Fünftklässler*innen in Soest hatten?",
+  "answer": "https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Die konkreten **Grundschulempfehlungen für Fünftklässler*innen in Soest** sind in den gefundenen Suchergebnissen nicht direkt veröffentlicht oder aufgeführt. \n\nAllerdings ist das **Schulamt für den Kreis Soest** die zuständige untere staatliche Schulaufsichtsbehörde für Grundschulen im Kreis Soest. Dort könnten Informationen zu Grundschulempfehlungen oder Übergangsregelungen von der Grundschule in die weiterführenden Schulen vorliegen. Die Kontaktdaten sind:\n\n- Adresse: Hoher Weg 1-3, 59494 Soest  \n- Telefon: 02921 30-2624  \n- Ansprechpartnerin: Luba Wagner  \n- E-Mail: wagner.luba@kreis-soest.de[5].\n\nDie Stadt Soest selbst ist Träger von 8 Grundschulen, darunter Gemeinschafts- und katholische Bekenntnisschulen, deren Webseiten und Schulleitungen ebenfalls Ansprechpartner für schulische Empfehlungen sein können[3].\n\nFür detaillierte Auskünfte zu den Grundschulempfehlungen für Fünftklässler*innen empfiehlt sich daher eine direkte Anfrage beim Schulamt des Kreises Soest oder bei den jeweiligen Grundschulen in Soest. Öffentlich zugängliche Datensätze oder Veröffentlichungen zu diesem Thema sind in den verfügbaren Quellen nicht ersichtlich[1][5].\n\n### Quellen\n- **[1]** www.zuhause-im-kreis-soest.de/schule/eltern-mischen-mit (www.zuhause-im-kreis-soest.de) – https://www.zuhause-im-kreis-soest.de/schule/eltern-mischen-mit\n- **[2]** www.gelbeseiten.de/branchen/grundschule/soest (www.gelbeseiten.de) – https://www.gelbeseiten.de/branchen/grundschule/soest\n- **[3]** www.soest.de/bildung-kultur/schulen/grundschulen (www.soest.de) – https://www.soest.de/bildung-kultur/schulen/grundschulen\n- –\n- opendata.soest.de/dataset/ (opendata.soest.de) – https://opendata.soest.de/dataset/?organization=stadt-soest&groups=educ\n- www.kreis-soest.de/bildung-integration/bildung/schulamt/schulamt (www.kreis-soest.de) – https://www.kreis-soest.de/bildung-integration/bildung/schulamt/schulamt",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort behauptet, dass keine öffentlichen Datensätze zu den Grundschulempfehlungen existieren, obwohl im Goldstandard ein konkreter Open-Data-Link angegeben ist. Die Antwort ist daher sachlich falsch."
+  }
+}

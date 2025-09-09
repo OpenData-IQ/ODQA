@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0024",
+  "run_at": "2025-09-04T17:05:27.403473Z",
+  "question_id": 24,
+  "question": "Wann wurden die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim gezählt?",
+  "answer": "Am 15.10.2018 um 15 Uhr, da waren es 320",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 wurden an der Konrad-Adenauer-Brücke in Mannheim rund 810.000 Radfahrende gezählt, was einen Anstieg gegenüber 2022 mit etwa 780.000 Radfahrenden darstellt. ([mannheim.de](https://www.mannheim.de/de/presse/rund-79-mio-radfahrende-an-19-zaehlstellen-wichtige-daten-fuer-den-weiteren-ausbau?utm_source=openai)) Die genauen Tages- oder Monatswerte für Fußgänger und Radfahrer an dieser Brücke sind in den verfügbaren Quellen nicht angegeben. Für detailliertere Informationen können Sie die öffentlichen Daten der Stadt Mannheim zu den Radzählstellen einsehen. ([mannheim.de](https://www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/dauerradzaehlstellen-fuer-den-radverkehr?utm_source=openai)) \n\n### Quellen\n- **[1]** Rund 7,9 Mio. Radfahrende an 19 Zählstellen – Wichtige Daten für den weiteren Ausbau | Mannheim.de (www.mannheim.de) – https://www.mannheim.de/de/presse/rund-79-mio-radfahrende-an-19-zaehlstellen-wichtige-daten-fuer-den-weiteren-ausbau?utm_source=openai\n- **[2]** Dauerradzählstellen für den Radverkehr | Mannheim.de (www.mannheim.de) – https://www.mannheim.de/de/service-bieten/verkehr/radfahren-in-mannheim/dauerradzaehlstellen-fuer-den-radverkehr?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt Jahreszahlen für Radfahrer an, beantwortet aber nicht die Frage nach dem spezifischen Zeitpunkt (Datum und Uhrzeit) mit den meisten gezählten Fußgängern und Radfahrern. Die Goldstandard-Antwort liefert das genaue Datum und die Uhrzeit."
+  },
+  "file_type": "csv"
+}

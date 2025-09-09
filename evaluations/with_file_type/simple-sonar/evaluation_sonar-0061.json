@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0061",
+  "run_at": "2025-09-04T18:55:26.656730Z",
+  "question_id": 61,
+  "question": "An welchen Tagen findet der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule statt?",
+  "answer": "15.05.25, 22.05.25, 05.06.25, 12.06.25, 19.06.25, 26.06.25, 03.07.25, 10.07.25, 17.07.25",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule findet laut dem Herbstprogramm 2025 der Volkshochschule Spandau statt, jedoch sind in den verfügbaren Quellen keine genauen Wochentage oder Uhrzeiten für diesen Kurs explizit genannt[4]. \n\nDie Berliner Volkshochschulen empfehlen generell, für die genaue Kursplanung und Termine eine persönliche Beratung in Anspruch zu nehmen, da die Kurse oft an die Berliner Schulferien angepasst sind und sich Termine ändern können[2][3][5]. \n\nFür verbindliche und aktuelle Informationen zu den Tagen des Englisch B1/B2 - Lunchtime English Flexikurses sollten Sie direkt bei der jeweiligen Volkshochschule (z.B. Spandau oder Mitte) anfragen oder die offizielle Webseite der Berliner Volkshochschulen konsultieren[5]. Dort gibt es auch Beratungstermine, die eine individuelle Klärung ermöglichen. \n\nZusammengefasst: Die genauen Wochentage des Englisch B1/B2 - Lunchtime English Flexikurses sind in den öffentlich zugänglichen Programmheften nicht explizit aufgeführt. Eine direkte Nachfrage bei der VHS Berlin ist daher empfehlenswert.\n\n### Quellen\n- **[1]** www.mvhs.de/suche/monatsuebersicht (www.mvhs.de) – https://www.mvhs.de/suche/monatsuebersicht?no_cache=1&tx_itemkgconnect_courselist%5Bcontroller%5D=Course&tx_itemkgconnect_courselist%5Bpage%5D=12&tx_vhsconnect_eventlist%5Baction%5D=show&tx_vhsconnect_eventlist%5BcategoryId%5D=KAT18628&tx_vhsconnect_eventlist%5Bcontroller%5D=Event&tx_vhsconnect_eventlist%5BeventId%5D=460-C-L630180&cHash=c56e178d540820bc23d2c061e46609b4\n- **[2]** digital.zlb.de/viewer/api/v1/records/34311573_2024_2/files/media/Programmheft-2024.pdf (digital.zlb.de) – https://digital.zlb.de/viewer/api/v1/records/34311573_2024_2/files/media/Programmheft-2024.pdf\n- **[3]** digital.zlb.de/viewer/api/v1/records/34311573_2023_2/files/images/vhs_02-23_web-gesamt.pdf/full.pdf (digital.zlb.de) – https://digital.zlb.de/viewer/api/v1/records/34311573_2023_2/files/images/vhs_02-23_web-gesamt.pdf/full.pdf\n- **[4]** www.berlin.de/vhs/volkshochschulen/spandau/herbst25.pdf (www.berlin.de) – https://www.berlin.de/vhs/volkshochschulen/spandau/herbst25.pdf\n- –\n- www.berlin.de/vhs/kurse/sprachen/englisch/ (www.berlin.de) – https://www.berlin.de/vhs/kurse/sprachen/englisch/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass die genauen Kurstage in den verfügbaren Quellen nicht explizit genannt sind. Die Goldantwort enthält jedoch konkrete Termine, die vom LLM nicht geliefert werden. Daher wurde die Information nicht gefunden."
+  },
+  "file_type": "xml"
+}

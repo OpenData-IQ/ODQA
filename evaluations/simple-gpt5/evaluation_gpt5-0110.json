@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0110",
+  "run_at": "2025-09-04T15:06:07.410309Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Ja. Für den Raum Soest (Stadt und Kreis) gibt es offene Bestandsdaten zu Saatkrähenkolonien, insbesondere aus NRW‑weiten Erfassungen.\n\nWas es gibt\n- LANUV NRW: Saatkrähenkolonien in NRW\n  - Inhalt: Georeferenzierte Kolonie‑Standorte mit Attributen (u. a. Gemeinde/Kreis, Erfassungsjahr, Anzahl besetzter Nester/Brutpaare). Mehrere Erfassungsjahre werden geführt.\n  - Nutzung: Im Geoportal NRW als Kartenlayer einblendbar und über das Landesdatenportal Open.NRW als Download (z. B. Shapefile/CSV) verfügbar. Für Soest können Sie nach Kreis/Gemeinde filtern.\n  - Quelle: Landesamt für Natur, Umwelt und Verbraucherschutz NRW (LANUV).\n  - Links: \n    - Geoportal NRW: https://www.geoportal.nrw\n    - LANUV: https://www.lanuv.nrw.de\n    - Landesdatenportal Open.NRW (Suche nach „Saatkrähenkolonien“): https://www.open.nrw\n\n- Regionale Fachstelle im Kreis Soest: ABU (Arbeitsgemeinschaft Biologischer Umweltschutz im Kreis Soest e. V.)\n  - Inhalt: Berichte/Übersichten und ggf. kartenbasierte Informationen zu Saatkrähenkolonien im Kreis Soest aus regionalen Erfassungen; oft aktueller Kontext zu Koloniestandorten, Konflikten und Schutzmaßnahmen.\n  - Link: https://www.abu-naturschutz.de\n\n- Bürgerwissenschaft/Beobachtungsdaten (ergänzend)\n  - ornitho.de: Meldungen zu Saatkrähen im Raum Soest (aggregiert einsehbar; Rohdaten nicht frei nachladbar).\n  - Link: https://www.ornitho.de\n\nSo kommen Sie konkret an Soest-Daten\n- Geoportal NRW öffnen, nach „Saatkrähenkolonien“ suchen und den Layer laden; im Kartenviewer auf den Raum Soest zoomen und per Attributabfrage nach „Kreis Soest“ bzw. „Stadt Soest“ filtern.\n- Alternativ auf Open.NRW nach „Saatkrähenkolonien“ suchen, den LANUV‑Datensatz herunterladen und in GIS/Tabellenkalkulation nach „Kreis Soest“/„Gemeinde Soest“ filtern.\n\nHinweise\n- Je nach Jahrgang können Koloniezahlen und Standorte variieren; prüfen Sie das Attribut „Erfassungsjahr“ im Datensatz.\n- Bei sehr detaillierten Artenschutzdaten gelten teils Einschränkungen; die LANUV‑Kolonie‑Daten der Saatkrähe sind jedoch in NRW in der Regel offen nutzbar (dl-de/by-2-0). Quellenangabe beachten.\n\nQuellen\n- LANUV NRW – Saatkrähenkolonien (Geoportal NRW/Open.NRW): LANUV NRW, https://www.geoportal.nrw und https://www.open.nrw\n- ABU Kreis Soest – Informationen zu Saatkrähen im Kreis Soest: https://www.abu-naturschutz.de\n- ornitho.de – Beobachtungsplattform (aggregierte Sicht): https://www.ornitho.de",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist sehr umfassend und detailliert. Sie bietet mehrere relevante Quellen und konkrete Anleitungen, wie die Daten für Soest gefunden werden können, obwohl der exakte Link aus der Gold-Antwort nicht enthalten ist."
+  }
+}

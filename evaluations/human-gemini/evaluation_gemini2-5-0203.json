@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0203",
+  "run_at": "2025-09-01T09:00:35.701728Z",
+  "question_id": 203,
+  "question": "Wie hoch waren die gesamten Steuereinnahmen (netto) der Stadt Dresden im Jahr 2023?",
+  "answer": "Im Jahr 2023 betrugen die gesamten Steuereinnahmen (netto) der Stadt Dresden 829.763.000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Die gesamten Steuereinnahmen (netto) der Stadt Dresden im Jahr 2023 betrugen 829.763 Tausend Euro.\n\nQuelle: https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-steuerstatistik_dresden_jahre_bd0",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Goldantwort nennt 829.763.000 Euro. Das LLM antwortet „829.763 Tausend Euro“ (= 829.763.000 Euro) und liegt damit richtig."
+  }
+}

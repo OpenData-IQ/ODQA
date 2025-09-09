@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0117",
+  "run_at": "2025-09-01T15:07:36.739197Z",
+  "question_id": 117,
+  "question": "In welchem Stadtbereich Rostocks war der Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 am höchsten?",
+  "answer": "Im Stadtbereich Gartenstadt-Stadtweide lag der Anteil ausländischer Einwohnerinnen und Einwohner am 31.12.2010 mit 7,9 % am höchsten.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Basierend auf den Daten kann ich nun Ihre Frage beantworten.\n\nFinalAnswer: Im Jahr 2010 war der Anteil ausländischer Einwohnerinnen und Einwohner in Rostock im Stadtbereich Gartenstadt-Stadtweide mit 7,9% am höchsten. Danach folgten die Stadtmitte mit 5,3% und Evershagen mit 5,0%. Die Daten stammen aus der Bevölkerungsstruktur 2010 der Hanse- und Universitätsstadt Rostock (Quelle: https://www.opendata-hro.de/dataset/45e94633-189b-4857-b710-f9b6fb4aa7a8).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Antwort nennt den korrekten Stadtbereich und die Prozentzahl wie im Goldstandard. Zusätzliche Angaben beeinträchtigen nicht die Korrektheit. Damit vollständig und präzise."
+  }
+}

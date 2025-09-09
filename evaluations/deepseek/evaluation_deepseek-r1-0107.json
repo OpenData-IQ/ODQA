@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0107",
+  "run_at": "2025-09-03T07:13:14.494226Z",
+  "question_id": 107,
+  "question": "Ist die amtliche Einwohnerzahl von Pforzheim von 2001 bis 2023 gesunken oder gestiegen?",
+  "answer": "gestiegen",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Pforzheim hatte 2001 amtlich 118.002 Einwohner und 2023 135.087 (+17.085)",
+  "llm_final": "**FinalAnswer**\nDie amtliche Einwohnerzahl von Pforzheim ist von 2001 bis 2023 gestiegen.  \nQuelle: [Dataset URI](https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-bevoelkerungsentwicklung_jahresweise)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort trifft die korrekte Richtung ('gestiegen') und entspricht dem Goldstandard. Zusätzlich wird eine passende Quelle angegeben."
+  }
+}

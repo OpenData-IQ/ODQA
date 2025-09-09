@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0078",
+  "run_at": "2025-09-06T12:29:12.621677Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurz und knapp: Nein. Die Statistik erfasst \"Wohnungen in Wohn- und Nichtwohngebäuden (Anzahl)\" zusammen und ist nur nach Zimmerzahl (Insgesamt, 1–2, 3, 4, 5+ Räume) gegliedert — eine separate Aufschlüsselung nach Wohn- vs. Nichtwohngebäuden gibt es nicht.  \nQuelle: Tabellenbeschreibung / Datensatz 31111-03-02-5-B_00 (Regionalstatistik) — https://www.regionalstatistik.de/genesis/online?operation=table&code=31111-03-02-5-B_00",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und liefert eine präzise Erklärung, warum kein Unterschied gemacht wird. Sie enthält auch die relevante Quelle und einen direkten Link zum Datensatz, was die Antwort sehr umfassend macht."
+  }
+}

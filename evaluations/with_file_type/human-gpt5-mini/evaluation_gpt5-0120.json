@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0120",
+  "run_at": "2025-08-31T12:46:20.084603Z",
+  "question_id": 120,
+  "question": "Wie lautet der Straßenschlüssel für die Straße 'Knallerballerweg' in Rostock?",
+  "answer": "06100",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Straßenschlüssel für den \"Knallerballerweg\" in Rostock ist 06100.\n\nQuelle: OpenData Rostock – Datensatz \"Straßen\" (https://geo.sv.rostock.de/download/opendata/strassen/strassen.csv)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und gibt den Straßenschlüssel genau an. Zusätzlich wird eine relevante Quelle mit URL genannt, was die Antwort sehr vollständig macht."
+  },
+  "file_type": "csv"
+}

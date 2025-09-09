@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0076",
+  "run_at": "2025-09-04T14:35:25.594614Z",
+  "question_id": 76,
+  "question": "Wo gab es 2023 die meisten Abfälle aus der Biotonne? In Wuppertal, im Wetteraukreis oder im Landkreis Roth?",
+  "answer": "Wetteraukreis",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Im Wetteraukreis gab es 2023 mit 26.983 Tonnen die meisten Abfälle aus der Biotonne, gefolgt von Wuppertal mit 13.251 Tonnen und Landkreis Roth mit 4.799 Tonnen.",
+  "llm_final": "Wuppertal.\n\nQuellen:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Abfallbilanz NRW 2023: Tabelle zu „Getrennt erfasste Bioabfälle (Biotonne) nach kreisfreien Städten und Kreisen“ – Eintrag Stadt Wuppertal.\n- Hessisches Statistisches Landesamt (HSL), Abfallentsorgung 2023 in Hessen: Tabelle „Abfälle aus privaten Haushalten nach Kreisen – Biotonne“ – Eintrag Wetteraukreis.\n- Bayerisches Landesamt für Umwelt (LfU) bzw. Bayerisches Landesamt für Statistik, Siedlungsabfallbilanz 2023: Tabelle „Biogene Abfälle (Biotonne) nach Landkreisen“ – Eintrag Landkreis Roth.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM's answer 'Wuppertal' is incorrect. The correct answer, as per the provided 'remark' and 'answer' fields, is 'Wetteraukreis'."
+  }
+}

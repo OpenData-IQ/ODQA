@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0071",
+  "run_at": "2025-08-31T23:09:33.501757Z",
+  "question_id": 71,
+  "question": "In welchen Städten und Kreisen gab es 2023 mehr als 10000 Gastgewerbe im Unternehmensregister-System?",
+  "answer": "Düsseldorf, Köln, Darmstadt, Stuttgart, Oberbayern,",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached. This indicates a technical problem preventing the generation of a proper answer."
+  },
+  "file_type": "csv"
+}

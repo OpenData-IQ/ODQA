@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0091",
+  "run_at": "2025-09-06T12:58:50.266500Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Meinst du mit \"Agrarorganisation für lebende Pflanzen\" eine berufliche/vermaktende Erzeugerorganisation (für gewerbliche Gärtnereien, Baumschulen, Topf- und Zierpflanzen) oder einen lokalen Gartenbau-/Obst‑ und Gartenbauverein (für Hobbygärtner)? \n\nSag auch bitte, wie groß der Umkreis sein darf (z. B. nur Sommerhausen, bis Würzburg, 20–30 km). Dann suche ich konkrete Organisationen/Adressen in deiner Nähe.",
+  "judgement": {
+    "category": "problem answers",
+    "problem_type": "no answer",
+    "rationale": "Die LLM-Antwort ist eine Rückfrage und gibt keine direkte Antwort auf die gestellte Frage. Sie versucht, die Frage zu präzisieren, anstatt eine Lösung anzubieten. Daher ist sie unvollständig und nicht hilfreich."
+  },
+  "file_type": "xml"
+}

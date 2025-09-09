@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0132",
+  "run_at": "2025-08-31T13:09:24.955548Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0.52",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM's answer (0.52) is incorrect. The correct answer is 'Es gab mehr Familien mit drei Kindern'. The LLM did not provide a textual answer, only a numerical value."
+  }
+}

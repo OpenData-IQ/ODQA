@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0052",
+  "run_at": "2025-08-31T22:25:22.539644Z",
+  "question_id": 52,
+  "question": "Wurden 2023 mehr Patente für Solartechnik oder für Windkraftmaschinen angemeldet?",
+  "answer": "Solartechnik",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Solartechnik. 2023 wurden 597 Anmeldungen veröffentlicht, bei Windkraftmaschinen 540. Quelle: DPMA-Datensatz „Patentanmeldungen mit Wirkung für Deutschland im Feld erneuerbare Energien 2020–2024“ (https://ckan.govdata.de/dataset/21f32509-2f63-4f69-a37f-42d3bd688ec4).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, liefert die genauen Zahlen für beide Kategorien und enthält eine direkte Quelle mit URL. Dies macht die Antwort umfassend und nachvollziehbar."
+  },
+  "file_type": "csv"
+}

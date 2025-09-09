@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0097",
+  "run_at": "2025-09-04T18:59:38.450528Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In den verfügbaren Suchergebnissen gibt es keine direkte Information dazu, bei welchen Müllsammelveranstaltern in Rostock Handschuhe zur Ausstattung der Container gehören. Auch die offiziellen Dokumente und Webseiten der Stadt Rostock und der Stadtentsorgung Rostock GmbH erwähnen keine spezifische Ausstattung der Container mit Handschuhen[2][3].\n\nÜblicherweise sind Handschuhe bei Müllsammelaktionen eine persönliche Schutzausrüstung, die von den Teilnehmern selbst mitgebracht wird, da sie hygienisch und sicherheitstechnisch sinnvoll sind. Die Container selbst werden in der Regel nicht mit Handschuhen ausgestattet.\n\nFür eine verbindliche Auskunft empfiehlt sich eine direkte Anfrage bei der Stadtentsorgung Rostock GmbH oder den Veranstaltern der Müllsammelaktionen in Rostock.\n\n### Quellen\n- **[1]** www.yellowmap.de/Details/FR4Q1c5mhDqlVVD48oTJVQ==.aspx (www.yellowmap.de) – http://www.yellowmap.de/Details/FR4Q1c5mhDqlVVD48oTJVQ==.aspx\n- **[2]** rathaus.rostock.de/media/4984/H%C3%A4ufig%20gestellte%20Fragen%20zur%20Abfallentsorgung_Stand_1_2022.pdf (rathaus.rostock.de) – https://rathaus.rostock.de/media/4984/H%C3%A4ufig%20gestellte%20Fragen%20zur%20Abfallentsorgung_Stand_1_2022.pdf\n- –\n- rathaus.rostock.de/de/vermeidung_von_abfaellen/252307 (rathaus.rostock.de) – https://rathaus.rostock.de/de/vermeidung_von_abfaellen/252307",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort erklärt die allgemeine Praxis und verweist auf fehlende Informationen, nennt aber nicht die im Goldstandard genannten Veranstalter."
+  },
+  "file_type": "csv"
+}

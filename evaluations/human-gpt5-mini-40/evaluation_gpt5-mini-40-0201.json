@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0201",
+  "run_at": "2025-09-06T17:29:47.344823Z",
+  "question_id": 201,
+  "question": "Wie viele Krankenhäuser gab es im Jahr 2023 in Frankfurt am Main?",
+  "answer": "12",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 gab es in Frankfurt am Main 12 Krankenhäuser.\n\nQuelle: Open Data Frankfurt – Datensatz \"Krankenhäuser\" (https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer correctly states the number of hospitals as 12, matching the gold standard. It also provides a relevant source URL, making the answer comprehensive and verifiable."
+  }
+}

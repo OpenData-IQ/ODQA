@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0053",
+  "run_at": "2025-09-06T11:25:33.875847Z",
+  "question_id": 53,
+  "question": "Wie muss das \"Treibladungspulver PCL 2595\" im Inneren der Verpackung verpackt werden?",
+  "answer": "in Säcken aus Kunststoff",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "keine standardmäßige tabellenstruktur",
+  "llm_final": "Ich habe im verfügbaren GovData‑Katalog und mit mehreren Suchbegriffen (PCL 2595, PCL‑2595, Treibladungspulver etc.) kein Dokument oder Datensatz gefunden, der die Verpackungsanforderung für \"Treibladungspulver PCL 2595\" benennt.\n\nDamit ich Ihnen konkret sagen kann, wie das Pulver innenverpackt werden muss, benötige ich eine der folgenden Angaben:\n- Sicherheitsdatenblatt (SDS) oder ein Link dazu, oder\n- die UN‑Nummer / genaue Gefahrgutbezeichnung, oder\n- Hersteller‑ bzw. Produktblatt, oder\n- Angabe des Transportwegs (Straße/ADR, Luft/IATA, See/IMDG) und ob es um Innenverpackung innerhalb einer Versandverpackung oder um eine Produktverpackung geht.\n\nKurzhinweis (allgemein, nicht verbindlich): Treibladungspulver gehört in der Regel zur Klasse der Explosivstoffe und unterliegt strengen Vorschriften. Innenverpackungen müssen üblicherweise:\n- dicht und fest verschließbar sein und Bewegungen innerhalb der Außenverpackung verhindern,\n- aus geeignetem (nicht funkenbildendem) Material bestehen,\n- gegen Feuchtigkeit geschützt sein,\n- die zulässigen Nettomengen pro Innen‑/Außenverpackung einhalten,\n- ggf. mit saugendem Material gegen Verschütten gesichert werden.\n\nWenn Sie mir SDS, UN‑Nummer oder ein Produktblatt schicken (oder sagen, welchen Transportmodus Sie meinen), recherchiere ich die verbindliche Vorschrift (inkl. Verpackungsanweisung/zulässiger Mengen) und nenne Ihnen die genaue Formulierung und Quelle.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "The LLM explicitly states that it could not find the relevant document or dataset for the specific product. It then asks for more information to be able to provide a concrete answer. This clearly indicates a 'not found' problem."
+  },
+  "file_type": "csv"
+}

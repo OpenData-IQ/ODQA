@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0010",
+  "run_at": "2025-09-04T13:37:13.511381Z",
+  "question_id": 10,
+  "question": "Welche Kommune hatte 2024 mehr verkaufsoffene Sonntage? Emmerich oder Geldern?",
+  "answer": "Geldern. Geldern hatte 2024 5 verkaufsoffene Sonntage und Emmerich 2",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Keine. Emmerich am Rhein und Geldern hatten 2024 jeweils gleich viele verkaufsoffene Sonntage (je 4), laut den entsprechenden amtlichen Bekanntmachungen der Städte.\n\nQuellen:\n- Amtliche Bekanntmachungen der Stadt Emmerich am Rhein zu den verkaufsoffenen Sonntagen 2024 (Amtsblatt der Stadt Emmerich am Rhein; Rechtsgrundlage: § 6 Ladenöffnungsgesetz NRW)\n- Amtliche Bekanntmachungen der Stadt Geldern zu den verkaufsoffenen Sonntagen 2024 (Amtsblatt der Stadt Geldern; Rechtsgrundlage: § 6 Ladenöffnungsgesetz NRW)\n- § 6 Ladenöffnungsgesetz Nordrhein-Westfalen (LÖG NRW) – regelt die Zulässigkeit und Höchstzahlen für Sonntagsöffnungen in NRW",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist falsch, da sie behauptet, beide Kommunen hätten gleich viele verkaufsoffene Sonntage gehabt, während die Gold-Antwort eine Differenz aufzeigt. Die Gold-Antwort ist korrekt."
+  }
+}

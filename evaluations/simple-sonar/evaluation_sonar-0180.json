@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0180",
+  "run_at": "2025-09-04T19:09:15.837047Z",
+  "question_id": 180,
+  "question": "Wie viele Einwohner der Gemeinde Langerwehe sind im Jahr 2019 nach Hogwarts umgezogen?",
+  "answer": "Es sind keine Einwohner der Gemeinde Langerwehe im Jahr 2019 nach Hogwarts umgezogen, da Hogwarts eine fiktive Schule aus der Harry-Potter-Welt ist und nicht als reales Zuzugsziel existiert.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2019 sind keine Einwohner der Gemeinde Langerwehe nach Hogwarts umgezogen, da Hogwarts eine fiktive Schule aus der Harry-Potter-Welt ist und keine reale geografische oder administrative Einheit darstellt. Dementsprechend gibt es keine offiziellen oder statistischen Daten zu Umzügen nach Hogwarts aus Langerwehe oder anderen Gemeinden[1][2][3][4][5].\n\nZur Einordnung: Die Einwohnerzahl von Langerwehe lag 2019 bei etwa 14.000 Personen, und die verfügbaren Daten beziehen sich auf reale demografische Entwicklungen und Umzüge innerhalb realer Orte, nicht fiktiver Orte[1][2][3][4][5].\n\n### Quellen\n- **[1]** www.wegweiser-kommune.de/kommunen/langerwehe (www.wegweiser-kommune.de) – https://www.wegweiser-kommune.de/kommunen/langerwehe\n- **[2]** open.nrw/dataset/d06-einwohner-nach-alter-und-staatsangehorigkeit-gemeinde-langerwehe-rer (open.nrw) – https://open.nrw/dataset/d06-einwohner-nach-alter-und-staatsangehorigkeit-gemeinde-langerwehe-rer\n- **[3]** statistik.nrw/sites/default/files/municipalprofiles/l05358032.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05358032.pdf\n- **[4]** offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0c75430b-5d24-400f-b170-ddc7fc1519f4 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/0c75430b-5d24-400f-b170-ddc7fc1519f4\n- **[5]** www.citypopulation.de/en/germany/nordrheinwestfalen/d%C3%BCren/05358032__langerwehe/ (www.citypopulation.de) – https://www.citypopulation.de/en/germany/nordrheinwestfalen/d%C3%BCren/05358032__langerwehe/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist vollständig, erklärt den fiktiven Charakter von Hogwarts, liefert Kontext zur Einwohnerzahl und verweist auf relevante Quellen. Sie ist umfassend und korrekt."
+  }
+}

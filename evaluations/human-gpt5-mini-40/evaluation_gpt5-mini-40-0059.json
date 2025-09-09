@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0059",
+  "run_at": "2025-09-06T11:39:38.832839Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich konnte das Dokument in den mir zur Verfügung stehenden Datensätzen nicht finden. Soll ich jetzt außerhalb (z. B. auf der Webseite der Hochschule Bremen oder im Landesanzeiger) im Web nachsehen? Alternativ können Sie mir einen Link oder das Dokument hochladen. Which option?",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "The LLM explicitly states that it could not find the document in its available datasets. This directly indicates a 'not found' problem type. Therefore, the answer is categorized as 'problem_answers'."
+  }
+}

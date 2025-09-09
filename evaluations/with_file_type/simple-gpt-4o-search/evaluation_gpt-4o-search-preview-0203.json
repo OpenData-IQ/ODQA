@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0203",
+  "run_at": "2025-09-04T18:33:46.444997Z",
+  "question_id": 203,
+  "question": "Wie hoch waren die gesamten Steuereinnahmen (netto) der Stadt Dresden im Jahr 2023?",
+  "answer": "Im Jahr 2023 betrugen die gesamten Steuereinnahmen (netto) der Stadt Dresden 829.763.000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "In der Datei ist der Wert 829.763 aufgeführt. Mit Domänenwissen muss geschlussfolgert werden, dass dieser in TEUR (Tausend Euro) aufgeführt ist.",
+  "llm_final": "Im Jahr 2023 verzeichnete die Stadt Dresden Gewerbesteuereinnahmen in Höhe von 460,3 Millionen Euro, was einen Anstieg gegenüber den ursprünglich geplanten 398,2 Millionen Euro bedeutet. ([dresden.de](https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2023/11/pm_058.php?utm_source=openai)) Diese Mehreinnahmen resultierten hauptsächlich aus einem singulären Steuersondereffekt im Segment der Großsteuerzahler. Zusätzlich zu den Gewerbesteuereinnahmen erhielt Dresden im Jahr 2023 knapp 229 Millionen Euro aus dem Gemeindeanteil an der Einkommensteuer. ([saechsische.de](https://www.saechsische.de/lokales/dresden/extra-steuer-millionen-fuer-dresden-ob-hilberts-verteilplan-57VBDS6KVE3H5NX66KBIPDJIIA.html?utm_source=openai)) Die genauen Netto-Steuereinnahmen der Stadt für das Jahr 2023 sind jedoch nicht vollständig veröffentlicht. Für detaillierte und aktuelle Informationen empfiehlt es sich, die offiziellen Veröffentlichungen der Stadt Dresden zu konsultieren. \n\n### Quellen\n- **[1]** Dresden hebt nach November-Steuerschätzung Haushaltssperre 2023 auf (www.dresden.de) – https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/2023/11/pm_058.php?utm_source=openai\n- **[2]** Extra-Steuer-Millionen für Dresden: OB Hilberts Verteilplan (www.saechsische.de) – https://www.saechsische.de/lokales/dresden/extra-steuer-millionen-fuer-dresden-ob-hilberts-verteilplan-57VBDS6KVE3H5NX66KBIPDJIIA.html?utm_source=openai",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt keine genaue Zahl für die gesamten Steuereinnahmen an, sondern nur für einzelne Posten. Die Antwort ist somit unvollständig und kann die Frage nicht direkt beantworten. Die Quellen sind relevant, aber die Zusammenfassung der Daten ist nicht ausreichend."
+  },
+  "file_type": "csv"
+}

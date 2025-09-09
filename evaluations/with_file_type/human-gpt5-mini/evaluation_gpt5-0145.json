@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0145",
+  "run_at": "2025-08-31T13:23:22.227830Z",
+  "question_id": 145,
+  "question": "Kann ich irgendwo nachschauen, wie viele Straßenverkehrsunfälle es in Dresden pro Jahr gibt?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_allgemein_1995ff_dresden",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die Anzahl der Straßenverkehrsunfälle in Dresden ab 1995 jährlich ausweist.",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states that a recursion limit was reached, preventing it from providing a proper answer. Therefore, it falls under the 'problem_answers' category with 'recursion limit' as the problem type."
+  },
+  "file_type": "csv"
+}

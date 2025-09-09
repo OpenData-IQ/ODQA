@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0041",
+  "run_at": "2025-09-04T18:53:19.827426Z",
+  "question_id": 41,
+  "question": "Welche Hausnummer ist in Leipzig die häufigste?",
+  "answer": "3",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "2.046 Vorkommen für die Hausnummer 3",
+  "llm_final": "Eine eindeutige Angabe zur **häufigsten Hausnummer in Leipzig** lässt sich aus den verfügbaren Suchergebnissen nicht direkt ableiten. Die vorliegenden Daten enthalten zwar umfangreiche Informationen zu Straßenabschnitten und Hausnummernbereichen in Leipzig (z. B. Straßenabschnittsverzeichnis 2019), jedoch keine Statistik zur Häufigkeit einzelner Hausnummern insgesamt[1].\n\nZur Einordnung:\n\n- Das Straßenabschnittsverzeichnis listet für jede Straße die kleinste und größte Hausnummer sowie die vorhandenen Nummernfolgen auf, aber keine Auswertung, welche Hausnummer am häufigsten vorkommt[1].\n- Weitere Quellen beschreiben einzelne Straßen oder allgemeine Entwicklungen in Leipzig, erwähnen aber keine häufigste Hausnummer[2][3][4].\n- Es gibt keine öffentlich zugänglichen Daten oder Studien, die eine solche Häufigkeitsanalyse der Hausnummern in Leipzig dokumentieren.\n\nDaher ist festzuhalten, dass die **häufigste Hausnummer in Leipzig nicht öffentlich bekannt oder ausgewertet ist**. Für eine solche Information müsste man auf eine spezielle Auswertung der Adressdaten der Stadt Leipzig zurückgreifen, die nicht in den bereitgestellten Quellen enthalten ist.\n\n### Quellen\n- **[1]** static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.1_Dez1_Allgemeine_Verwaltung/12_Statistik_und_Wahlen/Raumbezug/Strassenabschnittsverzeichnis_2019.pdf (static.leipzig.de) – https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.1_Dez1_Allgemeine_Verwaltung/12_Statistik_und_Wahlen/Raumbezug/Strassenabschnittsverzeichnis_2019.pdf\n- **[2]** www.leipzig-lexikon.de/STRASSEN/07070.htm (www.leipzig-lexikon.de) – https://www.leipzig-lexikon.de/STRASSEN/07070.htm\n- **[3]** www.l-iz.de/melder/wortmelder/2022/01/neue-hausnummern-weniger-strafzettel-das-jahr-2021-in-leipzig-in-zahlen-428244 (www.l-iz.de) – https://www.l-iz.de/melder/wortmelder/2022/01/neue-hausnummern-weniger-strafzettel-das-jahr-2021-in-leipzig-in-zahlen-428244\n- **[4]** de.wikipedia.org/wiki/Karl-Heine-Stra%C3%9Fe (de.wikipedia.org) – https://de.wikipedia.org/wiki/Karl-Heine-Stra%C3%9Fe\n- –\n- www.nabu-leipzig.de/gruppen/arbeitskreis-ornithologie-und-vogelschutz/geb%C3%A4udebr%C3%BCterschutz/ (www.nabu-leipzig.de) – https://www.nabu-leipzig.de/gruppen/arbeitskreis-ornithologie-und-vogelschutz/geb%C3%A4udebr%C3%BCterschutz/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt, dass keine Daten zur häufigsten Hausnummer in Leipzig gefunden wurden, obwohl die Goldantwort eine konkrete Zahl liefert. Die Antwort verweist explizit auf fehlende Daten."
+  },
+  "file_type": "csv"
+}

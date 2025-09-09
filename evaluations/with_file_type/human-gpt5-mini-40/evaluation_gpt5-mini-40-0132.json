@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0132",
+  "run_at": "2025-09-06T13:57:23.593659Z",
+  "question_id": 132,
+  "question": "Gab es mehr Familien mit drei Kindern oder mehr Familien mit vier Kindern am 31.12.2013 in der Gemeinde Nörvenich?",
+  "answer": "Es gab mehr Familien mit drei Kindern",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Zum 31.12.2013 gab es in Nörvenich 79 Familien mit drei Kindern und 26 Familien mit vier Kindern.",
+  "llm_final": "Es gab mehr Familien mit drei Kindern. Am 31.12.2013: 79 Familien mit drei Kindern vs. 26 Familien mit vier Kindern (Gemeinde Nörvenich). Quelle: offenedaten.kdvz.nrw (D07, Nörvenich 2013).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und liefert die genauen Zahlen, die die Antwort untermauern. Sie enthält auch die Quelle, was die Antwort sehr vollständig macht."
+  },
+  "file_type": "csv"
+}

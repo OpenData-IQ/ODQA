@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0028",
+  "run_at": "2025-09-04T18:44:06.298226Z",
+  "question_id": 28,
+  "question": "Warum ist die Theodor-Storm-Schule in Neumünster ein Kulturdenkmal?",
+  "answer": "die Begründung ist Geschichtlich und Städtebaulich: Theodor-Storm-Schule; ehem. Knabenschule; 1885/86; unregelmäßige Dreiflügelanlage, gotisierender zweigeschossiger Backsteinbau, Fassaden durch Glasurziegelgesimse und Backsteinfriese belebt, Hauptfassade gegliedert durch zwei regelmäßig angeordnete Risalite mit gotisierenden Giebeln; Turnhalle an Südostseite des Schulgrundstücks",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n## [Theodor-Storm-Schule Neumünster](https://www.google.com/maps/search/The?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM answer only provides a link to Google Maps, which does not explain why the Theodor-Storm-Schule is a cultural monument. The answer is incomplete and does not address the 'why' of the question."
+  },
+  "file_type": "csv"
+}

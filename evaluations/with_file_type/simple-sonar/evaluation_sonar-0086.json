@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0086",
+  "run_at": "2025-09-04T18:58:21.580708Z",
+  "question_id": 86,
+  "question": "Wie viele jugendliche Arbeitslose unter 20 Jahren gab es in Goslar, Salzgitter und Helmstedt insgeamt im Jahr 2007?",
+  "answer": "337",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Für das Jahr 2007 liegen keine direkt zusammengefassten Zahlen zur Anzahl jugendlicher Arbeitsloser unter 20 Jahren für die Städte Goslar, Salzgitter und Helmstedt in den Suchergebnissen vor. Die verfügbaren Datenquellen enthalten entweder keine spezifischen Angaben für diese Altersgruppe und Orte oder beziehen sich auf andere Altersgruppen (z. B. unter 25 Jahren) oder Regionen.\n\nFolgendes lässt sich aus den Suchergebnissen ableiten:\n\n- Das Statistische Jahrbuch der Stadt Salzgitter für 2007 enthält Arbeitslosenzahlen, jedoch ohne explizite Aufschlüsselung der Arbeitslosen unter 20 Jahren[3].\n- Allgemeine Berichte zur Jugendarbeitslosigkeit in Deutschland und Niedersachsen geben Hinweise auf regionale Unterschiede und Trends, aber keine konkreten Zahlen für Goslar, Salzgitter und Helmstedt unter 20 Jahren im Jahr 2007[1][4][5].\n- Die Bundesagentur für Arbeit veröffentlicht zwar regionale Arbeitslosenzahlen, aber in den gefundenen Quellen fehlen spezifische Daten für die genannten Städte und die Altersgruppe unter 20 Jahren im Jahr 2007[2].\n\nUm die genaue Zahl der jugendlichen Arbeitslosen unter 20 Jahren in Goslar, Salzgitter und Helmstedt im Jahr 2007 zu erhalten, wäre eine Anfrage bei der Bundesagentur für Arbeit oder den jeweiligen kommunalen Statistikämtern notwendig, da diese Stellen detaillierte Arbeitsmarktdaten führen.\n\nZusammenfassend: **Die exakte Gesamtzahl der jugendlichen Arbeitslosen unter 20 Jahren in Goslar, Salzgitter und Helmstedt im Jahr 2007 ist in den verfügbaren öffentlichen Quellen nicht direkt auffindbar.**\n\n### Quellen\n- **[1]** archiv.nationalatlas.de/wp-content/art_pdf/Band7_48-49_archiv.pdf (archiv.nationalatlas.de) – https://archiv.nationalatlas.de/wp-content/art_pdf/Band7_48-49_archiv.pdf\n- **[2]** www.arbeitsagentur.de/vor-ort/braunschweig-goslar/presse/2025-23-jugendarbeitslosigkeit-steigt (www.arbeitsagentur.de) – https://www.arbeitsagentur.de/vor-ort/braunschweig-goslar/presse/2025-23-jugendarbeitslosigkeit-steigt\n- **[3]** www.salzgitter.de/rathaus/downloads/jahrbuecher/Jahrbuch2007.pdf (www.salzgitter.de) – https://www.salzgitter.de/rathaus/downloads/jahrbuecher/Jahrbuch2007.pdf\n- **[4]** www.diw.de/documents/publikationen/73/diw_01.c.420930.de/13-19-1.pdf (www.diw.de) – https://www.diw.de/documents/publikationen/73/diw_01.c.420930.de/13-19-1.pdf\n- **[5]** www.nbank.de/medien/nb-media/Downloads/Publikationen/Wohnungsmarktbeobachtung/Wohnungsmarktberichte/Heft-18-WOM-2008.pdf (www.nbank.de) – https://www.nbank.de/medien/nb-media/Downloads/Publikationen/Wohnungsmarktbeobachtung/Wohnungsmarktberichte/Heft-18-WOM-2008.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt ausführlich, dass die gesuchten Daten in den verfügbaren Quellen nicht auffindbar sind. Dies entspricht der Kategorie 'not found'."
+  },
+  "file_type": "csv"
+}

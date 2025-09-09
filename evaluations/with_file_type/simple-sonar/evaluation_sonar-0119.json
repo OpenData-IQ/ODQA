@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0119",
+  "run_at": "2025-09-04T19:02:19.071676Z",
+  "question_id": 119,
+  "question": "Wie hoch waren die Fraktionszuwendungen für die CDU im Stadtrat Köln für das Jahr 2018 und wie hat sich dieser Betrag im Vergleich zum Vorjahr verändert?",
+  "answer": "Im Jahr 2018 betrugen die Fraktionszuwendungen für die CDU 920.150,01 Euro. Im Vergleich zum Vorjahr 2017, in dem die CDU 907.749,98 Euro erhielt, ist dies eine Steigerung um 12.400,03 Euro.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Fraktionszuwendungen für die CDU im Stadtrat Köln im Jahr 2018 sind in den bereitgestellten Suchergebnissen nicht direkt aufgeführt. Ebenso liegen keine konkreten Zahlen vor, die eine Vergleichsanalyse der Fraktionszuwendungen der CDU zwischen 2017 und 2018 ermöglichen.\n\nDie Suchergebnisse enthalten allgemeine Informationen zu Fraktionszuwendungen und Ratsbeschlüssen in Köln, jedoch ohne spezifische Beträge für einzelne Fraktionen oder Jahre. Beispielsweise wird in [1] eine Anpassung der Fraktionszuwendungen ab 2023 beschrieben, aber keine historischen Zahlen für 2018 genannt. Die anderen Dokumente beziehen sich auf allgemeine Ratsverhandlungen oder Haushaltsberichte, enthalten jedoch keine detaillierten Angaben zu den Fraktionszuwendungen der CDU im Jahr 2018 oder deren Veränderung zum Vorjahr [2][3][4][5].\n\nFür eine genaue Auskunft zu den Fraktionszuwendungen der CDU im Stadtrat Köln im Jahr 2018 und deren Veränderung gegenüber 2017 wäre eine Anfrage bei der Stadt Köln oder Einsicht in die offiziellen Haushalts- oder Ratsprotokolle aus diesen Jahren erforderlich, die explizit die Fraktionsfinanzierung aufschlüsseln.\n\n### Quellen\n- **[1]** www.fdp-koeln.de/politik/anpassung-der-fraktionszuwendungen/beschl%C3%BCsse-der-ratsgremien-0 (www.fdp-koeln.de) – https://www.fdp-koeln.de/politik/anpassung-der-fraktionszuwendungen/beschl%C3%BCsse-der-ratsgremien-0\n- **[2]** www.euskirchen.de/fileadmin/user_upload/PDF/rathaus/Jahresabschlussbericht__2018.pdf (www.euskirchen.de) – https://www.euskirchen.de/fileadmin/user_upload/PDF/rathaus/Jahresabschlussbericht__2018.pdf\n- **[3]** www.stadt-koeln.de/mediaasset/content/pdf-rat-gremien/rat/jahrbuch_2018.pdf (www.stadt-koeln.de) – https://www.stadt-koeln.de/mediaasset/content/pdf-rat-gremien/rat/jahrbuch_2018.pdf\n- **[4]** buergerinfo.stadt-koeln.de/vo0051.asp (buergerinfo.stadt-koeln.de) – https://buergerinfo.stadt-koeln.de/vo0051.asp?__kvonr=86617\n- **[5]** www.stadt-koeln.de/mediaasset/content/pdf-rat-gremien/rat/jahrbuch_2019.pdf (www.stadt-koeln.de) – https://www.stadt-koeln.de/mediaasset/content/pdf-rat-gremien/rat/jahrbuch_2019.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt explizit, dass die benötigten Zahlen in den verfügbaren Quellen nicht gefunden wurden. Sie verweist auf fehlende Daten und empfiehlt eine weitere Recherche bei offiziellen Stellen."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0134",
+  "run_at": "2025-09-04T15:26:56.213427Z",
+  "question_id": 134,
+  "question": "Wie viele Eheschließungen wurden im Jahr 2011 in Brühl registriert?",
+  "answer": "270",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Brühl (Rhein-Erft-Kreis, NRW): 222 Eheschließungen im Jahr 2011.\n\nQuelle:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Amtliche Statistik. Datensatz/Tabellenwerk zu „Eheschließungen nach Gemeinden, Jahr 2011“, Gemeinde: Brühl (Rhein-Erft-Kreis). Veröffentlicht im Statistikportal/GENESIS-Online von IT.NRW sowie in der jährlichen Publikation „Eheschließungen, Lebendgeborene und Sterbefälle in den Gemeinden Nordrhein-Westfalens 2011“.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt 222 Eheschließungen an, während die korrekte Antwort 270 ist. Die angegebene Zahl ist falsch."
+  }
+}

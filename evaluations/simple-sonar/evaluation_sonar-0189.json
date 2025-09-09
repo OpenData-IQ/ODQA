@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0189",
+  "run_at": "2025-09-04T19:10:08.465826Z",
+  "question_id": 189,
+  "question": "Wie viele Ausleihen hatte die Stadtteilbücherei Eller der Stadt Düsseldorf von 2008 bis 2018 insgesamt?",
+  "answer": "1953960 Ausleihen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadtteilbücherei Eller der Stadt Düsseldorf hatte von 2008 bis 2018 insgesamt mehrere hunderttausend Ausleihen, genaue Jahreszahlen sind in den Open Data-Datensätzen der Stadt Düsseldorf verfügbar. Die Daten zu den Ausleihen der Stadtteilbücherei Eller sind in einer JSON-Datei auf dem Open Data Portal Düsseldorf hinterlegt, die Angaben zu Bestand, Ausleihen und Besucherzahlen enthält[1].\n\nEine zusammenfassende Zahl für alle Stadtteilbüchereien Düsseldorf im Jahr 2008 liegt bei rund 2,3 Millionen Ausleihen, verteilt auf 14 Stadtteilbüchereien[2]. Die genaue Anzahl der Ausleihen nur für die Stadtteilbücherei Eller über den Zeitraum 2008 bis 2018 kann aus den Datensätzen auf dem Open Data Portal Düsseldorf oder dem NRW Open Data Portal entnommen werden, die detaillierte Jahreszahlen je Filiale enthalten[1][3][4].\n\nFür eine präzise Gesamtzahl der Ausleihen der Stadtteilbücherei Eller von 2008 bis 2018 empfiehlt sich der direkte Zugriff auf die JSON-Datenquelle des Open Data Portals Düsseldorf[1], da dort die jährlichen Ausleihzahlen einzeln aufgeführt sind. \n\nZusammengefasst:  \n- Gesamtzahl der Ausleihen aller Stadtteilbüchereien 2008: ca. 2,3 Mio.[2]  \n- Detaillierte Ausleihzahlen der Stadtteilbücherei Eller 2008–2018 sind in den Open Data-Datensätzen verfügbar[1][3][4].  \n\nWenn Sie möchten, kann ich Ihnen die Daten aus der JSON-Datei auswerten und die genaue Summe der Ausleihen für die Stadtteilbücherei Eller in diesem Zeitraum nennen.\n\n### Quellen\n- **[1]** opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e9da41c7-34b6-4130-a0b4-298648509a38 (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/1c3e7784-b823-4e06-9c30-39345b47ebb4/resource/e9da41c7-34b6-4130-a0b4-298648509a38\n- **[2]** de.wikipedia.org/wiki/Stadtb%C3%BCchereien_D%C3%BCsseldorf (de.wikipedia.org) – https://de.wikipedia.org/wiki/Stadtb%C3%BCchereien_D%C3%BCsseldorf\n- **[3]** ckan.open.nrw.de/hu/dataset/jahreszahlen-der-stadtbuchereien-der-landeshauptstadt-dusseldorf-d (ckan.open.nrw.de) – https://ckan.open.nrw.de/hu/dataset/jahreszahlen-der-stadtbuchereien-der-landeshauptstadt-dusseldorf-d\n- **[4]** ckan.open.nrw/lv/dataset/entleihungen-in-den-stadtbuchereien-der-landeshauptstadt-dusseldorf-d (ckan.open.nrw) – https://ckan.open.nrw/lv/dataset/entleihungen-in-den-stadtbuchereien-der-landeshauptstadt-dusseldorf-d\n- –\n- www.sommerleseclub.de/bibliotheken/duesseldorf_eller (www.sommerleseclub.de) – https://www.sommerleseclub.de/bibliotheken/duesseldorf_eller",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort liefert keine konkrete Gesamtzahl, sondern verweist auf Datenquellen und gibt nur allgemeine Hinweise. Die geforderte Summe (1953960) wird nicht genannt, daher ist die Antwort unvollständig."
+  }
+}

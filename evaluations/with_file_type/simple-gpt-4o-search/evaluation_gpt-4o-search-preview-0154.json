@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0154",
+  "run_at": "2025-09-04T18:26:23.503288Z",
+  "question_id": 154,
+  "question": "Welche Stadtbereiche in Rostock hatten im Jahr 2009 einen Anteil ausländischer Einwohnerinnen und Einwohner von mindestens 4 Prozent?",
+  "answer": "Lichtenhagen, Kröpeliner-Tor-Vorstadt, Stadtmitte, Evershagen, Dierkow-Neu, Gartenstadt/Stadtweide",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2009 betrug der Anteil ausländischer Einwohnerinnen und Einwohner in der Hansestadt Rostock insgesamt 3,6 %. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Demografie_Rostocks?utm_source=openai)) Detaillierte Daten zu den Anteilen in den einzelnen Stadtbereichen für dieses Jahr sind nicht direkt verfügbar. Allerdings zeigen spätere Erhebungen, dass bestimmte Stadtbereiche höhere Anteile aufwiesen. So hatte beispielsweise der Stadtbereich Gartenstadt/Stadtweide im Jahr 2013 einen Ausländeranteil von 9,3 %, was auf die dortige Erstaufnahmeeinrichtung für Asylsuchende zurückzuführen ist. Weitere Stadtbereiche mit höheren Anteilen waren Evershagen (6,1 %), Dierkow-Neu (5,3 %), Lütten Klein (5,2 %) und Lichtenhagen (5,0 %). ([researchgate.net](https://www.researchgate.net/publication/278027511_Gesundheitsbericht_der_Hansestadt_Rostock_2015_Berichtszeitraum_2004_bis_2013?utm_source=openai)) Es ist daher anzunehmen, dass diese Stadtbereiche auch im Jahr 2009 einen Anteil ausländischer Einwohnerinnen und Einwohner von mindestens 4 % hatten. \n\n### Quellen\n- **[1]** Demografie Rostocks (de.wikipedia.org) – https://de.wikipedia.org/wiki/Demografie_Rostocks?utm_source=openai\n- **[2]** (PDF) Gesundheitsbericht der Hansestadt Rostock 2015 (Berichtszeitraum 2004 bis 2013) (www.researchgate.net) – https://www.researchgate.net/publication/278027511_Gesundheitsbericht_der_Hansestadt_Rostock_2015_Berichtszeitraum_2004_bis_2013?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt keine direkten Daten für 2009 an, sondern extrapoliert von 2013. Außerdem wird behauptet, dass es die betreffenden Daten nicht gibt, was nicht stimmt."
+  },
+  "file_type": "csv"
+}

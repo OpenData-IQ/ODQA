@@ -1,0 +1,18 @@
+{
+  "total": 204,
+  "counts_by_category": {
+    "perfect": 57,
+    "problem_answers": 109,
+    "partially": 33,
+    "acceptable": 5
+  },
+  "problem_type_counts": {
+    "answer incorrect": 106,
+    "no answer": 1,
+    "not found": 2
+  },
+  "correct_total": 62,
+  "overall_accuracy": 0.30392156862745096,
+  "found_total": 202,
+  "found_accuracy": 0.3069306930693069
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0108",
+  "run_at": "2025-09-04T15:03:58.352238Z",
+  "question_id": 108,
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: In Soest gibt es nach den verfügbaren offenen Daten derzeit keine städtischen öffentlichen Toiletten, die offiziell 24/7 (rund um die Uhr) geöffnet sind. Die kommunalen Anlagen haben jeweils festgelegte Öffnungszeiten und sind nachts geschlossen.\n\nQuellen:\n- OpenStreetMap: Im Stadtgebiet Soest sind keine Toiletten mit opening_hours=24/7 getaggt (Datenstand bis 2024; Tag-Suche amenity=toilets innerhalb der Stadtgrenze Soest). Quelle: OpenStreetMap contributors, ODbL.\n- Stadt Soest: Verzeichnis/Übersicht öffentlicher Toiletten bzw. „Nette Toilette“ (führt Standorte mit Öffnungszeiten; dort sind keine rund-um-die-Uhr-Öffnungen ausgewiesen). Quelle: Stadt Soest, Verwaltung/Öffentliche Toiletten.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort besagt, dass es keine 24/7 geöffneten Toiletten gibt, während die Goldstandard-Antwort zwei spezifische Adressen nennt. Dies deutet auf eine falsche Information seitens des LLM hin."
+  }
+}

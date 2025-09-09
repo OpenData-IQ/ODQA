@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0003",
+  "run_at": "2025-09-04T10:55:33.742818Z",
+  "question_id": 3,
+  "question": "Wie viele Plätze hat die Kinderkrippe \"Biene Maja\" in Rostock?",
+  "answer": "66",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "36 Plätze\n\nQuellen:\n- Hansestadt Rostock – Open Data Portal: Datensatz „Kindertageseinrichtungen (Kitas) in Rostock“, Feld „Krippenplätze“, Eintrag „Kinderkrippe Biene Maja“ (Herausgeber: Amt für Jugend, Soziales und Asyl; Datenstand 2023/2024).\n- Jugendhilfeplanung der Hanse- und Universitätsstadt Rostock (Teilplan Kindertagesförderung), Anlagenverzeichnis der Einrichtungen mit Platzzahlen.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt 36 Plätze an, während die korrekte Antwort 66 Plätze ist. Die angegebene Platzzahl ist somit falsch."
+  }
+}

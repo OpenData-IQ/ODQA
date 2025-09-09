@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0130",
+  "run_at": "2025-09-01T06:15:24.613999Z",
+  "question_id": 130,
+  "question": "In welchem Ortsteil der Gemeinde Kreuzau gab es zum Stichtag 31.12.2011 die meisten Familien mit vier Personen?",
+  "answer": "Im Kerngebiet gab es die meisten Familien mit vier Personen, nämlich 153 Familien",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe meldet einen Recursion-Limit-Fehler und liefert keine inhaltliche Antwort auf die Frage. Daher ist die Antwort nicht bewertbar."
+  }
+}

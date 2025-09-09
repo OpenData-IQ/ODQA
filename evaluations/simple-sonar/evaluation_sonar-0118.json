@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0118",
+  "run_at": "2025-09-04T19:02:10.786051Z",
+  "question_id": 118,
+  "question": "Wie hoch war die zusammengefasste Geburtenziffer (TFR) im Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024?",
+  "answer": "Im Stadtbezirk Haslach-Haid lag die zusammengefasste Geburtenziffer (TFR) im Jahr 2024 bei 1,6",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "Aus der Datei abi_gliederung.customization erfolgt die Ermittlung der Stadtbezirksnummer für Haslach-Haid (614). Diese wird benötigt, um in der Datei de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke.csv die Geburtenziffer zu ermitteln.",
+  "llm_final": "Die zusammengefasste Geburtenziffer (TFR) für den Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024 liegt in den verfügbaren Daten nicht explizit vor. \n\nFür ganz Deutschland betrug die TFR im Jahr 2024 1,35 Kinder pro Frau, mit regionalen Unterschieden zwischen den Bundesländern (z. B. 1,42 in Niedersachsen, 1,21 in Berlin)[1][4]. Baden-Württemberg, das Bundesland, in dem Freiburg liegt, hatte 2022 eine TFR von etwa 1,49, aber keine aktuelleren oder bezirksspezifischen Zahlen für 2024 sind öffentlich verfügbar[3].\n\nDas Statistische Jahrbuch der Stadt Freiburg enthält zwar Daten zur TFR auf Bezirksebene, jedoch liegen die dort veröffentlichten Ausgaben nur bis 2023 vor, und die 2024er Werte für Haslach-Haid sind nicht veröffentlicht oder online zugänglich[2].\n\nZusammengefasst: Eine genaue Angabe der TFR für den Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024 ist derzeit nicht verfügbar. Nur die allgemeine TFR für Deutschland und Baden-Württemberg ist bekannt.\n\n### Quellen\n- **[1]** www.destatis.de/EN/Press/2025/07/PE25_259_12.html (www.destatis.de) – https://www.destatis.de/EN/Press/2025/07/PE25_259_12.html\n- **[2]** www.freiburg.de/pb/site/Freiburg/get/params_E-624194162/1631036/Statistisches_Jahrbuch_2020.pdf (www.freiburg.de) – https://www.freiburg.de/pb/site/Freiburg/get/params_E-624194162/1631036/Statistisches_Jahrbuch_2020.pdf\n- **[3]** en.wikipedia.org/wiki/List_of_German_states_by_fertility_rate (en.wikipedia.org) – https://en.wikipedia.org/wiki/List_of_German_states_by_fertility_rate\n- **[4]** www.famrz.de/mitteilungen-statistischen-bundesamtes/geburtenziffer-2024-auf-135-gesunken.html (www.famrz.de) – https://www.famrz.de/mitteilungen-statistischen-bundesamtes/geburtenziffer-2024-auf-135-gesunken.html\n- –\n- www.statista.com/statistics/1234034/fertility-rate-in-czechia/ (www.statista.com) – https://www.statista.com/statistics/1234034/fertility-rate-in-czechia/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM gibt an, dass die spezifische TFR für Haslach-Haid 2024 nicht verfügbar ist und verweist auf fehlende Daten. Die Antwort entspricht damit der Kategorie 'not found'."
+  }
+}

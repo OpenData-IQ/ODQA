@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0185",
+  "run_at": "2025-09-04T19:09:42.517773Z",
+  "question_id": 185,
+  "question": "Wie hoch ist die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 in Prozent?",
+  "answer": "191,6%",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 beträgt einen Zuwachs von **3.075 Personen**. Bezogen auf die Prozentzahl lässt sich dies aus den verfügbaren Daten nicht direkt ableiten, da die Ausgangsbevölkerung von Hubbelrath 2019 nicht explizit genannt wird. Allerdings wird Hubbelrath als einer der Stadtteile Düsseldorfs mit deutlichem Bevölkerungswachstum genannt[1].\n\nZur Einordnung: Düsseldorf insgesamt wächst bis 2035 auf etwa 702.500 Einwohner, mit einem starken Zuwachs in mehreren Stadtteilen, darunter Hubbelrath (+3.075 Einwohner)[1]. Die Bevölkerungsentwicklung in Düsseldorf ist durch Zuwanderung und Geburtenüberschüsse geprägt, wobei der Anteil älterer Menschen deutlich zunimmt[1].\n\nOhne die genaue Einwohnerzahl Hubbelraths 2019 ist eine prozentuale Angabe nicht möglich, aber der absolute Zuwachs von +3.075 Personen zeigt eine positive Entwicklung.\n\nFalls Sie die prozentuale Entwicklung benötigen, wäre die Einwohnerzahl Hubbelraths 2019 erforderlich, die in den vorliegenden Quellen nicht enthalten ist.\n\n### Quellen\n- **[1]** www.grafenberg.news/post/d%C3%BCsseldorf-wird-weiter-wachsen (www.grafenberg.news) – https://www.grafenberg.news/post/d%C3%BCsseldorf-wird-weiter-wachsen\n- –\n- www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_landkreis-zwickau.pdf (www.bevoelkerungsmonitor.sachsen.de) – https://www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_landkreis-zwickau.pdf\n- www.landkreis-stendal.de/de/datei/anzeigen/id/804496,1037/kapitel_4_bevoelkerung_2021.pdf (www.landkreis-stendal.de) – https://www.landkreis-stendal.de/de/datei/anzeigen/id/804496,1037/kapitel_4_bevoelkerung_2021.pdf\n- www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_kreisfreie-stadt_chemnitz.pdf (www.bevoelkerungsmonitor.sachsen.de) – https://www.bevoelkerungsmonitor.sachsen.de/download/RBV%20Kreise/rbv-landkreisinfo_kreisfreie-stadt_chemnitz.pdf\n- www.braunschweig.de/politik_verwaltung/fb_institutionen/fachbereiche_referate/fb01/ref0120/stadtforschung/Infoline_StaFo_BS_2021-09_Bevoelkerungsprognose_2020-2035a.pdf (www.braunschweig.de) – https://www.braunschweig.de/politik_verwaltung/fb_institutionen/fachbereiche_referate/fb01/ref0120/stadtforschung/Infoline_StaFo_BS_2021-09_Bevoelkerungsprognose_2020-2035a.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort liefert keine prozentuale Entwicklung, obwohl diese laut Goldstandard (191,6%) bekannt ist. Die Antwort ist daher sachlich falsch."
+  }
+}

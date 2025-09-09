@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0083",
+  "run_at": "2025-09-06T12:42:58.750700Z",
+  "question_id": 83,
+  "question": "In welchem Berliner Stadtteil war es 2023 am wahrscheinlichsten, dass bei Eheschließungen mindestens ein Ehepartner ausländisch ist?",
+  "answer": "Neukölln",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In 528 von 1.366 Eheschließungen (38,7 %) war mindestens ein*e Ehepartner*in ausländisch",
+  "llm_final": "Kurz: Dazu kann ich Ihnen jetzt keine belastbare Antwort geben — im verfügbaren Open‑Data‑Katalog habe ich keine Tabelle gefunden, die für 2023 Eheschließungen nach Ortsteilen und Staatsangehörigkeit ausweist. Ohne diese Daten lässt sich nicht zuverlässig ermitteln, in welchem Berliner Stadtteil die Wahrscheinlichkeit am höchsten war, dass mindestens ein Ehepartner ausländisch war.\n\nWas ich geprüft habe\n- Suche in offenen Datensammlungen (Berlin/GovData/Open‑Data‑Kataloge). Kein Datensatz mit Eheschließungen nach Ortsteil + Staatsangehörigkeit für 2023.\n- Es gibt nur allgemeine Einwohner‑Statistiken nach Ortsteilen (z. B. EWR_Ortsteile_2020), aber keine Eheschließungsdaten nach Ortsteil und Nationalität.\n\nWas noch möglich ist (Sie wählen):\n1) Ich suche weiter — gezielt auf der Seite des Statistischen Landesamtes Berlin‑Brandenburg (statistik-berlin-brandenburg.de), beim Statistischen Bundesamt (Destatis) oder direkt bei den Standesämtern der Bezirke. Soll ich das tun?  \n2) Reicht Ihnen eine Antwort auf Bezirksebene (12 Bezirke) statt Ortsteil? Auf Bezirksebene ist die Chance größer, passende Eheschließungs‑/Staatsangehörigkeitsdaten zu finden.  \n3) Sie können eine Datenquelle (Link/Tabelle) hochladen oder nennen — ich werte sie dann aus und berechne die gesuchte Wahrscheinlichkeit.  \n4) Clarify: Soll \"ausländisch\" als nicht‑deutsche Staatsangehörigkeit verstanden werden? (Alternativ könnten Sie mit „Geburtsland außerhalb Deutschlands“ gemeint haben.)\n\nWie möchten Sie weitermachen?",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM gibt an, die benötigten Daten nicht gefunden zu haben, um die Frage zu beantworten. Es schlägt weitere Schritte vor, kann aber die direkte Frage nicht beantworten."
+  }
+}

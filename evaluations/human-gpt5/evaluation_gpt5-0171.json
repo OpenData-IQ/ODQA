@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0171",
+  "run_at": "2025-09-01T02:59:48.288850Z",
+  "question_id": 171,
+  "question": "Welche drei Vornamen wurden im Jahr 2020 in Kerpen am häufigsten vergeben und wie viele Kinder erhielten jeweils diese Namen?",
+  "answer": "Die drei am häufigsten vergebenen Vornamen in Kerpen im Jahr 2020 waren Sophie (14 Kinder), Marie (9 Kinder) und Maximilian (8 Kinder)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In der automatisierten Erstellung dieser Frage hat die KI falsch geantwortet (Noah (18 Kinder), Emilia (15 Kinder) und Leon (14 Kinder))",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states 'Recursion limit of 25 reached'. This indicates a technical problem during the answer generation process."
+  }
+}

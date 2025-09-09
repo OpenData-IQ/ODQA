@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0202",
+  "run_at": "2025-09-04T19:11:25.973476Z",
+  "question_id": 202,
+  "question": "Wie viel Biomüll wurde insgesamt im Jahr 2024 in Konstanz gesammelt?",
+  "answer": "Im Jahr 2024 wurden in Konstanz insgesamt 6580,34 Tonnen Biomüll gesammelt.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2024 wurden in Konstanz insgesamt etwa **6.580 Tonnen Biomüll** gesammelt. Dies entspricht rund 77 Kilogramm Biomüll pro Einwohner, was im landesweiten Vergleich relativ viel ist. Die Menge hat sich im Vergleich zum Vorjahr (6.516 Tonnen in 2023) kaum verändert und ist pro Kopf nur um 1 Kilogramm gestiegen[1]. \n\nDer Biomüll wird in Singen zu Biogas, Dünger und Kompost verarbeitet. Wichtig ist dabei, dass kein Plastik, auch kein sogenanntes „Bio-Plastik“, im Biomüll enthalten sein darf, da dies den Verwertungsprozess stört[1][4].\n\n### Quellen\n- **[1]** www.konstanz.de/service/presse/pressemitteilungen/abfallstatistik+stadt+konstanz+2024 (www.konstanz.de) – https://www.konstanz.de/service/presse/pressemitteilungen/abfallstatistik+stadt+konstanz+2024\n- **[2]** www.sweb.de/konstanz/436-kilogramm-pro-nase-so-viel-muell-haben-wir-letztes-jahr-gemacht;art110,737 (www.sweb.de) – https://www.sweb.de/konstanz/436-kilogramm-pro-nase-so-viel-muell-haben-wir-letztes-jahr-gemacht;art110,737\n- –\n- offenedaten-konstanz.de/blog/weniger-abfall-zum-zweiten-mal-folge (offenedaten-konstanz.de) – https://offenedaten-konstanz.de/blog/weniger-abfall-zum-zweiten-mal-folge\n- www.lrakn.de/verbot+von+beuteln+aus+_biokunststoffen_+im+bioabfall+ab+1_+januar+2025 (www.lrakn.de) – https://www.lrakn.de/verbot+von+beuteln+aus+_biokunststoffen_+im+bioabfall+ab+1_+januar+2025\n- um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/2_Presse_und_Service/Publikationen/Umwelt/Abfallbilanz-2024.pdf (um.baden-wuerttemberg.de) – https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/2_Presse_und_Service/Publikationen/Umwelt/Abfallbilanz-2024.pdf",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält die exakte Zahl aus dem Goldstandard, liefert zusätzliche relevante Informationen und benennt mehrere Quellen. Sie ist umfassend und direkt nutzbar."
+  },
+  "file_type": "csv"
+}

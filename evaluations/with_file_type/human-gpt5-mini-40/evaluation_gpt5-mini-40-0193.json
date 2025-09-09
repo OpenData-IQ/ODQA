@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0193",
+  "run_at": "2025-09-06T17:13:58.489016Z",
+  "question_id": 193,
+  "question": "Wie viele Kinder mit dem Vornamen Anna wurden 2019 in Kreuzau ins Geburtenregister eingetragen?",
+  "answer": "Keine, es gab nur ein Kind namens Nora.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0.  \nIch habe das offizielle Vornamen-Dataset der Gemeinde Kreuzau (Jahrgang 2019) geprüft — der Vorname \"Anna\" ist dort nicht eingetragen. Quelle: Offene Daten KDVZ NRW, Vornamen Gemeinde Kreuzau 2019 (EWO_990_sim_OpDat251_20200116.csv).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort bestätigt die Goldstandard-Antwort und liefert eine genaue Quelle. Sie ist präzise und vollständig."
+  },
+  "file_type": "csv"
+}

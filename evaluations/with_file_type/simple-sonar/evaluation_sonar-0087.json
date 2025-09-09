@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0087",
+  "run_at": "2025-09-04T18:58:28.582562Z",
+  "question_id": 87,
+  "question": "Wie viele Weihnachtsbaum-Sammelstellen gibt es in 51145 Köln?",
+  "answer": "10",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Link führt zu HTML (62f568ac-8db1-410c-96dc-26b52209ad18.html) und dort gibt es erst die XML",
+  "llm_final": "In der Postleitzahl 51145 Köln gibt es keine öffentlich zugängliche, exakt gezählte Anzahl von Weihnachtsbaum-Sammelstellen in den verfügbaren Suchergebnissen. Die Abfallwirtschaftsbetriebe Köln (AWB) haben 2025 die Entsorgung der Weihnachtsbäume neu organisiert: Statt vieler Sammelstellen gibt es für jede Straße einen festen Abholtermin, an dem die Weihnachtsbäume direkt an der Straße abgeholt werden[1][3]. \n\nZusätzlich existieren in den Kölner Veedeln (Stadtteilen) zahlreiche Sammelstellen, deren genaue Standorte und Anzahl über eine Karte oder eine Liste der AWB abrufbar sind[3][4]. Für 51145 Köln (im Stadtteil Porz) kann man also den nächstgelegenen Sammelplatz über diese Karte oder Liste finden, eine konkrete Zahl der Sammelstellen in 51145 wird jedoch nicht explizit genannt.\n\nAlternativ können Weihnachtsbäume auch zu den AWB-Wertstoffcentern in Ossendorf oder Gremberghoven gebracht werden[3].\n\n**Zusammenfassung:**\n\n- Es gibt in Köln keine zentrale, öffentlich verfügbare Zahl der Sammelstellen speziell für 51145 Köln.\n- Die Entsorgung erfolgt primär über feste Abholtermine für jede Straße, die man online oder telefonisch bei der AWB erfragen kann[1][3].\n- Zahlreiche Sammelstellen in den Veedeln sind über eine AWB-Karte auffindbar, genaue Anzahl für 51145 nicht direkt verfügbar[3][4].\n- Wertstoffcenter als weitere Entsorgungsmöglichkeit.\n\nFür eine genaue Anzahl der Sammelstellen in 51145 Köln empfiehlt sich die Nutzung der AWB-Karte oder eine direkte Anfrage bei den Abfallwirtschaftsbetrieben Köln.\n\n### Quellen\n- **[1]** verliebtinkoeln.com/weihnachtsbaum-entsorgen-in-koeln/ (verliebtinkoeln.com) – https://verliebtinkoeln.com/weihnachtsbaum-entsorgen-in-koeln/\n- **[2]** www.ksta.de/koeln/koelner-innenstadt/koeln-awb-startet-abholung-von-weihnachtsbaeumen-6000-tannen-am-tag-939817 (www.ksta.de) – https://www.ksta.de/koeln/koelner-innenstadt/koeln-awb-startet-abholung-von-weihnachtsbaeumen-6000-tannen-am-tag-939817\n- **[3]** veedelshelfer.de/weihnachtsbaum-richtig-entsorgen/ (veedelshelfer.de) – https://veedelshelfer.de/weihnachtsbaum-richtig-entsorgen/\n- –\n- ckan.open.nrw.de/hr/dataset/sammelstellen-fur-weihnachtsbaume-in-koln-k (ckan.open.nrw.de) – https://ckan.open.nrw.de/hr/dataset/sammelstellen-fur-weihnachtsbaume-in-koln-k\n- www.ksta.de/koeln/koeln-aerger-um-tannenbaum-entsorgung-nicht-durchdacht-935448 (www.ksta.de) – https://www.ksta.de/koeln/koeln-aerger-um-tannenbaum-entsorgung-nicht-durchdacht-935448",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Antwort erklärt ausführlich, dass keine exakte Zahl öffentlich verfügbar ist. Dies stimmt aber nicht."
+  },
+  "file_type": "xml"
+}

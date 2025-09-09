@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0197",
+  "run_at": "2025-09-04T18:32:52.281654Z",
+  "question_id": 197,
+  "question": "Wie viele Grabstätten gibt es insgesamt in der Stadt Bergheim zum Stichtag 06.01.2021?",
+  "answer": "17.718",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 06.01.2021 betrug die Gesamtzahl der Grabstätten in der Stadt Bergheim 15.000. Diese Zahl umfasst sowohl belegte als auch freie Grabstätten. ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim/resource/ded11196-a5bc-4431-ad6f-c9e8bcd48368?utm_source=openai)) \n\n### Quellen\n- **[1]** Grabstätten 2022 zum Stichtag 10.01.2023 Bergheim - D14 Grabstätten und Bestattungen Bergheim | Offene Daten kdvz Rhein-Erft-Rur (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d14-grabst%C3%A4tten-und-bestattungen-bergheim/resource/ded11196-a5bc-4431-ad6f-c9e8bcd48368?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine Zahl von 15.000 an, während die Goldstandard-Antwort 17.718 ist. Die LLM-Antwort ist somit falsch. Die angegebene Quelle bezieht sich auf Daten vom 10.01.2023, nicht vom 06.01.2021."
+  },
+  "file_type": "csv"
+}

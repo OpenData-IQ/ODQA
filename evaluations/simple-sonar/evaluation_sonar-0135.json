@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0135",
+  "run_at": "2025-09-04T19:04:04.816064Z",
+  "question_id": 135,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja",
+  "llm_final": "Zur Landtagswahl 1995 in der Gemeinde Merzenich sind Daten zur Wahlbeteiligung verfügbar. Die Wahl fand am 14. Mai 1995 statt, und die Wahlbeteiligung für den Stimmbezirk I Merzenich 010 ist dokumentiert[3][5].\n\nDie genaue Wahlbeteiligung für die Gemeinde Merzenich bei der Landtagswahl 1995 kann auf der offiziellen Wahlergebnis-Seite des Landes Nordrhein-Westfalen eingesehen werden, die detaillierte Ergebnisse und Beteiligungszahlen für einzelne Stimmbezirke bereitstellt[3][5]. \n\nLeider geben die Suchergebnisse keine konkrete Prozentzahl der Wahlbeteiligung direkt an, aber die Quelle der Landeswahlleiter NRW (wahlen.kdvz.nrw) ist die verlässlichste Anlaufstelle für diese Daten. Dort sind die Wahlbeteiligung und weitere Wahlergebnisse für Merzenich im Detail verfügbar.\n\nZusammenfassend: Ja, es gibt Daten zur Wahlbeteiligung bei der Landtagswahl 1995 in Merzenich, die auf der offiziellen NRW-Wahlseite abrufbar sind[3][5].\n\n### Quellen\n- **[1]** de-academic.com/dic.nsf/%20dewiki/2463565 (de-academic.com) – https://de-academic.com/dic.nsf/%20dewiki/2463565\n- **[2]** www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00001650/z071200007.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/NWHeft_derivate_00001650/z071200007.pdf\n- –\n- wahlen.kdvz.nrw/production/lw1995/05358040/bet563118.htm (wahlen.kdvz.nrw) – https://wahlen.kdvz.nrw/production/lw1995/05358040/bet563118.htm\n- www.bertelsmann-stiftung.de/fileadmin/files/musterdatenkatalog/NRW_-_Musterdatensa__tze_V2.1.csv (www.bertelsmann-stiftung.de) – https://www.bertelsmann-stiftung.de/fileadmin/files/musterdatenkatalog/NRW_-_Musterdatensa__tze_V2.1.csv\n- wahlen.kdvz.nrw/production/lw1995/05358040/grafik563118.htm (wahlen.kdvz.nrw) – https://wahlen.kdvz.nrw/production/lw1995/05358040/grafik563118.htm",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort bestätigt, dass die gewünschten Daten existieren, verweist auf die offizielle Quelle und gibt Hinweise zur Auffindbarkeit. Sie ist umfassend und enthält mehrere relevante Links."
+  }
+}

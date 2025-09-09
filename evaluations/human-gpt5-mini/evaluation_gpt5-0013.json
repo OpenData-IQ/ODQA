@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0013",
+  "run_at": "2025-08-31T10:05:26.582163Z",
+  "question_id": 13,
+  "question": "Wie viele Linden gibt es in Rostock?",
+  "answer": "12462",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Spalte gattung_deutsch==linde, nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Laut dem Baumkataster der Hanse‑ und Universitätsstadt Rostock gibt es 12.462 Linden.\n\nQuelle: Datensatz \"Bäume\" (opendata-hro) — https://geo.sv.rostock.de/download/opendata/baeume/baeume.csv (Zählung: gattung_deutsch == \"Linde\").",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der Linden in Rostock an. Sie liefert auch die Quelle und den direkten Link zum Datensatz, was sie sehr umfassend macht."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0069",
+  "run_at": "2025-09-06T12:09:01.673897Z",
+  "question_id": 69,
+  "question": "In welchen Fachabteilungen wurden 2017 zehn oder mehr Patienten mit Krankheiten des Nervensystems, die ihren Hauptwohnsitz in der kreisfreien Stadt Trier haben, vollstationär behandelt?",
+  "answer": "Hals-, Nasen-, Ohrenheilkunde, Kardiologie, Sonstige und allgemeine Innere Medizin, Geriatrie, Sonstige und allgemeine Kinderheilkunde, Neurochirurgie, Neurologie, sonstige Fachbereiche",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Folgende Fachabteilungen (Wohnsitz: Trier, kreisfreie Stadt; Hauptdiagnose G00–G99 = Krankheiten des Nervensystems) hatten 2017 jeweils ≥ 10 vollstationär behandelte Patienten:\n\n- Hals-, Nasen-, Ohrenheilkunde — 15  \n- Kardiologie — 100  \n- Sonstige und allgemeine Innere Medizin — 44  \n- Geriatrie — 21  \n- Sonstige und allgemeine Kinderheilkunde — 65  \n- Neurochirurgie — 28  \n- Neurologie — 660  \n- sonstige Fachbereiche — 12\n\nQuelle: Regionalstatistik (Tabelle \"Vollstationär behandelte Patienten nach Fachabteilungen und Hauptdiagnose nach Wohnsitz\", Jahr 2017), Datensatz: https://www.regionalstatistik.de/genesisws/downloader/00/tables/23131-02-01-4_00.csv",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist vollständig und korrekt. Sie listet alle Fachabteilungen auf, die in der Goldstandard-Antwort genannt werden, und liefert zusätzlich die genauen Patientenzahlen sowie die Quelle mit einem direkten Link zum Datensatz."
+  }
+}

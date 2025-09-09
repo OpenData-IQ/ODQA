@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0141",
+  "run_at": "2025-09-06T14:13:26.039029Z",
+  "question_id": 141,
+  "question": "Gibt es Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden, aufgeteilt in die Stadtbezirke und differenziert nach Geschlecht und verschiedenen Altersgruppen.",
+  "llm_final": "Ja. Im Open‑Data‑Datensatz \"Arbeitslose 2012–2017 (MD1) 4. Quartal\" sind die Zahlen für das 4. Quartal 2015 enthalten.\n\nKurz (insgesamt, 4. Quartal 2015):\n- StB 0 Altstadt: 2.424\n- StB 1 Neustadt: 2.205\n- StB 2 Pieschen: 2.342\n- StB 3 Klotzsche/nördliche Ortschaften: 675\n- StB 4 Loschwitz/OS Schönfeld‑Weißig: 626\n- StB 5 Blasewitz: 2.509\n- StB 6 Leuben: 1.350\n- StB 7 Prohlis: 3.020\n- StB 8 Plauen: 1.663\n- StB 9 Cotta/westliche Ortschaften: 4.064\n- unbekannt: 237\n\nSummiert (ganz Dresden, inkl. \"unbekannt\"): 21.115 Arbeitslose im 4. Quartal 2015.\n\nQuelle / CSV-Download: https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_–_2017_md1_4_quartal/content.csv",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend und korrekt. Sie liefert nicht nur die Bestätigung der Datenverfügbarkeit, sondern auch detaillierte Zahlen für die Stadtbezirke und die Gesamtstadt, sowie den direkten Link zur CSV-Datei, was sie sehr nützlich und vollständig macht."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0023",
+  "run_at": "2025-08-31T21:42:08.762807Z",
+  "question_id": 23,
+  "question": "Wie viele Stellplätze von VRNNextbike Fahrrädern gibt es an der Jugendherberge Lindenhof in Mannheim?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states that a recursion limit was reached. This indicates that the agent was unable to complete its processing due to an internal limit."
+  },
+  "file_type": "csv"
+}

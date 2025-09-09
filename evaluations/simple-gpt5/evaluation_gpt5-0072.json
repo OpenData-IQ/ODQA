@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0072",
+  "run_at": "2025-09-04T14:32:04.691267Z",
+  "question_id": 72,
+  "question": "Gab es 2019 in Berlin Neukölln mehr männliche oder mehr weibliche minderjährige Kinder in Familien?",
+  "answer": "mehr männliche",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2019 gab es ca. 27.000 männliche und 26.000 weibliche minderjährige Kinder in Neuköllner Familien",
+  "llm_final": "Kurzantwort: Mehr männliche.\n\nQuelle:\n- Amt für Statistik Berlin‑Brandenburg: Minderjährige in Familien nach Geschlecht, Bezirke, Jahr (Auswertung für 2019, Bezirk Neukölln). Themenbereich „Bevölkerung und Haushalte – Familien“. Herausgegeben im Regionalstatistik-Portal/auf dem Open‑Data‑Portal Berlin.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und gibt die richtige Information wieder. Sie enthält auch eine präzise Quelle, die die Antwort untermauert."
+  }
+}

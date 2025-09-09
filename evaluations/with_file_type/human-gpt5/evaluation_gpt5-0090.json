@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0090",
+  "run_at": "2025-09-01T00:01:34.384491Z",
+  "question_id": 90,
+  "question": "Welche Auswirkung hatte der Friedensvertrag von Versailles auf die Landkreise und Gemeinden in Bayern?",
+  "answer": "Durch den Friedensvertrag von Versailles wurden der Landkreis Sankt Ingbert, 11 Gemeinden des Landkreises Homburg und 15 Gemeinden des Landkreises Zweibrücken im Regierungsbezirk Pfalz dem Saargebiet zugeteilt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'ERROR: Recursion limit of 25 reached'. This indicates a technical problem during generation, fitting the 'recursion limit' problem type."
+  },
+  "file_type": "xml"
+}

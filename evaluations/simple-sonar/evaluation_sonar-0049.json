@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0049",
+  "run_at": "2025-09-04T18:54:13.390232Z",
+  "question_id": 49,
+  "question": "Wie viele meldepflichtige Wegeunfälle im Jahre 2016 sind dem Unfallversicherungsträger Landwirtschaftliche Berufsgenossenschaft zuzuordnen?",
+  "answer": "2325",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Im Jahr 2016 sind der Landwirtschaftlichen Berufsgenossenschaft (heute Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, SVLFG) **rund 2.000 meldepflichtige Wegeunfälle** zuzuordnen. \n\nGenauer: Laut einer Bundestagsdrucksache mit Unfallzahlen der SVLFG für die Jahre 2020 und 2021 lagen die meldepflichtigen Wegeunfälle bei etwa 2.000 pro Jahr, und es ist davon auszugehen, dass die Zahl für 2016 in einem ähnlichen Bereich lag, da die Unfallzahlen in diesem Bereich relativ stabil sind[4]. Die BAuA-Statistik für 2016 nennt für alle Unfallversicherungsträger zusammen insgesamt 188.395 meldepflichtige Wegeunfälle, aber eine Aufschlüsselung nach einzelnen Trägern für 2016 ist dort nicht enthalten[1]. \n\nDie SVLFG selbst meldete für 2020 knapp 2.000 meldepflichtige Wegeunfälle und für 2021 etwa 2.186[4]. Die Zahl für 2016 dürfte daher in diesem Bereich liegen.\n\nZusammenfassend: Für das Jahr 2016 sind etwa **2.000 meldepflichtige Wegeunfälle** der Landwirtschaftlichen Berufsgenossenschaft (SVLFG) zuzuordnen[4]. Eine exakte Zahl für 2016 ist in den verfügbaren Quellen nicht direkt ausgewiesen, aber die Daten der Folgejahre geben eine verlässliche Größenordnung.\n\n### Quellen\n- **[1]** www.baua.de/DE/Angebote/Publikationen/Berichte/Suga-2016.pdf (www.baua.de) – https://www.baua.de/DE/Angebote/Publikationen/Berichte/Suga-2016.pdf?__blob=publicationFile&v=4\n- **[2]** www.svlfg.de/pm-unfallzahlen-gartenbau (www.svlfg.de) – https://www.svlfg.de/pm-unfallzahlen-gartenbau\n- –\n- www.huettener-versicherungsverein.de/informationen-aus-der-versicherungswelt/mit-diesen-verkehrsmitteln-passieren-die-meisten-wegeunf%C3%A4lle.html (www.huettener-versicherungsverein.de) – https://www.huettener-versicherungsverein.de/informationen-aus-der-versicherungswelt/mit-diesen-verkehrsmitteln-passieren-die-meisten-wegeunf%C3%A4lle.html?page_n40=7\n- dserver.bundestag.de/btd/20/034/2003469.pdf (dserver.bundestag.de) – https://dserver.bundestag.de/btd/20/034/2003469.pdf\n- publikationen.dguv.de/widgets/pdf/download/article/3382 (publikationen.dguv.de) – https://publikationen.dguv.de/widgets/pdf/download/article/3382",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort liefert nur eine Schätzung (ca. 2.000) statt der exakten Zahl (2.325) und verweist auf fehlende direkte Quellen für 2016. Sie ist teilweise korrekt, aber nicht vollständig und nicht exakt."
+  }
+}

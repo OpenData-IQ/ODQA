@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0046",
+  "run_at": "2025-09-04T18:53:44.969222Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "kontakt@theater-senftenberg.de",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die E-Mail-Adresse für die Neue Bühne Senftenberg lautet **kontakt@theater-senftenberg.de**[1][4][5].\n\n### Quellen\n- **[1]** www.theater-senftenberg.de/impressum (www.theater-senftenberg.de) – https://www.theater-senftenberg.de/impressum\n- **[2]** senftenberg.de/showobject.phtml (senftenberg.de) – https://senftenberg.de/showobject.phtml?ModID=9&object=tx%7C2779.1&FID=1704.115.1\n- **[3]** w.senftenberg.de/showobject.phtml (w.senftenberg.de) – http://w.senftenberg.de/showobject.phtml?object=tx%2C1704.22.1&ModID=9&FID=882.851.1&La=1&KatID=1.105\n- –\n- www.lausitzerseenland.de/de/entdecken/sehenswertes-und-kultur/buehnen-theater/artikel-amphitheater-der-neuen-buehne-senftenberg.html (www.lausitzerseenland.de) – https://www.lausitzerseenland.de/de/entdecken/sehenswertes-und-kultur/buehnen-theater/artikel-amphitheater-der-neuen-buehne-senftenberg.html\n- www.lausitzerseenland.de/de/erleben/barrierefrei/freizeit/artikel-neue-buehne-senftenberg.html (www.lausitzerseenland.de) – https://www.lausitzerseenland.de/de/erleben/barrierefrei/freizeit/artikel-neue-buehne-senftenberg.html",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Hier ist die Antwort korrekt, da die Information in den öffentlichen Quellen angegeben ist"
+  }
+}

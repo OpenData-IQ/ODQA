@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0078",
+  "run_at": "2025-09-04T14:36:50.179074Z",
+  "question_id": 78,
+  "question": "Wird in der Statistik \"Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume\" ein Unterschied zwischen Wohn- und Nichtwohngebäuden gemacht?",
+  "answer": "nein",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja. In dieser Auswertung werden die genehmigten Wohnungen nach Zahl der Räume ausgewiesen und zusätzlich nach Gebäudeart getrennt. Üblicherweise werden Werte für insgesamt sowie getrennt für\n- Wohnungen in Wohngebäuden (einschließlich Wohnheime) und\n- Wohnungen in Nichtwohngebäuden\npubliziert. Die Abgrenzung Wohn-/Nichtwohngebäude folgt der Bautätigkeitsstatistik (Wohngebäude = überwiegend Wohnnutzung; ansonsten Nichtwohngebäude).\n\nQuellen:\n- Statistisches Bundesamt (Destatis), GENESIS-Online: Tabelle „Genehmigungen für Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume“ (Themenbereich 311 Bautätigkeit – Baugenehmigungen).\n- Destatis, Fachserie 5, Reihe 1 „Baugenehmigungen“, Methodische Erläuterungen und Tabellen zu „Wohnungen nach Zahl der Räume (in Wohn- und Nichtwohngebäuden)“.\n- Destatis, Qualitätsbericht Bautätigkeitsstatistik: Begriffsbestimmungen zu Wohngebäuden/Nichtwohngebäuden und Darstellung der Gliederungen in den Ergebnistabellen.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort widerspricht der Goldstandard-Antwort. Die LLM-Antwort behauptet, dass ein Unterschied gemacht wird, während die Goldstandard-Antwort dies verneint. Die LLM-Antwort ist somit falsch."
+  }
+}

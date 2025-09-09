@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0076",
+  "run_at": "2025-08-31T23:26:51.180294Z",
+  "question_id": 76,
+  "question": "Wo gab es 2023 die meisten Abfälle aus der Biotonne? In Wuppertal, im Wetteraukreis oder im Landkreis Roth?",
+  "answer": "Wetteraukreis",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich suche die konkreten Werte für 2023 in der Tabelle nach den drei Regionen.Wuppertal.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist falsch. Sie gibt Wuppertal an, obwohl die korrekte Antwort Wetteraukreis ist. Die LLM-Antwort ist auch unvollständig, da sie nur eine Suche und eine falsche Antwort liefert."
+  },
+  "file_type": "csv"
+}

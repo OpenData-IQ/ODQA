@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0009",
+  "run_at": "2025-09-04T11:01:11.043649Z",
+  "question_id": 9,
+  "question": "Wie oft wurde 2023 in der Stadt Leipzig der Vorname \"Leona\" (1. Vorname) vergeben?",
+  "answer": "Insgesamt 1 Mal",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche. 1 Mal als Erstname und 2 Mal als Zweitname.",
+  "llm_final": "13\n\nQuellen:\n- Stadt Leipzig – Open-Data-Portal, Amt für Statistik und Wahlen: Datensatz „Vornamen der Neugeborenen in Leipzig (1. Vorname), Jahrgänge 1994–2023“. Datenquelle: Standesamt Leipzig. Filter: Jahr=2023, Geschlecht=weiblich, Vorname=Leona.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist '13', während die korrekte Antwort '1 Mal' ist. Die Antwort ist somit falsch. Die Quellenangabe ist korrekt, aber die Zahl ist es nicht."
+  }
+}

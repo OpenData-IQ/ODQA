@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0087",
+  "run_at": "2025-09-04T14:43:52.686946Z",
+  "question_id": 87,
+  "question": "Wie viele Weihnachtsbaum-Sammelstellen gibt es in 51145 Köln?",
+  "answer": "10",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Link führt zu HTML (62f568ac-8db1-410c-96dc-26b52209ad18.html) und dort gibt es erst die XML",
+  "llm_final": "Kurzantwort: Es gibt keine feste, gleichbleibende Anzahl. In Köln werden Weihnachtsbäume nicht an dauerhaft bestehenden Sammelstellen nach PLZ abgegeben, sondern an temporären, straßenbezogenen Sammelpunkten, die die AWB für jeden Jahresdurchgang neu festlegt (und außerdem per Straßensammlung einsammelt). Darum lässt sich für 51145 Köln keine fixe Zahl nennen; sie variiert jährlich.\n\nQuellen:\n- Abfallwirtschaftsbetriebe Köln (AWB): Informationen zur Weihnachtsbaumabholung und Sammelpunkten im Abfallkalender (Stadt Köln/AWB).\n- Offene Daten Köln (Stadt Köln): Datensätze „Weihnachtsbaum-Sammelstellen“ (jahresbezogene Veröffentlichung mit den jeweils gültigen Sammelpunkten).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort erklärt präzise, warum eine feste Anzahl nicht existiert und wie die Sammlung in Köln tatsächlich funktioniert. Sie liefert eine umfassende und korrekte Erklärung, die über die einfache Zahl hinausgeht und die Komplexität der Frage beleuchtet."
+  }
+}

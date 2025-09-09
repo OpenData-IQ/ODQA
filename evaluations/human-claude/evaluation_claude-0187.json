@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0187",
+  "run_at": "2025-09-01T18:29:45.450293Z",
+  "question_id": 187,
+  "question": "Wie viele Radfahrer wurden am 1. Januar 2014 zwischen 0 und 4 Uhr an der Oberkasseler Brücke Süd in Düsseldorf gezählt?",
+  "answer": "28",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich werde die Summe manuell berechnen:\n\n11 + 25 + 25 + 40 + 10 = 111 Radfahrer\n\nFinalAnswer:\n\nAm 1. Januar 2014 zwischen 0 und 4 Uhr wurden an der Oberkasseler Brücke Süd in Düsseldorf insgesamt 111 Radfahrer gezählt. Die stündliche Verteilung war wie folgt:\n- 00:00-01:00 Uhr: 11 Radfahrer\n- 01:00-02:00 Uhr: 25 Radfahrer\n- 02:00-03:00 Uhr: 25 Radfahrer\n- 03:00-04:00 Uhr: 40 Radfahrer\n- 04:00-05:00 Uhr: 10 Radfahrer\n\nQuelle: https://opendata.duesseldorf.de/dataset/wetterabh%C3%A4ngige-jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-2014",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort (111) weicht deutlich vom Goldstandard (28) ab. Außerdem wurde das falsche Zeitintervall berücksichtigt (0–5 statt 0–4 Uhr)."
+  }
+}

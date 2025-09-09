@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0185",
+  "run_at": "2025-09-01T08:40:42.924238Z",
+  "question_id": 185,
+  "question": "Wie hoch ist die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 in Prozent?",
+  "answer": "191,6%",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Die prognostizierte Bevölkerungsentwicklung in Hubbelrath von 2019 bis 2035 beträgt 191,6%.\n\nQuelle: https://opendata.duesseldorf.de/dataset/d6edede8-d2f6-4bd3-a227-1364fb3cc924/resource/00191770-676d-4dbf-8542-0ea6dabcd54e",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort stimmt exakt mit dem Goldstandard (191,6%) überein und enthält zusätzlich eine passende Quellenangabe. Vollständig und korrekt."
+  }
+}

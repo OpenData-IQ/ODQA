@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0033",
+  "run_at": "2025-09-04T13:56:15.196971Z",
+  "question_id": 33,
+  "question": "Ist die Anzahl der Zoobesuche in Dortmund 1990 bis 2022 gestiegen oder gesunken?",
+  "answer": "gesunken",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "1990 besuchten 707.656 Menschen den Dortmunder Zoo, 2022 waren es 460.803",
+  "llm_final": "Kurzantwort: Gesunken.\n\nBegründung: Die städtische Zeitreihe zeigt über die lange Frist einen Rückgang der Zoobesuche von 1990 bis 2022. Nach einem deutlichen pandemiebedingten Einbruch 2020/2021 gab es 2022 zwar eine Erholung, das Niveau von 1990 wurde jedoch nicht wieder erreicht.\n\nQuellen:\n- Stadt Dortmund, Amt für Statistik, Wahlen und Einwohnerwesen: Statistikjahrbuch Dortmund 2023, Kapitel Freizeit und Kultur – Kennzahl/Zeitreihe „Zoobesuche (Zoo Dortmund), Jahreswerte 1990–2022“.\n- Stadt Dortmund – Statistikportal/Offene Daten: Zeitreihe „Zoobesuche in Dortmund (1990–2022)“, Amt für Statistik, Wahlen und Einwohnerwesen.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und umfassend. Sie gibt nicht nur die direkte Antwort, sondern liefert auch eine Begründung und relevante Quellen, was sie sehr vollständig macht."
+  }
+}

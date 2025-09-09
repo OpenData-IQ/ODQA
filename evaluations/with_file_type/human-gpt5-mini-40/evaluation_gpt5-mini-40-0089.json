@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0089",
+  "run_at": "2025-09-06T12:54:26.195134Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich habe das GovData‑Portal nach dem Artikeltitel durchsucht, konnte aber keinen Treffer finden.\n\nMöchten Sie, dass ich außerhalb von GovData im Web suche? Alternativ können Sie selbst in diesen Quellen nachsehen:\n- Google mit dem exakten Titel in Anführungszeichen: \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"\n- Lokale Medien: Weser‑Kurier (weser-kurier.de), Radio Bremen / buten un binnen (radiobremen.de)\n- Pressebereiche der Bremer Hochschulen: Universität Bremen (uni-bremen.de → Presse/Aktuelles), Hochschule Bremen (hs-bremen.de → Aktuelles)\n- Pressemitteilungen der Stadt Bremen / Senatorin für Wissenschaft (bremen.de)\n\nSoll ich jetzt eine Websuche starten und den Artikel für Sie finden?",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "The LLM did not find the correct article and stated it could not find a hit within GovData. While it offered alternative search strategies, it did not provide the direct link from the gold standard answer. Therefore, the answer is incomplete."
+  },
+  "file_type": "xml"
+}

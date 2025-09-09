@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0204",
+  "run_at": "2025-09-01T04:13:36.360042Z",
+  "question_id": 204,
+  "question": "In welchem Wahlbezirk liegt die Straße 'Akazienweg' in Heimbach?",
+  "answer": "Die Straße 'Akazienweg' liegt im Wahlbezirk Hasenfeld mit der Wahlbezirksnummer 02.0.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Akazienweg liegt im Wahlbezirk 02 (Hasenfeld).",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt. Die fehlende .0-Angabe ist nicht ausschlaggebend, weil die Wahlbezirke unter der 02-Ebene nicht weiter unterteilt werden. Die Quellenangabe fehlt."
+  }
+}

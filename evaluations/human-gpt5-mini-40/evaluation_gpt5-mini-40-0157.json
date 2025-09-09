@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0157",
+  "run_at": "2025-09-06T14:44:17.059786Z",
+  "question_id": 157,
+  "question": "Hat die Stadt Aachen im November 2021 oder im Dezember 2021 mehr Verstöße bei Geschwindigkeitskontrollen gemessen?",
+  "answer": "Im November 2021 wurden 3298 Verstöße verzeichnet, wohingegen es im Dezember nur 2800 waren.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "In beiden Dateien muss erst eine Summe errechnet werden, die dann mit der jeweils anderen verglichen wird.",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached. This indicates a technical issue preventing the model from completing its task. Therefore, the answer is categorized as a problem."
+  }
+}

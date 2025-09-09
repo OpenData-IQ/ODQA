@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0003",
+  "run_at": "2025-09-04T18:44:36.423701Z",
+  "question_id": 3,
+  "question": "Wie viele Plätze hat die Kinderkrippe \"Biene Maja\" in Rostock?",
+  "answer": "66",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "\n## [Kita Biene Maja](https://www.google.com/maps/search/K?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt keine Anzahl von Plätzen an, sondern nur einen Link zu Google Maps. Die Frage nach der Anzahl der Plätze wird nicht beantwortet. Daher ist die Antwort inkorrekt."
+  }
+}

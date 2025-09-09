@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0079",
+  "run_at": "2025-09-04T18:57:24.887414Z",
+  "question_id": 79,
+  "question": "Wie viele der 2023 im Landkreis Miesbach übernachtenden Gäste hatten die Herkunft \"Spanien\"?",
+  "answer": "geht nicht aus der Statistik hervor",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine spezifische Zahl oder Angabe darüber, wie viele der 2023 im Landkreis Miesbach übernachtenden Gäste aus Spanien stammten. \n\nDie Tourismusstatistik für den Landkreis Miesbach 2023 gibt zwar Gesamtzahlen zu Übernachtungen an (z.B. insgesamt 2.532.306 Übernachtungen in der Alpenregion Tegernsee-Schliersee, zu der Miesbach gehört), jedoch keine detaillierte Aufschlüsselung nach Herkunftsländern wie Spanien[1][3]. \n\nAuch andere Quellen erwähnen Spanien als Herkunftsland von Gästen in anderen Regionen (z.B. München), liefern aber keine konkreten Zahlen für den Landkreis Miesbach[2]. \n\nDaher ist festzuhalten, dass die genaue Anzahl der 2023 aus Spanien stammenden Übernachtungsgäste im Landkreis Miesbach in den vorliegenden Daten nicht ausgewiesen ist. Für eine präzise Auskunft wäre eine Anfrage bei der regionalen Tourismusbehörde oder dem Statistischen Amt des Landkreises Miesbach empfehlenswert.\n\n### Quellen\n- **[1]** www.regionalentwicklung-oberland.de/wp-content/uploads/2024/03/Tourismusstatistik-Alpenregion-Tegernsee-Schliersee-2023-gesamt.pdf (www.regionalentwicklung-oberland.de) – https://www.regionalentwicklung-oberland.de/wp-content/uploads/2024/03/Tourismusstatistik-Alpenregion-Tegernsee-Schliersee-2023-gesamt.pdf\n- **[2]** stadt.muenchen.de/dam/jcr:6e90674b-371a-47cd-9dce-7cafa901823d/LHM-150-StatAmt.pdf (stadt.muenchen.de) – https://stadt.muenchen.de/dam/jcr:6e90674b-371a-47cd-9dce-7cafa901823d/LHM-150-StatAmt.pdf\n- **[3]** www.regionalentwicklung-oberland.de/kennzahlen-tourismus/ (www.regionalentwicklung-oberland.de) – https://www.regionalentwicklung-oberland.de/kennzahlen-tourismus/\n- –\n- mkrmagazin.podigee.io/feed/mp3 (mkrmagazin.podigee.io) – https://mkrmagazin.podigee.io/feed/mp3\n- www.destatis.de/DE/Themen/Branchen-Unternehmen/Gastgewerbe-Tourismus/Publikationen/Downloads-Tourismus/tourismus-in-zahlen-1021500197005.xlsx (www.destatis.de) – https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Gastgewerbe-Tourismus/Publikationen/Downloads-Tourismus/tourismus-in-zahlen-1021500197005.xlsx?__blob=publicationFile",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort erklärt klar, dass keine Daten zur gewünschten Herkunft vorliegen, verweist auf relevante Quellen und gibt einen sinnvollen Hinweis für weiteres Vorgehen. Sie ist vollständig und korrekt."
+  }
+}

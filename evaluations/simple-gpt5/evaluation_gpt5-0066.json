@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0066",
+  "run_at": "2025-09-04T14:27:36.714218Z",
+  "question_id": 66,
+  "question": "Wie viele Walnussbäume gibt es bei der Aktion Gelbes Band - Naschbäume im Landkreis Regensburg?",
+  "answer": "2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Es gibt nur einen Eintrag für Walnussbaum, aber in der Beschreibung steht, dass dort zwei stehen.",
+  "llm_final": "5 Walnussbäume.\n\nQuellen:\n- Landratsamt Regensburg – Open-Data-Datensatz „Aktion Gelbes Band – Naschbäume im Landkreis Regensburg“ (ArcGIS/Feature Layer; Filter Baumart = Walnuss)\n- GovData-Katalogeintrag zum Datensatz „Aktion Gelbes Band – Naschbäume im Landkreis Regensburg“",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt '5 Walnussbäume' an, während die korrekte Antwort '2' ist. Die Antwort ist somit falsch."
+  }
+}

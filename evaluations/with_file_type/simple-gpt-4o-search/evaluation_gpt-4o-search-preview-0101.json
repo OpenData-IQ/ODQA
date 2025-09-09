@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0101",
+  "run_at": "2025-09-04T17:23:49.787488Z",
+  "question_id": 101,
+  "question": "Welche Projekttätigkeiten des Umweltbundesamts im Bereich des Abfalltechnologietransfers fingen in den Neunzigerjahren an?",
+  "answer": "Angepasste Abfallentsorgung für Schwellen- und Entwicklungsländer, Programm zur Gemeindeförderung und Dezentralisierung (PROMUDE), Verbesserung der abfallwirtschaftlichen Situation in den Governorates Homs und Tartous",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In den 1990er Jahren initiierte das Umweltbundesamt (UBA) mehrere Projekte im Bereich des Abfalltechnologietransfers:\n\n- **Förderprogramme für Umweltschutz in Mittelosteuropa (1992–1999):** Im Rahmen des \"Transform-Programms\" der Bundesregierung unterstützte das UBA die Staaten Mittel- und Osteuropas mit etwa 15 Millionen Euro. Ziel war es, das Umweltschutzniveau in diesen Ländern an die EU-Standards heranzuführen. ([umweltbundesamt.de](https://www.umweltbundesamt.de/geschichte-umweltschutz/1992?utm_source=openai))\n\n- **Verbundvorhaben \"Neue Techniken zur Kompostierung\" (1995):** Dieses Projekt konzentrierte sich auf die Entwicklung und Implementierung neuer Kompostierungstechniken. ([openagrar.de](https://www.umweltbundesamt.de/geschichte-umweltschutz/1992?utm_source=openai))\n\n- **Modellhafte Sanierung von Altlasten (1993–1998):** In diesem Zeitraum führte das UBA ein Forschungs- und Entwicklungsprojekt zur fachübergreifenden Auswertung von Ergebnissen bei der Sanierung kontaminierter Standorte durch. ([zdb-katalog.de](https://www.umweltbundesamt.de/geschichte-umweltschutz/1992?utm_source=openai))\n\nDiese Initiativen verdeutlichen das Engagement des UBA in den 1990er Jahren, den internationalen Technologietransfer im Bereich der Abfallwirtschaft zu fördern und nachhaltige Abfallbewirtschaftungstechniken zu verbreiten. \n\n### Quellen\n- **[1]** 1992 | Umweltbundesamt (www.umweltbundesamt.de) – https://www.umweltbundesamt.de/geschichte-umweltschutz/1992?utm_source=openai\n- **[2]** Zwischenbericht zum Verbundvorhaben 1/95 \"Neue Techniken zur Kompostierung\" : Projektträger ; Umweltbundesamt (www.openagrar.de) – https://www.openagrar.de/receive/timport_mods_00004145?utm_source=openai\n- **[3]** ZDB catalogue - Result list: koeRef==007697074 (zdb-katalog.de) – https://zdb-katalog.de/list.xhtml?key=cql&t=koeRef%3D%3D007697074&utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort listet Projekte auf, die nicht mit den im Goldstandard genannten Projekten übereinstimmen. Die genannten Projekte des LLM sind zwar aus den 90ern, aber nicht die spezifischen, die im Goldstandard erwartet werden, die vom LLM genannten Projekten teilweise nicht mehr bestehen. Daher ist die Antwort inkorrekt."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0114",
+  "run_at": "2025-09-01T06:01:04.483342Z",
+  "question_id": 114,
+  "question": "Wo sind öffentliche Toiletten in Wien, Österreich?",
+  "answer": "das ist nicht in deutschland",
+  "question_type": "false premise",
+  "source": "1",
+  "remark": "das ist nicht in deutschland",
+  "llm_final": "Ich konnte keine Daten zu öffentlichen Toiletten in Wien finden. Die Suche ergab Datensätze für verschiedene deutsche Städte wie Moers, Wesel, Neuss, Münster, Köln, Düsseldorf, Bielefeld, Dortmund, Norderstedt, Oldenburg, Berlin, Chemnitz, Leipzig und Soest. Es tut mir leid, dass ich Ihnen in diesem Fall nicht weiterhelfen kann.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Das Modell sagt ausdrücklich, dass es keine Daten zu Wien finden konnte und listet stattdessen deutsche Städte auf. Hier fehlt die Begründung, dass Wien nicht in Deutschland ist."
+  }
+}

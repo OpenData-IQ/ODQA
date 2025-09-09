@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0162",
+  "run_at": "2025-09-04T18:28:04.451752Z",
+  "question_id": 162,
+  "question": "In welchem Jahr zwischen 2000 und 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, und wie viele waren es?",
+  "answer": "Im Jahr 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, nämlich 183 Fälle.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die verfügbaren Daten zeigen, dass im Jahr 2021 im Zuständigkeitsbereich des Polizeipräsidiums Pforzheim 822 Straftaten gegen die sexuelle Selbstbestimmung registriert wurden, was einen Anstieg von 40,3 % gegenüber dem Vorjahr bedeutet. ([pf-bits.de](https://www.pf-bits.de/2022/03/pforzheim-zweitsicherster-stadtkreis-im-land-in-sachen-kriminalitaet/?utm_source=openai)) Allerdings beziehen sich diese Zahlen auf den gesamten Zuständigkeitsbereich des Polizeipräsidiums Pforzheim, der neben der Stadt Pforzheim auch die Landkreise Enzkreis, Calw und Freudenstadt umfasst. Spezifische Daten ausschließlich für die Stadt Pforzheim zwischen 2000 und 2020 sind in den verfügbaren Quellen nicht enthalten. \n\n### Quellen\n- **[1]** Pforzheim zweitsicherster Stadtkreis im Land in Sachen Kriminalität – PF-BITS (www.pf-bits.de) – https://www.pf-bits.de/2022/03/pforzheim-zweitsicherster-stadtkreis-im-land-in-sachen-kriminalitaet/?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt Daten für 2021 und für den gesamten Zuständigkeitsbereich des Polizeipräsidiums Pforzheim an, während die Frage spezifisch nach Pforzheim zwischen 2000 und 2020 fragt. Die LLM-Antwort kann die Frage nicht beantworten und liefert falsche Informationen."
+  }
+}

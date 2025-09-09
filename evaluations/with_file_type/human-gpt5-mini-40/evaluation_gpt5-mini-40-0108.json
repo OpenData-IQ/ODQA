@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0108",
+  "run_at": "2025-09-06T13:18:10.509279Z",
+  "question_id": 108,
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzantwort: Im OpenData‑POI‑Datensatz der Stadt Soest sind vier öffentliche Toiletten eingetragen, das Dataset enthält aber keine Informationen zu Öffnungszeiten/„24 h“. Daher kann nicht bestätigt werden, dass eine davon rund um die Uhr offen ist.\n\nAuflistung (laut Dataset)\n- WC am Rathaus I — Am Seel  \n  Koordinaten: x = 438141,3524 | y = 5713824,954  \n- WC Theodor‑Heuss‑Park — Teichsmühlengasse  \n  Koordinaten: x = 438156,8978 | y = 5713992,65  \n- WC am Jakobitor — Jakobitor  \n  Koordinaten: x = 437740,0189 | y = 5713420,048  \n- WC im Stadtpark — Stadtpark  \n  Koordinaten: x = 439786,5927 | y = 5714139,721\n\nKontakt / Quelle im Dataset\n- Bürgerservice Stadt Soest: Tel. 02021 / 1033200, E‑Mail: post@soest.de (Ansprechpartner im Datensatz: Tobias Trompeter)  \n- Detailseite: http://www.soest.de/buergerservice_politik/kbs/indexkbs.php  \n- OpenData‑Dataset: https://opendata.soest.de/dataset/e9e52414-2bf0-4206-a844-5de3b8e36f34\n\nVorschlag: Für Gewissheit, welche WC‑Anlagen 24h zugänglich sind, bitte kurz beim Bürgerservice anrufen oder die Website der Stadt Soest prüfen. (Öffnungszeiten von privaten Einrichtungen wie Bahnhofskiosken, Tankstellen oder Gastronomie können ebenfalls 24h‑Zugänge bieten; diese sind im städtischen POI‑Datensatz meist nicht erfasst.)",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "The LLM correctly identifies public toilets in Soest but it doesn't directly answer the '24h' part of the question, it explains why and offers actionable next steps."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0194",
+  "run_at": "2025-09-04T19:10:41.507571Z",
+  "question_id": 194,
+  "question": "An wie vielen Tagen im Jahr 2020 lag die minimale Temperatur (Tmin) an der Wetterstation der Universität Düsseldorf unter 0 Grad Celsius?",
+  "answer": "An 19 Tagen lag die minimale Temperatur unter 0 Grad Celsius",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2020 lag die minimale Temperatur (Tmin) an der Wetterstation der Universität Düsseldorf an **27 Tagen unter 0 Grad Celsius**[2].\n\nDiese Angabe entspricht der Anzahl der sogenannten Frosttage, an denen die Tmin unter 0 °C lag. Die Daten stammen aus den Wetteraufzeichnungen für Düsseldorf 2020, die auch auf Open Data Portalen der Stadt Düsseldorf verfügbar sind[1][3].\n\n### Quellen\n- **[1]** opendata.duesseldorf.de/dataset/wetterstationen-der-landeshauptstadt-d%C3%BCsseldorf (opendata.duesseldorf.de) – https://opendata.duesseldorf.de/dataset/wetterstationen-der-landeshauptstadt-d%C3%BCsseldorf\n- **[2]** www.friesenwetter.de/wetter/2020/minmax2020.htm (www.friesenwetter.de) – https://www.friesenwetter.de/wetter/2020/minmax2020.htm\n- **[3]** open.nrw/dataset/wetterstationen-der-landeshauptstadt-dusseldorf-d (open.nrw) – https://open.nrw/dataset/wetterstationen-der-landeshauptstadt-dusseldorf-d\n- –\n- www.wetterstation-ga.de/htm-dateien/2021/minmax2021.htm (www.wetterstation-ga.de) – http://www.wetterstation-ga.de/htm-dateien/2021/minmax2021.htm\n- www.hhu.de/en/weather (www.hhu.de) – https://www.hhu.de/en/weather",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt 27 Tage, während die Goldantwort 19 Tage angibt. Die Antwort ist somit sachlich falsch."
+  }
+}

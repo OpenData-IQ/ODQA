@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude3-7-0004",
+  "run_at": "2025-09-01T04:49:23.435509Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Jetzt habe ich die Daten für den Landkreis Nordfriesland gefunden. Lassen Sie mich die Informationen über untergebrachte wohnungslose Frauen analysieren.\n\nBasierend auf den Daten vom 31.01.2024 für den Landkreis Nordfriesland kann ich folgende Informationen über untergebrachte wohnungslose Frauen extrahieren:\n\n1. Deutsche wohnungslose Frauen (Spalten 10-16):\n   - unter 18 Jahre: 5\n   - 18 bis unter 25 Jahre: 0 (kein Wert eingetragen)\n   - 25 bis unter 40 Jahre: 5\n   - 40 bis unter 60 Jahre: 5\n   - 60 Jahre und mehr: 10\n   - unbekannt: 0\n   - Insgesamt: 35 deutsche wohnungslose Frauen\n\n2. Ausländische wohnungslose Frauen (Spalten 38-44):\n   - unter 18 Jahre: 190\n   - 18 bis unter 25 Jahre: 30\n   - 25 bis unter 40 Jahre: 115\n   - 40 bis unter 60 Jahre: 95\n   - 60 Jahre und mehr: 40\n   - unbekannt: 5\n   - Insgesamt: 475 ausländische wohnungslose Frauen\n\n3. Wohnungslose Frauen insgesamt (Spalten 66-72):\n   - unter 18 Jahre: 195\n   - 18 bis unter 25 Jahre: 35\n   - 25 bis unter 40 Jahre: 120\n   - 40 bis unter 60 Jahre: 100\n   - 60 Jahre und mehr: 50\n   - unbekannt: 10\n   - Insgesamt: 510 wohnungslose Frauen\n\nFinalAnswer: Im Landkreis Nordfriesland gab es zum Stichtag 31.01.2024 insgesamt 510 untergebrachte wohnungslose Frauen. Davon waren 35 deutsche Staatsangehörige und 475 Ausländerinnen. Die größte Gruppe bildeten Frauen unter 18 Jahren (195), gefolgt von Frauen im Alter von 25 bis unter 40 Jahren (120) und Frauen im Alter von 40 bis unter 60 Jahren (100). Quelle: Statistik untergebrachter wohnungsloser Personen (https://www-genesis.destatis.de/genesis-old/downloads/00/tables/22971-0080_00.csv#dataset).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Der Inhalt nennt die korrekte Zahl (510) und liefert zusätzliche Aufschlüsselungen, die konsistent sind. Damit ist die Antwort vollständig und präzise."
+  }
+}

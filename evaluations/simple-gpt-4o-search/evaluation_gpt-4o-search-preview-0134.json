@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0134",
+  "run_at": "2025-09-04T17:42:57.543727Z",
+  "question_id": 134,
+  "question": "Wie viele Eheschließungen wurden im Jahr 2011 in Brühl registriert?",
+  "answer": "270",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der in Brühl im Jahr 2011 registrierten Eheschließungen ist in den verfügbaren Quellen nicht angegeben. Allerdings wurden im Jahr 2012 in Brühl 72 Ehen geschlossen. ([mrn-news.de](https://www.mrn-news.de/2013/02/22/bruehl-viel-freud-und-viel-leid-beim-standesamt-in-bruehl-2012-72083-72083/?utm_source=openai)) Da die Anzahl der Eheschließungen von Jahr zu Jahr variieren kann, empfehle ich, sich direkt an das Standesamt Brühl zu wenden, um die spezifischen Daten für 2011 zu erhalten.\n\n**Kontaktinformationen des Standesamts Brühl:**\n\n- **Adresse:** Steinweg 1, 50321 Brühl\n- **E-Mail:** standesamt@bruehl.de\n- **Telefon:** 02232 793870 (Frau Bilandzija), 02232 793860 (Frau May), 02232 793880 (Frau Kreutz), 02232 793850 (Frau Schieweg)\n\nBitte beachten Sie, dass für persönliche Vorsprachen im Standesamt eine vorherige Terminvereinbarung erforderlich ist. ([bruehl.de](https://www.bruehl.de/standesamt.aspx?utm_source=openai)) \n\n### Quellen\n- **[1]** https://www.mrn-news.de/2013/02/22/bruehl-viel-freud-und-viel-leid-beim-standesamt-in-bruehl-2012-72083-72083/?utm_source=openai (www.mrn-news.de) – https://www.mrn-news.de/2013/02/22/bruehl-viel-freud-und-viel-leid-beim-standesamt-in-bruehl-2012-72083-72083/?utm_source=openai\n- **[2]** Stadt Brühl - Standesamt (www.bruehl.de) – https://www.bruehl.de/standesamt.aspx?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass die genaue Anzahl für 2011 nicht gefunden wurde und nennt stattdessen die Zahl für 2012. Die Goldstandard-Antwort liefert jedoch eine konkrete Zahl für 2011, was bedeutet, dass die LLM-Antwort falsch ist."
+  }
+}

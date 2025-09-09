@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0088",
+  "run_at": "2025-09-04T18:58:32.639371Z",
+  "question_id": 88,
+  "question": "Stell dir vor, es ist der 04.06.2025, wann ist der nächste Flug vom Flughafen Münster/Osnabrück nach München?",
+  "answer": "05.06.25 um 17:20 Uhr",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Link führt zu HTML (79054aed-5eaf-4aba-9239.html) und dort gibt es erst die XML (sie ist tagesaktuell)",
+  "llm_final": "Der nächste Flug vom Flughafen Münster/Osnabrück (FMO) nach München (MUC) nach dem 04.06.2025 ist am Montag, den 08. Juni 2025. Es handelt sich um einen Direktflug mit Lufthansa[1][2].\n\nDetails:\n- Abflug: 08. Juni 2025 ab Münster/Osnabrück\n- Ankunft: München\n- Fluggesellschaft: Lufthansa\n- Flugzeit: ca. 1 Stunde 10 Minuten\n\nDie Flüge auf dieser Strecke werden regelmäßig angeboten, meist von Lufthansa, mit mehreren Verbindungen pro Woche[1][4][5]. Der 08. Juni ist der früheste verfügbare Flugtermin nach dem 04. Juni laut den aktuellen Flugangeboten[1][2].\n\n### Quellen\n- **[1]** www.skyscanner.de/routen/fmo/muc/munster-osnabruck-nach-munchen.html (www.skyscanner.de) – https://www.skyscanner.de/routen/fmo/muc/munster-osnabruck-nach-munchen.html\n- **[2]** www.swoodoo.com/de/flug/Muenster-FMO/Muenchen-MUC (www.swoodoo.com) – https://www.swoodoo.com/de/flug/Muenster-FMO/Muenchen-MUC\n- **[3]** de.trip.com/flights/city-fmo-airport-muc/ (de.trip.com) – https://de.trip.com/flights/city-fmo-airport-muc/\n- **[4]** www.swiss.com/lhg/de/de/o-d/cy-cy/muenster-osnabruck-muenchen (www.swiss.com) – https://www.swiss.com/lhg/de/de/o-d/cy-cy/muenster-osnabruck-muenchen\n- –\n- www.lufthansa.com/lhg/de/de/o-d/cy-cy/muenster-osnabruck-muenchen (www.lufthansa.com) – https://www.lufthansa.com/lhg/de/de/o-d/cy-cy/muenster-osnabruck-muenchen",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt den 08. Juni als nächsten Flug, laut Goldstandard ist aber bereits am 05.06.25 um 17:20 Uhr ein Flug verfügbar. Die Antwort ist daher sachlich falsch."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0145",
+  "run_at": "2025-09-06T14:16:32.740225Z",
+  "question_id": 145,
+  "question": "Kann ich irgendwo nachschauen, wie viele Straßenverkehrsunfälle es in Dresden pro Jahr gibt?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_allgemein_1995ff_dresden",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die Anzahl der Straßenverkehrsunfälle in Dresden ab 1995 jährlich ausweist.",
+  "llm_final": "Ja. Hier sind die passenden öffentlichen Datenquellen — damit können Sie die Jahreszahlen für Dresden direkt ablesen oder selbst aus der CSV-Datei aggregieren:\n\n- OpenData Stadt Dresden — Straßenverkehrsunfälle (MD1): Allgemein 1995ff. Dresden  \n  Direkter CSV-Download: https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_allgemein_1995ff_dresden/content.csv  \n  (enthält Unfallzahlen nach Jahr, Ortsangaben u.ä.; Zeitraum ab 1995)\n\n- OpenData Stadt Dresden — Straßenverkehrsunfälle (MD1): Verunglückte 1995ff. Dresden  \n  CSV: https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-strassenverkehrsunfaelle_md1_verunglueckte_1995ff_dresden/content.csv  \n  (falls Sie statt Unfällen die Zahl der Verletzten/Toten suchen)\n\n- Statistisches Landesamt Sachsen — Jahresübersichten (z. B. Tabelle 46241-232K)  \n  Download/Ansicht: https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-232K&regionalschluessel=&format=ffcsv\n\nKurz-Anleitung, wie Sie die Jahreszahlen bekommen:\n1. CSV herunterladen.  \n2. In der Tabelle nach der Region/Stadt \"Dresden\" filtern.  \n3. Nach Spalte \"Jahr\" gruppieren und die Spalte mit den Unfällen aufsummieren (oder die Jahreswerte ablesen).\n\nWenn Sie möchten, kann ich die CSV für Sie auswerten und die Unfallzahlen pro Jahr hier zusammenfassen — sagen Sie mir nur, ob Sie die Rohzahlen oder eine Grafik/tabelle möchten.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM provides the exact URL from the gold standard answer and offers additional relevant resources. It also includes clear, actionable instructions on how to use the data, making the answer comprehensive and extremely helpful."
+  }
+}

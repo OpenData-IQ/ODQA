@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0102",
+  "run_at": "2025-09-04T15:00:12.263125Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund im Zeitraum 2016-2024 mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2017, 2018, 2019, 2022 und 2023.\n\nQuellen:\n- Stadt Dortmund, Bereich Statistik & Wahlen: Eheschließungen in Dortmund (Jahreswerte), 2016–2024. \n- Information und Technik Nordrhein-Westfalen (IT.NRW), Landesdatenbank NRW: Eheschließungen nach Gemeinden (Dortmund), Jahreswerte 2016–2023.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort enthält falsche Jahre (2022, 2023) und lässt ein korrektes Jahr (2016) aus. Die Antwort ist somit inkorrekt."
+  }
+}

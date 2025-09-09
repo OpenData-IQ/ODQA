@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0183",
+  "run_at": "2025-09-04T19:09:31.007380Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Zahl der Eheschließungen im Jahr 2015 in der Gemeinde Titz ist in den bereitgestellten Suchergebnissen nicht direkt aufgeführt. Die verfügbaren Daten beziehen sich meist auf größere Regionen wie Bundesländer oder Landkreise, nicht jedoch auf einzelne Gemeinden wie Titz.\n\nFür detaillierte Zahlen zu Eheschließungen auf Gemeindeebene empfiehlt sich die Abfrage bei:\n\n- Dem zuständigen Standesamt der Gemeinde Titz\n- Dem Statistischen Landesamt Nordrhein-Westfalen (da Titz in NRW liegt)\n- Der Datenbank GENESIS-Online des Statistischen Bundesamtes, die auch Gemeindeebene-Daten bereitstellen kann[4].\n\nDie allgemeinen Daten zeigen, dass in Deutschland und einzelnen Bundesländern 2015 mehrere zehntausend Eheschließungen stattfanden, aber keine spezifischen Zahlen für Titz vorliegen[1][3][4].\n\nKurz gesagt: Die genaue Anzahl der Eheschließungen 2015 in der Gemeinde Titz ist öffentlich nicht direkt verfügbar in den Suchergebnissen und muss über lokale oder landesstatistische Stellen erfragt werden.\n\n### Quellen\n- **[1]** www.statistik.rlp.de/nachrichten/nachichtendetailseite/mehr-als-20000-eheschliessungen-in-2015 (www.statistik.rlp.de) – https://www.statistik.rlp.de/nachrichten/nachichtendetailseite/mehr-als-20000-eheschliessungen-in-2015\n- **[2]** www.meinbezirk.at/tag/trauungen/2 (www.meinbezirk.at) – https://www.meinbezirk.at/tag/trauungen/2\n- **[3]** www.statistik.niedersachsen.de/download/137096 (www.statistik.niedersachsen.de) – https://www.statistik.niedersachsen.de/download/137096\n- –\n- www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Eheschliessungen-Ehescheidungen-Lebenspartnerschaften/_inhalt.html (www.destatis.de) – https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Eheschliessungen-Ehescheidungen-Lebenspartnerschaften/_inhalt.html\n- www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/HEHeft_derivate_00012375/AII1_j15_2.kA.pdf (www.statistischebibliothek.de) – https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/HEHeft_derivate_00012375/AII1_j15_2.kA.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt, dass die spezifische Zahl für Titz 2015 in den verfügbaren Quellen nicht gefunden wurde und verweist auf alternative Wege zur Datenerhebung. Das entspricht dem Kriterium 'not found'."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0059",
+  "run_at": "2025-09-04T18:55:18.141737Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen wurde am **20. März 2012** im Bremischen Amtsblatt veröffentlicht (Brem.ABl. S. 122). Die Rektorin der Hochschule Bremen hat ihn am **21. März 2012** gemäß § 110 Absatz 3 des Bremischen Hochschulgesetzes genehmigt[1][2][3].\n\n### Quellen\n- **[1]** www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Pr%C3%BCfungsordnungen/AT_MPO/AT-MPO-Lesefassg-5-2022.pdf (www.hs-bremen.de) – https://www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Pr%C3%BCfungsordnungen/AT_MPO/AT-MPO-Lesefassg-5-2022.pdf\n- **[2]** www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-179949 (www.transparenz.bremen.de) – https://www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-179949?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d\n- **[3]** www.graduatecenter.org/fileadmin/user_upload/Program_files/Files_for_all_programs/HSB_2021_Masterpruefungsordnung_allgemeiner_Teil.pdf (www.graduatecenter.org) – https://www.graduatecenter.org/fileadmin/user_upload/Program_files/Files_for_all_programs/HSB_2021_Masterpruefungsordnung_allgemeiner_Teil.pdf\n- –\n- www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb8/ifges/Geschaeftsfuehrung/Pruefungsordnungen/AT-MPO-07-21_Lesefassung_gesamt.pdf (www.uni-bremen.de) – https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb8/ifges/Geschaeftsfuehrung/Pruefungsordnungen/AT-MPO-07-21_Lesefassung_gesamt.pdf\n- www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-118517 (www.transparenz.bremen.de) – https://www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-118517?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt das Datum der Veröffentlichung nicht korrekt (20. März statt 24. April 2012) und liefert stattdessen das Datum der Ordnung und der Genehmigung. Sie ist daher nur teilweise korrekt."
+  },
+  "file_type": "xml"
+}

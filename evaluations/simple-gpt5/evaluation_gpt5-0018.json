@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0018",
+  "run_at": "2025-09-04T13:45:12.305329Z",
+  "question_id": 18,
+  "question": "Wie viele Dioxine wurden 1994 in Frauenmilch nachgewiesen?",
+  "answer": "20,4 PCDD/PCDF",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Etwa 19 pg I-TEQ (PCDD/F) pro Gramm Milchfett.\n\nErläuterung: Das ist der mittlere Dioxin-Gehalt (als Toxizitätsäquivalente für PCDD/F) in der Frauenmilch in Deutschland im Jahr 1994, bezogen auf das Fett der Milch.\n\nQuellen:\n- Umweltbundesamt (UBA): Dioxine im Blut und in Muttermilch – Indikatorzeitreihe (PCDD/F in Frauenmilch, Angaben in pg I-TEQ/g Fett), Ausgaben der 1990er Jahre. UBA-Datenportal/Indikatorseite „Dioxine im Blut und in Muttermilch“.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt einen Wert von 19 pg I-TEQ an, während die Goldstandard-Antwort 20,4 PCDD/PCDF angibt. Obwohl die Einheiten unterschiedlich sind, weicht der numerische Wert ab. Die Antwort ist daher teilweise korrekt, aber nicht präzise genug."
+  }
+}

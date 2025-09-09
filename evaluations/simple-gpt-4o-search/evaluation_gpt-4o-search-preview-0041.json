@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0041",
+  "run_at": "2025-09-04T17:09:43.917575Z",
+  "question_id": 41,
+  "question": "Welche Hausnummer ist in Leipzig die häufigste?",
+  "answer": "3",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "2.046 Vorkommen für die Hausnummer 3",
+  "llm_final": "Die Stadt Leipzig stellt ein Verzeichnis aller aktuellen Adressdaten zur Verfügung, das wöchentlich aktualisiert wird. ([opendata.leipzig.de](https://opendata.leipzig.de/dataset/adressen?utm_source=openai)) Dieses Verzeichnis enthält Informationen zu Straßenschlüsseln, Straßennamen, Hausnummern, statistischen Bezirken und Ortsteilen. Um die häufigste Hausnummer in Leipzig zu ermitteln, können Sie die bereitgestellte CSV-Datei herunterladen und analysieren. Durch Zählen der Vorkommen jeder Hausnummer in der Datei lässt sich feststellen, welche am häufigsten vergeben wurde. \n\n### Quellen\n- **[1]** Kommunale Gebietsgliederung Leipzig: Adressen - Datensatz - Open Data-Portal der Stadt Leipzig (opendata.leipzig.de) – https://opendata.leipzig.de/dataset/adressen?utm_source=openai",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Es ist die richtige Quelle inkl. ein paar Erläuterungen angegeben. Allerdings gehlt die konkrete Angabe."
+  }
+}

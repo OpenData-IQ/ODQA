@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0064",
+  "run_at": "2025-09-01T14:04:59.327627Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Ich habe die Daten erfolgreich heruntergeladen und analysiert. Ich habe die gesuchte Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen gefunden. Hier sind die Details:\n\nDie Illustration ist Teil einer Künstlermappe mit dem Titel \"Biene Maja\" aus dem Jahr 1920. Es handelt sich um eine Radierung des deutsch-dänischen Künstlers Peter Christian Rasmussen (1897-1935), die Szenen aus dem Roman \"Die Biene Maja und ihre Abenteuer\" von Jakob Bonsels illustriert.\n\nDie spezifische Illustration \"Die Wanze stinkt\" zeigt die Honigbiene \"Maja\" auf einem Blatt sitzend, den Schmetterling namens \"Fritz\" und eine Wanze, die in den Geschichten nicht personifiziert ist. Das Werk ist vom Künstler handschriftlich signiert und nummeriert (66/100).\n\nDie Illustration befindet sich in der Sammlung der Schleswig-Holsteinischen Landesbibliothek - Landesgeschichtliche Sammlung in Kiel mit der Inventarnummer 1990-111.7.\n\nDie hochauflösende Version der Illustration ist unter folgender URL verfügbar:\nhttp://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg\n\nDie Illustration steht unter der Lizenz CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0).\n\nFinalAnswer: Die gesuchte \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen ist eine Radierung aus dem Jahr 1920. Sie ist Teil einer limitierten Künstlermappe (Nr. 66 von 100) mit Illustrationen zum Roman von Jakob Bonsels. Die Illustration zeigt die Biene Maja, den Schmetterling Fritz und eine Wanze auf einem Blatt. Die hochauflösende Version ist unter http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg verfügbar und steht unter CC BY-SA 4.0 Lizenz. Quelle: Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung (https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Gibt einen direkten Hochauflösungs-Link sowie zusätzliche Quellen und Kontext an und ist klar handlungsfähig, auch wenn die exakte Gold-URL nicht genannt wird."
+  }
+}

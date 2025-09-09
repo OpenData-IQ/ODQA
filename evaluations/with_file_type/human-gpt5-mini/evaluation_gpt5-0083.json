@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0083",
+  "run_at": "2025-08-31T11:43:08.026009Z",
+  "question_id": 83,
+  "question": "In welchem Berliner Stadtteil war es 2023 am wahrscheinlichsten, dass bei Eheschließungen mindestens ein Ehepartner ausländisch ist?",
+  "answer": "Neukölln",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Neukölln — 528 von 1.366 Eheschließungen (38,7 %) hatten 2023 mindestens einen ausländischen Ehepartner. (Quelle: „Eheschließungen nach Nationalität der Ehepartner“ / Regionalstatistik, 2023: https://www.regionalstatistik.de/genesisws/downloader/00/tables/12611-01-02-4_00.csv)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer correctly identifies Neukölln and provides detailed statistics, including the percentage and the exact source URL. This makes the answer comprehensive and actionable."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0043",
+  "run_at": "2025-09-06T11:12:14.079798Z",
+  "question_id": 43,
+  "question": "Für wie viele Flüsse in Sachsen-Anhalt gibt es Messwerte zu Stoffeinträgen in Gewässern zwischen 1983 und 2016?",
+  "answer": "97",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 400000 tokens. However, you requested about 576664 tokens (575846 of text input, 818 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field clearly indicates a 'token limit' error, stating that the requested tokens exceeded the maximum context length. This prevents the LLM from providing any answer. Therefore, it falls under the 'problem_answers' category."
+  }
+}

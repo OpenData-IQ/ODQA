@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0113",
+  "run_at": "2025-09-01T00:38:52.780440Z",
+  "question_id": 113,
+  "question": "Wo finde ich die amtlichen Ergebnisse zur Bundestagswahl 2013?",
+  "answer": "https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Beim Bundeswahlleiter (amtlich) – als CSV nach Wahlkreisen:\n- Direkter Download: https://www.bundeswahlleiter.de/dam/jcr/2ace94c3-15cb-476b-aa98-806b97209353/btw13_kerg.csv\n- Datensatzseite (GovData): https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM enthält den primären Ressourcenlink aus der Goldstandard-Antwort und bietet zusätzlich einen direkten Download-Link. Dies macht die Antwort umfassend und sehr hilfreich."
+  },
+  "file_type": "csv"
+}

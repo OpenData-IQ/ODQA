@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0198",
+  "run_at": "2025-09-04T16:17:32.225413Z",
+  "question_id": 198,
+  "question": "Wie viele Familien mit vier Personen lebten zum 31.12.2021 im Ortsteil Badorf in Brühl?",
+  "answer": "Im Ortsteil Badorf lebten zum 31.12.2021 insgesamt 257 Familien mit vier Personen.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich kann dafür keine verlässlich veröffentlichte offene Zahl nennen. Eine Auswertung „Familien mit vier Personen“ zum Stichtag 31.12.2021 auf Ortsteil-Ebene (Badorf) wäre typischerweise eine Sonderauswertung des kommunalen Melderegisters und wird – soweit öffentlich zugänglich – nur von der Stadt Brühl selbst veröffentlicht.\n\nSo kommen Sie an die Zahl:\n- Quelle/Ansprechpartner: Stadt Brühl (Amt/Team Statistik und Wahlen bzw. Melderegister). Bitten Sie um die „Einwohner- und Haushalts-/Familienstatistik zum 31.12.2021 nach Ortsteil (Badorf) und Familiengröße (4-Personen-Familien)“.\n- Mögliche Veröffentlichungsorte: \n  - Jahresstatistik/„Zahlen, Daten, Fakten“ der Stadt Brühl (falls 2021 dort mit Ortsteil- und Familiengrößen-Ausweisung enthalten)\n  - Offenes Datenportal der Stadt Brühl bzw. des Landes NRW (Open.NRW), sofern Brühl entsprechende Datensätze bereitgestellt hat\n\nQuellenhinweise:\n- Stadt Brühl – Melderegisterauswertung (Stichtag 31.12.2021), Statistikstelle/Amt für Statistik und Wahlen\n- Information und Definitionen zur kommunalen Bevölkerungs- und Haushaltsstatistik: IT.NRW (Landesbetrieb Information und Technik Nordrhein-Westfalen), Kommunalstatistik allgemein\n\nHinweis: Landes- oder Bundesstatistiken (z. B. Mikrozensus, Zensus) bieten diese Detailtiefe auf Ortsteil-Ebene in der Regel nicht; die gesuchte Zahl liegt daher, wenn überhaupt, bei der Kommune.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt die korrekte Zahl nicht an, sondern erklärt, wie man diese finden könnte. Die Goldstandard-Antwort liefert die exakte Zahl. Daher ist die LLM-Antwort inkorrekt."
+  }
+}

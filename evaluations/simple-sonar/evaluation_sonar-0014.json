@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0014",
+  "run_at": "2025-09-04T18:50:19.984158Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Oldenburg sind über 150 Defibrillatoren (AEDs) an verschiedenen Standorten gemeldet, viele davon in öffentlich zugänglichen Gebäuden wie Bankfilialen (z.B. LzO-Filialen) und Geschäften. Die Liste auf der offiziellen Oldenburger Webseite nennt explizit mehrere LzO-Filialen (z.B. Julius-Mosen-Platz, Kreyenbrück, Krusenbusch, Lange Straße, Nadorster Straße, Ofenerdiek, Ohmstede, Osternburg, Schlossplatz) mit Defibrillatoren im Foyer, die in der Regel durchgängig erreichbar sind[1].\n\nZusätzlich sind die Standorte der AEDs im interaktiven Stadtplan der Stadt Oldenburg einsehbar, der öffentlich zugängliche Defibrillatoren mit Piktogrammen markiert und genaue Adressen anzeigt. Diese AEDs sind für Laien geeignet und meist an Orten installiert, die rund um die Uhr oder zumindest während der Öffnungszeiten zugänglich sind[3].\n\nEine vollständige und aktuelle Übersicht der durchgängig erreichbaren Defibrillatoren in Oldenburg finden Sie auf der städtischen Webseite mit der Liste und dem interaktiven Stadtplan[1][3]. Für genaue Informationen zur Erreichbarkeit einzelner Geräte empfiehlt sich die direkte Abfrage der jeweiligen Standorte, da nicht alle Defibrillatoren 24/7 zugänglich sein könnten.\n\nZusammengefasst sind insbesondere die Defibrillatoren in den LzO-Filialen und einigen öffentlichen Einrichtungen in Oldenburg durchgängig erreichbar, da sie in Foyers oder Verkaufsräumen installiert sind, die öffentlich zugänglich sind[1].\n\n### Quellen\n- **[1]** www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren/liste-defibrillatoren-in-oldenburg.html (www.oldenburg.de) – https://www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren/liste-defibrillatoren-in-oldenburg.html\n- **[2]** medtronicbrasil.com.br/Traveling/clinicsByCity.jsp (medtronicbrasil.com.br) – http://medtronicbrasil.com.br/Traveling/clinicsByCity.jsp?area=Europe&country=DE&rgn=&city=7742&cityName=Oldenburg\n- –\n- www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren.html (www.oldenburg.de) – https://www.oldenburg.de/startseite/buergerservice/geoportal/defibrillatoren.html\n- www.ofindo.app/stadtplan/defibrillatoren/ (www.ofindo.app) – https://www.ofindo.app/stadtplan/defibrillatoren/\n- nachrichten.idw-online.de/2025/06/26/notfallversorgung-verbessern-forschungsprojekt-aed-wirkt-untersucht-defibrillator-standorte-in-oldenburg (nachrichten.idw-online.de) – https://nachrichten.idw-online.de/2025/06/26/notfallversorgung-verbessern-forschungsprojekt-aed-wirkt-untersucht-defibrillator-standorte-in-oldenburg",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Es werden zwar einige Standorte genannt, diese Stimmen allerdings nicht mit dem Goldstandard überein."
+  }
+}

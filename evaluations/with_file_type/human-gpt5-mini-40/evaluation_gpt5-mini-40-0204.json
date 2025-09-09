@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0204",
+  "run_at": "2025-09-06T17:32:00.501302Z",
+  "question_id": 204,
+  "question": "In welchem Wahlbezirk liegt die Straße 'Akazienweg' in Heimbach?",
+  "answer": "Die Straße 'Akazienweg' liegt im Wahlbezirk Hasenfeld mit der Wahlbezirksnummer 02.0.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Straße \"Akazienweg\" in Heimbach gehört zum Wahlbezirk 02.0 (Stadtteil: Hasenfeld).\n\nQuelle: Straßenverzeichnis Bundestagswahl 2017 (Heimbach_adressen_strassen.csv) — https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-heimbach",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer correctly identifies the electoral district and its number, matching the gold standard. It also provides a relevant source URL, making the answer comprehensive and verifiable."
+  },
+  "file_type": "csv"
+}

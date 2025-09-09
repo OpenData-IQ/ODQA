@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0156",
+  "run_at": "2025-09-04T19:06:44.190010Z",
+  "question_id": 156,
+  "question": "Wie hoch war der Anteil ausländischer Einwohner an der Gesamtbevölkerung der Stadt Brühl zum Stichtag 31.12.2019?",
+  "answer": "Am 31.12.2019 lebten in der Stadt Brühl insgesamt 45.985 Menschen, davon waren 6.840 ausländische Staatsangehörige. Der Anteil ausländischer Einwohner an der Gesamtbevölkerung betrug somit etwa 14,9%.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Anteil ausländischer Einwohner an der Gesamtbevölkerung der Stadt Brühl zum Stichtag 31.12.2019 lag bei etwa **13 % bis 14 %**.\n\nGenaueres:  \n- Die Stadt Brühl veröffentlichte für 2022 einen Ausländeranteil von 14,4 % bei einer Einwohnerzahl von rund 44.800[4].  \n- Für 2007 wurde ein Ausländeranteil von 11,7 % genannt, mit einer Einwohnerzahl von ca. 46.600[2].  \n- Da die Einwohnerzahl zwischen 2007 und 2022 leicht gesunken ist und der Ausländeranteil gestiegen, ist für 2019 ein Wert zwischen diesen beiden Angaben plausibel, also etwa 13 % bis 14 %.  \n\nEine exakte Zahl für 2019 wurde in den gefundenen Quellen nicht direkt genannt, aber die Entwicklung lässt diesen Bereich als realistisch erscheinen[2][4].\n\n### Quellen\n- **[1]** statistik.nrw/sites/default/files/municipalprofiles/l05362012.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05362012.pdf\n- **[2]** www.bruehl.de/auswertung-integrationsmonitoring-vom-20.02.2010.pdfx (www.bruehl.de) – https://www.bruehl.de/auswertung-integrationsmonitoring-vom-20.02.2010.pdfx\n- –\n- www.bruehl.de/2022-kommunalprofil.pdfx (www.bruehl.de) – https://www.bruehl.de/2022-kommunalprofil.pdfx?forced=true\n- ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/bruhl,-stadt/20158334/4 (ugeo.urbistat.com) – https://ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/bruhl,-stadt/20158334/4?Export=1\n- www.esslingen.de/site/Esslingen_Layout_2022/get/params_E-1885952920_Dattachment/20537485/Mettingen%20-%20Br%C3%BChl%20-%20Weil.pdf (www.esslingen.de) – https://www.esslingen.de/site/Esslingen_Layout_2022/get/params_E-1885952920_Dattachment/20537485/Mettingen%20-%20Br%C3%BChl%20-%20Weil.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort liefert eine Schätzung, die etwas vom tatsächlichen Wert abweicht."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0074",
+  "run_at": "2025-09-06T12:20:46.217289Z",
+  "question_id": 74,
+  "question": "Wie viele Lastkraftwägen gab es am 01.01.24 insgesamt in den neuen Bundesländern?",
+  "answer": "716329",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
+  }
+}

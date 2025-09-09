@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0042",
+  "run_at": "2025-09-01T20:26:54.629272Z",
+  "question_id": 42,
+  "question": "Wo finde ich heraus, ob es ein Zertifikat für meinen Altersvorsorgenvertrag gibt?",
+  "answer": "https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "**FinalAnswer:**  \nInformationen zu Zertifikaten für Altersvorsorgeverträge finden Sie in der offiziellen Liste des Bundeszentralamts für Steuern (BZSt). Prüfen Sie dort anhand Ihres Vertragsanbieters und Produktnamens, ob ein Zertifikat vorliegt.  \n\n**Quelle:**  \n[Liste aller erteilten Zertifikate für Altersvorsorgeverträge](https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": ""
+  }
+}

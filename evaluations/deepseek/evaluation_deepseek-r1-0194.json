@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0194",
+  "run_at": "2025-09-02T00:08:25.642904Z",
+  "question_id": 194,
+  "question": "An wie vielen Tagen im Jahr 2020 lag die minimale Temperatur (Tmin) an der Wetterstation der Universität Düsseldorf unter 0 Grad Celsius?",
+  "answer": "An 19 Tagen lag die minimale Temperatur unter 0 Grad Celsius",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Die minimale Temperatur (Tmin) lag im Jahr 2020 an der Wetterstation der Universität Düsseldorf an **42 Tagen** unter 0 Grad Celsius. Quelle: [Wetterstationen der Landeshauptstadt Düsseldorf 2020](https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f6001478-3451-4ec6-86d7-7fa5fafb42e3).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt 19 Tage, das LLM antwortet mit 42 Tagen; daher ist die Antwort falsch."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0102",
+  "run_at": "2025-09-04T19:00:17.442270Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund im Zeitraum 2016-2024 mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Zeitraum 2016 bis 2024 gab es in Dortmund in den Jahren, in denen mehr als 2500 Eheschließungen stattfanden, folgende Jahre: Die genauen Zahlen pro Jahr sind in der Open Data-Datenquelle der Stadt Dortmund verfügbar, die Eheschließungen pro Jahr von 2016 bis 2024 auflistet[1][3].\n\nDa die konkrete Zahl der Eheschließungen pro Jahr in den Suchergebnissen nicht direkt genannt wird, empfehle ich, die Datensätze auf der Open Data-Plattform Dortmund zu prüfen, insbesondere das Dataset „Eheschließungen in Dortmund seit 2016“[3]. Dort sind die jährlichen Eheschließungszahlen detailliert aufgeführt.\n\nZusammenfassend: Die Jahre mit mehr als 2500 Eheschließungen in Dortmund zwischen 2016 und 2024 können aus dem offiziellen Open Data-Datensatz der Stadt Dortmund entnommen werden[3]. Ohne direkten Zugriff auf die Zahlen aus dem Datensatz kann ich keine spezifischen Jahre nennen, aber die Daten sind öffentlich zugänglich und aktuell.\n\nFalls Sie möchten, kann ich Ihnen helfen, die Daten aus dem Dataset zu interpretieren, wenn Sie mir die Zahlen bereitstellen.\n\n### Quellen\n- **[1]** test.ckan.open.nrw.de/lt/group/soci (test.ckan.open.nrw.de) – https://test.ckan.open.nrw.de/lt/group/soci?_organization_limit=0&_license_id_limit=0&_res_format_limit=0&tags=eheschlie%C3%9Fungen&_tags_limit=0\n- **[2]** www.kunstforum.de/suche-bilder/ (www.kunstforum.de) – https://www.kunstforum.de/suche-bilder/\n- –\n- open-data.dortmund.de/explore/dataset/fb33-eheschliessungen-in-dortmund-seit-2016/ (open-data.dortmund.de) – https://open-data.dortmund.de/explore/dataset/fb33-eheschliessungen-in-dortmund-seit-2016/\n- de.statista.com/statistik/daten/studie/1116495/umfrage/anzahl-der-ehescheidungen-in-nordrhein-westfalen/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/1116495/umfrage/anzahl-der-ehescheidungen-in-nordrhein-westfalen/\n- www.it.nrw/thema/ehen-scheidungen-und-lebenspartnerschaften (www.it.nrw) – https://www.it.nrw/thema/ehen-scheidungen-und-lebenspartnerschaften",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort verweist korrekt auf die relevante Datenquelle und gibt Hinweise zur weiteren Recherche, nennt aber keine konkreten Jahre, obwohl diese in der Goldantwort stehen. Sie ist daher unvollständig."
+  },
+  "file_type": "csv"
+}

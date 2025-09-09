@@ -1,0 +1,16 @@
+{
+  "thread_id": "claude-0162",
+  "run_at": "2025-09-01T17:59:24.625119Z",
+  "question_id": 162,
+  "question": "In welchem Jahr zwischen 2000 und 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, und wie viele waren es?",
+  "answer": "Im Jahr 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst, nämlich 183 Fälle.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Jetzt kann ich die Daten besser analysieren. Ich sehe, dass im Jahr 2020 mit 183 Fällen die meisten Straftaten gegen die sexuelle Selbstbestimmung in Pforzheim erfasst wurden, gefolgt von 2018 mit 115 Fällen und 2019 mit 101 Fällen.\n\nFinalAnswer: Im Jahr 2020 wurden in Pforzheim die meisten Straftaten gegen die sexuelle Selbstbestimmung erfasst. In diesem Jahr wurden 183 solcher Straftaten registriert, was deutlich mehr ist als in allen anderen Jahren zwischen 2000 und 2020. Die Quelle dieser Information ist der Datensatz \"Ordnung und Sicherheit\" der Stadt Pforzheim (https://www.duva-server.de/psp2dcat/dataset/de-bw-pforzheim-ordnung_und_sicherheit).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort stimmt exakt mit der Goldlösung überein (2020, 183 Fälle) und enthält sogar zusätzliche Kontextangaben und eine Quelle. Damit ist sie korrekt und vollständig."
+  }
+}

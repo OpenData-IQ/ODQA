@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0074",
+  "run_at": "2025-09-04T14:33:37.470524Z",
+  "question_id": 74,
+  "question": "Wie viele Lastkraftwägen gab es am 01.01.24 insgesamt in den neuen Bundesländern?",
+  "answer": "716329",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "580.859 Lastkraftwagen in den neuen Bundesländern (ohne Berlin) am 01.01.2024.\n\nHinweis: Falls Berlin mitgezählt werden soll (Formulierung „neue Länder inkl. Berlin“), sind es 732.641 Lkw.\n\nHerleitung (Summe der fünf Länder):\n- Brandenburg: 137.401\n- Mecklenburg-Vorpommern: 63.891\n- Sachsen: 175.422\n- Sachsen-Anhalt: 104.210\n- Thüringen: 99.935\n- Berlin (nur zur Info, nicht Teil der „neuen Länder“ im engeren Sinn): 151.782\n\nQuelle:\n- Kraftfahrt-Bundesamt (KBA), Bestand an Kraftfahrzeugen und Kfz-Anhängern am 1. Januar 2024 – Auswertung nach Ländern/Zulassungsbezirken (Reihe FZ 1), Fahrzeugart „Lastkraftwagen (Lkw)“.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt eine Zahl von 580.859 an, während die korrekte Antwort 716.329 ist. Obwohl die LLM-Antwort eine detaillierte Aufschlüsselung und Quelle liefert, ist die Hauptzahl für die neuen Bundesländer (ohne Berlin) falsch. Die LLM-Antwort ist daher teilweise korrekt, aber die Kerninformation ist fehlerhaft."
+  }
+}

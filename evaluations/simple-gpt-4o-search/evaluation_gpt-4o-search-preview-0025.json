@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0025",
+  "run_at": "2025-09-04T17:05:36.838663Z",
+  "question_id": 25,
+  "question": "Welches Museum in Frankfurt am Main hatte von 2018 bis 2024 die meisten Besuche?",
+  "answer": "Senckenberg Naturmuseum Frankfurt",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Das Senckenberg Naturmuseum Frankfurt hatte 2.476.691 Besucher",
+  "llm_final": "Zwischen 2018 und 2024 verzeichnete das Städel Museum in Frankfurt am Main die höchsten Besucherzahlen unter den Museen der Stadt. Im Jahr 2018 besuchten 390.593 Personen das Städel Museum. ([stadtkindfrankfurt.de](https://www.stadtkindfrankfurt.de/besucherzahlen-der-frankfurter-museen-2018/?utm_source=openai)) Im Jahr 2023 stieg die Besucherzahl auf 388.274, was einen Anstieg von über 100.000 Besuchern im Vergleich zum Vorjahr bedeutet. ([augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/panorama/besucherzahlen-hunderttausende-besucher-im-staedel-und-liebieghaus-104414784?utm_source=openai)) Diese Zahlen übertreffen die Besucherzahlen anderer Frankfurter Museen im gleichen Zeitraum. \n\n### Quellen\n- **[1]** Besucherzahlen der Frankfurter Museen 2018 (www.stadtkindfrankfurt.de) – https://www.stadtkindfrankfurt.de/besucherzahlen-der-frankfurter-museen-2018/?utm_source=openai\n- **[2]** Besucherzahlen: Hunderttausende Besucher im Städel und Liebieghaus (www.augsburger-allgemeine.de) – https://www.augsburger-allgemeine.de/panorama/besucherzahlen-hunderttausende-besucher-im-staedel-und-liebieghaus-104414784?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt das Städel Museum als das Museum mit den meisten Besuchen, während die Goldstandard-Antwort das Senckenberg Naturmuseum Frankfurt angibt. Die LLM-Antwort ist somit sachlich falsch."
+  }
+}

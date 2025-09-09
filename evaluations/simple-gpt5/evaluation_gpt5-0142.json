@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0142",
+  "run_at": "2025-09-04T15:34:13.797338Z",
+  "question_id": 142,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018?",
+  "answer": "https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die gesamte Bevölkerungsbewegung im Jahr 2018 für die verschiedenen Stadtbereiche von Rostock enthält. Er umfasst unter anderem die absolute und relative Bestandsveränderung sowie die Veränderung je 1.000 Einwohnerinnen und Einwohner.",
+  "llm_final": "Ja. Die Hanse- und Universitätsstadt Rostock veröffentlicht dafür Open-Data-Datensätze nach Stadtbereichen; das Jahr 2018 ist enthalten.\n\nRelevante Quellen auf dem Open-Data-Portal der Stadt (opendata-hro.de):\n- Bevölkerungsentwicklung in den Stadtbereichen der Hanse- und Universitätsstadt Rostock (Zeitreihe mit Jahreswerten, u. a. 2018; CSV/JSON). Herausgeber: Amt für Statistik und Wahlen.\n- Bevölkerungsbestand in den Stadtbereichen – Stichtag 31.12.2018 (Einwohnerzahl je Stadtbereich für 2018; CSV/JSON). Herausgeber: Amt für Statistik und Wahlen.\n- Optional vertiefend: Bevölkerungsbewegungen in den Stadtbereichen (Geburten, Sterbefälle, Zu- und Fortzüge, Jahreswerte inkl. 2018; CSV/JSON). Herausgeber: Amt für Statistik und Wahlen.\n\nQuelle: Open-Data-Portal der Hanse- und Universitätsstadt Rostock (opendata-hro.de), Datensätze „Bevölkerungsentwicklung in den Stadtbereichen …“, „Bevölkerungsbestand in den Stadtbereichen – 31.12.2018“ und „Bevölkerungsbewegungen in den Stadtbereichen“.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und sehr umfassend. Sie nennt nicht nur die Existenz der Daten, sondern listet auch mehrere relevante Datensätze auf dem Open-Data-Portal der Stadt Rostock auf, die die Frage beantworten."
+  }
+}

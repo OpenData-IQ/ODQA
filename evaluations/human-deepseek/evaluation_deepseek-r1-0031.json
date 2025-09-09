@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0031",
+  "run_at": "2025-09-01T20:08:31.989849Z",
+  "question_id": 31,
+  "question": "Wie lang ist der Rundweg im Alsterland?",
+  "answer": "13 Kilometer",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche, viele Geodaten",
+  "llm_final": "FinalAnswer: Der Rundweg im Alsterland ist 13 Kilometer lang. Quelle: http://registry.gdi-de.org/id/de.sh/76b95042-3ba5-4372-93fb-8e2176d94565.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": ""
+  }
+}

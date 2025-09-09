@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0175",
+  "run_at": "2025-09-01T03:08:44.563102Z",
+  "question_id": 175,
+  "question": "Wie viele Kinder mit dem Vornamen 'X Æ A-12' wurden 2013 in der Gemeinde Hürtgenwald geboren?",
+  "answer": "Es wurden 2013 in der Gemeinde Hürtgenwald keine Kinder mit dem Vornamen 'X Æ A-12' geboren. Dieser Name ist in Deutschland nicht zulässig.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "0",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und vollständig. Sie erklärt, dass keine Kinder mit diesem Namen geboren wurden und liefert die Begründung, dass der Name in Deutschland nicht zulässig ist."
+  }
+}

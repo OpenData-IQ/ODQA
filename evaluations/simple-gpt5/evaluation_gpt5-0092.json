@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0092",
+  "run_at": "2025-09-04T14:48:45.329215Z",
+  "question_id": 92,
+  "question": "Wie hoch ist die geschätzte Auszahlung für die kommenden drei Jahre für die bilaterale staatliche Entwicklungszusammenarbeit für Tadschikistan?",
+  "answer": "2810000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt. Dies geht nur aus den Metadaten hervor.",
+  "llm_final": "Kurzantwort:\n- Jahr 1: ca. 23 Mio. EUR\n- Jahr 2: ca. 20 Mio. EUR\n- Jahr 3: ca. 18 Mio. EUR\n- Summe über drei Jahre: ca. 61 Mio. EUR\n\nEinordnung:\nDies sind die in der BMZ-Dreijahresplanung (IATI-Empfängerlandbudgets) ausgewiesenen geschätzten Auszahlungen für die bilaterale staatliche Entwicklungszusammenarbeit mit Tadschikistan für die kommenden drei Jahre. Die Werte sind Plan-/Schätzzahlen und können sich im Jahresverlauf durch Haushalts- und Mittelabflussentwicklungen ändern.\n\nQuellen:\n- BMZ-Transparenzportal – Dreijahresplanung der bilateralen staatlichen EZ (IATI-Empfängerlandbudgets), Empfängerland: Tadschikistan (TJ): https://www.bmz.de/de/transparenz\n- BMZ als IATI-Publisher (Datensätze zu Empfängerland-Budgets/Forward Spending): https://iatiregistry.org/publisher/bmz",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebene Summe von ca. 61 Mio. EUR weicht erheblich von der korrekten Antwort von 2,81 Mio. EUR ab. Obwohl die Antwort detailliert ist und Quellen angibt, ist die Kerninformation falsch."
+  }
+}

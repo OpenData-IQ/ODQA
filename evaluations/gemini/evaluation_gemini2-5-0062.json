@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0062",
+  "run_at": "2025-09-01T05:35:02.972878Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Linie 23 im Verkehrsverbund RNV hat die Farbe Orange (#E48F00).\n\nQuelle: https://mcloud.de/9e4bc1d2-872a-4ab1-b8cb-faa2d0df095a",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Antwort entspricht exakt der erwarteten Farbe inklusive Hex-Code und liefert zudem eine Quelle."
+  }
+}

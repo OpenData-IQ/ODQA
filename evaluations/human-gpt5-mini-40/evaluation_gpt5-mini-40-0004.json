@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0004",
+  "run_at": "2025-09-06T09:24:55.296637Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es waren 510 untergebrachte wohnungslose Frauen in Nordfriesland (Stichtag 31.01.2024).\n\nQuelle: GENESIS-Tabellendownload \"Untergebrachte wohnungslose Personen\" (Tabelle 22971-0080_00) — https://www-genesis.destatis.de/genesis-old/downloads/00/tables/22971-0080_00.csv",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, vollständig und enthält die genaue Quelle mit URL. Sie ist präzise und liefert alle notwendigen Informationen."
+  }
+}

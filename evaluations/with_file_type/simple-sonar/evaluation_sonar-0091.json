@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0091",
+  "run_at": "2025-09-04T18:58:50.337726Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Nähe von 97286 Sommerhausen können Sie sich der **Wirtschaftsverband Berufsorganisation Absatzgenossenschaft für Obst- und Gartenbau Sommerhausen und Umgebung eG** anschließen. Diese Agrarorganisation ist speziell für den Bereich Obst- und Gartenbau zuständig und hat ihren Sitz in der Industriestraße 1 in Sommerhausen[3].\n\nZusätzlich gibt es in Sommerhausen Gärtnereien, die möglicherweise auch Kontakte zu weiteren Agrarorganisationen bieten können[2]. Sommerhausen ist zudem als GenussOrt Bayern 2024 ausgezeichnet, was die Bedeutung der regionalen Landwirtschaft und des Gartenbaus unterstreicht[1].\n\n### Quellen\n- **[1]** www.sommerhausen.de/de/buergerservice/rathaus/aktuelles_aus_dem_rathaus/informelles/sommerhausen-ist-genussort-bayern-2024 (www.sommerhausen.de) – https://www.sommerhausen.de/de/buergerservice/rathaus/aktuelles_aus_dem_rathaus/informelles/sommerhausen-ist-genussort-bayern-2024\n- **[2]** www.yellowmap.de/D_97286_Sommerhausen/0/G%C3%A4rtnerei.htm (www.yellowmap.de) – http://www.yellowmap.de/D_97286_Sommerhausen/0/G%C3%A4rtnerei.htm\n- **[3]** www.goyellow.de/home/wirtschaftsverband-berufsorganisation-absatzgenossenschaft-f-obst-u-gartenbau-sommerhausen-u-umgebung-eg-sommerhausen--19d6b.html (www.goyellow.de) – https://www.goyellow.de/home/wirtschaftsverband-berufsorganisation-absatzgenossenschaft-f-obst-u-gartenbau-sommerhausen-u-umgebung-eg-sommerhausen--19d6b.html",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort nennt eine relevante Agrarorganisation, aber nicht die im Goldstandard genannte Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V. und ist daher nur teilweise korrekt."
+  },
+  "file_type": "xml"
+}

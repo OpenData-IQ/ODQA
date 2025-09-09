@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0017",
+  "run_at": "2025-09-04T17:04:28.839246Z",
+  "question_id": 17,
+  "question": "Wo finde ich heraus, welche Kindergärten in Nordfriesland im Jahr 2021 Friesisch unterrichtet haben?",
+  "answer": "https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Eine Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland mit Stand Januar 2021 finden Sie im Open-Data-Portal Schleswig-Holstein. ([opendata.schleswig-holstein.de](https://opendata.schleswig-holstein.de/dataset/ubersicht-aller-friesisch-arbeitenden-kindergarten-in-nordfriesland-stand-01-2021?utm_source=openai)) Diese Liste wurde vom Friesenrat Sektion Nord e.V. erstellt und enthält detaillierte Informationen zu den jeweiligen Einrichtungen.\n\nZusätzlich bietet der Minderheitenbericht 2021 des Kreises Nordfriesland weitere Einblicke in die Förderung der friesischen Sprache in Kindergärten und Schulen. ([nordfriesland.de](https://www.nordfriesland.de/Kreis-Verwaltung/Kreisverwaltung/Kommunalaufsicht/Husum/Kreis-Nordfriesland-stellt-ersten-Minderheitenbericht-vor.php?FID=2271.5091.1&ModID=7&NavID=2271.500.1&object=tx%2C2271.1.1&utm_source=openai))\n\nFür aktuelle Informationen oder spezifische Anfragen können Sie sich direkt an den Friesenrat Sektion Nord e.V. oder an das Nordfriisk Instituut wenden, die sich intensiv mit der Förderung der friesischen Sprache in Bildungseinrichtungen beschäftigen. \n\n### Quellen\n- **[1]** Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland – Stand: 01/2021 - Datensätze - Open-Data Schleswig-Holstein (opendata.schleswig-holstein.de) – https://opendata.schleswig-holstein.de/dataset/ubersicht-aller-friesisch-arbeitenden-kindergarten-in-nordfriesland-stand-01-2021?utm_source=openai\n- **[2]** Nordfriesland / Husum (www.nordfriesland.de) – https://www.nordfriesland.de/Kreis-Verwaltung/Kreisverwaltung/Kommunalaufsicht/Husum/Kreis-Nordfriesland-stellt-ersten-Minderheitenbericht-vor.php?FID=2271.5091.1&ModID=7&NavID=2271.500.1&object=tx%2C2271.1.1&utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält den primären Link aus der Goldstandard-Antwort und bietet zusätzliche relevante Informationen und Ressourcen. Sie ist umfassend und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

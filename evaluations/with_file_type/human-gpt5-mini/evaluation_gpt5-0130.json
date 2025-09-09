@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0130",
+  "run_at": "2025-08-31T13:02:30.784495Z",
+  "question_id": 130,
+  "question": "In welchem Ortsteil der Gemeinde Kreuzau gab es zum Stichtag 31.12.2011 die meisten Familien mit vier Personen?",
+  "answer": "Im Kerngebiet gab es die meisten Familien mit vier Personen, nämlich 153 Familien",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0102",
+  "run_at": "2025-09-04T17:24:26.591878Z",
+  "question_id": 102,
+  "question": "In welchen Jahren gab es in Dortmund im Zeitraum 2016-2024 mehr als 2500 Eheschließungen?",
+  "answer": "2016, 2017, 2018, 2019",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Zeitraum von 2016 bis 2024 gab es in Dortmund in den Jahren 2018 und 2019 mehr als 2.500 Eheschließungen:\n\n- **2018**: 2.785 Eheschließungen\n- **2019**: 2.650 Eheschließungen\n\nIn den anderen Jahren des genannten Zeitraums lag die Anzahl der Eheschließungen unter 2.500:\n\n- **2020**: 2.227 Eheschließungen (bis zum 8. Dezember)\n- **2023**: 2.452 Eheschließungen\n\nFür die Jahre 2016, 2017, 2021, 2022 und 2024 liegen keine spezifischen Daten vor.\n\n([wirindortmund.de](https://www.wirindortmund.de/dortmund/mia-und-ben-an-der-spitze-die-jahresbilanz-2020-vom-standesamt-der-stadt-dortmund-110017?utm_source=openai), [radio912.de](https://www.radio912.de/artikel/etwas-mehr-hochzeiten-in-dortmund-1865598.html?utm_source=openai)) \n\n### Quellen\n- **[1]** Mia und Ben an der Spitze: Die Jahresbilanz 2020 vom Standesamt der Stadt Dortmund | Wir in Dortmund (www.wirindortmund.de) – https://www.wirindortmund.de/dortmund/mia-und-ben-an-der-spitze-die-jahresbilanz-2020-vom-standesamt-der-stadt-dortmund-110017?utm_source=openai\n- **[2]** Etwas mehr Hochzeiten in Dortmund - Radio 91.2 (www.radio912.de) – https://www.radio912.de/artikel/etwas-mehr-hochzeiten-in-dortmund-1865598.html?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt nur die Jahre 2018 und 2019, während die Goldstandard-Antwort 2016, 2017, 2018 und 2019 angibt. Die LLM-Antwort ist somit unvollständig und falsch. Die bereitgestellten Quellen unterstützen die LLM-Antwort nicht vollständig."
+  }
+}

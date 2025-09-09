@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0154",
+  "run_at": "2025-08-31T13:39:06.957975Z",
+  "question_id": 154,
+  "question": "Welche Stadtbereiche in Rostock hatten im Jahr 2009 einen Anteil ausländischer Einwohnerinnen und Einwohner von mindestens 4 Prozent?",
+  "answer": "Lichtenhagen, Kröpeliner-Tor-Vorstadt, Stadtmitte, Evershagen, Dierkow-Neu, Gartenstadt/Stadtweide",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadtbereiche mit einem Anteil ausländischer Einwohnerinnen und Einwohner ≥ 4 % (Stand 31.12.2009) sind:\n\n- Lichtenhagen — 4,5 %  \n- Kröpeliner-Tor-Vorstadt — 4,0 %  \n- Stadtmitte — 4,7 %  \n- Evershagen — 5,2 %  \n- Dierkow‑Neu — 4,6 %  \n- Gartenstadt / Stadtweide — 5,3 %\n\nQuelle: Bevölkerungsstruktur 2009 — Staatsangehörigkeit (Stadtbereiche), OpenData Rostock (bevoelkerungsstruktur_2009_staatsangehoerigkeit.csv).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie listet alle Stadtbereiche auf, die im Jahr 2009 einen Ausländeranteil von mindestens 4% hatten, und gibt zusätzlich die genauen Prozentwerte sowie die Quelle an."
+  }
+}

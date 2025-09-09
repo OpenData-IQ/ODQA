@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0014",
+  "run_at": "2025-08-31T21:29:44.605173Z",
+  "question_id": 14,
+  "question": "Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?",
+  "answer": "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V.",
+  "question_type": "simple",
+  "source": 1,
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states that a recursion limit was reached, preventing it from providing an answer. This indicates a technical issue rather than an evaluation of the answer's content."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0130",
+  "run_at": "2025-09-04T15:24:39.575658Z",
+  "question_id": 130,
+  "question": "In welchem Ortsteil der Gemeinde Kreuzau gab es zum Stichtag 31.12.2011 die meisten Familien mit vier Personen?",
+  "answer": "Im Kerngebiet gab es die meisten Familien mit vier Personen, nämlich 153 Familien",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Stockheim.\n\nQuellen:\n- Gemeinde Kreuzau, Einwohner- und Familienstatistik zum Stichtag 31.12.2011, Tabelle „Familien nach Familiengröße“ nach Ortsteilen.\n- Kreis Düren, Kommunale Bevölkerungsstatistik 2011 (Ortsteilgliederung Kreuzau), Auswertung „Familien nach Familiengröße“.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt \"Stockheim\", während die korrekte Antwort \"Kerngebiet\" ist. Die Antwort ist somit falsch."
+  }
+}

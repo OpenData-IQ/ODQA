@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0028",
+  "run_at": "2025-09-06T10:10:28.116236Z",
+  "question_id": 28,
+  "question": "Warum ist die Theodor-Storm-Schule in Neumünster ein Kulturdenkmal?",
+  "answer": "die Begründung ist Geschichtlich und Städtebaulich: Theodor-Storm-Schule; ehem. Knabenschule; 1885/86; unregelmäßige Dreiflügelanlage, gotisierender zweigeschossiger Backsteinbau, Fassaden durch Glasurziegelgesimse und Backsteinfriese belebt, Hauptfassade gegliedert durch zwei regelmäßig angeordnete Risalite mit gotisierenden Giebeln; Turnhalle an Südostseite des Schulgrundstücks",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurz: Weil sie bau- und stadtgeschichtlich bedeutsam ist.\n\nAus der Denkmalliste (Objektnummer 15112):\n- Theodor‑Storm‑Schule, ehem. Knabenschule, 1885/86 erbaut.  \n- Unregelmäßige Dreiflügelanlage; gotisierender zweigeschossiger Backsteinbau.  \n- Fassaden mit Glasurziegelgesimsen und Backsteinfriesen; Hauptfassade gegliedert durch zwei regelmäßig angeordnete Risalite mit gotisierenden Giebeln.  \n- Begründung im Denkmalverzeichnis: Geschichtlich, Städtebaulich.  \n- Schutzumfang: Theodor‑Storm‑Schule und Turnhalle.\n\nQuelle: Denkmalliste Stadt Neumünster (Objektnummer 15112) — https://opendata.schleswig-holstein.de/dataset/6e0c6b89-c66a-4bcd-b2ea-e62d7d08520f.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und sehr detailliert. Sie enthält alle relevanten Informationen aus der Goldstandard-Antwort und bietet zusätzlich eine direkte Quelle mit URL, was die Antwort umfassend und nachvollziehbar macht."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0064",
+  "run_at": "2025-08-31T22:52:32.336797Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Hier sind die im Datensatz verlinkten Bilddateien der Illustration „Die Wanze stinkt“ (Peter Christian Rasmussen, 1920):\n\n- Bild (Übersicht, 600 px): http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg\n- Bild (weitere verlinkte Version): http://dokbase.digicult-museen.net/eingabe/bilder/data/mitte/1001542/1990-111.7.jpg\n- Objektseite: http://www.museen-nord.de/Objekt/DE-MUS-076111/lido/1990-111.7\n\nHinweis: In den bereitgestellten Metadaten ist kein direkter Link zu einer Original-/Vollauflösungsdatei enthalten; die oben genannten Links sind die größten verlinkten Versionen. Für eine höhere Auflösung ggf. beim Rechtehalter anfragen.\n\nMetadaten (Auszug):\n- Titel: Die Wanze stinkt\n- Künstler: Peter Christian Rasmussen\n- Technik: Radierung, 1920\n- Inventarnummer: 1990-111.7\n- Rechte am Digitalbild: CC BY-SA 4.0 (Schleswig-Holsteinische Landesbibliothek – Landesgeschichtliche Sammlung)",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "The LLM provides relevant links and information about the image, including metadata. However, it explicitly states that a direct link to the original/full resolution file is not available, which was the core of the question. It offers the largest available versions and suggests contacting the rights holder for higher resolution, making it useful but not perfectly fulfilling the 'full resolution' request."
+  },
+  "file_type": "xml"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0080",
+  "run_at": "2025-09-01T05:40:45.745174Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer:Die beliebteste Heizenergie bei neuen Wohngebäuden im Jahr 2023 war \"Keine Energie (einschl. Passivhaus)\".\n\nQuelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/31111-06-01-4_00.csv#dataset",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt „Keine Energie (einschl. Passivhaus)“, der Goldstandard ist „Umweltthermie (Luft/Wasser)“. Damit ist die Antwort inhaltlich falsch."
+  }
+}

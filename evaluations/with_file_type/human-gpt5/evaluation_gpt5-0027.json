@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0027",
+  "run_at": "2025-08-31T21:51:55.146827Z",
+  "question_id": 27,
+  "question": "Wie viel Prozent der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner?",
+  "answer": "51,5% (Ja unter allen Antworten) 57,1% (Ja unter allen Ja- und Nein-Antworten)",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Beide Antworten können als korrekt gewertet werden.",
+  "llm_final": "Etwa 57,4 %.\n\nBasis: 1.431 “Ja” von 2.494 gültigen Antworten (ohne “k. A.”/fehlend) unter Beschäftigten der Landesverwaltung NRW mit abgeschlossenem Fragebogen.\n\nQuelle: Umfrage „Energie- und Mobilitätsverhalten in der Landesverwaltung (2024)“\nDataset: https://ckan.open.nrw.de/dataset/b86bb5d5-ca90-4374-b8a5-9f283128f9bd",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Der Agent nennt die richtige Quelle und fast die richtige Prozentzahl (Rundungsfehler). Außerdem stimmen die absoluten Zahlenwerte nicht mit den Originaldaten überein."
+  },
+  "file_type": "csv"
+}

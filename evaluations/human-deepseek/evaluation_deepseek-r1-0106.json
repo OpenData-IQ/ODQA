@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0106",
+  "run_at": "2025-09-01T21:55:58.661479Z",
+  "question_id": 106,
+  "question": "Hatte die Stadt Oldenburg 2024 mehr oder weniger Einnahmen aus der Hundesteuer als 2014?",
+  "answer": "Die Stadt Oldenburg hatte 2024 mehr Einnahmen aus der Hundesteuer als 2014",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Im Feld llm_final steht keine Antwort (leer). Daher liegt ein Fall von \"no answer\" vor."
+  }
+}

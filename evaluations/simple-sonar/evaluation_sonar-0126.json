@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0126",
+  "run_at": "2025-09-04T19:03:03.805568Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine spezifischen Daten darüber, wie viele Menschen im Jahr 2021 aus Wesseling in die Vereinigten Staaten ausgewandert sind. Die gefundenen Informationen beziehen sich allgemein auf Migration in die USA, nicht auf Auswanderungen aus einzelnen deutschen Städten wie Wesseling[1].\n\nFür eine genaue Zahl der Auswanderungen aus Wesseling in die USA im Jahr 2021 wäre eine Anfrage bei lokalen Meldebehörden, dem Statistischen Bundesamt oder spezialisierten Migrationsstatistiken notwendig, da solche Daten meist nicht öffentlich und nicht auf Stadtebene in offenen Datenbanken verfügbar sind.\n\n### Quellen\n- **[1]** de.statista.com/themen/6918/usa-geschichte-der-immigration/ (de.statista.com) – https://de.statista.com/themen/6918/usa-geschichte-der-immigration/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die Antwort erklärt klar, dass keine spezifischen Daten für die gestellte Frage gefunden wurden und verweist auf allgemeinere Quellen. Dies entspricht der Kategorie 'not found'."
+  }
+}

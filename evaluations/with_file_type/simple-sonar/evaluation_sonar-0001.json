@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0001",
+  "run_at": "2025-09-04T18:49:00.274621Z",
+  "question_id": 1,
+  "question": "Wo finde ich Daten zu Spielgeräten auf Dortmunder Spielplätzen?",
+  "answer": "https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Daten zu Spielgeräten auf Dortmunder Spielplätzen finden Sie als offenen Datensatz auf der Plattform OpenData.Ruhr. Dort gibt es einen Datensatz mit Spielgeräten auf den Spielflächen der Stadt Dortmund, der als CSV-Datei heruntergeladen werden kann[2].\n\nZusätzlich bietet die Stadt Dortmund auf ihrer offiziellen Webseite Informationen zu den 365 öffentlichen Spielplätzen, die auf die 12 Stadtbezirke verteilt sind. Dort werden die Spielplätze nach Nutzergruppen (A, B, C) kategorisiert, was auch Rückschlüsse auf die Ausstattung mit Spielgeräten zulässt[1].\n\nFür konkrete Informationen zu einzelnen Spielplätzen und deren Spielgeräten, wie z.B. am Spielplatz Gut Königsmühle mit Basketballkorb, Kletterwand, Schaukeln und Rutschen, können lokale Berichte und Webseiten hilfreich sein[3].\n\nFalls Sie defekte Spielgeräte melden oder Informationen zur Instandhaltung suchen, betreibt die Stadt Dortmund eine „Spielplatzkolonne“, die sich um Reparaturen kümmert[4].\n\nZusammengefasst:\n\n- **Offener Datensatz mit Spielgeräten auf Dortmunder Spielflächen**: OpenData.Ruhr, CSV-Download[2].\n\n- **Übersicht und Kategorisierung der Spielplätze in Dortmund**: Offizielle Stadtseite dortmund.de[1].\n\n- **Beispiele und Details zu einzelnen Spielplätzen**: Lokale Medien und Webseiten[3].\n\n- **Instandhaltung und Meldung defekter Geräte**: Stadt Dortmund, Grünflächenamt[4].\n\n### Quellen\n- **[1]** www.dortmund.de/themen/kinder-jugendliche-und-familie/freizeit/buero-fuer-kinder-und-jugendinteressen/spielplaetze-in-dortmund/ (www.dortmund.de) – https://www.dortmund.de/themen/kinder-jugendliche-und-familie/freizeit/buero-fuer-kinder-und-jugendinteressen/spielplaetze-in-dortmund/\n- **[2]** www.opendata.ruhr/dataset/spielgerate1 (www.opendata.ruhr) – https://www.opendata.ruhr/dataset/spielgerate1\n- **[3]** www.radio912.de/artikel/die-schoensten-spielplaetze-in-dortmund-2330967.html (www.radio912.de) – https://www.radio912.de/artikel/die-schoensten-spielplaetze-in-dortmund-2330967.html\n- **[4]** www.wirindortmund.de/dortmund/besser-buddeln-sicher-spielen-dortmund-investiert-in-seine-spielplaetze-280520 (www.wirindortmund.de) – https://www.wirindortmund.de/dortmund/besser-buddeln-sicher-spielen-dortmund-investiert-in-seine-spielplaetze-280520\n- –\n- www.hochkant.de/referenzen/spielwelt/weltenreise-spielplatz-dortmund.html (www.hochkant.de) – https://www.hochkant.de/referenzen/spielwelt/weltenreise-spielplatz-dortmund.html",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält den relevanten Datensatz (wenn auch mit leicht abweichender URL) und bietet zusätzlich umfassende, weiterführende Informationen und Links zu offiziellen und ergänzenden Quellen. Sie ist sehr vollständig und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

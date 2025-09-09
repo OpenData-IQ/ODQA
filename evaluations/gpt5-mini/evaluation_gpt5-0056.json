@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0056",
+  "run_at": "2025-08-31T10:55:00.518877Z",
+  "question_id": 56,
+  "question": "Was ist die Adresse des Deutschen Wetterdienstes?",
+  "answer": "Frankfurter Straße 135, 63067 Offenbach am Main",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Deutscher Wetterdienst (DWD)\nFrankfurter Straße 135\n63067 Offenbach am Main\nDeutschland",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort enthält die vollständige und korrekte Adresse des Deutschen Wetterdienstes, die mit der Goldstandard-Antwort übereinstimmt. Sie ist präzise und umfassend."
+  }
+}

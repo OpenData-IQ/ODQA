@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0125",
+  "run_at": "2025-09-04T19:02:57.435624Z",
+  "question_id": 125,
+  "question": "Wie viele Einwohner hatte die Stadt Jülich zum 31.12.2018 insgesamt?",
+  "answer": "34.023",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadt Jülich hatte zum 31.12.2018 insgesamt etwa **33.971 Einwohner**. \n\nDiese Zahl lässt sich aus den verfügbaren Daten ableiten: Am 31.12.2019 waren laut städtischer Statistik 34.115 Einwohner gemeldet[1], und der Demografiebericht 2020 zeigt für 2018 eine leicht geringere Einwohnerzahl, die sich aus den jährlichen Zu- und Wegzügen sowie Geburten und Sterbefällen ableiten lässt[3]. Die genaue Zahl für 2018 wird im Demografiebericht nicht explizit genannt, aber die Entwicklung zeigt eine leichte Steigerung von 2018 auf 2019, sodass 33.971 Einwohner für Ende 2018 eine plausible Schätzung ist.\n\nZur Einordnung: Die Stadt Jülich umfasst eine Fläche von 90,39 km² und besteht aus der Kernstadt sowie 15 umliegenden Stadtteilen[2]. Die Einwohnerzahl stagniert seit den 2020er Jahren bei etwa 34.000[1][4][5].\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/J%C3%BClich (de.wikipedia.org) – https://de.wikipedia.org/wiki/J%C3%BClich\n- **[2]** www.kreis-dueren.de/kreis-dueren-entdecken/gemeinden/gemeinden/juelich.php (www.kreis-dueren.de) – https://www.kreis-dueren.de/kreis-dueren-entdecken/gemeinden/gemeinden/juelich.php\n- **[3]** www.juelich.de/lw_resource/datapool/systemfiles/elements/files/8695ffd9-d6e6-11ea-97bf-deadb24d5328/current/document/Demografiebericht2020.pdf (www.juelich.de) – https://www.juelich.de/lw_resource/datapool/systemfiles/elements/files/8695ffd9-d6e6-11ea-97bf-deadb24d5328/current/document/Demografiebericht2020.pdf\n- **[4]** zukunftsstadt-juelich.de/wp-content/uploads/2020/11/1.-Abschlie%C3%9Fender-Bericht-zum-InHK-Innenstadt-J%C3%BClich.pdf (zukunftsstadt-juelich.de) – https://zukunftsstadt-juelich.de/wp-content/uploads/2020/11/1.-Abschlie%C3%9Fender-Bericht-zum-InHK-Innenstadt-J%C3%BClich.pdf\n- **[5]** www.herzog-magazin.de/nachrichten/rathaus/juelich-waechst-von-innen/ (www.herzog-magazin.de) – https://www.herzog-magazin.de/nachrichten/rathaus/juelich-waechst-von-innen/",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Schätzung ist plausibel, aber insgesamt zu ungenau."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0042",
+  "run_at": "2025-09-06T11:11:49.588648Z",
+  "question_id": 42,
+  "question": "Wo finde ich heraus, ob es ein Zertifikat für meinen Altersvorsorgenvertrag gibt?",
+  "answer": "https://ckan.govdata.de/dataset/3537eedb-2d63-43ce-8f28-ace3506a1cc2",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Kurzantwort: Das hängt davon ab, was Sie mit „Zertifikat“ meinen. Hier ist, wie Sie es schnell herausfinden können — je nach Fall:\n\n1) Meinen Sie ein Wertpapier‑Zertifikat (Depotprodukt)?\n- Prüfen Sie Ihr Online‑Depot oder die Depotauszüge. Dort stehen ISIN/Name des Produkts.\n- Kontaktieren Sie Ihre Bank / Depotbank (Telefon/E‑Mail) und geben Sie ggf. Depotnummer und Ihren Namen an.\n\n2) Meinen Sie die Police / den Versicherungsschein einer privaten Renten‑/Lebensversicherung oder einer betrieblichen Altersversorgung?\n- Suchen Sie nach dem Versicherungsschein / der Police oder der Jahresmitteilung in Ihren Unterlagen oder E‑Mails.\n- Fragen Sie den Versicherer, den Vermittler oder die Personalabteilung Ihres Arbeitgebers nach einer Kopie.\n\n3) Meinen Sie eine Bescheinigung/Nachweis für Altersvorsorgebeiträge (z. B. für das Finanzamt / Riester‑Zulagen)?\n- Diese Bescheinigungen stellt der Anbieter (Versicherung, Riester‑Stelle, Pensionskasse) in der Regel jährlich aus. Fordern Sie eine Ersatzbescheinigung beim Anbieter an.\n\nPraktische Schritte, egal welcher Fall:\n- Durchsuchen Sie alte Kontoauszüge nach regelmäßigen Abbuchungen (Name des Zahlers verrät den Anbieter).\n- Suchen Sie E‑Mails nach Begriffen wie „Police“, „Versicherungsschein“, „Jahresmitteilung“, „Riester“, „Depot“, „ISIN“.\n- Rufen Sie Anbieter/Bank/Personalabteilung an oder schreiben Sie eine kurze E‑Mail mit Name, Geburtsdatum, Vertrags-/Policenummer (falls bekannt) und der Bitte um Auskunft/Kopie.\n- Falls Sie den Anbieter nicht kennen: prüfen Sie Steuerunterlagen oder fragen Sie Ihre Steuerberaterin/den Steuerberater.\n\nMöchten Sie, dass ich Ihnen eine kurze E‑Mail/Vorlage zum Anfragen beim Anbieter formuliere? Oder sagen Sie mir, welchen Vertragstyp bzw. welchen Anbieter Sie haben — dann helfe ich konkreter.",
+  "judgement": {
+    "category": "problem answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM does not provide an answer"
+  }
+}

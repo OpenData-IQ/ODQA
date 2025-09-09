@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0110",
+  "run_at": "2025-09-04T19:01:24.327426Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Es gibt umfangreiche Daten und Informationen zu Saatkrähen in Soest. Die Stadt Soest beheimatet mit etwa 1.600 bis 2.000 Brutpaaren die größte Saatkrähen-Population in Deutschland, was etwa 14 Prozent der Saatkrähen in Nordrhein-Westfalen entspricht[1][2][4]. Diese Population ist über mehrere Kolonien im Stadtgebiet verteilt.\n\nDie Stadt und der Kreis Soest führen seit mehreren Jahren Maßnahmen zur Kontrolle der Saatkrähen durch, darunter das Entfernen von Nestern an kritischen Standorten wie dem Bahnhofsvorplatz, dem Marktplatz und Schulhöfen. Diese Maßnahmen sind genehmigungspflichtig und werden unter strengen Naturschutzauflagen durchgeführt, da Saatkrähen nach EU-Recht besonders geschützt sind[1][4][5]. Die Entfernung von Nestern erfolgt meist vor der Brutzeit, begleitet von Ornithologen, um den Schutz der Vögel zu gewährleisten[4][5].\n\nZudem gibt es Planungen für innovative Ansätze, wie eine Art „Antibabypille“ für Saatkrähen, um die Population punktuell zu beeinflussen, wobei großflächige Reduzierungen gesetzlich nicht erlaubt sind[1].\n\nEine wissenschaftliche Betrachtung der Saatkrähen im Kreis Soest dokumentiert die Entwicklung der Population, die sich nach dem Verlust ländlicher Kolonien in der Stadt stark vermehrt hat. Diese Daten werden auch für Umweltbildung genutzt[3].\n\nZusammenfassend liegen in Soest sowohl quantitative Daten zur Population (ca. 1.600–2.000 Brutpaare) als auch qualitative Informationen zu den Konflikten, Maßnahmen und Schutzbestimmungen vor. Die Stadt dokumentiert und kommuniziert diese Daten regelmäßig im Rahmen von Naturschutz und Bürgerinformation[1][2][3][4][5].\n\n### Quellen\n- **[1]** www.hellwegradio.de/artikel/saatkraehen-in-soest-erste-massnahmen-zeigen-wirkung-2326733.html (www.hellwegradio.de) – https://www.hellwegradio.de/artikel/saatkraehen-in-soest-erste-massnahmen-zeigen-wirkung-2326733.html\n- **[2]** www.youtube.com/watch (www.youtube.com) – https://www.youtube.com/watch?v=cSUafden_z4\n- **[3]** www.lwl.org/westfalen-regional-download/PDF/250n_Saatkraehen.pdf (www.lwl.org) – https://www.lwl.org/westfalen-regional-download/PDF/250n_Saatkraehen.pdf\n- **[4]** www.soest.de/news/news-detail/kommunalbetrieb-entfernt-mehrere-hundert-neue-und-alte-nester-von-saatkraehen (www.soest.de) – https://www.soest.de/news/news-detail/kommunalbetrieb-entfernt-mehrere-hundert-neue-und-alte-nester-von-saatkraehen\n- **[5]** www.soest.de/news/news-detail/stadt-soest-muss-die-diesjaehrige-saatkraehen-vergraemung-gemaess-auflagen-vorzeitig-beenden (www.soest.de) – https://www.soest.de/news/news-detail/stadt-soest-muss-die-diesjaehrige-saatkraehen-vergraemung-gemaess-auflagen-vorzeitig-beenden",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort liefert zwar Informationen, aber keinen Link zu den aktuellen Rohdaten."
+  },
+  "file_type": "csv"
+}

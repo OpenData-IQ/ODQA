@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0051",
+  "run_at": "2025-09-04T18:54:29.560969Z",
+  "question_id": 51,
+  "question": "Wie viel Prozent der angezeigten Verdachtsfälle von Berufskrankheiten 1994 wurden anerkannt?",
+  "answer": "21,45%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**1994 wurden etwa 24 Prozent der angezeigten Verdachtsfälle von Berufskrankheiten anerkannt.**\n\nDiese Zahl ergibt sich aus der langfristigen Entwicklung der Anerkennungsquoten, die für die Jahre um 1994 und auch später dokumentiert ist. Verschiedene Quellen zeigen, dass in den 1990er Jahren die Anerkennungsrate bei rund einem Viertel der angezeigten Verdachtsfälle lag. So wird in den Daten für die Folgejahre (z.B. 1995) eine Anerkennungsquote von etwa 24 Prozent genannt, was als repräsentativ für den Zeitraum um 1994 angesehen werden kann[2][4][3].\n\nDie Anerkennungsquote ist dabei geprägt von den versicherungsrechtlichen Voraussetzungen und der Differenz zwischen Verdachtsanzeigen und tatsächlich bestätigten Berufskrankheiten. Einige Krankheitsarten, wie Hauterkrankungen oder Bandscheibenerkrankungen, weisen eine besonders hohe Diskrepanz zwischen Anzeige und Anerkennung auf, was die Gesamtquote beeinflusst[3].\n\nZusammenfassend lässt sich sagen, dass im Jahr 1994 etwa ein Viertel der gemeldeten Verdachtsfälle von Berufskrankheiten auch tatsächlich anerkannt wurden.\n\n### Quellen\n- **[1]** www.bgw-online.de/bgw-online-de/presse/deutlich-weniger-berufskrankheiten-im-vergangenen-jahr-104896 (www.bgw-online.de) – https://www.bgw-online.de/bgw-online-de/presse/deutlich-weniger-berufskrankheiten-im-vergangenen-jahr-104896\n- **[2]** www.sozialpolitik-aktuell.de/files/sozialpolitik-aktuell/_Politikfelder/Arbeitsbedingungen/Datensammlung/PDF-Dateien/tabV3.pdf (www.sozialpolitik-aktuell.de) – https://www.sozialpolitik-aktuell.de/files/sozialpolitik-aktuell/_Politikfelder/Arbeitsbedingungen/Datensammlung/PDF-Dateien/tabV3.pdf\n- **[3]** edoc.rki.de/bitstream/handle/176904/3190/253bKE5YVJxo_32.pdf (edoc.rki.de) – https://edoc.rki.de/bitstream/handle/176904/3190/253bKE5YVJxo_32.pdf?sequence=1&isAllowed=y\n- –\n- www.sozialpolitik-aktuell.de/files/sozialpolitik-aktuell/_Politikfelder/Arbeitsbedingungen/Datensammlung/PDF-Dateien/abbV6.pdf (www.sozialpolitik-aktuell.de) – https://www.sozialpolitik-aktuell.de/files/sozialpolitik-aktuell/_Politikfelder/Arbeitsbedingungen/Datensammlung/PDF-Dateien/abbV6.pdf\n- www.gbe-bund.de/pdf/Heft_38_und_Wertetabellen.pdf (www.gbe-bund.de) – https://www.gbe-bund.de/pdf/Heft_38_und_Wertetabellen.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort nennt etwa 24%, während der Goldstandard 21,45% ist. Die Antwort ist thematisch korrekt, aber nicht exakt und bleibt zu ungenau für die konkrete Jahreszahl."
+  },
+  "file_type": "csv"
+}

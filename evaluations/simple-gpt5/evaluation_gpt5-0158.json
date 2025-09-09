@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0158",
+  "run_at": "2025-09-04T15:48:21.147629Z",
+  "question_id": 158,
+  "question": "Wie hoch waren die Auszahlungen der Stadt Oldenburg für Schule und Bildung in den Jahren 2022 und 2023 insgesamt?",
+  "answer": "7775300€ insgesamt",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ich habe leider keinen Offline-Zugriff auf die exakten Ist-Zahlen der Stadt Oldenburg. Die gesuchten „Auszahlungen“ (Finanzhaushalt) für „Schule und Bildung“ finden Sie jedoch in den offiziellen Haushalts- bzw. Jahresabschlussunterlagen der Stadt:\n\n- Stadt Oldenburg – Jahresabschluss 2023: Finanzrechnung/Finanzhaushalt nach Aufgabenbereichen bzw. nach Produktbereichen/Teilhaushalten; dort „Schule und Bildung“ (oft Teilhaushalt/Produktbereich Schule). Enthält die Ist-Auszahlungen 2023 und die Vergleichszahl 2022.\n- Stadt Oldenburg – Jahresabschluss 2022: Finanzrechnung/Finanzhaushalt nach Aufgabenbereichen; Position „Schule und Bildung“ (Ist 2022).\n- Alternativ: Stadt Oldenburg – Haushaltsplan 2024 (Band „Ergebnis- und Finanzhaushalt“): Tabellen mit „Ist“ der Vorjahre im Finanzhaushalt nach Produktbereichen/Teilhaushalten; Zeile „Schule und Bildung“.\n\nQuellen:\n- Stadt Oldenburg (Oldb), Jahresabschluss 2023, Finanzrechnung/Finanzhaushalt nach Aufgaben-/Produktbereichen (Schule und Bildung).\n- Stadt Oldenburg (Oldb), Jahresabschluss 2022, Finanzrechnung/Finanzhaushalt nach Aufgaben-/Produktbereichen (Schule und Bildung).\n- Stadt Oldenburg (Oldb), Haushaltsplan 2024, Band Ergebnis- und Finanzhaushalt: Finanzhaushalt – Auszahlungen nach Produktbereichen/Teilhaushalten (Position Schule und Bildung, mit Ist 2022/2023).\n\nHinweis: In den Dokumenten kann „Schule und Bildung“ als eigener Teilhaushalt/Produktbereich oder als „Schulen‌ ausgewiesen sein. Maßgeblich sind die „Auszahlungen“ im Finanzhaushalt (nicht „Aufwendungen“ im Ergebnishaushalt).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt keine konkrete Zahl an, obwohl die Frage eine spezifische Summe für die Auszahlungen verlangt. Stattdessen verweist sie auf Dokumente, in denen die Information gefunden werden könnte. Dies macht die Antwort für die gestellte Frage inkorrekt."
+  }
+}

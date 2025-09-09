@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0151",
+  "run_at": "2025-09-04T18:25:28.497589Z",
+  "question_id": 151,
+  "question": "Gab die Stadt Köln im Jahr 2011 mehr für Personalauszahlungen oder für Transferauszahlungen aus?",
+  "answer": "Im Jahr 2011 gab die Stadt Köln mehr für Transferauszahlungen (1.076.691.190€) aus als für Personalauszahlungen (652.812.529€).",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2011 hat die Stadt Köln mehr für Transferauszahlungen als für Personalauszahlungen ausgegeben. Laut dem Haushaltsplanentwurf für 2010/2011 betrugen die Ausgaben für soziale Hilfen im Jahr 2011 695.223.618 Euro, was 21 % der Gesamtausgaben ausmachte. Die Ausgaben für die Kinder-, Jugend- und Familienhilfe beliefen sich auf 552.305.891 Euro, entsprechend 17 % der Gesamtausgaben. Zusammen ergeben diese Transferausgaben 1.247.529.509 Euro. Im Vergleich dazu lagen die Personalausgaben bei 512.522.629,88 Euro. ([report-k.de](https://www.report-k.de/ratssitzung-juli-stadtverwaltung-bringt-haushaltsplanentwurf-2010-2011-ein-14942/?utm_source=openai), [politik-bei-uns.de](https://politik-bei-uns.de/file/54a1b86e1ae6a018f4c0ddaa?utm_source=openai)) \n\n### Quellen\n- **[1]** Ratssitzung Juli: Stadtverwaltung bringt Haushaltsplanentwurf 2010/ 2011 ein - Report-K (www.report-k.de) – https://www.report-k.de/ratssitzung-juli-stadtverwaltung-bringt-haushaltsplanentwurf-2010-2011-ein-14942/?utm_source=openai\n- **[2]** Datei aus Köln: None | Politik bei uns (politik-bei-uns.de) – https://politik-bei-uns.de/file/54a1b86e1ae6a018f4c0ddaa?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Das LLM nennt falsche Zahlen und verlinkt Quellen, die sich auf andere Jahre beziehen oder nicht mehr erreichbar sind."
+  }
+}

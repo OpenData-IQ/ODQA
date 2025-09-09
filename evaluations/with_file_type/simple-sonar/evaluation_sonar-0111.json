@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0111",
+  "run_at": "2025-09-04T19:01:30.747822Z",
+  "question_id": 111,
+  "question": "Wie sind die Öffnungszeiten der Waisenhausapotheke in Rostock?",
+  "answer": "es gibt sie nicht",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die **Öffnungszeiten der Waisenhausapotheke in Rostock** konnten in den vorliegenden Suchergebnissen nicht direkt gefunden werden. Die Website der Waisenhaus-Apotheke (waisenhaus-apotheke.de) wurde zwar genannt, enthält aber keine Angaben zu Öffnungszeiten oder Adresse in den Suchergebnissen[1].\n\nAndere Apotheken in Rostock, wie die Altstadt Apotheke oder die Aesculap Apotheke, haben folgende Öffnungszeiten als Referenz:\n\n| Apotheke           | Montag–Freitag       | Samstag          |\n|--------------------|----------------------|------------------|\n| Altstadt Apotheke   | 8:00 – 18:30 Uhr     | 8:00 – 12:00 Uhr |\n| Aesculap Apotheke   | 8:00 – 18:00 Uhr     | 9:00 – 12:00 Uhr |\n\nDa die Waisenhausapotheke nicht explizit gelistet ist, empfehle ich, direkt die Website der Waisenhaus-Apotheke zu besuchen oder telefonisch nach den aktuellen Öffnungszeiten zu fragen, da diese Informationen in den Suchergebnissen nicht verfügbar sind[1].\n\nFalls Sie die Adresse oder Telefonnummer der Waisenhausapotheke benötigen, ist diese ebenfalls nicht in den Suchergebnissen enthalten. Eine direkte Kontaktaufnahme über die offizielle Website wäre der beste Weg.\n\n### Quellen\n- **[1]** www.waisenhaus-apotheke.de/ (www.waisenhaus-apotheke.de) – http://www.waisenhaus-apotheke.de\n- –\n- www.altstadt-apotheke-rostock.de/ (www.altstadt-apotheke-rostock.de) – https://www.altstadt-apotheke-rostock.de\n- www.world-qr.com/inhalte/new/qr-fuehrer/de/mecklenburg_vorpommern/rostock_kf/einkaufen/einkaufen_rostock/einkaufen_rostock_detharding_apotheke (www.world-qr.com) – https://www.world-qr.com/inhalte/new/qr-fuehrer/de/mecklenburg_vorpommern/rostock_kf/einkaufen/einkaufen_rostock/einkaufen_rostock_detharding_apotheke\n- aesculap-apotheke-rostock.de/oeffnungszeiten.html (aesculap-apotheke-rostock.de) – https://aesculap-apotheke-rostock.de/oeffnungszeiten.html\n- www.apoguide.de/apothekensuche (www.apoguide.de) – https://www.apoguide.de/apothekensuche?search=18059",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort stellt fest, dass es die Waisenhausapotheke nicht gibt, während die LLM-Antwort davon ausgeht, dass sie existiert und gibt allgemeine Hinweise. Das ist sachlich falsch."
+  },
+  "file_type": "csv"
+}

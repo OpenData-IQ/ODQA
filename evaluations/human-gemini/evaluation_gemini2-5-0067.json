@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0067",
+  "run_at": "2025-09-01T05:35:39.036693Z",
+  "question_id": 67,
+  "question": "Wo gab es am 30.06.24 mehr männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss? In Lübeck oder in Halle?",
+  "answer": "In Halle",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "The provided datasets do not contain the requested information about \"männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss\" for Lübeck and Halle. The first dataset is specific to \"Handwerksunternehmen in Lübeck\" and the second one is about \"Öffentliche Haushalte\". Therefore, I cannot answer your question.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort behauptet, dass die benötigten Daten nicht vorhanden seien, und liefert daher keine Antwort. Das fällt unter „not found“ gemäß den Regeln."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0020",
+  "run_at": "2025-09-06T09:48:30.878305Z",
+  "question_id": 20,
+  "question": "Von wann bis wann ging 2024 die Badesaison am Vollstedter See?",
+  "answer": "01.06.24 bis 15.09.24",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "FinalAnswer.\nDie Badesaison 2024 am Vollstedter See lief vom 01.06.2024 bis zum 15.09.2024.\n\nQuelle: https://opendata.schleswig-holstein.de/dataset/49bc7061-399c-4c95-8e6e-6ccea0514854 (Datei: https://efi2.schleswig-holstein.de/bg/opendata/v_badesaison_odata.csv)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie gibt den genauen Zeitraum der Badesaison an und liefert eine relevante Quelle zur Verifizierung."
+  },
+  "file_type": "csv"
+}

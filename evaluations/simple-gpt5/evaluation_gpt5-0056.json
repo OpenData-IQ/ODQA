@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0056",
+  "run_at": "2025-09-04T14:19:10.000560Z",
+  "question_id": 56,
+  "question": "Was ist die Adresse des Deutschen Wetterdienstes?",
+  "answer": "Frankfurter Straße 135, 63067 Offenbach am Main",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Deutscher Wetterdienst (Hauptsitz)\nFrankfurter Straße 135, 63067 Offenbach am Main, Deutschland\n\n(Optional Postanschrift)\nPostfach 10 04 65, 63004 Offenbach am Main, Deutschland\n\nQuellen:\n- DWD – Impressum: https://www.dwd.de/DE/service/impressum/impressum_node.html\n- DWD – Kontakt: https://www.dwd.de/DE/service/kontakt/kontakt_node.html",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält die genaue Adresse des Hauptsitzes sowie eine optionale Postanschrift und relevante Quellenlinks."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0040",
+  "run_at": "2025-09-04T18:53:11.011517Z",
+  "question_id": 40,
+  "question": "Welche radioaktiven Schwebstoffe wurden im Februar und März 2025 im Blankenese Strom der Elbe nachgewiesen?",
+  "answer": "Cäsium, Kalium, Beryllium",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Februar und März 2025 wurden im Blankenese Strom der Elbe keine spezifischen radioaktiven Schwebstoffe öffentlich dokumentiert oder veröffentlicht. Die verfügbaren Quellen berichten allgemein über erhöhte Belastungen der Unterelbe mit Transuranen wie Plutonium und Americium, die jedoch nicht zeitlich auf Februar und März 2025 eingegrenzt sind und deren Herkunft teilweise ungeklärt bleibt[1]. \n\nEs gibt Hinweise auf regelmäßige radioaktive Atomtransporte durch Hamburg und den Elbe-Hafen, auch im Zeitraum Anfang 2025, die Uran-Kernbrennstoff und sonstiges radioaktives Material betreffen, jedoch keine konkreten Messwerte oder Nachweise von radioaktiven Schwebstoffen im Elbstrom selbst für Februar und März 2025[3].\n\nDie Jahresberichte des Bundesumweltministeriums (BMU) zu Umweltradioaktivität weisen auf eine erhöhte Belastung der Unterelbe mit Transuranen hin, insbesondere Plutonium und Americium, die nicht aus weltweitem Fallout stammen, sondern vermutlich aus Ableitungen von Wiederaufbereitungsanlagen in La Hague und Sellafield. Konkrete Messwerte für die Monate Februar und März 2025 sind jedoch nicht veröffentlicht worden[1].\n\nZusammenfassend liegen keine öffentlich zugänglichen, spezifischen Nachweise oder Messdaten zu radioaktiven Schwebstoffen im Blankenese Strom der Elbe für Februar und März 2025 vor. Die Belastung mit Transuranen in der Unterelbe ist bekannt, aber nicht auf den genannten Zeitraum datiert. \n\nQuellen:\n- Erhöhte Transuranbelastung der Unterelbe mit Plutonium und Americium, Herkunft ungeklärt, keine spezifischen Messungen für Feb/März 2025[1].\n- Atomtransporte durch Hamburg und Elbe-Hafen Anfang 2025, aber keine direkten Nachweise im Elbstrom[3].\n\n### Quellen\n- **[1]** www.strahlentelex.de/Stx_10_566_S07.pdf (www.strahlentelex.de) – http://www.strahlentelex.de/Stx_10_566_S07.pdf\n- **[2]** schleswig-holstein.de/mm/downloads/Fachinhalte/Reaktorsicherheit/StilllegungUmweltvertraeglichkeitsuntersuchungKKK.pdf (schleswig-holstein.de) – https://schleswig-holstein.de/mm/downloads/Fachinhalte/Reaktorsicherheit/StilllegungUmweltvertraeglichkeitsuntersuchungKKK.pdf\n- –\n- umweltfairaendern.de/2022/03/09/weiterhin-viele-radioaktive-atomtransporte-durch-hamburg-ueber-strassen-und-elbe-hafen/ (umweltfairaendern.de) – https://umweltfairaendern.de/2022/03/09/weiterhin-viele-radioaktive-atomtransporte-durch-hamburg-ueber-strassen-und-elbe-hafen/\n- www.umweltbundesamt.de/sites/default/files/medien/publikation/long/2629.pdf (www.umweltbundesamt.de) – https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/2629.pdf\n- www.schleswig-holstein.de/mm/downloads/Fachinhalte/Reaktorsicherheit/LasmAaZ_Umweltvertraeglichkeitsuntersuchung.pdf (www.schleswig-holstein.de) – https://www.schleswig-holstein.de/mm/downloads/Fachinhalte/Reaktorsicherheit/LasmAaZ_Umweltvertraeglichkeitsuntersuchung.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "LLM-Antwort stimmt nicht mit dem Goldstandard überein."
+  },
+  "file_type": "csv"
+}

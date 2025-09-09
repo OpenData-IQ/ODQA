@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0177",
+  "run_at": "2025-09-04T19:09:00.755281Z",
+  "question_id": 177,
+  "question": "Wie hoch war der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017?",
+  "answer": "Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher liegen dazu keine Daten vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Anteil der marsianischen Staatsbürger in Rostock-Lichtenhagen im Jahr 2017 betrug **0 %**, da es keine bekannten oder offiziellen Daten über Staatsbürger vom Mars gibt. Marsianische Staatsbürger existieren nicht, da der Mars kein souveräner Staat ist und keine menschliche Bevölkerung mit Staatsbürgerschaft besitzt.\n\nDie verfügbaren Daten zu Rostock-Lichtenhagen beziehen sich auf Menschen mit Migrationshintergrund und ausländische Staatsbürger von real existierenden Ländern auf der Erde. Zum Beispiel lebten 2019 in Rostock-Lichtenhagen 1626 Einwohner mit Migrationshintergrund, darunter 1051 ausländische Staatsbürger, jedoch keine von einem fiktiven oder außerirdischen Staat wie Mars[2][4].\n\nZusammengefasst: Es gibt keine marsianischen Staatsbürger in Rostock-Lichtenhagen oder anderswo auf der Erde, daher ist ihr Anteil 2017 (und zu jedem anderen Zeitpunkt) null.\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/Ausschreitungen_in_Rostock-Lichtenhagen (de.wikipedia.org) – https://de.wikipedia.org/wiki/Ausschreitungen_in_Rostock-Lichtenhagen\n- **[2]** de.wikipedia.org/wiki/Lichtenhagen_(Rostock) (de.wikipedia.org) – https://de.wikipedia.org/wiki/Lichtenhagen_(Rostock)\n- –\n- www.korientation.de/ein-kalter-fall-das-pogrom-in-rostock-lichtenhagen-als-institutionalisierter-rassismus/ (www.korientation.de) – https://www.korientation.de/ein-kalter-fall-das-pogrom-in-rostock-lichtenhagen-als-institutionalisierter-rassismus/\n- rathaus.rostock.de/media/4984/Entwicklung%20der%20Bev%C3%B6lkerung%20mit%20ausl%C3%A4ndischer%20Staatsangeh%C3%B6rigkeit.PDF (rathaus.rostock.de) – https://rathaus.rostock.de/media/4984/Entwicklung%20der%20Bev%C3%B6lkerung%20mit%20ausl%C3%A4ndischer%20Staatsangeh%C3%B6rigkeit.PDF\n- www.korientation.de/tag/rostock-lichtenhagen/ (www.korientation.de) – https://www.korientation.de/tag/rostock-lichtenhagen/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist vollständig, korrekt und erklärt, warum es keine marsianischen Staatsbürger gibt. Sie liefert zusätzliche Kontextinformationen und verweist auf relevante Quellen."
+  },
+  "file_type": "csv"
+}

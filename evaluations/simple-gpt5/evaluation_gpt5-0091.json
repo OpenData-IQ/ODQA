@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0091",
+  "run_at": "2025-09-04T14:47:59.281471Z",
+  "question_id": 91,
+  "question": "Welcher Agrarorganisation für lebende Pflanzen kann ich mich in der nähe von 97286 Sommerhausen anschließen?",
+  "answer": "Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Rund um 97286 Sommerhausen (Landkreis Würzburg, Unterfranken) kommen für Betriebe, die lebende Pflanzen (Zierpflanzen, Stauden, Baumschulware, Jungpflanzen) produzieren, vor allem diese Berufs- und Erzeugerorganisationen in Frage:\n\n- Bayerischer Gärtnereiverband e. V. (Landesverband im ZVG; für alle Sparten des Erwerbsgartenbaus, Regionalgruppe Unterfranken)\n  Zweck: Berufsvertretung, Beratung, Netzwerk, Fortbildung. Mitgliedschaft für gärtnerische Unternehmen.\n  Quelle: Zentralverband Gartenbau (ZVG) – Übersicht der Landesverbände: https://www.zvg.org/verband/landesverbaende/\n\n- Bund deutscher Baumschulen e. V. (BdB) – Landesverband Bayern\n  Für Baumschulbetriebe (Gehölze, Rosen, Obstgehölze). Bietet Interessenvertretung, Fachinformation, Marketing.\n  Quelle: BdB – Landesverbände: https://www.bdb.de/verband/landesverbaende\n\n- Bund deutscher Staudengärtner (BdS) im ZVG\n  Speziell für Stauden-/Zierpflanzenbetriebe; Fachverband mit eigenem Netzwerk und Qualitätssystemen.\n  Quellen: ZVG – Fachverbände: https://www.zvg.org/verband/fachverbaende/ und BdS: https://www.stauden.de/\n\n- Landgard eG (Erzeugergenossenschaft für Blumen & Pflanzen sowie Obst & Gemüse)\n  Für Zierpflanzen- und Jungpflanzen-Produzenten, mit Vermarktung, Logistik und Cash&Carry-Standorten in Bayern.\n  Quelle: Landgard – Produzenten/Mitgliedschaft: https://www.landgard.de/de/produzenten\n\n- Weinbauverband Franken e. V. (falls Ihr Betrieb Reben/Weinbau betrifft)\n  Regionale Berufsvertretung für Franken (Sommerhausen liegt im fränkischen Weinbaugebiet).\n  Quelle: Weinbauverband Franken: https://www.frankenwein-aktuell.de/\n\nZusätzlicher Fachkontakt vor Ort (keine Mitgliedsorganisation, aber sehr hilfreich):\n- Bayerische Landesanstalt für Weinbau und Gartenbau (LWG) Veitshöchheim – Gartenbauzentrum Bayern Nord\n  Beratung, Versuche, Netzwerke und Fortbildung in unmittelbarer Nähe zu Sommerhausen.\n  Quelle: https://www.lwg.bayern.de/\n\nHinweis: Für allgemeine Vernetzung vor Ort (eher Hobby-/Vereinsbereich) existieren die Kreisverbände für Gartenbau und Landespflege, z. B. im Landkreis Würzburg.\nQuelle (Dachverband): https://www.gartenbauvereine.org/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend und bietet mehrere relevante Organisationen mit Links, die über die spezifische Goldstandard-Antwort hinausgehen. Sie ist sehr hilfreich und gut strukturiert."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0046",
+  "run_at": "2025-09-04T18:44:46.439721Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "kontakt@theater-senftenberg.de",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n## [Neue Bühne Senftenberg](https://www.google.com/maps/search/Neue?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM provided a link to Google Maps search results for 'Neue Bühne Senftenberg' but did not provide an email address. The gold standard answer states that no email address is given, indicating the LLM's response is incorrect as it doesn't address the core question or the premise."
+  }
+}

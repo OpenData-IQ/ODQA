@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0011",
+  "run_at": "2025-09-04T18:49:57.585333Z",
+  "question_id": 11,
+  "question": "Gibt es noch Telefonzellen in der Metropolregion Rhein-Neckar?",
+  "answer": "ja",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "In der Metropolregion Rhein-Neckar gibt es vereinzelt noch Telefonzellen, sie sind jedoch größtenteils außer Betrieb und werden zunehmend abgebaut. In Mannheim stehen noch einige Telefonzellen, die aber meist nicht mehr funktionieren, da sie bereits abgeschaltet wurden. Ein Beispiel ist eine Telefonzelle in D6, die äußerlich intakt wirkt, aber keine Telefonverbindung mehr ermöglicht[2]. \n\nDie Deutsche Telekom, Betreiberin der Telefonzellen, hat angekündigt, die letzten öffentlichen Telefone bis Anfang 2025 abzubauen, da der Bedarf durch Mobiltelefone stark zurückgegangen ist und die Kosten für Betrieb und Instandhaltung nicht mehr wirtschaftlich sind[2][4]. Auch in Speyer, einer Stadt in der Rhein-Neckar-Region, begann im Juli 2024 der Rückbau der Telefonzellen auf der Maximilianstraße[5].\n\nZusammengefasst: **Telefonzellen existieren noch vereinzelt in der Metropolregion Rhein-Neckar, sind aber größtenteils außer Betrieb und werden bis spätestens Anfang 2025 weitgehend entfernt**[2][4][5].\n\n### Quellen\n- **[1]** www.h2rivers.de/ (www.h2rivers.de) – https://www.h2rivers.de\n- **[2]** www.mannheimer-morgen.de/leben/treffen_artikel,-menschen-in-der-region-die-letzten-ihrer-art-warum-in-mannheim-immer-noch-telefonzellen-stehen-_arid,2295812.html (www.mannheimer-morgen.de) – https://www.mannheimer-morgen.de/leben/treffen_artikel,-menschen-in-der-region-die-letzten-ihrer-art-warum-in-mannheim-immer-noch-telefonzellen-stehen-_arid,2295812.html\n- **[3]** deutsche-metropolregionen.org/metropolregion/rhein-neckar/ (deutsche-metropolregionen.org) – https://deutsche-metropolregionen.org/metropolregion/rhein-neckar/\n- –\n- www.telekom.com/de/blog/konzern/artikel/die-letzten-groschen-sind-gefallen-1019918 (www.telekom.com) – https://www.telekom.com/de/blog/konzern/artikel/die-letzten-groschen-sind-gefallen-1019918\n- www.mrn-news.de/2024/06/27/speyer-rueckbau-der-telefonzellen-auf-der-maximilianstrasse-startet-am-1-juli-537968/ (www.mrn-news.de) – https://www.mrn-news.de/2024/06/27/speyer-rueckbau-der-telefonzellen-auf-der-maximilianstrasse-startet-am-1-juli-537968/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend, nennt konkrete Beispiele, erklärt die aktuelle Situation und enthält mehrere relevante Quellen. Sie ist deutlich ausführlicher und informativer als das Goldstandard-Antwortfeld ('ja')."
+  }
+}

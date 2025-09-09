@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0187",
+  "run_at": "2025-09-02T00:00:09.638086Z",
+  "question_id": 187,
+  "question": "Wie viele Radfahrer wurden am 1. Januar 2014 zwischen 0 und 4 Uhr an der Oberkasseler Brücke Süd in Düsseldorf gezählt?",
+  "answer": "28",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "**FinalAnswer:**  \nAm 1. Januar 2014 wurden zwischen 0 und 4 Uhr an der Oberkasseler Brücke Süd in Düsseldorf insgesamt **12 Radfahrer** gezählt.  \nQuelle: [Wetterabhängige Jahresübersicht der Dauerzählstellen Radverkehr 2014](https://opendata.duesseldorf.de/dataset/3715f4db-79e2-428f-b456-17da443ddc01).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der Goldstandard lautet 28; das LLM gibt 12 an und liegt damit falsch."
+  }
+}

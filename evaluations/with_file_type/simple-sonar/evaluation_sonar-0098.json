@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0098",
+  "run_at": "2025-09-04T18:59:45.134178Z",
+  "question_id": 98,
+  "question": "War das Budget des \"Bundesministeriums für Bildung und Forschung\" für Betriebliche Weiterbildung im Jahr 2015 oder 2016 höher?",
+  "answer": "2016 war es höher",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "2015: 11,1 Milliarden Euro und 2016: 11,2 Milliarden Euro",
+  "llm_final": "Das Budget des Bundesministeriums für Bildung und Forschung (BMBF) für betriebliche Weiterbildung war im Jahr 2016 höher als im Jahr 2015.\n\nBegründung:  \n- Für das Jahr 2017 war im Haushaltsplan des BMBF ein Budget von 17,65 Milliarden Euro vorgesehen, was eine Steigerung gegenüber den Vorjahren darstellt. Im Jahr 2016 lag das Budget für Bildung und Forschung bei etwa 9 % des Bruttoinlandsprodukts, ähnlich wie im Vorjahr 2015, aber mit einer Tendenz zu steigenden Ausgaben[2].  \n- Die Gesamtausgaben für Weiterbildung in Deutschland, inklusive betrieblicher Weiterbildung, wurden für 2016 auf bis zu 58,2 Milliarden Euro geschätzt, was eine Zunahme gegenüber 2015 darstellt[1].  \n- Konkrete Zahlen speziell für das BMBF-Budget für betriebliche Weiterbildung im Jahr 2015 sind nicht direkt genannt, jedoch zeigen die Haushaltspläne und Berichte eine Steigerung der Mittel im Bereich Bildung und Forschung von 2015 auf 2016[2][5].\n\nDaher ist anzunehmen, dass das Budget des BMBF für betriebliche Weiterbildung 2016 höher war als 2015.\n\n### Quellen\n- **[1]** www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Studie_Reform_Weiterbildungssystem_Impulse_aus_dem_Ausland.pdf (www.bertelsmann-stiftung.de) – https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Studie_Reform_Weiterbildungssystem_Impulse_aus_dem_Ausland.pdf\n- **[2]** dserver.bundestag.de/btd/19/033/1903389.pdf (dserver.bundestag.de) – https://dserver.bundestag.de/btd/19/033/1903389.pdf\n- **[3]** www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Weiterbildung/Publikationen/Downloads-Weiterbildung/weiterbildung-unternehmen-5215201159004.pdf (www.destatis.de) – https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Weiterbildung/Publikationen/Downloads-Weiterbildung/weiterbildung-unternehmen-5215201159004.pdf?__blob=publicationFile\n- –\n- www.arbeitsagentur.de/datei/hp-2015_ba026670.pdf (www.arbeitsagentur.de) – https://www.arbeitsagentur.de/datei/hp-2015_ba026670.pdf\n- www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/LL_Hintergrundstudie_Weiterbildungsfinanzierung1995-2015.pdf (www.bertelsmann-stiftung.de) – https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/LL_Hintergrundstudie_Weiterbildungsfinanzierung1995-2015.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort ist zwar korrekt. Allerdings basieren die Aussagen auf Schätzungen mit sehr umfangreichen Annahmen."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0146",
+  "run_at": "2025-09-04T15:38:53.420085Z",
+  "question_id": 146,
+  "question": "Wie viele Familien mit Kindern gab es zum Stichtag 31.12.2010 insgesamt in der Gemeinde Hürtgenwald?",
+  "answer": "933",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es gab 1.090 Familien mit Kindern in der Gemeinde Hürtgenwald zum Stichtag 31.12.2010.\n\nQuelle:\n- IT.NRW (Statistisches Landesamt NRW), Regionaldatenbank NRW: “Familien am Ort der Hauptwohnung – Familien mit minderjährigen Kindern – Gemeinden – Stichtag 31.12.2010”, Gemeinde Hürtgenwald (AGS 05358016), Kreis Düren.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebene Zahl (1.090) stimmt nicht mit der korrekten Antwort (933) überein. Obwohl eine Quelle angegeben wird, ist die Antwort falsch."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0112",
+  "run_at": "2025-09-01T22:04:21.010283Z",
+  "question_id": 112,
+  "question": "Welche Metzgerei ist in der Nähe des Pflegezentrums Hockenheim?",
+  "answer": "S. Albert in der Rathhausstraße 31",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "alternativ geojson: pflegeheime.json, metzgereien.json",
+  "llm_final": "**FinalAnswer:**  \nDerzeit sind keine spezifischen Metzgereien in der Nähe des Pflegezentrums Hockenheim in offenen Datensätzen auf govdata.de verzeichnet. Es könnte hilfreich sein, lokale Branchenverzeichnisse oder Online-Kartendienste zu nutzen.  \n**Quelle:** [govdata.de Suchergebnisse](https://www.landesdatenbank.nrw.de/ldbnrwws/downloader/00/tables/62411-03i_00.csv#dataset)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort nennt „S. Albert in der Rathhausstraße 31“. Die LLM-Antwort behauptet fälschlich, es gebe keine spezifischen Metzgereien in der Nähe und liefert damit eine falsche Aussage."
+  }
+}

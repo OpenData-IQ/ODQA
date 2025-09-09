@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0142",
+  "run_at": "2025-09-04T17:45:41.198481Z",
+  "question_id": 142,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018?",
+  "answer": "https://www.opendata-hro.de/dataset/b879e3cf-7671-4989-aa3a-5c8cbc7442bd",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt einen Datensatz, der die gesamte Bevölkerungsbewegung im Jahr 2018 für die verschiedenen Stadtbereiche von Rostock enthält. Er umfasst unter anderem die absolute und relative Bestandsveränderung sowie die Veränderung je 1.000 Einwohnerinnen und Einwohner.",
+  "llm_final": "Ja, es gibt Daten zur Bevölkerungsentwicklung in den einzelnen Stadtbereichen von Rostock für das Jahr 2018. Die folgende Tabelle zeigt die Einwohnerzahlen mit Hauptwohnsitz zum 31. Dezember 2018 für jeden Stadtbereich:\n\n| Stadtbereich                     | Einwohnerzahl am 31.12.2018 |\n|----------------------------------|-----------------------------|\n| A Warnemünde                     | 8.274                       |\n| B Rostock-Heide                  | 1.568                       |\n| C Lichtenhagen                   | 14.125                      |\n| D Groß Klein                     | 13.557                      |\n| E Lütten Klein                   | 17.091                      |\n| F Evershagen                     | 16.989                      |\n| G Schmarl                        | 8.787                       |\n| H Reutershagen                   | 17.830                      |\n| I Hansaviertel                   | 8.391                       |\n| J Gartenstadt/Stadtweide         | 3.299                       |\n| K Kröpeliner-Tor-Vorstadt        | 19.570                      |\n| L Südstadt                       | 14.941                      |\n| M Biestow                        | 2.736                       |\n| N Stadtmitte                     | 20.593                      |\n| O Brinckmansdorf                 | 8.322                       |\n| P Dierkow-Neu                    | 10.926                      |\n| Q Dierkow-Ost                    | 1.039                       |\n| R Dierkow-West                   | 1.206                       |\n| S Toitenwinkel                   | 14.009                      |\n| T Gehlsdorf                      | 4.615                       |\n| U Rostock-Ost                    | 1.217                       |\n| **Rostock insgesamt**            | **209.085**                 |\n\nDiese Daten stammen aus dem Einwohnermelderegister der Hanse- und Universitätsstadt Rostock. ([rathaus.rostock.de](https://rathaus.rostock.de/sixcms/detail.php?_sid1=&_sid2=&_sid3=&_sid4=&_sid5=&id=254079&utm_source=openai)) \n\n### Quellen\n- **[1]** Rostock - Bevölkerungsentwicklung nach Stadtbereichen (rathaus.rostock.de) – https://rathaus.rostock.de/sixcms/detail.php?_sid1=&_sid2=&_sid3=&_sid4=&_sid5=&id=254079&utm_source=openai",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Es wird zwar eine Quelle angegeben. Diese enthält aber nur einen Teil der für das Thema Bevölkerungsentwicklung relevanten Daten."
+  }
+}

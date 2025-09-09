@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0057",
+  "run_at": "2025-09-04T18:55:07.768004Z",
+  "question_id": 57,
+  "question": "Wie viel radioaktives Neptunium wurde 2014 in Rapsschrot nachgewiesen?",
+  "answer": "Die Angabe ist: n.n.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zu der Frage, wie viel radioaktives Neptunium 2014 in Rapsschrot nachgewiesen wurde, liegen in den bereitgestellten Suchergebnissen keine Informationen vor. Die einzige gefundene Quelle bezieht sich auf Messergebnisse zur Radioaktivität in Putenfleisch aus dem Ausland im Jahr 2014, enthält aber keine Angaben zu Rapsschrot oder Neptunium[1].\n\nDaher kann ich auf Basis der vorliegenden Daten keine Aussage zum Nachweis von radioaktivem Neptunium in Rapsschrot im Jahr 2014 treffen.\n\n### Quellen\n- **[1]** suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-putenfleisch-ausland-16-10-2014 (suche.transparenz.hamburg.de) – https://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-putenfleisch-ausland-16-10-2014",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zum Nachweis von Neptunium in Rapsschrot 2014 vorliegen. Es gibt aber einen Datensatz, in dem Neptunium ausgewiesen ist."
+  },
+  "file_type": "csv"
+}

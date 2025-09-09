@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0121",
+  "run_at": "2025-09-01T22:19:30.661646Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 112193 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'raw': {'error_type': 'validation_error', 'error_message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 112193 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}'}, 'provider_name': 'DeepInfra'}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Die LLM-Antwort ist ein Fehler wegen überschrittener Eingabelängen-/Token-Grenze. Es wurde keine inhaltliche Antwort gegeben."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0184",
+  "run_at": "2025-08-31T14:26:11.708178Z",
+  "question_id": 184,
+  "question": "Welcher weibliche Vorname wurde 2021 in der Landgemeinde Titz am häufigsten vergeben?",
+  "answer": "Sophie (5-mal)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Done",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Die finale Antwort enthält keine verwertbare Antwort."
+  },
+  "file_type": "csv"
+}

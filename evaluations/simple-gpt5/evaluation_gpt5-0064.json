@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0064",
+  "run_at": "2025-09-04T14:25:48.074358Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Es tut mir leid — diese konkrete Datei kann ich dir nicht liefern. Eine frei zugängliche, offen lizenzierte Digitalisat-Version der „Biene Maja“-Illustration „Die Wanze stinkt“ mit der Zuschreibung an Peter Christian Rasmussen ist mir in deutschen Open-Data-/GLAM-Beständen nicht bekannt. Zudem stammen die frühesten, gemeinfreien Buchillustrationen zu „Die Biene Maja“ nachweislich von Emil Rudolf Weiß (Erstausgabe 1912); spätere, verbreitete Illustrationen stammen u. a. von Else Wenz‑Viëtor. Die konkrete Kombination „Rasmussen“ + „Die Wanze stinkt“ deutet daher auf eine falsche oder unklare Zuschreibung hin.\n\nVollauflösende, rechtssichere Alternativen (gemeinfrei):\n- Die Biene Maja und ihre Abenteuer (1912) mit den Originalillustrationen von E. R. Weiß (Wikisource, mit eingebundenen Bildern)\n  Quelle: https://de.wikisource.org/wiki/Die_Biene_Maja_und_ihre_Abenteuer\n- Sammlung „Die Biene Maja“ auf Wikimedia Commons (vollauflösende Scans, u. a. der Erstausgabe)\n  Quelle: https://commons.wikimedia.org/wiki/Category:Die_Biene_Maja\n- Hintergrund zu Autor und Illustrator:\n  • Waldemar Bonsels (Autor) – https://de.wikipedia.org/wiki/Waldemar_Bonsels\n  • Emil Rudolf Weiß (Illustrator der Erstausgabe) – https://de.wikipedia.org/wiki/Emil_Rudolf_Wei%C3%9F\n\nHinweis:\n- Wenn du genau diese (vermeintliche) Rasmussen-Illustration suchst, prüfe bitte die Zuschreibung und den exakten Werktitel in den Katalogen von Deutsche Digitale Bibliothek, Europeana oder in den Digitalisaten großer Bibliotheken/Museen. Sollte es sich um eine andere Ausgabe/Illustratorin handeln, findest du dort oft Vollauflösungen mit klaren Lizenzangaben. Quellen (Startseiten): \n  • Deutsche Digitale Bibliothek: https://www.deutsche-digitale-bibliothek.de/\n  • Europeana: https://www.europeana.eu/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM states that it cannot find the specific file and suggests the attribution might be wrong, while the gold standard answer provides the exact URL for the requested image. The LLM's answer is therefore incorrect as it fails to provide the requested resource and gives misleading information about its existence."
+  }
+}

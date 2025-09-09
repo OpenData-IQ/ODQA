@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0064",
+  "run_at": "2025-09-04T17:13:56.327365Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Die Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen ist Teil einer Serie von zehn Radierungen aus dem Jahr 1920, die den Roman \"Die Biene Maja und ihre Abenteuer\" von Jakob Bonsels illustrieren. Diese Werke befinden sich in der Schleswig-Holsteinischen Landesbibliothek. ([museen-nord.de](https://www.museen-nord.de/objekte/DE-MUS-076111/lido/1990-111.2?ceid=7&no_cache=1&tx_joportal_listeneinstieg%5Badd_to_box%5D=DE-MUS-076111%2Flido%2F1990-111.2&tx_joportal_listeneinstieg%5Bjopaginatepage%5D=5658&v=&utm_source=openai))\n\nDie vollständigen hochauflösenden Bilder dieser Radierungen sind unter der folgenden Adresse verfügbar:\n\nhttps://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/\n\nDie spezifische Datei für \"Die Wanze stinkt\" ist unter folgendem Link zu finden:\n\nhttps://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.2.jpg\n\nPlease note that the image files are licensed under CC-BY-SA 4.0 by the Schleswig-Holstein State Library. ([govdata.de](https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen?utm_source=openai)) \n\n### Sources\n- **[1]** Museumsportal Nord: Objects (www.museen-nord.de) – https://www.museen-nord.de/objekte/DE-MUS-076111/lido/1990-111.2?ceid=7&no_cache=1&tx_joportal_listeneinstieg%5Badd_to_box%5D=DE-MUS-076111%2Flido%2F1990-111.2&tx_joportal_listeneinstieg%5Bjopaginatepage%5D=5658&v=&utm_source=openai\n- **[2]** &quot;Biene Maja&quot; Illustrations by Peter Christian Rasmussen - GovData (www.govdata.de) – https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen?utm_source=openai",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "The LLM provides the  URL for the requested image, but the scaling does not seem to be particularly high."
+  }
+}

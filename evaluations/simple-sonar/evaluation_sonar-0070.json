@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0070",
+  "run_at": "2025-09-04T18:56:16.701123Z",
+  "question_id": 70,
+  "question": "In welchem Regierungsbezirk gab es am 31.12.23 die meisten Schutzsuchenden?",
+  "answer": "Im Regierungsbezirk Düsseldorf",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "237.580 Schutzsuchende im Regierungsbezirk Düsseldorf",
+  "llm_final": "Am 31.12.2023 lebten die meisten Schutzsuchenden gemessen am Bevölkerungsanteil in den Stadtstaaten Bremen (5,5 %), Hamburg (4,1 %) und Berlin (4,0 %) sowie im Saarland (4,6 %) in Deutschland[1]. Diese Angaben beziehen sich auf die Bundesländer bzw. Stadtstaaten, nicht auf Regierungsbezirke, da die verfügbaren Daten auf Bundeslandebene ausgewiesen sind.\n\nEine differenziertere Aufschlüsselung nach Regierungsbezirken liegt in den Suchergebnissen nicht vor. Die Stadtstaaten Bremen, Hamburg und Berlin sind zugleich eigenständige Bundesländer ohne weitere Regierungsbezirke. Das Saarland ist ebenfalls ein Bundesland ohne Regierungsbezirke.\n\nZusammenfassend:  \n- Die meisten Schutzsuchenden am Jahresende 2023 gab es relativ zur Bevölkerung in Bremen, Saarland, Hamburg und Berlin.  \n- Eine genaue Angabe für einzelne Regierungsbezirke (z.B. in Bayern oder Nordrhein-Westfalen) ist in den vorliegenden Daten nicht enthalten[1].\n\nFalls Sie eine Aufschlüsselung nach Regierungsbezirken in einem Bundesland mit mehreren Bezirken wünschen, müssten spezifischere Daten von den jeweiligen Landesbehörden oder dem BAMF eingeholt werden, da das Statistische Bundesamt nur Bundeslanddaten veröffentlicht.\n\n### Quellen\n- **[1]** www.destatis.de/DE/Presse/Pressemitteilungen/2024/05/PD24_202_125.html (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/05/PD24_202_125.html\n- –\n- www.lpb-bw.de/fluechtlinge-deutschland (www.lpb-bw.de) – https://www.lpb-bw.de/fluechtlinge-deutschland\n- www.zeit.de/politik/deutschland/2025-06/schutzsuchende-flucht-statistisches-bundesamt-aufenthaltstitel (www.zeit.de) – https://www.zeit.de/politik/deutschland/2025-06/schutzsuchende-flucht-statistisches-bundesamt-aufenthaltstitel\n- integrationsportal.sachsen-anhalt.de/fileadmin/Bibliothek/AGSA/Integrationsbeauftragte/Anlage_zur_KV_Minor_Sachsen-Anhalt_Monitoringbericht_barrierefrei.pdf (integrationsportal.sachsen-anhalt.de) – https://integrationsportal.sachsen-anhalt.de/fileadmin/Bibliothek/AGSA/Integrationsbeauftragte/Anlage_zur_KV_Minor_Sachsen-Anhalt_Monitoringbericht_barrierefrei.pdf\n- www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2023.pdf (www.bamf.de) – https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2023.pdf?__blob=publicationFile&v=2",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt nachvollziehbar, dass keine Daten auf Regierungsbezirksebene vorliegen und verweist auf verfügbare Bundeslanddaten. Die gesuchte Information ist laut Antwort nicht auffindbar."
+  }
+}

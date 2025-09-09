@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0164",
+  "run_at": "2025-09-04T19:07:42.067437Z",
+  "question_id": 164,
+  "question": "In welchem Stadtteil von Jülich erhielt die SPD bei den Landtagswahlen 2012 und 2017 jeweils den höchsten Stimmenanteil bei der Zweitstimme?",
+  "answer": "Die SPD erzielte bei der Landtagswahl 2012 in Bourheim und 2017 in Daubenrath den höchsten Stimmenanteil aller Jülicher Stadtteile",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Bei den Landtagswahlen in Nordrhein-Westfalen 2012 und 2017 erhielt die SPD in der Stadt Jülich jeweils im Stadtteil mit dem höchsten Stimmenanteil bei der Zweitstimme folgende Ergebnisse:\n\n- **2012**: Der höchste Zweitstimmenanteil der SPD lag im Stimmbezirk Pattern (Stadtteil Pattern) mit etwa 32,16 % der Zweitstimmen[3].\n- **2017**: Der höchste Zweitstimmenanteil der SPD in Jülich wurde im Stimmbezirk Merzenhausen (Stadtteil Merzenhausen) mit 25,83 % der Zweitstimmen erzielt[1].\n\nSomit war 2012 der Stadtteil Pattern und 2017 der Stadtteil Merzenhausen der jeweilige SPD-Stärkste Stadtteil bei den Zweitstimmen in Jülich.\n\n### Quellen\n- **[1]** wahlen.regioit.de/1/LW17/05358024/html5/Landtagswahl_NRW_69_Stimmbezirk_152__Merzenhausen_Zweitstimmen.html (wahlen.regioit.de) – https://wahlen.regioit.de/1/LW17/05358024/html5/Landtagswahl_NRW_69_Stimmbezirk_152__Merzenhausen_Zweitstimmen.html\n- **[2]** www.muelheim-ruhr.de/cms/wahlinfo_zur_landtagswahl_2017_-_schnellinformation.html (www.muelheim-ruhr.de) – https://www.muelheim-ruhr.de/cms/wahlinfo_zur_landtagswahl_2017_-_schnellinformation.html\n- –\n- wahlen.regioit.de/1/LW12/05358024/html5/Landtagswahl_NRW_Stimmbezirk_171__Pattern_Zweitstimmen.html (wahlen.regioit.de) – https://wahlen.regioit.de/1/LW12/05358024/html5/Landtagswahl_NRW_Stimmbezirk_171__Pattern_Zweitstimmen.html\n- www.stadt-koeln.de/mediaasset/content/pdf32/wahlen/kurzanalyse.pdf (www.stadt-koeln.de) – https://www.stadt-koeln.de/mediaasset/content/pdf32/wahlen/kurzanalyse.pdf\n- www.duesseldorf.de/fileadmin/Amt12/statistik/stadtforschung/download/LW2017_Wahlanalyse.pdf (www.duesseldorf.de) – https://www.duesseldorf.de/fileadmin/Amt12/statistik/stadtforschung/download/LW2017_Wahlanalyse.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt andere Stadtteile (Pattern und Merzenhausen) als im Goldstandard (Bourheim und Daubenrath) und ist somit sachlich falsch."
+  },
+  "file_type": "csv"
+}

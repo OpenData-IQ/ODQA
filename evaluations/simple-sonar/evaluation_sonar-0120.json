@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0120",
+  "run_at": "2025-09-04T19:02:24.921194Z",
+  "question_id": 120,
+  "question": "Wie lautet der Straßenschlüssel für die Straße 'Knallerballerweg' in Rostock?",
+  "answer": "06100",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der **Straßenschlüssel für die Straße \"Knallerballerweg\" in Rostock** ist in den Suchergebnissen nicht direkt angegeben. Allerdings ist bekannt, dass Rostock als kreisfreie Stadt den Gemeindeschlüssel **13003000** hat[2]. \n\nDer Straßenschlüssel setzt sich in Deutschland üblicherweise aus dem Gemeindeschlüssel plus einer individuellen Straßenkennung zusammen, die von der jeweiligen Kommune vergeben wird. Da der Knallerballerweg im Stadtteil Brinckmansdorf in Rostock liegt[5], gehört er zum Gebiet mit dem Gemeindeschlüssel 13003000.\n\nFür den genauen Straßenschlüssel (also die vollständige Straßen-ID) müsste man bei der Stadt Rostock oder im kommunalen Straßenverzeichnis nachfragen, da diese spezifische Straßenkennung nicht öffentlich in den gefundenen Quellen verfügbar ist.\n\nZusammenfassung:\n- Gemeindeschlüssel Rostock: **13003000**[2]\n- Knallerballerweg ist eine Wohnstraße im Stadtteil Brinckmansdorf in Rostock[5]\n- Der genaue Straßenschlüssel (inkl. Straßen-ID) ist in den verfügbaren Daten nicht direkt auffindbar und wird von der Stadtverwaltung vergeben.\n\n### Quellen\n- **[1]** www.neue-strassen.de/mecklenburg-vorpommern/rostock/knallerballerweg (www.neue-strassen.de) – https://www.neue-strassen.de/mecklenburg-vorpommern/rostock/knallerballerweg\n- **[2]** www.strassenkatalog.de/ort/rostock-rostock-hansestadt.html (www.strassenkatalog.de) – https://www.strassenkatalog.de/ort/rostock-rostock-hansestadt.html\n- –\n- m.unser-stadtplan.de/Stadtplan/Rostock/str/Knallerballerweg.map (m.unser-stadtplan.de) – https://m.unser-stadtplan.de/Stadtplan/Rostock/str/Knallerballerweg.map\n- rathaus.rostock.de/sixcms/detail.php/rostock_01.c.61630.de (rathaus.rostock.de) – https://rathaus.rostock.de/sixcms/detail.php/rostock_01.c.61630.de\n- onlinestreet.de/strassen/Knallerballerweg.Rostock.130859.html (onlinestreet.de) – https://onlinestreet.de/strassen/Knallerballerweg.Rostock.130859.html",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass der exakte Straßenschlüssel nicht in den verfügbaren Quellen gefunden wurde. Die Antwort verweist auf den Gemeindeschlüssel und erklärt das Vorgehen, liefert aber nicht die geforderte konkrete Zahl. Daher Kategorie 'problem_answers' mit Typ 'not found'."
+  }
+}

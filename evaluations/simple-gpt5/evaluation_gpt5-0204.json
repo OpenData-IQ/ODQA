@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0204",
+  "run_at": "2025-09-04T16:28:59.434935Z",
+  "question_id": 204,
+  "question": "In welchem Wahlbezirk liegt die Straße 'Akazienweg' in Heimbach?",
+  "answer": "Die Straße 'Akazienweg' liegt im Wahlbezirk Hasenfeld mit der Wahlbezirksnummer 02.0.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Akazienweg liegt im Wahlbezirk Hasenfeld der Stadt Heimbach (Eifel).\n\nQuellen:\n- Stadt Heimbach (Eifel) – Straßenverzeichnis zu den Wahlbezirken (Wahlleitung; z. B. für Kommunal-/Europa-/Landtagswahlen)\n- Kreis Düren – Bekanntmachung/Verzeichnis der Wahl- und Stimmbezirke der Stadt Heimbach (mit Straßenzuordnung)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und nennt den Wahlbezirk Hasenfeld. Sie liefert zudem relevante Quellen, die die Antwort untermauern und weiterführende Informationen bieten."
+  }
+}

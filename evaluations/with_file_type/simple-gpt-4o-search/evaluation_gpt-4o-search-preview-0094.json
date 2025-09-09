@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0094",
+  "run_at": "2025-09-04T17:21:10.675208Z",
+  "question_id": 94,
+  "question": "Wie viele Geburtsurkunden wurden 2019 in Wesseling nachträglich ausgestellt?",
+  "answer": "49",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der im Jahr 2019 in Wesseling nachträglich ausgestellten Geburtsurkunden ist in den verfügbaren Quellen nicht explizit angegeben. Allerdings wurden im Jahr 2019 insgesamt 369 Geburten in Wesseling registriert, davon 191 männliche und 178 weibliche Neugeborene. ([de.readkong.com](https://de.readkong.com/page/summa-summarum-stadt-wesseling-4815661?utm_source=openai))\n\nFür detaillierte Informationen zu nachträglich ausgestellten Geburtsurkunden im Jahr 2019 empfiehlt es sich, direkt beim Standesamt Wesseling nachzufragen. Dort können Sie auch beglaubigte Abschriften oder Urkunden anfordern. ([serviceportal.wesseling.de](https://serviceportal.wesseling.de/detail/-/vr-bis-detail/dienstleistung/33493/show?utm_source=openai)) \n\n### Quellen\n- **[1]** SUMMA SUMMARUM - Stadt Wesseling (de.readkong.com) – https://de.readkong.com/page/summa-summarum-stadt-wesseling-4815661?utm_source=openai\n- **[2]** Beglaubigte Abschrift / Urkunde - Serviceportal Stadt Wesseling (serviceportal.wesseling.de) – https://serviceportal.wesseling.de/detail/-/vr-bis-detail/dienstleistung/33493/show?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass die genaue Anzahl nicht explizit in den Quellen angegeben ist und nennt stattdessen die Gesamtzahl der Geburten. Die Goldstandard-Antwort liefert jedoch eine spezifische Zahl (49), was darauf hindeutet, dass die LLM-Antwort falsch ist."
+  },
+  "file_type": "xml"
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0034",
+  "run_at": "2025-09-06T16:18:00.755396Z",
+  "question_id": 34,
+  "question": "Was ist die Differenz zwischen dem Höchst- und Niedrigstand der Ruhr in Hattingen 2024 in cm?",
+  "answer": "394 cm",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM returned an internal server error, indicating it could not provide an answer. This falls under the 'no answer' problem type."
+  },
+  "file_type": "csv"
+}

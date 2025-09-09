@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0203",
+  "run_at": "2025-09-04T19:11:32.344387Z",
+  "question_id": 203,
+  "question": "Wie hoch waren die gesamten Steuereinnahmen (netto) der Stadt Dresden im Jahr 2023?",
+  "answer": "Im Jahr 2023 betrugen die gesamten Steuereinnahmen (netto) der Stadt Dresden 829.763.000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "In der Datei ist der Wert 829.763 aufgeführt. Mit Domänenwissen muss geschlussfolgert werden, dass dieser in TEUR (Tausend Euro) aufgeführt ist.",
+  "llm_final": "Die gesamten Steuereinnahmen (netto) der Stadt Dresden im Jahr 2023 lagen bei etwa **840 Millionen Euro**. Davon entfielen rund **460,3 Millionen Euro auf die Gewerbesteuer**, was eine deutliche Steigerung gegenüber der ursprünglich erwarteten Summe von 398,2 Millionen Euro darstellt[1][3].\n\nZur Einordnung: Die Stadt Dresden hatte im Jahr 2023 mit einem Haushaltsvolumen von etwa 1,95 Milliarden Euro Ausgaben zu rechnen, die Einnahmen aus Steuern konnten diese jedoch nicht vollständig decken, sodass ein Defizit von rund 50 Millionen Euro erwartet wurde[1].\n\nDie Zahl von 840 Millionen Euro für die gesamten Steuereinnahmen (netto) stammt aus einer IHK-Statistik für 2024, die die Werte für 2023 als Vergleichsgröße nennt und die Steuereinnahmen für Dresden mit 840 Mio. Euro angibt[3]. Die Gewerbesteuer ist dabei der größte Einzelposten und wurde für 2023 mit 460,3 Mio. Euro angegeben[1].\n\nZusammengefasst:\n\n| Position                  | Betrag (in Mio. Euro) |\n|--------------------------|-----------------------|\n| Gesamte Steuereinnahmen   | ca. 840               |\n| Gewerbesteuer             | ca. 460,3             |\n\nDiese Angaben beziehen sich auf die Netto-Steuereinnahmen der Stadt Dresden im Jahr 2023[1][3].\n\n### Quellen\n- **[1]** www.sueddeutsche.de/panorama/kommunen-dresden-hebt-haushaltssperre-fuer-2023-auf-dpa.urn-newsml-dpa-com-20090101-231121-99-29155 (www.sueddeutsche.de) – https://www.sueddeutsche.de/panorama/kommunen-dresden-hebt-haushaltssperre-fuer-2023-auf-dpa.urn-newsml-dpa-com-20090101-231121-99-29155\n- **[2]** www.destatis.de/DE/Themen/Staat/Steuern/Steuereinnahmen/steuereinnahmen.html (www.destatis.de) – https://www.destatis.de/DE/Themen/Staat/Steuern/Steuereinnahmen/steuereinnahmen.html\n- –\n- www.ihk.de/blueprint/servlet/resource/blob/5927100/d34aeaa2c9ec6d3a65b31fb99e41f9c3/gewerbestatistik-und-realsteuerhebesaetze-data.pdf (www.ihk.de) – https://www.ihk.de/blueprint/servlet/resource/blob/5927100/d34aeaa2c9ec6d3a65b31fb99e41f9c3/gewerbestatistik-und-realsteuerhebesaetze-data.pdf\n- publikationen.sachsen.de/bdb/artikel/29597/documents/65613 (publikationen.sachsen.de) – https://publikationen.sachsen.de/bdb/artikel/29597/documents/65613\n- www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2023-03-21-steuereinnahmen-februar-2023.pdf (www.bundesfinanzministerium.de) – https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2023-03-21-steuereinnahmen-februar-2023.pdf?__blob=publicationFile&v=1",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort geht in die richtige Richtung, nennt aber nicht die exakte Zahl."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0119",
+  "run_at": "2025-09-04T15:15:21.332382Z",
+  "question_id": 119,
+  "question": "Wie hoch waren die Fraktionszuwendungen für die CDU im Stadtrat Köln für das Jahr 2018 und wie hat sich dieser Betrag im Vergleich zum Vorjahr verändert?",
+  "answer": "Im Jahr 2018 betrugen die Fraktionszuwendungen für die CDU 920.150,01 Euro. Im Vergleich zum Vorjahr 2017, in dem die CDU 907.749,98 Euro erhielt, ist dies eine Steigerung um 12.400,03 Euro.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "- Betrag 2018 (CDU-Fraktion im Rat der Stadt Köln): 651.848,52 €\n- Veränderung gegenüber 2017: +6.429,23 € (+1,0 %)\n\nQuellen:\n- Stadt Köln, Amt für Ratsangelegenheiten – Jahresabrechnung der Zuwendungen an die Ratsfraktionen 2018 (Mitteilung an den Rat; Anlage „Übersicht Zuwendungen je Fraktion“).\n- Stadt Köln – Jahresabrechnung der Zuwendungen an die Ratsfraktionen 2017 (vergleichende Übersicht je Fraktion).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebenen Zahlen für die Fraktionszuwendungen der CDU im Jahr 2018 und die Veränderung zum Vorjahr sind falsch. Die korrekten Beträge weichen erheblich von der LLM-Antwort ab."
+  }
+}

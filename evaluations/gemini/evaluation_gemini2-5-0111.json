@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0111",
+  "run_at": "2025-09-01T06:00:45.069870Z",
+  "question_id": 111,
+  "question": "Wie sind die Öffnungszeiten der Waisenhausapotheke in Rostock?",
+  "answer": "es gibt sie nicht",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Waisenhaus-Apotheke in Rostock ist nicht in den Daten enthalten. Es gibt keine Informationen zu den Öffnungszeiten.\n\nQuelle: https://www.opendata-hro.de/dataset/652e7b9e-5bb2-4a7e-aeff-12421d3c32a5",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die korrekte Antwort ist, dass es diese Apotheke nicht gibt. Das LLM sagt nur, sie sei nicht in den Daten und liefert keine Öffnungszeiten. Das ist unklar und bleibt hinter der erwarteten Klarstellung zurück."
+  }
+}

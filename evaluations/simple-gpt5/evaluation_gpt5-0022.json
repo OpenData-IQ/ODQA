@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0022",
+  "run_at": "2025-09-04T13:47:54.765780Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "Ja, es gibt mehrere in der Nähe.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja. Im FRANKLIN-Quartier (Mannheim-Käfertal), rund um die Franklin Boulderhalle, gibt es mehrere öffentliche E‑Ladepunkte, u. a. entlang der Thomas‑Jefferson‑Straße und der George‑Washington‑Straße. Zusätzlich befinden sich in kurzer Entfernung auch Schnelllader im Bereich Käfertal (z. B. am A6‑Center).\n\nQuellen\n- Bundesnetzagentur – Ladesäulenregister (amtliche Karte der öffentlich zugänglichen Ladepunkte): https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html (dort „Ladesäulenkarte“)\n- Stadt Mannheim – Open-Data-Portal (Datensatz zu öffentlichen Elektroladesäulen in Mannheim): https://www.offenedaten.mannheim.de/ (Stichwortsuche: „Elektroladesäulen“)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend und korrekt. Sie nennt spezifische Straßen und zusätzliche Schnelllader in der Nähe, was über die einfache Bestätigung hinausgeht. Die Angabe relevanter Quellen macht die Antwort sehr nützlich und nachvollziehbar."
+  }
+}

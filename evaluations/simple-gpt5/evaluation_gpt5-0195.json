@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0195",
+  "run_at": "2025-09-04T16:15:37.369110Z",
+  "question_id": 195,
+  "question": "Wie viele Radfahrer wurden an der Dauerzählstelle Kö - Steinstraße in Düsseldorf im Jahr 2019 insgesamt gezählt?",
+  "answer": "Die Gesamtzahl der gezählten Radfahrer im Jahr 2019 beträgt 626040.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "1.263.833 Radfahrer (rund 1,26 Mio.)\n\nQuellen:\n- Landeshauptstadt Düsseldorf – Open Data: Fahrradzählstellen – Zähldaten (Jahreswerte), Zählstelle „Kö – Steinstraße“, Jahr 2019. https://opendata.duesseldorf.de/dataset/fahrradzaehlstellen\n- Begleitende Auswertung der Stadt Düsseldorf zu den Rad-Dauerzählstellen (Jahresübersichten), Zählstelle „Kö – Steinstraße“, 2019. https://www.duesseldorf.de/verkehrsmanagement (Bereich Radverkehr/Zählstellen)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebene Zahl (1.263.833) weicht erheblich von der korrekten Antwort (626.040) ab. Obwohl Quellen angegeben sind, ist die Kerninformation falsch."
+  }
+}

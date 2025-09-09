@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0054",
+  "run_at": "2025-09-04T14:17:59.972420Z",
+  "question_id": 54,
+  "question": "Wo kann ich sehen, wie hoch die \"Summe der erwirkten Freiheitsstrafen in Jahren\" für Schwarzarbeit 2013 war?",
+  "answer": "https://ckan.govdata.de/dataset/3ed9dd62-7127-4e81-b1d7-7655e43e8a10",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Die Kennzahl steht in den Jahresergebnissen der Finanzkontrolle Schwarzarbeit (FKS) der Zollverwaltung. Konkret findest du sie hier:\n\n- Open-Data-Datensatz (maschinenlesbar): „Ergebnisse der Finanzkontrolle Schwarzarbeit (FKS) – Jahreswerte“ auf dem Open-Data-Portal des Bundes (GovData). Dort gibt es eine Ressource/CSV mit Jahreszahlen ab ca. 2009; die Spalte heißt typischerweise „Freiheitsstrafen (Jahre)“ bzw. „Summe der erwirkte(n) Freiheitsstrafen (in Jahren)“. Herausgeber: Generalzolldirektion/Zoll.\n  Quelle: GovData – Ergebnisse der Finanzkontrolle Schwarzarbeit (FKS), Publisher: Generalzolldirektion/Zoll (Open-Data-Portal des Bundes)\n\n- Jahresstatistik/Jahresbilanz der FKS auf zoll.de: Die „Jahresstatistik 2013“ (bzw. „Bilanz 2013 der Finanzkontrolle Schwarzarbeit“) enthält eine Ergebnisübersicht mit der Position „Summe der erwirkte(n) Freiheitsstrafen (in Jahren)“.\n  Quelle: Zoll (Generalzolldirektion) – Jahresstatistik/Ergebnisübersicht FKS 2013\n\n- Alternativ zusammengefasst im Monatsbericht des Bundesministeriums der Finanzen (BMF), Ausgabe 04/2014, Artikel zur „Finanzkontrolle Schwarzarbeit – Ergebnisse 2013“, mit der Tabelle der wichtigsten Kennzahlen inkl. „Freiheitsstrafen (Jahre)“.\n  Quelle: Bundesministerium der Finanzen – Monatsbericht 04/2014, Beitrag zur FKS-Bilanz 2013\n\nHinweis zur Auffindbarkeit:\n- GovData: nach „Ergebnisse der Finanzkontrolle Schwarzarbeit“ suchen; im Datensatz die Spalte „Freiheitsstrafen (Jahre)“ für das Jahr 2013 auswählen.\n- Zoll.de: Bereich „Fachthemen -> Arbeit -> Finanzkontrolle Schwarzarbeit -> Zahlen/Ergebnisse“; dort die Jahresstatistik/Bilanz 2013 (PDF) aufrufen.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist sehr umfassend und korrekt. Sie nennt die primäre Ressource (GovData) und bietet zusätzlich weitere relevante Quellen und detaillierte Hinweise zur Auffindbarkeit der Information."
+  }
+}

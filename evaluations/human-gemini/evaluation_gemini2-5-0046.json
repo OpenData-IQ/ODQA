@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0046",
+  "run_at": "2025-09-01T05:29:15.088831Z",
+  "question_id": 46,
+  "question": "Was ist die E-Mail-Adresse für die Neue Bühne Senftenberg?",
+  "answer": "es ist keine angegeben",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es tut mir leid, ich konnte keine E-Mail-Adresse für die Neue Bühne Senftenberg finden.",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Goldantwort besagt, dass keine E-Mail angegeben ist. Allerdings nennt der Agent keine Quelle."
+  }
+}

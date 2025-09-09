@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0131",
+  "run_at": "2025-09-04T19:03:37.166515Z",
+  "question_id": 131,
+  "question": "Welcher Stadtbereich Rostocks hatte 2017 die höhere Anzahl an Einwohnerinnen und Einwohnern, die 75 Jahre oder älter sind? Lütten Klein oder Lichtenhagen?",
+  "answer": "Lütten Klein",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Lütten Klein: 4.239 Einwohnerinnen/Einwohner 75 Jahre und älter, Lichtenhagen: 1.806 Einwohnerinnen/Einwohner 75 Jahre und älter (Stand 31.12.2017)",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine direkten Zahlen zur Anzahl der Einwohnerinnen und Einwohner ab 75 Jahren für die Stadtteile Lütten Klein und Lichtenhagen im Jahr 2017. \n\nFolgendes ist bekannt:\n\n- **Lütten Klein** hatte 2017 insgesamt 17.234 Einwohner[1].\n- **Lichtenhagen** hatte laut einer Quelle 2023 ca. 13.868 Einwohner, die Zahl für 2017 ist nicht direkt angegeben, aber der Stadtteil ist etwas größer in der Fläche (ca. 5,9 km²) als Lütten Klein (3,6 km²)[2].\n- Es gibt keine spezifischen Daten zur Altersstruktur (insbesondere 75 Jahre und älter) für diese Stadtteile in den Suchergebnissen.\n- Eine allgemeine Bevölkerungsprognose für den Rostocker Raum enthält Altersgruppen ab 65 Jahren, aber keine Aufschlüsselung für einzelne Stadtteile[4].\n\nOhne konkrete Zahlen zur Altersstruktur in den beiden Stadtteilen 2017 lässt sich nicht sicher sagen, welcher Stadtbereich mehr Einwohnerinnen und Einwohner ab 75 Jahren hatte.\n\n**Fazit:** Aufgrund fehlender spezifischer Daten in den Suchergebnissen kann nicht bestimmt werden, ob Lütten Klein oder Lichtenhagen 2017 die höhere Anzahl an Einwohnern ab 75 Jahren hatte. Für eine genaue Antwort wären detaillierte demografische Daten der Stadt Rostock oder der jeweiligen Stadtteile aus amtlichen Quellen (z.B. Stadt Rostock, Statistikamt) notwendig.\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/L%C3%BCtten_Klein (de.wikipedia.org) – https://de.wikipedia.org/wiki/L%C3%BCtten_Klein\n- **[2]** www.rgs-rostock.de/quartiersleben/lichtenhagen/projekte (www.rgs-rostock.de) – https://www.rgs-rostock.de/quartiersleben/lichtenhagen/projekte\n- **[3]** de.wikipedia.org/wiki/Demografie_Rostocks (de.wikipedia.org) – https://de.wikipedia.org/wiki/Demografie_Rostocks\n- –\n- www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf (www.planungsverband-rostock.de) – https://www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf\n- rathaus.rostock.de/de/bevoelkerungsentwicklung_nach_stadtbereichen/254079 (rathaus.rostock.de) – https://rathaus.rostock.de/de/bevoelkerungsentwicklung_nach_stadtbereichen/254079",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM gibt an, dass keine spezifischen Daten zur Altersstruktur (75+) für die Stadtteile 2017 gefunden wurden. Die Antwort verweist explizit auf fehlende Daten."
+  },
+  "file_type": "csv"
+}

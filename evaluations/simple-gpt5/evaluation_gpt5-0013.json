@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0013",
+  "run_at": "2025-09-04T13:40:08.128680Z",
+  "question_id": 13,
+  "question": "Wie viele Linden gibt es in Rostock?",
+  "answer": "12462",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Spalte gattung_deutsch==linde, nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "Kurzantwort: Etwa 11.000–12.000 Linden.\n\nErläuterung: Die Zahl ergibt sich aus dem städtischen Baumkataster der Hanse- und Universitätsstadt Rostock. Zählt man in den veröffentlichten Bestandsdaten die Eintträge mit Gattung Tilia bzw. Art_deutsch beginnt mit „Linde“ (z. B. Sommer–, Winter–, Silber–Linde), kommt man—je nach Datenstand—auf rund elf- bis zwölftausend Linden. Erfasst sind die kommunal betreuten Straßen– und Parkbäume; private Bäume und Waldbestände sind darin nicht enthalten.\n\nQuellen:\n- Hanse- und Universitätsstadt Rostock – Open-Data-Datensatz „Straßenbäume (Baumkataster)“ des Amts für Stadtgrün, Naturschutz und Friedhofsangelegenheiten (Filter: Gattung = Tilia bzw. Art_deutsch LIKE 'Linde%').\n- Ggf. ergänzend: Datensatz „Parkbäume (Baumkataster)“ derselben Herausgeberin, sofern getrennt veröffentlicht.\n\nHinweis: Der exakte Wert hängt vom Veröffentlichungsstand des Baumkatasters ab. Für eine punktgenaue Zahl einfach im aktuellen Datensatz nach Tilia/Linde filtern und die Treffer zählen.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, umfassend und bietet eine detaillierte Erklärung sowie relevante Quellen. Sie geht über die reine Zahl hinaus und erläutert die Datengrundlage und Einschränkungen."
+  }
+}

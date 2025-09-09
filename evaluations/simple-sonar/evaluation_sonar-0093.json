@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0093",
+  "run_at": "2025-09-04T18:59:05.648455Z",
+  "question_id": 93,
+  "question": "Wo ist der Glascontainer in Mannsdorf (Regensburg)?",
+  "answer": "letzte Str. rechts vor Scheune, 84069 Schierling, 48.809083, 12.144333",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Glascontainer in Mannsdorf (Regensburg) befindet sich an einem offiziellen Glascontainer-Standplatz, der in der Liste der Standorte des Landkreises Regensburg aufgeführt ist. Genauere Angaben zum Standort in Mannsdorf sind in den Dokumenten des Landkreises Regensburg zu Glascontainer-Standplätzen enthalten[3][5].\n\nFür die Stadt Regensburg selbst gibt es 160 Altglascontainer-Standorte, die im Stadtgebiet verteilt sind, jedoch ist Mannsdorf ein Ortsteil außerhalb des Stadtgebiets, weshalb die Standorte des Landkreises relevant sind[2][3].\n\nUm den genauen Standort des Glascontainers in Mannsdorf zu erfahren, empfiehlt sich die Einsicht in die PDF-Liste „Glascontainer-Standplätze“ des Landkreises Regensburg vom 13.01.2023, die Mannsdorf als Ortsteil mit Glascontainer-Standplätzen aufführt[3]. Dort sind die genauen Adressen oder Straßen genannt.\n\nZusammengefasst:  \n- Mannsdorf hat mindestens einen offiziellen Glascontainer-Standplatz, der in der Landkreis-Liste dokumentiert ist[3].  \n- Für genaue Adresse oder Straße sollte die PDF „Glascontainer-Standplätze“ des Landkreises Regensburg eingesehen werden[3].  \n- Die Stadt Regensburg selbst führt keine separaten Standorte für Mannsdorf, da Mannsdorf zum Landkreis gehört[2].\n\nFalls Sie den genauen Standort benötigen, kann ich Ihnen helfen, die PDF-Liste zu interpretieren oder weitere Details zu suchen.\n\n### Quellen\n- **[1]** www.regensburg.de/leben/umwelt/abfall-und-recycling/altglascontainer (www.regensburg.de) – https://www.regensburg.de/leben/umwelt/abfall-und-recycling/altglascontainer\n- **[2]** www.regensburg.de/buergerservice/dienstleistungen/15111/altglasentsorgung.html (www.regensburg.de) – https://www.regensburg.de/buergerservice/dienstleistungen/15111/altglasentsorgung.html\n- **[3]** www.landkreis-regensburg.de/loadDocument.phtml (www.landkreis-regensburg.de) – https://www.landkreis-regensburg.de/loadDocument.phtml?FID=3987.61578.1&Ext=PDF\n- –\n- www.altmannstein.de/pdf/downloads/altmannsteiner-anzeiger-01-2016.pdf (www.altmannstein.de) – https://www.altmannstein.de/pdf/downloads/altmannsteiner-anzeiger-01-2016.pdf\n- www.landkreis-regensburg.de/loadDocument.phtml (www.landkreis-regensburg.de) – https://www.landkreis-regensburg.de/loadDocument.phtml?FID=3987.61679.1&Ext=PDF",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort verweist korrekt auf die offiziellen Listen und gibt Hinweise zur Recherche, nennt aber nicht die konkrete Adresse oder Koordinaten wie im Goldstandard. Sie ist informativ, aber nicht vollständig."
+  }
+}

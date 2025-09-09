@@ -1,0 +1,16 @@
+{
+  "thread_id": "deepseek-r1-0015",
+  "run_at": "2025-09-01T19:39:58.235789Z",
+  "question_id": 15,
+  "question": "Wie viele Apotheken gibt es in 22850 Norderstedt?",
+  "answer": "7",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "<FinalAnswer>\nIn der Postleitzahl 22850 Norderstedt gibt es **5 Apotheken**.  \nQuelle: [Dataset URI](http://registry.gdi-de.org/id/de.sh/11dddf20-36cb-4ace-9849-77b3bff13c5d)\n</FinalAnswer>",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Goldantwort ist 7, das LLM nennt 5. Damit ist die Antwort falsch."
+  }
+}

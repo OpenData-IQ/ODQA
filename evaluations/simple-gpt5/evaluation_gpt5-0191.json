@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0191",
+  "run_at": "2025-09-04T16:13:35.108716Z",
+  "question_id": 191,
+  "question": "Welcher Stadtteil von Konstanz hatte im Jahr 2024 den höchsten natürlichen Bevölkerungssaldo?",
+  "answer": "Petershausen-West hatte im Jahr 2024 mit 43 den höchsten natürlichen Bevölkerungssaldo unter den Stadtteilen von Konstanz.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Wollmatingen.\n\nQuelle: Stadt Konstanz – Amt für Stadtentwicklung und Geoinformation (Statistik), Jahresauswertung „Bevölkerungsbewegung 2024: Natürlicher Saldo (Geburten – Sterbefälle) nach Stadtteilen)“, Konstanz, 2025.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt \"Wollmatingen\", während die Goldstandard-Antwort \"Petershausen-West\" angibt. Die Antwort des LLM ist somit falsch."
+  }
+}

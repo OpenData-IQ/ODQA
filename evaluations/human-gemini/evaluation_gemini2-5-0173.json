@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0173",
+  "run_at": "2025-09-01T08:26:12.185651Z",
+  "question_id": 173,
+  "question": "Wie viele Stimmen erhielt die Partei 'Unicorn Power' bei der Bundestagswahl 2013 in Kall?",
+  "answer": "Es gibt keine Partei mit dem Namen 'Unicorn Power', daher liegen dazu keine Wahlergebnisse vor.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die Ausgabe zeigt eindeutig einen Recursion-Limit-Fehler, daher wurde keine inhaltliche Antwort gegeben. Entsprechend ist dies ein technisches Problem (Recursion Limit)."
+  }
+}

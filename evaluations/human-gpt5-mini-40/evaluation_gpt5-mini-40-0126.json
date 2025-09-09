@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0126",
+  "run_at": "2025-09-06T13:44:21.041614Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: 7 Personen sind 2021 aus Wesseling in die Vereinigten Staaten weggezogen.\n\nQuellennachweis: Datensatz \"Zu- und Wegzüge nach Herkunft / Ziel und Alter Stadt Wesseling 2021\" (Offene Daten NRW) — https://offenedaten.kdvz.nrw/dataset/d09-zu-und-wegz%C3%BCge-eines-jahres-nach-ort-und-alter-stadt-wesseling (CSV: https://offenedaten.kdvz.nrw/sites/default/files/EWO_990_sim_OpDat42B_20220116.csv).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und stimmt mit der Goldstandard-Antwort überein. Sie enthält auch den primären Ressourcenlink, was sie sehr vollständig macht."
+  }
+}

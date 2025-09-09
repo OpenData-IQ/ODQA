@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0147",
+  "run_at": "2025-09-04T19:05:41.158388Z",
+  "question_id": 147,
+  "question": "Wie viele Straßen warem am 11.08.2024 (KW 32) insgesamt als Messbereiche für die Geschwindigkeitsüberwachung vorgesehen?",
+  "answer": "Insgesamt 6 Straßen",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Unter den 6 Straßen ist die Bottroper Straße als Duplikat aufgeführt. Alternativ können auch 5 Straßen in der Antwort als richtig gelten.",
+  "llm_final": "Am 11.08.2024 (KW 32) waren in Essen insgesamt 15 Straßenabschnitte als Messbereiche für die Geschwindigkeitsüberwachung vorgesehen. Diese Information stammt aus den offenen Daten der Stadt Essen, die die geplanten mobilen Messbereiche für die 32. Kalenderwoche 2024 veröffentlichen[2][4].\n\nDie Datenquelle listet die einzelnen Messstellen auf, wobei die Anzahl der Messbereiche in Essen für KW 32 genau 15 beträgt. Es handelt sich dabei um die vorgesehenen Messbereiche, wobei kurzfristige Änderungen möglich sind.\n\nFür Deutschland insgesamt liegen keine aggregierten Zahlen vor, da die Geschwindigkeitsüberwachung meist auf kommunaler Ebene organisiert wird und keine zentrale bundesweite Übersicht der Messbereiche für diesen konkreten Tag öffentlich verfügbar ist. Section Control, ein Abschnittskontrollverfahren, war 2024 in Deutschland nur in Niedersachsen (B6 bei Hannover) im Einsatz, wurde aber Anfang 2024 abgeschaltet und ist somit für KW 32 nicht relevant[1][5].\n\nZusammengefasst:\n\n- In Essen waren am 11.08.2024 (KW 32) 15 Messbereiche für die Geschwindigkeitsüberwachung vorgesehen[2][4].\n- Für ganz Deutschland gibt es keine zentrale, öffentlich zugängliche Zahl der Messbereiche an diesem Tag.\n- Section Control wurde 2024 in Deutschland nicht mehr eingesetzt und beeinflusst die Anzahl der Messbereiche nicht[1][5].\n\n### Quellen\n- **[1]** www.hms-gutachter.de/2024/03/vorlaeufiges-aus-fuer-section-control-in-deutschland/ (www.hms-gutachter.de) – https://www.hms-gutachter.de/2024/03/vorlaeufiges-aus-fuer-section-control-in-deutschland/\n- **[2]** opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/a11fee21-bce4-4c93-ba00-98fcb3aaf9b5 (opendata.essen.de) – https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024/resource/a11fee21-bce4-4c93-ba00-98fcb3aaf9b5\n- **[3]** www.stadt-brandenburg.de/presse/mehr-kontrolle-mehr-sicherheit-stadt-zieht-bilanz-zur-geschwindigkeitsueberwachung-2024 (www.stadt-brandenburg.de) – https://www.stadt-brandenburg.de/presse/mehr-kontrolle-mehr-sicherheit-stadt-zieht-bilanz-zur-geschwindigkeitsueberwachung-2024\n- **[4]** opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024 (opendata.essen.de) – https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2024\n- –\n- www.adac.de/verkehr/recht/bussgeld-punkte/section-control/ (www.adac.de) – https://www.adac.de/verkehr/recht/bussgeld-punkte/section-control/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt 15 Straßenabschnitte, während laut Goldstandard nur 6 (bzw. 5) Straßen vorgesehen waren. Die Antwort ist somit sachlich falsch."
+  }
+}

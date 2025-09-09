@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0193",
+  "run_at": "2025-09-01T03:46:11.825704Z",
+  "question_id": 193,
+  "question": "Wie viele Kinder mit dem Vornamen Anna wurden 2019 in Kreuzau ins Geburtenregister eingetragen?",
+  "answer": "Keine, es gab nur ein Kind namens Nora.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached, preventing it from providing a proper answer. Therefore, it falls under the 'problem_answers' category."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0097",
+  "run_at": "2025-09-06T13:04:54.817507Z",
+  "question_id": 97,
+  "question": "Bei welchen Müllsammelveranstaltern in Rostock gehören Handschuhe zur Ausstattung der Container dazu?",
+  "answer": "NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 40 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states 'Recursion limit of 40 reached'. This indicates that the agent failed to provide an answer due to a recursion depth limit."
+  },
+  "file_type": "csv"
+}

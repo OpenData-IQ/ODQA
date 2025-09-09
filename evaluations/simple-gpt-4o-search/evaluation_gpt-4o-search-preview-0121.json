@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0121",
+  "run_at": "2025-09-04T17:37:25.401329Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2020 fanden in Brühl insgesamt 361 Eheschließungen statt, was einen Rückgang gegenüber den 428 Trauungen im Jahr 2019 bedeutet. Dieser Rückgang ist auf die Einschränkungen während der COVID-19-Pandemie zurückzuführen. ([radioerft.de](https://www.radioerft.de/artikel/corona-hochzeit-was-ist-wo-moeglich-934911.html?utm_source=openai)) \n\n### Quellen\n- **[1]** Corona-Hochzeit: Was ist wo möglich? - Radio Erft (www.radioerft.de) – https://www.radioerft.de/artikel/corona-hochzeit-was-ist-wo-moeglich-934911.html?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt 361 Eheschließungen an, während die Goldstandard-Antwort 241 angibt. Die LLM-Antwort ist somit falsch. Außerdem wir die vom LLM angegebene Zahl nicht von der Quelle gestützt."
+  }
+}

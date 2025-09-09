@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0176",
+  "run_at": "2025-08-31T14:17:32.762274Z",
+  "question_id": 176,
+  "question": "Wie viele Einwohner der Stadtmitte waren 2019 über 100 Jahre alt und arbeiteten als Astronauten?",
+  "answer": "Es gibt keine Angaben zu Einwohnern über 100 Jahren, die als Astronauten arbeiten. Diese Information ist nicht vorhanden und es ist äußerst unwahrscheinlich, dass es solche Fälle in der Stadtmitte gibt.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "Die Datei gibt gar keine Informationen über Alter und Beruf.",
+  "llm_final": "Antwort: 0\n\nBegründung kurz: In den für 2019 geprüften kommunalen Bevölkerungsdaten (z. B. \"Bevölkerungsstruktur 2019\" — Bevölkerung nach Alter) gibt es keine Person in der Stadtmitte, die gleichzeitig über 100 Jahre alt und als \"Astronaut\" erfasst wäre. Dafür gibt es zwei Gründe: erstens führen die verfügbaren Altersdaten oft nur aggregierte Kategorien (und nicht die Kombination Alter 100+ × Beruf), zweitens enthalten die Melderegister-/Bevölkerungsdaten keine feingranularen Berufslisten mit der Kategorie \"Astronaut\". Genutzte Quelle (Beispiel): https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2019/bevoelkerungsstruktur_2019_alter.csv\n\nWenn Sie möchten, suche ich gern in konkreteren Berufsdatenquellen oder anderen Städten/Datensätzen weiter.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt und umfassend. Sie erklärt, warum die Information nicht verfügbar ist, und liefert eine relevante Beispielquelle, die die Aussage stützt."
+  },
+  "file_type": "csv"
+}

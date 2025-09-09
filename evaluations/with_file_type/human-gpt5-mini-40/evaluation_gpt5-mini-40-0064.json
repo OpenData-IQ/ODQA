@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0064",
+  "run_at": "2025-09-06T11:54:43.777824Z",
+  "question_id": 64,
+  "question": "Gib mir die \"Biene Maja\"-Illustration \"Die Wanze stinkt\" von Peter Christian Rasmussen in voller Auflösung.",
+  "answer": "https://opendata.schleswig-holstein.de/data/landesbibliothek/landesgeschichtliche-sammlung-grafik/Biene_Maja/1990-111.7.jpg",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Verweis auf Beschreibungstext auf https://www.govdata.de/suche/daten/biene-maja-illustrationen-von-peter-christian-rasmussen",
+  "llm_final": "Hier die Illustration „Die Wanze stinkt“ (Peter Christian Rasmussen) in voller Auflösung:\n\n- Vollauflösung: http://dokbase.digicult-museen.net/eingabe/bilder/data/1001542/1990-111.7.jpg\n- Übersicht (600 px): http://dokbase.digicult-museen.net/eingabe/bilder/data/600/1001542/1990-111.7.jpg\n\nQuelle / Metadaten: Datensatz \"Biene Maja\" (Schleswig‑Holsteinische Landesbibliothek) — https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e\n\nLizenzhinweis: In den Metadaten wird für die digitale Ressource die Lizenz CC BY‑SA 4.0 angegeben — bitte bei Verwendung entsprechend attribuieren (Urheber: Peter Christian Rasmussen; Rechteinhaber laut Datensatz: Schleswig‑Holsteinische Landesbibliothek).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM provided the correct image in full resolution, along with an overview link, source metadata, and license information. This is comprehensive and directly answers the user's request."
+  },
+  "file_type": "xml"
+}

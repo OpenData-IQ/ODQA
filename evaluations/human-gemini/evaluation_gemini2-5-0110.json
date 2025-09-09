@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0110",
+  "run_at": "2025-09-01T06:00:24.535979Z",
+  "question_id": 110,
+  "question": "Gibt es Daten zu Saatkrähen in Soest?",
+  "answer": "https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei",
+  "llm_final": "Es konnten keine Daten zu Saatkrähen in Soest gefunden werden.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Gold-Antwort enthält einen konkreten Link zu den Daten. Das LLM behauptet fälschlich, es gebe keine Daten; daher ist die Antwort falsch."
+  }
+}

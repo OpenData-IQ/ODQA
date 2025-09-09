@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0141",
+  "run_at": "2025-09-04T15:33:39.919068Z",
+  "question_id": 141,
+  "question": "Gibt es Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden, aufgeteilt in die Stadtbezirke und differenziert nach Geschlecht und verschiedenen Altersgruppen.",
+  "llm_final": "Ja. Die amtlichen Monatszahlen zur Arbeitslosigkeit liegen für Dresden (kreisfreie Stadt) auch für das 4. Quartal 2015 vor. Die Daten kommen von der Bundesagentur für Arbeit und sind auf Kreisebene verfügbar; für Q4 2015 verwenden Sie die drei Monatswerte Oktober, November und Dezember 2015 (Region: Dresden, Kreisschlüssel 14612 bzw. AGS 14612000). Ein Quartalswert kann als Durchschnitt dieser drei Monatsstände gebildet werden.\n\nQuellen\n- Bundesagentur für Arbeit (BA), Statistik/Arbeitsmarkt: „Arbeitslose – Kreise (Monatszahlen, ab 2007)“, Region: Dresden (14612), Zeitraum: 10/2015–12/2015. Verfügbar über das BA-Statistikportal bzw. das Open-Data-Portal der BA.\n- Statistisches Landesamt des Freistaates Sachsen (Sachsen.Stat): Übernahme der BA-Arbeitslosenzahlen nach Kreisen und Monaten (Region: Dresden, Zeitraum Oktober–Dezember 2015).",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und nützlich, da sie die Existenz der Daten bestätigt und relevante Quellen nennt. Sie ist jedoch nicht perfekt, da sie nicht den spezifischen Link zur Dresdner Open-Data-Plattform enthält, der in der Gold-Antwort gegeben wurde."
+  }
+}

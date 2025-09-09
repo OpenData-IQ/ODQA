@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0151",
+  "run_at": "2025-09-01T02:02:55.817261Z",
+  "question_id": 151,
+  "question": "Gab die Stadt Köln im Jahr 2011 mehr für Personalauszahlungen oder für Transferauszahlungen aus?",
+  "answer": "Im Jahr 2011 gab die Stadt Köln mehr für Transferauszahlungen (1.076.691.190€) aus als für Personalauszahlungen (652.812.529€).",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Transferauszahlungen. 2011: Personalauszahlungen ca. 652,8 Mio. € vs. Transferauszahlungen ca. 1.076,7 Mio. €.\n\nQuelle: Gesamtfinanzplan, Offene Daten Köln (https://offenedaten-koeln.de/dataset/gesamtfinanzplan)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt, vollständig und enthält die genauen Zahlen sowie die Quelle. Sie beantwortet die Frage präzise und liefert alle relevanten Informationen."
+  }
+}

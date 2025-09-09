@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0008",
+  "run_at": "2025-08-31T21:21:50.091575Z",
+  "question_id": 8,
+  "question": "Wie groß ist das Bergbaufeld \"Prinzessin Victoria\"?",
+  "answer": "8 421 307 m2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "8 421 307 m² (≈ 8,42 km²)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die Fläche präzise in Quadratmetern an, wie in der Goldstandard-Antwort. Zusätzlich wird eine Umrechnung in Quadratkilometer angeboten, was die Antwort noch nützlicher macht."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0002",
+  "run_at": "2025-09-04T10:54:51.285525Z",
+  "question_id": 2,
+  "question": "Wie viele Menschen zwischen 25 und unter 65 Jahren hatten 2018 den Bachelor als höchsten Bildungsabschluss?",
+  "answer": "9288000",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Etwa 2,4 Millionen Menschen im Alter von 25 bis unter 65 Jahren hatten 2018 in Deutschland den Bachelor als höchsten Bildungsabschluss.\n\nQuelle:\n- Statistisches Bundesamt (Destatis): Bildungsstand der Bevölkerung – Ergebnisse des Mikrozensus 2018. Fachserie 11, Reihe 1.1, Tabelle zum höchsten beruflichen Abschluss (Kategorie: Bachelor) nach Altersgruppen (25 bis unter 65 Jahre). Wiesbaden, 2019.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine Zahl von 2,4 Millionen an, während die korrekte Antwort 9,288 Millionen ist. Die Antwort ist somit falsch. Die Quelle ist korrekt, aber die Zahl ist es nicht."
+  }
+}

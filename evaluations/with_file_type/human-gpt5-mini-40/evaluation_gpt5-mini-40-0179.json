@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-mini-40-0179",
+  "run_at": "2025-09-06T16:54:44.160434Z",
+  "question_id": 179,
+  "question": "Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?",
+  "answer": "Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Keine — 0. Einhörner sind nicht als Geburtskategorie im Geburtenregister geführt. (Quelle: Statistik Geburtenregister Standesamt Düsseldorf 2012 — https://opendata.duesseldorf.de/sites/default/files/Auswertungen_G_2012.csv)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und erklärt, dass Einhörner Fabelwesen sind und daher nicht registriert werden. Sie liefert sogar eine relevante Quelle, die die Nichtexistenz solcher Daten impliziert."
+  },
+  "file_type": "csv"
+}

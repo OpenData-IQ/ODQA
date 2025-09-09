@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0021",
+  "run_at": "2025-09-04T18:51:06.947486Z",
+  "question_id": 21,
+  "question": "Wie viele Ballettaufführungen gab es in der Spielzeit 2022/23 in Frankfurt am Main?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Spielzeit 2022/23 gab es in Frankfurt am Main **mehr als 240 Veranstaltungen insgesamt** an der Oper Frankfurt, davon **175 Musiktheatervorstellungen**. Die genaue Anzahl der reinen Ballettaufführungen wird in den verfügbaren Quellen nicht explizit genannt, jedoch ist bekannt, dass die Dresden Frankfurt Dance Company im Schauspiel Frankfurt mit mehreren Ballettproduktionen vertreten war[2][3].\n\nDie Oper Frankfurt umfasst Musiktheater, zu dem auch Ballettaufführungen gehören können, aber die detaillierte Aufschlüsselung der Ballettvorstellungen ist in den veröffentlichten Zahlen nicht separat ausgewiesen[2][4]. Die Dresden Frankfurt Dance Company präsentierte in der Spielzeit 2022/23 mindestens zwei Ballettproduktionen („Anthologie“ und „10 Odd Emotions“) im Schauspielhaus Frankfurt[3].\n\nZusammenfassend lässt sich sagen, dass es in der Spielzeit 2022/23 in Frankfurt am Main mehrere Dutzend Ballettaufführungen gab, konkret dokumentiert sind mindestens einige Produktionen der Dresden Frankfurt Dance Company, während die Oper Frankfurt insgesamt 175 Musiktheatervorstellungen durchführte, ohne genaue Trennung der Ballettanteile[2][3][4]. Eine exakte Zahl der Ballettaufführungen liegt in den öffentlich zugänglichen Quellen nicht vor.\n\n### Quellen\n- **[1]** www.frankfurt-tipp.de/en/index/events/s/event/ballet-revolucion-2023-frankfurt.html (www.frankfurt-tipp.de) – https://www.frankfurt-tipp.de/en/index/events/s/event/ballet-revolucion-2023-frankfurt.html\n- **[2]** oper-frankfurt.de/media/pdf/Spielzeit_2022-23_Zahlen.pdf (oper-frankfurt.de) – https://oper-frankfurt.de/media/pdf/Spielzeit_2022-23_Zahlen.pdf\n- **[3]** www.schauspielfrankfurt.de/download/6386/scfr_spielzeitheft2223.pdf (www.schauspielfrankfurt.de) – https://www.schauspielfrankfurt.de/download/6386/scfr_spielzeitheft2223.pdf\n- –\n- de.wikipedia.org/wiki/Oper_Frankfurt (de.wikipedia.org) – https://de.wikipedia.org/wiki/Oper_Frankfurt\n- www.arthouse-kinos.de/programm-fuer-die-kinowoche-vom-0501-bis-110123/ (www.arthouse-kinos.de) – https://www.arthouse-kinos.de/programm-fuer-die-kinowoche-vom-0501-bis-110123/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Antwort enthält nicht die konkrete Zahl."
+  }
+}

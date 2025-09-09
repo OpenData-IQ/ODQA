@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0196",
+  "run_at": "2025-09-04T19:10:57.571082Z",
+  "question_id": 196,
+  "question": "Wie viele Einwohner lebten zum 31.12.2015 in der Stadt Bergheim?",
+  "answer": "Zum 31.12.2015 lebten in der Stadt Bergheim 63.068 Einwohner.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Einwohnerzahl der Stadt Bergheim zum 31.12.2015 betrug etwa **61.600 Personen**. \n\nDiese Zahl lässt sich aus den amtlichen Fortschreibungen und dem Kommunalprofil von Statistik.NRW ableiten, das für die Jahre um 2015 Werte um 61.600 Einwohner angibt[3]. Die Open.NRW-Datenquelle verweist ebenfalls auf Einwohnerzahlen nach Ortsteilen für den Stichtag 31.12.2015, bestätigt aber keine abweichenden Gesamtzahlen[4]. \n\nZur Einordnung: 2002 lag die Einwohnerzahl bei 63.728, und 2024 bei etwa 61.611 Einwohnern[1]. Die Zahl von ca. 61.600 für 2015 passt somit gut in den zeitlichen Verlauf der Bevölkerungsentwicklung.\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/Bergheim (de.wikipedia.org) – https://de.wikipedia.org/wiki/Bergheim\n- **[2]** ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/bergheim/20158319/4 (ugeo.urbistat.com) – https://ugeo.urbistat.com/AdminStat/de/de/demografia/dati-sintesi/bergheim/20158319/4\n- **[3]** statistik.nrw/sites/default/files/municipalprofiles/l05362008.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05362008.pdf\n- –\n- open.nrw/dataset/d04-einwohner-nach-ortsteile-stadt-bergheim-rer (open.nrw) – https://open.nrw/dataset/d04-einwohner-nach-ortsteile-stadt-bergheim-rer\n- www.statistik.bayern.de/mam/produkte/statistik_kommunal/2022/09185118.pdf (www.statistik.bayern.de) – https://www.statistik.bayern.de/mam/produkte/statistik_kommunal/2022/09185118.pdf",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort nennt eine deutlich abweichende Einwohnerzahl (ca. 61.600 statt 63.068) und ist damit nicht korrekt, auch wenn sie Quellen und Kontext bietet. Die Antwort ist somit nur teilweise richtig."
+  }
+}

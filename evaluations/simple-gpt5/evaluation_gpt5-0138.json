@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0138",
+  "run_at": "2025-09-04T15:30:55.183527Z",
+  "question_id": 138,
+  "question": "Gibt es Daten zur Bevölkerungsentwicklung und geplanten Wohneinheiten in Düsseldorf Kaiserswerth von 2019 bis 2035?",
+  "answer": "https://opendata.duesseldorf.de/dataset/entwicklung-der-einwohnerzahl-d%C3%BCsseldorf-bis-2035-stadtteilprofile",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt eine CSV-Datei mit Entwicklungszahlen für den Stadtteil Kaiserswerth, die unter anderem die Bevölkerungszahlen, den Anteil weiblicher Einwohner, das Durchschnittsalter sowie die geplanten Wohneinheiten für die Jahre 2019 und 2035 enthält.",
+  "llm_final": "Ja. Für den Stadtteil Kaiserswerth (Stadtteil 051, Stadtbezirk 5) gibt es sowohl:\n- kleinräumige Bevölkerungsprognosen für 2019–2035 und\n- Datensätze zu geplanten Wohneinheiten (Projektlisten/Geodaten), die sich auf Kaiserswerth filtern lassen und i. d. R. auch einen Zeithorizont bis 2035 abdecken.\n\nWie Sie an die Daten kommen:\n- Bevölkerungsentwicklung 2019–2035\n  - Die Landeshauptstadt Düsseldorf veröffentlicht eine kleinräumige Bevölkerungsprognose 2019–2035 mit Ergebnissen bis auf Stadtteil-Ebene (inkl. Kaiserswerth). Im Tabellenband sind für jedes Jahr 2019–2035 die Einwohnerzahlen (gesamt und nach Altersjahren/-gruppen) je Stadtteil aufgeführt.\n- Geplante Wohneinheiten\n  - Das Stadtplanungsamt führt das Monitoring Wohnen / Wohnungsbauflächenprogramm (Fortschreibungen). Die zugehörigen Projektlisten und Geodaten enthalten pro Vorhaben die geplanten Wohneinheiten, Status (im Bau/mit Baurecht/in Planung) und oft einen Zeithorizont (z. B. bis 2025, 2026–2030, nach 2030). Diese Datensätze sind filterbar nach Stadtteil = „Kaiserswerth“ und erlauben die Summierung der dort verzeichneten WE bis 2035. Ergänzend gibt es das B‑Plan‑Monitoring Wohnen mit Potenzialangaben (WE) je Bebauungsplan.\n\nHinweise zur Auswertung:\n- Für eine konsistente Sicht „bis 2035“ sollten Sie in den Wohnungsbau-Datensätzen nur Projekte mit Zeithorizont bis 2035 berücksichtigen; Projekte „nach 2030“ können je nach Fortschreibung weiter unterteilt sein.\n- Geplante WE sind Potenziale bzw. Pipeline und weichen zeitlich von tatsächlichen Fertigstellungen ab.\n\nQuellen\n- Landeshauptstadt Düsseldorf, Amt für Statistik und Wahlen: Bevölkerungsprognose 2019–2035 für die Landeshauptstadt Düsseldorf. Tabellenband Stadtbezirke und Stadtteile (Informationsdienst Statistik, 2020; Basisstand 31.12.2018).\n- Landeshauptstadt Düsseldorf, Stadtplanungsamt: Monitoring Wohnen / Wohnungsbauflächenprogramm (Fortschreibungen, Projektlisten/Geodaten mit geplanten Wohneinheiten und Status).\n- Landeshauptstadt Düsseldorf, Stadtplanungsamt: B‑Plan‑Monitoring Wohnen (Geodaten mit WE‑Potenzialen je Bebauungsplan).\n- Landeshauptstadt Düsseldorf, Open‑Data‑Portal: Datensätze „Wohnungsbauflächen – Projekte und geplante Wohneinheiten“ sowie zugehörige Geodaten; filterbar nach Stadtteil (Kaiserswerth).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist sehr detailliert und umfassend. Sie erklärt nicht nur, dass die Daten existieren, sondern auch, wie man sie findet und welche Aspekte bei der Auswertung zu beachten sind. Die Quellenangaben sind präzise und hilfreich."
+  }
+}

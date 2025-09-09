@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0023",
+  "run_at": "2025-09-01T05:22:10.907287Z",
+  "question_id": 23,
+  "question": "Wie viele Stellplätze von VRNNextbike Fahrrädern gibt es an der Jugendherberge Lindenhof in Mannheim?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es gibt keine Stellplätze von VRNNextbike Fahrrädern an der Jugendherberge Lindenhof in Mannheim.\n\nQuelle: https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die korrekte Antwort ist 6 Stellplätze; die gegebene Antwort behauptet, es gebe keine. Damit widerspricht sie der Goldlösung und ist falsch."
+  }
+}

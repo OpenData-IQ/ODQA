@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0121",
+  "run_at": "2025-09-01T00:56:40.447494Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM did not provide an answer to the question. This indicates a failure to respond, likely due to a timeout or an inability to process the request."
+  },
+  "file_type": "csv"
+}

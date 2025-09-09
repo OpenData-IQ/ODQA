@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0022",
+  "run_at": "2025-09-04T18:51:11.705383Z",
+  "question_id": 22,
+  "question": "Gibt es in der Nähe der Franklin Boulderhalle in Mannheim E-Ladesäulen?",
+  "answer": "Ja, es gibt mehrere in der Nähe.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja, direkt bei der Franklin Boulderhalle in Mannheim gibt es **3 E-Ladesäulen** auf dem Parkplatz, die zum MVV eMotion Verbund gehören und für Elektroautos nutzbar sind[1]. \n\nZusätzlich befindet sich im Stadtquartier Franklin ein moderner MVV eLadepark Columbus mit **sechs Ladesäulen und zwölf Ladepunkten**, der verkehrsgünstig in der Nähe liegt und Schnellladen mit bis zu 300 kW ermöglicht[3][5]. Dieser Ladepark ist Teil eines größeren Netzes von MVV-Ladepunkten in Mannheim und wird mit 100 % Ökostrom betrieben[5].\n\nSomit sind sowohl direkt an der Boulderhalle als auch in der näheren Umgebung sehr gute Möglichkeiten zum Laden von Elektrofahrzeugen vorhanden.\n\n### Quellen\n- **[1]** www.goingelectric.de/stromtankstellen/Deutschland/Mannheim/Franklin-Boulderhalle-Abraham-Lincoln-Allee-2/54131/ (www.goingelectric.de) – https://www.goingelectric.de/stromtankstellen/Deutschland/Mannheim/Franklin-Boulderhalle-Abraham-Lincoln-Allee-2/54131/\n- **[2]** boulder-island.de/ (boulder-island.de) – https://boulder-island.de\n- **[3]** www.mvv.de/journalisten/pressemitteilungen/detail/tankstelle-der-zukunft-mvv-eroeffnet-mvv-eladepark-columbus-im-stadtquartier-franklin (www.mvv.de) – https://www.mvv.de/journalisten/pressemitteilungen/detail/tankstelle-der-zukunft-mvv-eroeffnet-mvv-eladepark-columbus-im-stadtquartier-franklin\n- –\n- d-scholarship.pitt.edu/7260/1/feldmancj409.pdf (d-scholarship.pitt.edu) – https://d-scholarship.pitt.edu/7260/1/feldmancj409.pdf\n- www.mannheim.de/de/nachrichten/neuer-mvv-eladepark-auf-franklin (www.mannheim.de) – https://www.mannheim.de/de/nachrichten/neuer-mvv-eladepark-auf-franklin",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist sehr ausführlich, nennt konkrete Standorte, Anzahl der Ladesäulen und bietet mehrere relevante Quellen mit exakten Links. Sie ist vollständig und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

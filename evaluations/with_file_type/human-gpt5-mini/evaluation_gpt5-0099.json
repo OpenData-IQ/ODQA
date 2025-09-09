@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0099",
+  "run_at": "2025-08-31T12:22:17.543922Z",
+  "question_id": 99,
+  "question": "Wie viele Poststationen in der Metropolregion Rhein-Neckar sind mit dem Rollstuhl erreichbar?",
+  "answer": "80",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "csv auf englisch",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached. This indicates that the agent was unable to complete its task due to an internal processing limit."
+  },
+  "file_type": "csv"
+}

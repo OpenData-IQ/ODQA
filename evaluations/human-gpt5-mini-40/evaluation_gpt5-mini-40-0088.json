@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0088",
+  "run_at": "2025-09-06T12:53:41.229097Z",
+  "question_id": 88,
+  "question": "Stell dir vor, es ist der 04.06.2025, wann ist der nächste Flug vom Flughafen Münster/Osnabrück nach München?",
+  "answer": "05.06.25 um 17:20 Uhr",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Link führt zu HTML (79054aed-5eaf-4aba-9239.html) und dort gibt es erst die XML (sie ist tagesaktuell)",
+  "llm_final": "Der nächste planmäßige Abflug von Münster/Osnabrück (FMO) nach München ist am 05.06.2025 um 17:20 Uhr — Flug LH 2139 (Abflug, FTYP = D).  \nQuelle: Flugplandaten FMO (OpenData).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie enthält das genaue Datum und die Uhrzeit des Fluges, sowie zusätzliche relevante Informationen wie die Flugnummer und die Quelle."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0161",
+  "run_at": "2025-09-04T19:07:23.776405Z",
+  "question_id": 161,
+  "question": "Wie viele Wähler gab es bei den Bundestagswahlen 2013 und 2017 in Bayern?",
+  "answer": "2013 gab es 6633726 Wähler und 2017 gab es 7441006 Wähler",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Bei der Bundestagswahl 2013 in Bayern gab es etwa **9,38 Millionen Wahlberechtigte**, von denen rund **6,72 Millionen tatsächlich gewählt haben** (Wähler) mit einer Wahlbeteiligung von etwa **71,6 %**[2]. \n\nFür die Bundestagswahl 2017 in Bayern lag die Zahl der Wahlberechtigten bei etwa **9,5 Millionen**, und die Wahlbeteiligung betrug **78,2 %**, was bedeutet, dass rund **7,43 Millionen Wähler** ihre Stimme abgegeben haben[4].\n\nZusammengefasst:\n\n| Jahr | Wahlberechtigte (Bayern) | Wahlbeteiligung | Wähler (ungefähr) |\n|-------|--------------------------|-----------------|-------------------|\n| 2013  | ca. 9,38 Millionen       | 71,6 %          | ca. 6,72 Millionen|\n| 2017  | ca. 9,5 Millionen        | 78,2 %          | ca. 7,43 Millionen|\n\nDiese Zahlen beziehen sich auf die Bundestagswahlen in Bayern[2][4].\n\n### Quellen\n- **[1]** de.wikipedia.org/wiki/Landtagswahl_in_Bayern_2013 (de.wikipedia.org) – https://de.wikipedia.org/wiki/Landtagswahl_in_Bayern_2013\n- **[2]** www.historisches-lexikon-bayerns.de/Lexikon/Bundestagswahlen (www.historisches-lexikon-bayerns.de) – https://www.historisches-lexikon-bayerns.de/Lexikon/Bundestagswahlen\n- –\n- stadt.muenchen.de/dam/jcr:ac46d057-6feb-4fbb-ad84-962d2251c891/btw_2013_amtlich_wahlmappe.pdf (stadt.muenchen.de) – https://stadt.muenchen.de/dam/jcr:ac46d057-6feb-4fbb-ad84-962d2251c891/btw_2013_amtlich_wahlmappe.pdf\n- www.statistik.bayern.de/presse/mitteilungen/2017/pm07/index.html (www.statistik.bayern.de) – https://www.statistik.bayern.de/presse/mitteilungen/2017/pm07/index.html\n- www.bundestag.de/webarchiv/textarchiv/2013/46614638_kw39_bundestagswahl_ergebnis-213454 (www.bundestag.de) – https://www.bundestag.de/webarchiv/textarchiv/2013/46614638_kw39_bundestagswahl_ergebnis-213454",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Zahlen stimmen nicht exakt mit den Angaben in der Goldantwort überein. Sie entsprechen auch nicht ganz den Angaben in den verlinkten Quellen."
+  }
+}

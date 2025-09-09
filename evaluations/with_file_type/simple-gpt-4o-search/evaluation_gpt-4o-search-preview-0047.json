@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0047",
+  "run_at": "2025-09-04T17:11:30.992183Z",
+  "question_id": 47,
+  "question": "Gibt es Daten über die Mediennutzung älterer Menschen in Bremen?",
+  "answer": "https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Die Daten liegen zwar vor, aber die Fragen fehlen im Datensatz",
+  "llm_final": "Ja, es gibt Daten zur Mediennutzung älterer Menschen in Bremen. Eine umfassende Bevölkerungsumfrage aus dem Jahr 2021 ergab, dass etwa 18 % der über 60-Jährigen in der Stadt Bremen und 22 % in Bremerhaven noch nie das Internet genutzt haben. Hochgerechnet bedeutet dies, dass in Bremen mindestens 27.700 und in Bremerhaven mindestens 7.300 ältere Menschen offline sind. ([uni-bremen.de](https://www.uni-bremen.de/digitale-teilhabe-aelterer-unterstuetzungsbedarf-hoeher-als-erwartet?utm_source=openai))\n\nDie Studie zeigte zudem, dass die Internetnutzung mit steigendem Alter abnimmt. In der Altersgruppe der 85- bis 89-Jährigen sind bereits mehr als die Hälfte ohne jegliche Online-Erfahrung. Zudem variieren die Offliner-Quoten zwischen den Stadtteilen erheblich: In Bremen liegen sie zwischen 7 % und 27 %, in Bremerhaven zwischen 15 % und 28 %. ([uni-bremen.de](https://www.uni-bremen.de/digitale-teilhabe-aelterer-unterstuetzungsbedarf-hoeher-als-erwartet?utm_source=openai))\n\nDiese Ergebnisse unterstreichen den Bedarf an gezielten Unterstützungsangeboten für ältere Menschen, um ihre digitale Teilhabe zu fördern. Das Netzwerk Digitalambulanzen in Bremen bietet hierfür verschiedene Formate wie Kurse, Sprechstunden und aufsuchende Hilfen an. ([soziales.bremen.de](https://www.soziales.bremen.de/soziales/aeltere-menschen/netzwerk-digitalambulanzen-101325?utm_source=openai)) \n\n### Quellen\n- **[1]** Digitale Teilhabe Älterer: Unterstützungsbedarf höher als erwartet - Universität Bremen (www.uni-bremen.de) – https://www.uni-bremen.de/digitale-teilhabe-aelterer-unterstuetzungsbedarf-hoeher-als-erwartet?utm_source=openai\n- **[2]** Netzwerk Digitalambulanzen - Die Senatorin für Arbeit, Soziales, Jugend und Integration (www.soziales.bremen.de) – https://www.soziales.bremen.de/soziales/aeltere-menschen/netzwerk-digitalambulanzen-101325?utm_source=openai",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist umfassend und korrekt. Sie liefert detaillierte Informationen zur Mediennutzung älterer Menschen in Bremen und verweist auf relevante Quellen, die die Frage vollständig beantworten."
+  },
+  "file_type": "csv"
+}

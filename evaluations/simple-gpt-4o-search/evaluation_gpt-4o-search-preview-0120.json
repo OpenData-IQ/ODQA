@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0120",
+  "run_at": "2025-09-04T17:36:49.213111Z",
+  "question_id": 120,
+  "question": "Wie lautet der Straßenschlüssel für die Straße 'Knallerballerweg' in Rostock?",
+  "answer": "06100",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "\n## [Knallerballerweg, Rostock](https://www.google.com/maps/search/Kn?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt eine Google Maps-Suche zurück, die nicht die angefragte Information (Straßenschlüssel) enthält. Die Antwort ist somit falsch und nicht hilfreich."
+  }
+}

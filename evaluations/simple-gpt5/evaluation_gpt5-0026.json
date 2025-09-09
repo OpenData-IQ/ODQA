@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0026",
+  "run_at": "2025-09-04T13:51:09.269060Z",
+  "question_id": 26,
+  "question": "Gibt es 2024 mehr Menschen türkischer Staatbürgerschaft in Frankfurt oder weniger als in 2018?",
+  "answer": "weniger",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Mehr. In Frankfurt am Main ist die Zahl der Einwohnerinnen und Einwohner mit türkischer Staatsangehörigkeit zwischen 2018 und Ende 2024 gestiegen.\n\nQuellen:\n- Stadt Frankfurt am Main, Amt für Statistik und Wahlen: Ausländische Bevölkerung nach Staatsangehörigkeit (Melderegister), Stichtage 31.12.2018 und 31.12.2024.\n- Hessisches Statistisches Landesamt: Regionaldaten (Frankfurt am Main) – Ausländische Bevölkerung nach Staatsangehörigkeit, Stichtage 31.12. (Jahre 2018 und 2024).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort ist falsch, da sie angibt, dass die Zahl der türkischen Staatsbürger gestiegen ist, während die korrekte Antwort 'weniger' lautet. Die Quellenangaben sind zwar vorhanden, aber die Schlussfolgerung ist fehlerhaft."
+  }
+}

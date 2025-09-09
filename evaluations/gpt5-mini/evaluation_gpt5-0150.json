@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0150",
+  "run_at": "2025-08-31T13:32:59.856733Z",
+  "question_id": 150,
+  "question": "Gab es 2011 in Heimbach im Ortsteil Hasenfeld oder im Kerngebiet mehr Einwohner?",
+  "answer": "Hasenfeld",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Ja — Hasenfeld hatte 2011 mehr Einwohner als das Kerngebiet.\n\n- Hasenfeld: 1.124 Deutsche + 45 Ausländer = 1.169 Einwohner  \n- Kerngebiet: 1.011 Deutsche + 59 Ausländer = 1.070 Einwohner  \n- Differenz: 99 Einwohner zugunsten Hasenfeld\n\nQuelle: Offene Daten NRW — Einwohner nach Ortsteilen, Stadt Heimbach (Stichtag 31.12.2011).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und sehr detailliert. Sie liefert nicht nur die richtige Antwort, sondern auch die genauen Zahlen und die Quelle, was sie extrem vollständig macht."
+  }
+}

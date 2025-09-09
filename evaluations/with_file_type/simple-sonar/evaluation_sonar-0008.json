@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0008",
+  "run_at": "2025-09-04T18:49:42.431736Z",
+  "question_id": 8,
+  "question": "Wie groß ist das Bergbaufeld \"Prinzessin Victoria\"?",
+  "answer": "8 421 307 m2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Das Bergbaufeld \"Prinzessin Victoria\" konnte in den vorliegenden Suchergebnissen nicht direkt gefunden oder beschrieben werden. Es gibt jedoch Informationen zu einem anderen Bergbaufeld namens \"Auguste Victoria\", dessen Grubenfeld eine Größe von rund 227 Quadratkilometern umfasst[1]. \n\nDie Suchergebnisse enthalten keine spezifischen Angaben zur Größe des Bergbaufelds \"Prinzessin Victoria\". Andere Treffer beziehen sich auf die Person Prinzessin Victoria von Schweden und sind thematisch nicht relevant für die Frage nach dem Bergbaufeld[3][4].\n\nDaher lässt sich aus den verfügbaren Daten keine verlässliche Angabe zur Größe des Bergbaufelds \"Prinzessin Victoria\" machen. Für eine genaue Auskunft wäre eine gezielte Recherche in spezialisierten bergbaulichen Archiven oder bei zuständigen Behörden notwendig.\n\n### Quellen\n- **[1]** bergbau-dorsten.de/zeche-auguste-viktoria/ (bergbau-dorsten.de) – https://bergbau-dorsten.de/zeche-auguste-viktoria/\n- **[2]** publikationen.ub.uni-frankfurt.de/opus4/files/17963/1914-05-16-9726925.pdf (publikationen.ub.uni-frankfurt.de) – https://publikationen.ub.uni-frankfurt.de/opus4/files/17963/1914-05-16-9726925.pdf\n- **[3]** web.de/magazine/unterhaltung/thema/victoria-von-schweden (web.de) – https://web.de/magazine/unterhaltung/thema/victoria-von-schweden\n- –\n- de.wikipedia.org/wiki/Victoria_von_Schweden (de.wikipedia.org) – https://de.wikipedia.org/wiki/Victoria_von_Schweden\n- api.deutsche-digitale-bibliothek.de/binary/9c825e3d-2a95-4456-851c-76da2acfbee0.pdf (api.deutsche-digitale-bibliothek.de) – https://api.deutsche-digitale-bibliothek.de/binary/9c825e3d-2a95-4456-851c-76da2acfbee0.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zur Größe des Bergbaufelds \"Prinzessin Victoria\" gefunden wurden. Die Antwort verweist auf andere Felder und erklärt das Fehlen der gesuchten Daten klar."
+  },
+  "file_type": "csv"
+}

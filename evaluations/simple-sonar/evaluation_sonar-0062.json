@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0062",
+  "run_at": "2025-09-04T18:55:32.737189Z",
+  "question_id": 62,
+  "question": "Welche Farbe hat die Linie 23 im Verkehrsverbund RNV?",
+  "answer": "orange/ #E48F00",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Linie 23 im Verkehrsverbund RNV wird als Straßenbahnlinie geführt und gehört zu den rnv-Bahnlinien, die im Farbsystem der RNV in **rnv-Orange** dargestellt werden. Das bedeutet, die Linie 23 hat die Farbe Orange im RNV-Farbschema[1].\n\nZur Einordnung: Im RNV-Farbsystem werden Bahnlinien (wie die Straßenbahnlinie 23) in rnv-Orange dargestellt, Buslinien in rnv-Hellblau und Regionalbuslinien in rnv-Hellgrün oder Grau[1]. Eine spezifische individuelle Linienfarbe für die Linie 23 wird in den gefundenen Quellen nicht explizit genannt, aber die Zuordnung zu den Bahnlinien und deren Farbcode Orange ist klar definiert.\n\nZusätzlich ist bekannt, dass die Linie 23 eine Nord-Süd-Verbindung durch Heidelberg bedient, von Bismarckplatz bis Rohrbach-Süd/Leimen[2][3]. Die Farbe Orange dient hier der Unterscheidung der Bahnlinien im RNV-Netz.\n\n**Kurzfassung:** Die Linie 23 im Verkehrsverbund RNV hat die Farbe **Orange** gemäß dem offiziellen Farbsystem für rnv-Bahnlinien[1].\n\n### Quellen\n- **[1]** www.rnv-online.de/gestaltungsrichtlinien/ii1-printanwendungen/ii13-farbe/ (www.rnv-online.de) – https://www.rnv-online.de/gestaltungsrichtlinien/ii1-printanwendungen/ii13-farbe/\n- **[2]** rhein-neckar-wiki.de/Stra%C3%9Fenbahn_23 (rhein-neckar-wiki.de) – https://rhein-neckar-wiki.de/Stra%C3%9Fenbahn_23\n- **[3]** moovitapp.com/index/de/%C3%96PNV-line-rnv_23-Stuttgart-3727-3754989-155634523-4 (moovitapp.com) – https://moovitapp.com/index/de/%C3%96PNV-line-rnv_23-Stuttgart-3727-3754989-155634523-4\n- –\n- moovitapp.com/index/en/public_transit-line-rnv_23-Stuttgart-3727-3754989-155634523-3 (moovitapp.com) – https://moovitapp.com/index/en/public_transit-line-rnv_23-Stuttgart-3727-3754989-155634523-3\n- www.rnv-online.de/gestaltungsrichtlinien/ii2-digitale-anwendungen/ii21-website/farben/ (www.rnv-online.de) – https://www.rnv-online.de/gestaltungsrichtlinien/ii2-digitale-anwendungen/ii21-website/farben/",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, enthält aber nicht den Hexcode."
+  }
+}

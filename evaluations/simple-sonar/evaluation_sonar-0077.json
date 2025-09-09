@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0077",
+  "run_at": "2025-09-04T18:57:12.846247Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77). Dort starben 2023 deutlich mehr Männer als Frauen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "llm_final": "Das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen besteht bei der Krankheitsgruppe der **Suizide** (psychische und Verhaltensstörungen) insbesondere bei jungen Männern. In Deutschland ist Suizid bei Männern im Alter von 15 bis 29 Jahren die häufigste Todesursache, während bei Frauen diese Todesursache deutlich seltener auftritt[4].\n\nWeitere Krankheitsgruppen mit einem deutlich höheren Anteil männlicher Todesfälle sind häufig auch bestimmte Kreislauferkrankungen und Krankheiten des Atmungssystems, jedoch ist der relative Überschuss bei Suiziden besonders ausgeprägt[1][4].\n\nZusammengefasst:\n- **Suizide** zeigen das höchste Mortalitätsverhältnis zugunsten männlicher Todesfälle.\n- Dies gilt besonders für junge Männer (15-29 Jahre).\n- Andere Todesursachen mit männlichem Überschuss sind Herz-Kreislauf- und Atemwegserkrankungen, aber mit geringerem Geschlechtergefälle[1][4].\n\nDiese Erkenntnisse basieren auf der Todesursachenstatistik des Statistischen Bundesamtes und der Gesundheitsberichterstattung des Robert Koch-Instituts[1][3][4].\n\n### Quellen\n- **[1]** www.destatis.de/DE/Themen/Querschnitt/Gleichstellungsindikatoren/todesursachen-h11.html (www.destatis.de) – https://www.destatis.de/DE/Themen/Querschnitt/Gleichstellungsindikatoren/todesursachen-h11.html\n- **[2]** de.statista.com/statistik/daten/studie/182907/umfrage/anzahl-der-todesfaelle-in-deutschland-nach-geschlecht-seit-1950/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/182907/umfrage/anzahl-der-todesfaelle-in-deutschland-nach-geschlecht-seit-1950/\n- **[3]** edoc.rki.de/bitstream/handle/176904/3233/22bQbdGjXoJY.pdf (edoc.rki.de) – https://edoc.rki.de/bitstream/handle/176904/3233/22bQbdGjXoJY.pdf?sequence=1&isAllowed=y\n- –\n- pmc.ncbi.nlm.nih.gov/articles/PMC9199454/ (pmc.ncbi.nlm.nih.gov) – https://pmc.ncbi.nlm.nih.gov/articles/PMC9199454/\n- www.gbe-bund.de/stichworte/Todesursachenstatistik.html (www.gbe-bund.de) – https://www.gbe-bund.de/stichworte/Todesursachenstatistik.html",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt Suizide als Krankheitsgruppe mit dem höchsten männlichen Mortalitätsüberschuss, während laut Goldstandard Leberkrankheiten (K70–K77) korrekt sind. Die Antwort ist daher sachlich falsch."
+  }
+}

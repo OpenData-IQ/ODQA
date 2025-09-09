@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0121",
+  "run_at": "2025-09-04T15:17:24.362512Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "- Brühl (Rhein-Erft-Kreis, Nordrhein-Westfalen): 318 Eheschließungen im Jahr 2020.\n  Quelle: IT.NRW (Landesbetrieb Information und Technik Nordrhein-Westfalen), Tabelle „Eheschließungen in NRW nach Gemeinden“, Gemeinde Brühl (AGS 05362 012), Jahr 2020.\n\n- Brühl (Baden, Rhein-Neckar-Kreis, Baden‑Württemberg): 56 Eheschließungen im Jahr 2020.\n  Quelle: Statistisches Landesamt Baden‑Württemberg, Tabelle „Eheschließungen nach Gemeinden“, Gemeinde Brühl (AGS 08226 009), Jahr 2020.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt zwei verschiedene Zahlen für Brühl an (318 und 56), die beide nicht mit der Goldstandard-Antwort (241) übereinstimmen. Die Frage bezieht sich auf Brühl im Allgemeinen, und die LLM-Antwort ist in Bezug auf die genaue Zahl falsch."
+  }
+}

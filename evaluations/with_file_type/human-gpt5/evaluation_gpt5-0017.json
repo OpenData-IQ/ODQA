@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0017",
+  "run_at": "2025-08-31T21:33:30.612386Z",
+  "question_id": 17,
+  "question": "Wo finde ich heraus, welche Kindergärten in Nordfriesland im Jahr 2021 Friesisch unterrichtet haben?",
+  "answer": "https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Link zur Datei",
+  "llm_final": "Auf dem Open-Data-Portal Schleswig-Holstein:\n- Datensatz: „Übersicht aller friesisch arbeitenden Kindergärten in Nordfriesland – Stand: 01/2021“\n- Datensatz-Seite: https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915\n- Direktlink zur CSV (Tabelle_39.csv): https://opendata.schleswig-holstein.de/dataset/7f5267cc-720e-4abe-a7b5-5f15048d4915/resource/b26b8d2b-ff5f-45ef-9443-91c507b4aa2b/download/tabelle_39.csv\n\nDie Tabelle listet (Stand 01/2021) die Kindergärten in Nordfriesland, die Friesisch anbieten, inkl. Träger, zeitlichem Umfang, Kostenträger und wer den Unterricht erteilt.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM enthält den exakten Link aus der Goldstandard-Antwort und bietet zusätzliche nützliche Details sowie einen Direktlink zur CSV-Datei. Dies macht die Antwort umfassend und direkt nutzbar."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0085",
+  "run_at": "2025-09-04T14:42:16.935167Z",
+  "question_id": 85,
+  "question": "In welchem Kreis Deutschlands wurde am 01.03.24 der höchste Anteil der dort lebenden Kinder unter 1 Jahr betreut, und wie hoch war dieser Prozentsatz?„,In Mansfeld-Südharz wurden 9",
+  "answer": "2% der dort lebenden unter 1-Jährigen betreut\"",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "- Kreis mit dem höchsten Anteil: Landkreis Mansfeld-Südharz (Sachsen-Anhalt)\n- Anteil der unter 1‑Jährigen in Betreuung am 01.03.2024: 9 %\n\nQuellen:\n- Statistisches Bundesamt (Destatis) – Kinder und tätige Personen in der Kindertagesbetreuung, Stichtag 1.3.2024: Betreuungsquoten unter 1‑Jähriger nach Kreisen (GENESIS-Online, Regionaldatenbank Deutschland)\n- Regionalatlas Deutschland – Indikator „Kinder unter 1 Jahr in Kindertagesbetreuung, Anteil in %“ (Kreisebene, Stichtag 01.03.2024)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie nennt den richtigen Landkreis und den korrekten Prozentsatz, einschließlich relevanter Quellen."
+  }
+}

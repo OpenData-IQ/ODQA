@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0182",
+  "run_at": "2025-09-04T19:09:25.186360Z",
+  "question_id": 182,
+  "question": "Welcher Stadtbereich in Rostock hatte im Jahr 2007 den größten absoluten Bevölkerungszuwachs?",
+  "answer": "Die Kröpeliner-Tor-Vorstadt hatte im Jahr 2007 mit 421 Personen den größten absoluten Bevölkerungszuwachs.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Stadtbereich in Rostock mit dem größten absoluten Bevölkerungszuwachs im Jahr 2007 war die **Kröpeliner-Tor-Vorstadt** mit 19.154 Einwohnern, gefolgt von der Südstadt mit 15.041 Einwohnern[1]. \n\nDiese Zahlen stammen aus dem Stadtbereichskatalog der Hansestadt Rostock, der die Einwohnerzahlen der einzelnen Stadtbereiche für das Jahr 2007 auflistet. Die Kröpeliner-Tor-Vorstadt hatte dabei die höchste absolute Einwohnerzahl, was auf einen starken Bevölkerungszuwachs in diesem Bereich hinweist[1].\n\nWeitere Stadtbereiche wie das Hansaviertel (8.154 Einwohner) oder die Gartenstadt/Stadtweide (3.186 Einwohner) hatten deutlich geringere Einwohnerzahlen im Vergleich zur Kröpeliner-Tor-Vorstadt[1].\n\nDie Gesamtbevölkerung Rostocks lag 2007 bei etwa 199.000 Personen mit einem Anstieg auf über 200.000 bis Jahresende[3][5]. Der Zuwachs in der Kröpeliner-Tor-Vorstadt spiegelt somit einen bedeutenden Anteil am Gesamtwachstum der Stadt wider.\n\n### Quellen\n- **[1]** rathaus.rostock.de/Statistik/Stadtbereichskatalog/atlas.html (rathaus.rostock.de) – https://rathaus.rostock.de/Statistik/Stadtbereichskatalog/atlas.html\n- **[2]** www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf (www.planungsverband-rostock.de) – https://www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf\n- **[3]** rathaus.rostock.de/de/statistische_veroeffentlichung_2007_im_ueberblick_erschienen/290953 (rathaus.rostock.de) – https://rathaus.rostock.de/de/statistische_veroeffentlichung_2007_im_ueberblick_erschienen/290953\n- –\n- www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_Nahbereiche.pdf (www.planungsverband-rostock.de) – https://www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_Nahbereiche.pdf\n- de.wikipedia.org/wiki/Rostock (de.wikipedia.org) – https://de.wikipedia.org/wiki/Rostock",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt zwar den richtigen Stadtbereich, verwechselt aber absolute Einwohnerzahl mit Bevölkerungszuwachs und gibt keine konkrete Zuwachszahl an. Die Begründung ist daher nur teilweise korrekt."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0021",
+  "run_at": "2025-09-04T17:05:01.211964Z",
+  "question_id": 21,
+  "question": "Wie viele Ballettaufführungen gab es in der Spielzeit 2022/23 in Frankfurt am Main?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die genaue Anzahl der Ballettaufführungen in Frankfurt am Main während der Spielzeit 2022/23 ist in den verfügbaren Quellen nicht explizit angegeben. Allerdings gibt es Hinweise auf Tanzveranstaltungen in dieser Zeit. So kehrte der Tanz am 21. Januar 2023 mit der Produktion \"10 Odd Emotions\" ans Schauspiel Frankfurt zurück. In dieser einzigartigen Zusammenarbeit zwischen dem Schauspiel Frankfurt und der Dresden Frankfurt Dance Company traten Schauspieler:innen zusammen mit Tänzer:innen und freien Performer:innen auf die Bühne. Die israelische Choreografin Saar Magal entwickelte dabei ein Tanztheaterstück zum Themenkomplex Rassismus und Antisemitismus. ([frankfurt-live.com](https://www.frankfurt-live.com/schauspiel-frankfurt-erfreuliche-zwischenbilanz-f-uumlr-die-spielzeit-2022-23-150490?utm_source=openai))\n\nZudem fand vom 29. September bis 8. Oktober 2022 die 11. Ausgabe des Festivals \"Politik im Freien Theater\" in Frankfurt am Main statt. Dieses interdisziplinäre Theater- und Diskursprogramm umfasste über 200 Veranstaltungen an 50 verschiedenen Orten und zog rund 11.000 Besucher an. ([frankfurt-live.com](https://www.frankfurt-live.com/schauspiel-frankfurt-erfreuliche-zwischenbilanz-f-uumlr-die-spielzeit-2022-23-150490?utm_source=openai))\n\nObwohl diese Veranstaltungen Tanz- und Theateraufführungen beinhalteten, sind spezifische Zahlen zu Ballettaufführungen in Frankfurt am Main für die Spielzeit 2022/23 in den verfügbaren Quellen nicht zu finden. \n\n### Quellen\n- **[1]** Schauspiel Frankfurt: Erfreuliche Zwischenbilanz für - 30.12.2022 (www.frankfurt-live.com) – https://www.frankfurt-live.com/schauspiel-frankfurt-erfreuliche-zwischenbilanz-f-uumlr-die-spielzeit-2022-23-150490?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass die genaue Anzahl der Ballettaufführungen nicht explizit in den Quellen angegeben ist, und nennt stattdessen andere Tanz- und Theaterveranstaltungen. Die Goldstandard-Antwort ist jedoch eine spezifische Zahl (6), was darauf hindeutet, dass die LLM-Antwort falsch ist, da sie die Frage nicht direkt beantwortet und die Information nicht findet."
+  },
+  "file_type": "csv"
+}

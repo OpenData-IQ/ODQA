@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0103",
+  "run_at": "2025-09-04T19:00:24.172648Z",
+  "question_id": 103,
+  "question": "Wann gab es in Frankfurt am Main prozentual die meisten Fehlalarme bei Feuermeldungen?",
+  "answer": "2024, mit 80,9%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine spezifischen Daten oder Zeiträume, die direkt angeben, wann es in Frankfurt am Main prozentual die meisten Fehlalarme bei Feuermeldungen gab. \n\nAllgemein ist bekannt, dass Fehlalarme bei Feuerwehren zunehmen können, etwa durch die verpflichtende Ausstattung von Gebäuden mit Rauchmeldern, wie es in Thüringen 2023 beobachtet wurde[1]. Für Hessen insgesamt gab es 2013 eine beträchtliche Anzahl von 18.366 Fehleinsätzen, die auch Fehlalarme bei Brandmeldeanlagen umfassen[3]. Konkrete prozentuale Fehlalarmzahlen oder Zeitpunkte speziell für Frankfurt am Main sind in den Suchergebnissen jedoch nicht enthalten.\n\nFalls Sie präzise historische oder aktuelle Daten zu Fehlalarmen in Frankfurt am Main suchen, empfiehlt sich eine Anfrage bei der Feuerwehr Frankfurt oder beim Hessischen Ministerium des Innern, die solche Statistiken führen könnten. Auch lokale Jahresberichte der Feuerwehr Frankfurt könnten diese Information enthalten.\n\n### Quellen\n- **[1]** www.sueddeutsche.de/panorama/feuerwehr-mehr-fehlalarme-bei-feuerwehren-dpa.urn-newsml-dpa-com-20090101-240805-930-194604 (www.sueddeutsche.de) – https://www.sueddeutsche.de/panorama/feuerwehr-mehr-fehlalarme-bei-feuerwehren-dpa.urn-newsml-dpa-com-20090101-240805-930-194604\n- **[2]** www.feuerwehr-hessen.de/medias/infodienst/infodienst-30.pdf (www.feuerwehr-hessen.de) – https://www.feuerwehr-hessen.de/medias/infodienst/infodienst-30.pdf\n- –\n- starweb.hessen.de/cache/hessen/Brandschutz_2013.pdf (starweb.hessen.de) – https://starweb.hessen.de/cache/hessen/Brandschutz_2013.pdf\n- www.hlnug.de/fileadmin/dokumente/luft/externe_fachveranstaltungen/vorlesungen/schmid/Dossier_S1-Teil_%204-Charakterisierung_vergangener_Extremereignisse_in_Nordhessen.pdf (www.hlnug.de) – https://www.hlnug.de/fileadmin/dokumente/luft/externe_fachveranstaltungen/vorlesungen/schmid/Dossier_S1-Teil_%204-Charakterisierung_vergangener_Extremereignisse_in_Nordhessen.pdf\n- www.hallelife.de/nachrichten/verbraucher/details-verbraucher/brandgefaehrlich-falscher-alarm-bei-der-feuerwehr/ (www.hallelife.de) – https://www.hallelife.de/nachrichten/verbraucher/details-verbraucher/brandgefaehrlich-falscher-alarm-bei-der-feuerwehr/",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort erklärt klar, dass keine spezifischen Daten für Frankfurt am Main gefunden wurden. Sie verweist auf allgemeine Trends und empfiehlt weitere Recherche, liefert aber nicht die gefragte Zahl oder den Zeitraum."
+  }
+}

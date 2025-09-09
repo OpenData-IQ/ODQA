@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0121",
+  "run_at": "2025-09-06T13:34:49.608989Z",
+  "question_id": 121,
+  "question": "Wie viele Eheschließungen gab es 2020 in Brühl?",
+  "answer": "241",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The input JSON does not contain an LLM answer to evaluate. The 'llm_final' field is empty, indicating no answer was provided by the LLM."
+  }
+}

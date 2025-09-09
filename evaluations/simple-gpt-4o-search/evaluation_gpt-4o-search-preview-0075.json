@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0075",
+  "run_at": "2025-09-04T17:15:40.156180Z",
+  "question_id": 75,
+  "question": "In welchen Fachabteilungen gibt es Stand 31.12.23 in den Krankenhäusern im Kreis Nordfriesland keine aufgestellten Betten?",
+  "answer": "Kinder- und Jugendpsychiatrie, Orthopädie, Neurologie, Kinderheilkunde, Augenheilkunde",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Krankenhäuser im Kreis Nordfriesland verfügen über eine Vielzahl von Fachabteilungen, darunter Innere Medizin, Allgemein- und Viszeralchirurgie, Gynäkologie und Geburtshilfe, Hals-Nasen-Ohren-Heilkunde, Anästhesie, Intensivmedizin, Geriatrie, Kardiologie, Neurochirurgie, Nuklearmedizin, Orthopädie, Radiologie, Unfallchirurgie, Urologie und weitere. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Klinikum_Nordfriesland?utm_source=openai))\n\nAllerdings sind nicht alle medizinischen Fachrichtungen mit stationären Betten vertreten. Beispielsweise gibt es keine stationären Betten für die Fachrichtungen Neurologie, Psychiatrie, Dermatologie, Augenheilkunde und Pädiatrie. Patienten, die eine stationäre Behandlung in diesen Bereichen benötigen, müssen daher auf Kliniken außerhalb des Kreises Nordfriesland ausweichen. \n\n### Quellen\n- **[1]** Klinikum Nordfriesland (de.wikipedia.org) – https://de.wikipedia.org/wiki/Klinikum_Nordfriesland?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort listet einige Fachabteilungen auf. Im Vergleich zum Goldstandard gibt es zu wenige Übereinstimmungen."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0080",
+  "run_at": "2025-08-31T23:38:03.095104Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'Recursion limit of 25 reached'. This indicates a technical issue preventing a proper answer."
+  },
+  "file_type": "csv"
+}

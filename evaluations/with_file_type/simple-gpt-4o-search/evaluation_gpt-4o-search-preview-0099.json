@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0099",
+  "run_at": "2025-09-04T17:23:16.712599Z",
+  "question_id": 99,
+  "question": "Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar?",
+  "answer": "80",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "CSV ist in englischer Sprache",
+  "llm_final": "Leider liegen keine spezifischen Daten zur Anzahl der uneingeschränkt mit dem Rollstuhl erreichbaren Poststationen in der Metropolregion Rhein-Neckar vor. Die Deutsche Post betreibt bundesweit rund 700 Poststationen, wobei in den letzten Jahren ein verstärkter Ausbau von Automaten erfolgt ist. ([rnz.de](https://www.rnz.de/politik/wirtschaft-regional_artikel%2C-Behoerden-Die-Post-setzt-immer-staerker-auf-Automaten-_arid%2C1355589.html?utm_source=openai))\n\nFür detaillierte Informationen zur Barrierefreiheit einzelner Poststationen in Ihrer Region empfiehlt es sich, direkt bei der Deutschen Post nachzufragen oder die jeweiligen Standorte zu kontaktieren. \n\n### Quellen\n- **[1]** Behörden: Die Post setzt immer stärker auf Automaten - Wirtschaft Regional - Rhein-Neckar-Zeitung (www.rnz.de) – https://www.rnz.de/politik/wirtschaft-regional_artikel%2C-Behoerden-Die-Post-setzt-immer-staerker-auf-Automaten-_arid%2C1355589.html?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass keine spezifischen Daten vorliegen, während die Goldstandard-Antwort eine konkrete Zahl (80) liefert. Die LLM-Antwort ist somit falsch, da sie die Frage nicht beantworten kann."
+  },
+  "file_type": "csv"
+}

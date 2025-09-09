@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0045",
+  "run_at": "2025-09-04T18:53:42.679510Z",
+  "question_id": 45,
+  "question": "Was ist die Abkürzung für das Staatliche Schulamt Neuruppin?",
+  "answer": "StSchA NP",
+  "question_type": "simple",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Abkürzung für das Staatliche Schulamt Neuruppin lautet **StSchA NP**. Diese Abkürzung wird offiziell verwendet, zum Beispiel auf der Website der Verwaltung der Stadt Meyenburg[1].\n\n### Quellen\n- **[1]** www.amtmeyenburg.de/verwaltung/einheit.php (www.amtmeyenburg.de) – https://www.amtmeyenburg.de/verwaltung/einheit.php?id=100050508\n- –\n- bildungsserver.berlin-brandenburg.de/fileadmin/bbb/Qualifizierung/fortbildung/fach_und_schulberater_in_brandenburg_buss/stscha_neuruppin/Newsletter_BUSS_NP_Oktober_2022.pdf (bildungsserver.berlin-brandenburg.de) – https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/Qualifizierung/fortbildung/fach_und_schulberater_in_brandenburg_buss/stscha_neuruppin/Newsletter_BUSS_NP_Oktober_2022.pdf\n- schulaemter.brandenburg.de/staatliche-schulaemter/schulamt-neuruppin.html (schulaemter.brandenburg.de) – https://schulaemter.brandenburg.de/staatliche-schulaemter/schulamt-neuruppin.html\n- www.begabungslotse.de/anbieter/schulpsychologische-beratung-staatlichen-schulamt-neuruppin (www.begabungslotse.de) – https://www.begabungslotse.de/anbieter/schulpsychologische-beratung-staatlichen-schulamt-neuruppin\n- fragdenstaat.de/behoerde/16495/staatliches-schulamt-neuruppin/ (fragdenstaat.de) – https://fragdenstaat.de/behoerde/16495/staatliches-schulamt-neuruppin/",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort gibt die korrekte Abkürzung an und liefert mehrere relevante Quellen als Nachweis. Sie ist vollständig und direkt umsetzbar."
+  },
+  "file_type": "csv"
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0092",
+  "run_at": "2025-09-04T17:18:49.410011Z",
+  "question_id": 92,
+  "question": "Wie hoch ist die geschätzte Auszahlung für die kommenden drei Jahre für die bilaterale staatliche Entwicklungszusammenarbeit für Tadschikistan?",
+  "answer": "2810000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt. Dies geht nur aus den Metadaten hervor.",
+  "llm_final": "Die bilaterale staatliche Entwicklungszusammenarbeit Deutschlands mit Tadschikistan wird gemäß dem Reformkonzept „BMZ 2030“ des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) schrittweise beendet. Bestehende Projekte werden abgeschlossen, und einige werden durch EU-Kofinanzierungen fortgeführt. ([auswaertiges-amt.de](https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/bilaterale-beziehungen/206762?utm_source=openai))\n\nFür die kommenden drei Jahre (2025–2028) sind keine neuen bilateralen Entwicklungszusammenarbeitsprojekte zwischen Deutschland und Tadschikistan geplant. Daher sind keine spezifischen Auszahlungen für diesen Zeitraum vorgesehen. Die zukünftige Zusammenarbeit wird voraussichtlich im Rahmen regionaler Initiativen und über multilaterale Organisationen erfolgen. \n\n### Quellen\n- **[1]** Deutschland und Tadschikistan: bilaterale Beziehungen - Auswärtiges Amt (www.auswaertiges-amt.de) – https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/bilaterale-beziehungen/206762?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort besagt, dass keine Auszahlungen geplant sind, während die Goldstandard-Antwort einen spezifischen Betrag angibt. Die LLM-Antwort ist daher falsch, da sie die Frage nicht korrekt beantwortet."
+  }
+}

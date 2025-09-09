@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0024",
+  "run_at": "2025-09-04T13:49:32.181651Z",
+  "question_id": 24,
+  "question": "Wann wurden die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim gezählt?",
+  "answer": "Am 15.10.2018 um 15 Uhr, da waren es 320",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurzfassung:\n- Fahrräder: Die höchsten Stundenwerte an der Zählstelle Konrad-Adenauer-Brücke (Süd) treten typischerweise werktags in der Pendelspitze zwischen 17:00 und 18:00 Uhr auf; die höchsten Tageswerte an warmen, trockenen Sommertagen.\n- Fußgänger: Die Spitzen liegen meist an Wochenenden bzw. bei Veranstaltungen, stündlich häufig am späten Nachmittag/Abend (ca. 15:00–19:00 Uhr).\n\nHinweis: Der exakte Rekord (Datum/Uhrzeit mit maximalem Wert) hängt vom betrachteten Zeitraum ab und lässt sich in den offenen Zähldaten für die Station „Konrad-Adenauer-Brücke (Süd)“ einsehen.\n\nQuellen:\n- Stadt Mannheim – Open-Data-Datensätze „Automatische Zählstellen Fuß- und Radverkehr (Stundenwerte und Tageswerte)“. Diese enthalten die Zeitreihen je Station, inkl. „Konrad-Adenauer-Brücke (Süd)“.\n- Öffentliches Dashboard der Zählanlagen (Eco-Counter/Eco-Visio) der Stadt Mannheim, Station „Konrad-Adenauer-Brücke (Süd)“. Hier lassen sich Rekordtage und Spitzenstunden interaktiv auslesen.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt keine konkrete Antwort auf die Frage nach dem Zeitpunkt der höchsten Zählung, sondern nur allgemeine Trends. Die Goldstandard-Antwort liefert ein spezifisches Datum und eine Uhrzeit."
+  }
+}

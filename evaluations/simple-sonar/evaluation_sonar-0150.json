@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0150",
+  "run_at": "2025-09-04T19:06:01.487824Z",
+  "question_id": 150,
+  "question": "Gab es 2011 in Heimbach im Ortsteil Hasenfeld oder im Kerngebiet mehr Einwohner?",
+  "answer": "Hasenfeld",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Zum 31.12.2011 hatte Hasenfeld 1.169 Einwohner (1.124 Deutsche + 45 Ausländer), das Kerngebiet 1.070 (1.011 + 59).",
+  "llm_final": "Im Jahr 2011 hatte der Ortsteil **Hasenfeld** in Heimbach mit etwa **1200 Einwohnern** mehr Einwohner als das Kerngebiet (der Stadtkern) von Heimbach, das etwa **1100 Einwohner** hatte[1].\n\nZur Einordnung:  \n- Hasenfeld ist ein Ortsteil von Heimbach mit ca. 1200 Einwohnern[1].  \n- Der Kernbereich (Stadtkern) von Heimbach hatte rund 1100 Einwohner[1][3].  \n\nDamit war Hasenfeld 2011 bevölkerungsstärker als das Kerngebiet der Stadt Heimbach.\n\n### Quellen\n- **[1]** en.wikipedia.org/wiki/Heimbach (en.wikipedia.org) – https://en.wikipedia.org/wiki/Heimbach\n- **[2]** www.geoportal.de/info/43f72b04-063a-40f1-9d2b-f77484039b88 (www.geoportal.de) – https://www.geoportal.de/info/43f72b04-063a-40f1-9d2b-f77484039b88\n- –\n- de.wikipedia.org/wiki/Heimbach_(Eifel) (de.wikipedia.org) – https://de.wikipedia.org/wiki/Heimbach_(Eifel)\n- offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/11679cb6-0732-4149-bc9a-1f2b45d3994b (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d04-einwohner-nach-ortsteilen-stadt-heimbach/resource/11679cb6-0732-4149-bc9a-1f2b45d3994b\n- offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-stadt-heimbach/resource/6ac4bcec-d8b5-4206 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-stadt-heimbach/resource/6ac4bcec-d8b5-4206",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, nennt beide Einwohnerzahlen (stark gerundet)."
+  }
+}

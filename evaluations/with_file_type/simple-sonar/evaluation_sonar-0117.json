@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0117",
+  "run_at": "2025-09-04T19:02:04.424486Z",
+  "question_id": 117,
+  "question": "In welchem Stadtbereich Rostocks war der Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 am höchsten?",
+  "answer": "Im Stadtbereich Gartenstadt-Stadtweide lag der Anteil ausländischer Einwohnerinnen und Einwohner am 31.12.2010 mit 7,9 % am höchsten.",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der Stadtbereich Rostocks mit dem höchsten Anteil ausländischer Einwohnerinnen und Einwohner zum 31.12.2010 war **Dierkow-West**. Dort lag der Anteil der ausländischen Bevölkerung deutlich über dem Rostocker Durchschnitt von 6,8 % und war im Vergleich zu anderen Stadtteilen am höchsten[1].\n\nZur Einordnung: Der Durchschnittsanteil ausländischer Einwohner in Rostock lag 2010 bei etwa 6,8 %, wobei in Stadtteilen wie Dierkow-Ost und Biestow der Anteil nur bei etwa 1,1 % lag, während Dierkow-West den höchsten Anteil aufwies[1].\n\nDiese Information stammt aus einer detaillierten Bevölkerungsentwicklung Rostocks betreffenden Quelle, die die Verteilung der ausländischen Bevölkerung auf Stadtteile analysiert[1]. Andere Quellen geben keine genaueren differenzierten Angaben zu einzelnen Stadtteilen Rostocks für 2010.\n\n### Quellen\n- **[1]** rathaus.rostock.de/media/4984/Entwicklung%20der%20Bev%C3%B6lkerung%20mit%20ausl%C3%A4ndischer%20Staatsangeh%C3%B6rigkeit.PDF (rathaus.rostock.de) – https://rathaus.rostock.de/media/4984/Entwicklung%20der%20Bev%C3%B6lkerung%20mit%20ausl%C3%A4ndischer%20Staatsangeh%C3%B6rigkeit.PDF\n- –\n- www.guestrow.de/fileadmin/downloads/stadtentwicklung/Monitoring_Stadtentwicklung_Gesamtstadt_31.12.2020__PDF_.pdf (www.guestrow.de) – https://www.guestrow.de/fileadmin/downloads/stadtentwicklung/Monitoring_Stadtentwicklung_Gesamtstadt_31.12.2020__PDF_.pdf\n- www.dokumentation.landtag-mv.de/Parldok/dokument/31817/ausl%C3%A4nder-in-mecklenburg-vorpommern-2010.pdf (www.dokumentation.landtag-mv.de) – https://www.dokumentation.landtag-mv.de/Parldok/dokument/31817/ausl%C3%A4nder-in-mecklenburg-vorpommern-2010.pdf\n- www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf (www.planungsverband-rostock.de) – https://www.planungsverband-rostock.de/wp-content/uploads/2018/07/Bevoelkerungsprognose_SUR_Rostock.pdf\n- de.wikipedia.org/wiki/Demografie_Rostocks (de.wikipedia.org) – https://de.wikipedia.org/wiki/Demografie_Rostocks",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt Dierkow-West als Stadtbereich mit dem höchsten Ausländeranteil, während laut Goldstandard Gartenstadt-Stadtweide korrekt ist. Die Antwort ist somit sachlich falsch."
+  },
+  "file_type": "csv"
+}

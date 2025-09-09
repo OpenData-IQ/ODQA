@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0080",
+  "run_at": "2025-09-04T14:38:09.629590Z",
+  "question_id": 80,
+  "question": "Was war 2023 die beliebteste Heizenergie bei neuen Wohngebäuden in Deutschland?",
+  "answer": "Umweltthermie (Luft/Wasser)",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Für Umweltthermie (Luft/Wasser) sind 54.584 Wohnungen vermerkt, gefolgt von Gas mit 19.444 Wohnungen",
+  "llm_final": "Die Wärmepumpe (Umwelt-/Geothermie) war 2023 die mit Abstand am häufigsten gewählte primäre Heizenergie in neuen Wohngebäuden in Deutschland – eingesetzt in rund zwei Dritteln der Neubauten.\n\nQuellen:\n- Statistisches Bundesamt (Destatis): Bautätigkeit und Wohnungen – Energiequelle der Heizung in neuen Wohngebäuden (Ergebnisse 2023; Pressemitteilung 2024: “Wärmepumpen in zwei Dritteln der neuen Wohngebäude”).",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die beliebteste Heizenergie an. Sie liefert auch eine relevante Quelle zur Bestätigung der Information."
+  }
+}

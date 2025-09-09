@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0032",
+  "run_at": "2025-08-31T21:55:54.052939Z",
+  "question_id": 32,
+  "question": "Wo gibt es mehr Info zu der sofort verfügbaren Gewerbefläche im Gewerbegebiet Hackenbroich?",
+  "answer": "https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets/rhein-kreis-neuss-gewerbeflachen",
+  "question_type": "simple with restriction",
+  "source": "1",
+  "remark": "https://www.gewerbeflaechen-rkn.de/commercialspace/parcel/expose/de/211903",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Der LLM-Output zeigt explizit an, dass das Rekursionslimit erreicht wurde. Dies verhindert, dass eine vollständige Antwort generiert werden konnte."
+  },
+  "file_type": "csv"
+}

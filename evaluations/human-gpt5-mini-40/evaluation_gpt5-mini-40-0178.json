@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0178",
+  "run_at": "2025-09-06T16:52:04.850851Z",
+  "question_id": 178,
+  "question": "Wie viele Familien mit minus 3 Personen lebten 2010 in der Stadt Bergheim?",
+  "answer": "Eine Personenanzahl kann nicht negativ sein. Daher gibt es dazu keine Daten.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Kurz und knapp (Stichtag 31.12.2010, Datensatz D08):\n\n- Genau 3 Personen: 2.691 Familien  \n- Weniger als 3 Personen (1- und 2-Personen-Familien): 32.168 Familien\n\nQuelle: D08 „Familien nach Größe Stadt Bergheim“ (2010) — offenedaten.kdvz.nrw",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Frage basiert auf einer falschen Prämisse (negative Personenanzahl). Die LLM-Antwort ignoriert dies und liefert Daten für positive Personenzahlen, was die falsche Prämisse nicht korrigiert. Die Antwort ist daher sachlich falsch im Kontext der gestellten Frage."
+  }
+}

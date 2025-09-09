@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0004",
+  "run_at": "2025-09-04T17:02:32.393845Z",
+  "question_id": 4,
+  "question": "Wie viele untergebrachte wohnungslose Frauen gab es 2024 in Nordfriesland?",
+  "answer": "510",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider liegen keine spezifischen Daten zur Anzahl der untergebrachten wohnungslosen Frauen im Jahr 2024 für den Kreis Nordfriesland vor. Auf Bundesebene waren zum Stichtag 31. Januar 2024 insgesamt rund 439.500 Personen wegen Wohnungslosigkeit untergebracht, wobei 43 % dieser Personen Frauen waren. ([destatis.de](https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_282_229.html?utm_source=openai))\n\nIn Niedersachsen, einem benachbarten Bundesland, waren zum gleichen Stichtag etwa 33.000 Personen untergebracht, davon 14.735 Frauen (45 %). ([statistik.niedersachsen.de](https://www.statistik.niedersachsen.de/presse/33-000-kinder-frauen-und-manner-ende-januar-2024-in-niedersachen-wegen-wohnungslosigkeit-untergebracht-236274.html?utm_source=openai))\n\nObwohl diese Zahlen keine direkten Rückschlüsse auf die Situation in Nordfriesland zulassen, deuten sie darauf hin, dass der Anteil der untergebrachten wohnungslosen Frauen regional variieren kann. Für genaue Zahlen empfiehlt es sich, die zuständigen lokalen Behörden oder Sozialdienste in Nordfriesland zu kontaktieren, da diese möglicherweise detailliertere Statistiken führen. \n\n### Quellen\n- **[1]** Ende Januar 2024 rund 439 500 untergebrachte wohnungslose Personen in Deutschland - Statistisches Bundesamt (www.destatis.de) – https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_282_229.html?utm_source=openai\n- **[2]** 33.000 Kinder, Frauen und Männer Ende Januar 2024 in Niedersachsen wegen Wohnungslosigkeit untergebracht | Landesamt für Statistik Niedersachsen (www.statistik.niedersachsen.de) – https://www.statistik.niedersachsen.de/presse/33-000-kinder-frauen-und-manner-ende-januar-2024-in-niedersachen-wegen-wohnungslosigkeit-untergebracht-236274.html?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass keine spezifischen Daten für Nordfriesland vorliegen, während die Goldstandard-Antwort eine konkrete Zahl liefert. Die LLM-Antwort kann die spezifische Frage nicht beantworten und liefert nur allgemeine Daten für Deutschland und Niedersachsen."
+  }
+}

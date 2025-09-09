@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0183",
+  "run_at": "2025-09-04T16:07:46.929266Z",
+  "question_id": 183,
+  "question": "Wie viele Eheschließungen gab es im Jahr 2015 in der Gemeinde Titz?",
+  "answer": "55",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "2015 wurden in der Gemeinde Titz 39 Eheschließungen beurkundet.\n\nQuellen:\n- Information und Technik Nordrhein-Westfalen (IT.NRW), Amtliche Statistik: Eheschließungen nach Eheschließungsort – Gemeinden in NRW, Jahr 2015 (Gemeinde Titz, Kreis Düren).\n- Statistische Ämter des Bundes und der Länder, Regionaldatenbank Deutschland: Eheschließungen, Gemeinden (Gemeinde Titz, 2015).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt 39 Eheschließungen an, während die korrekte Antwort 55 ist. Die angegebene Zahl ist falsch. Die Quellen sind korrekt, aber die Zahl ist falsch."
+  }
+}

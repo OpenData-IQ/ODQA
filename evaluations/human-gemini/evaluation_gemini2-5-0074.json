@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0074",
+  "run_at": "2025-09-01T05:38:14.084572Z",
+  "question_id": 74,
+  "question": "Wie viele Lastkraftwägen gab es am 01.01.24 insgesamt in den neuen Bundesländern?",
+  "answer": "716329",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es wurden keine passenden Datensätze gefunden. Die Suche nach \"Lastkraftwägen 01.01.24 neue Bundesländer\" lieferte keine relevanten Ergebnisse. Es ist möglich, dass die Daten unter einem anderen Begriff oder in einem allgemeineren Datensatz verfügbar sind.",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM gibt an, keine passenden Datensätze gefunden zu haben, und liefert keine Zahl zur Frage. Daher liegt ein 'not found'-Problem vor."
+  }
+}

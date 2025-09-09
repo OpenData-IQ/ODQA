@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0006",
+  "run_at": "2025-09-04T17:02:49.763234Z",
+  "question_id": 6,
+  "question": "Was kosten 100 kg Elstar Äpfel aus Belgien in KW16 2025 auf deutschen Großmärkten?",
+  "answer": "155€",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "In der 16. Kalenderwoche 2025 dominierten inländische Apfelsorten wie Elstar, Jonagold, Tenroy und Braeburn das Angebot auf deutschen Großmärkten. Italienische und französische Importe ergänzten das Sortiment. Belgische Elstar-Äpfel wurden in den verfügbaren Berichten nicht explizit erwähnt. ([hortigate.de](https://www.hortigate.de/publikation/101791/Markt-und-Preisbericht-Obst-und-Gemse-fr-die-16-KW-2025/?utm_source=openai))\n\nDetaillierte Preisangaben für belgische Elstar-Äpfel in dieser Woche sind in den öffentlich zugänglichen Quellen nicht verfügbar. Allgemein verzeichneten die Märkte jedoch einen deutlichen Preisanstieg im Vergleich zum 5-Jahres-Durchschnitt sowie zum Vorjahr. ([fruchtportal.de](https://www.fruchtportal.de/news/artikel/068816/ble-marktbericht-die-mrkte-verzeichneten-einen-deutlichen-preisanstieg-im-vergleich-zum-5-jahres-durchschnitt?utm_source=openai))\n\nFür spezifische Preisangaben zu belgischen Elstar-Äpfeln in der 16. Kalenderwoche 2025 empfiehlt es sich, die detaillierten Markt- und Preisberichte der Bundesanstalt für Landwirtschaft und Ernährung (BLE) zu konsultieren. Diese Berichte sind über den Informationsdienst Gartenbau hortigate verfügbar, erfordern jedoch ein Abonnement. ([hortigate.de](https://www.hortigate.de/publikation/101791/Markt-und-Preisbericht-Obst-und-Gemse-fr-die-16-KW-2025/?utm_source=openai)) \n\n### Quellen\n- **[1]** Markt- und Preisbericht Obst und Gemüse für die 16. KW 2025 | hortigate - Der Informationsdienst Gartenbau (www.hortigate.de) – https://www.hortigate.de/publikation/101791/Markt-und-Preisbericht-Obst-und-Gemse-fr-die-16-KW-2025/?utm_source=openai\n- **[2]** BLE-Marktbericht: Die Märkte verzeichneten einen deutlichen Preisanstieg im Vergleich zum 5-Jahres-Durchschnitt ‹ Fruchtportal (www.fruchtportal.de) – https://www.fruchtportal.de/news/artikel/068816/ble-marktbericht-die-mrkte-verzeichneten-einen-deutlichen-preisanstieg-im-vergleich-zum-5-jahres-durchschnitt?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt keine konkrete Preisangabe für belgische Elstar-Äpfel und gibt an, die Daten nicht gefunden zu haben."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0031",
+  "run_at": "2025-09-04T13:54:41.212410Z",
+  "question_id": 31,
+  "question": "Wie lang ist der Rundweg im Alsterland?",
+  "answer": "13 Kilometer",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche, viele Geodaten",
+  "llm_final": "Der Rundweg um die Außenalster ist etwa 7,4 km lang.\n\nQuellen:\n- Freie und Hansestadt Hamburg: Joggen/Laufen um die Alster – Streckenlänge ca. 7,4 km. https://www.hamburg.de/laufen/1171786/alster/\n- Wikipedia: Außenalster – Runde um die Außenalster ca. 7,4 km. https://de.wikipedia.org/wiki/Au%C3%9Fenalster",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Frage bezieht sich auf den Rundweg im Alsterland, der 13 km lang ist. Die LLM-Antwort gibt die Länge des Rundwegs um die Außenalster an, was eine andere geografische Region ist. Daher ist die Antwort sachlich falsch."
+  }
+}

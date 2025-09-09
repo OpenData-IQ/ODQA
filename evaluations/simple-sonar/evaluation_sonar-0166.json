@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0166",
+  "run_at": "2025-09-04T19:07:54.903388Z",
+  "question_id": 166,
+  "question": "Wie viele Einwohner mit deutscher und ausländischer Staatsangehörigkeit lebten zum 31.12.2011 in der Gemeinde Langerwehe?",
+  "answer": "Zum Stichtag 31.12.2011 lebten in der Gemeinde Langerwehe 13.084 Personen mit deutscher und 611 Personen mit ausländischer Staatsangehörigkeit.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Zum Stichtag 31.12.2011 lebten in der Gemeinde Langerwehe insgesamt etwa 14.900 Einwohner. Die genaue Aufteilung nach deutscher und ausländischer Staatsangehörigkeit ist in den verfügbaren Daten nicht direkt im Text genannt, jedoch lässt sich aus den kommunalen Profilen und Bevölkerungsstatistiken für Langerwehe ungefähr ableiten, dass die Gesamtbevölkerung zu diesem Zeitpunkt knapp unter 15.000 lag[1][3][5].\n\nFür eine genaue Zahl der Einwohner mit deutscher und ausländischer Staatsangehörigkeit zum 31.12.2011 in Langerwehe empfiehlt sich die Einsicht in die detaillierten Datensätze der Bevölkerungsfortschreibung oder des Zensus 2011, die in den offenen Datenportalen von NRW bereitgestellt werden. Dort sind Einwohnerzahlen nach Staatsangehörigkeit auf Gemeindeebene verfügbar[3][4].\n\nZusammenfassung:\n- Gesamtbevölkerung Langerwehe zum 31.12.2011: ca. 14.900 Einwohner[3][5].\n- Detaillierte Aufteilung nach deutscher und ausländischer Staatsangehörigkeit ist in den offenen Datensätzen des Zensus 2011 für Langerwehe verfügbar, aber nicht direkt in den zusammengefassten Quellen.\n\nFalls Sie die exakten Zahlen benötigen, kann ich Ihnen helfen, die entsprechenden Datensätze aus dem NRW-Open-Data-Portal zu interpretieren.\n\n### Quellen\n- **[1]** statistik.nrw/sites/default/files/municipalprofiles/l05358032.pdf (statistik.nrw) – https://statistik.nrw/sites/default/files/municipalprofiles/l05358032.pdf\n- **[2]** www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/liste-zensus-geschlecht-staatsangehoerigkeit.html (www.destatis.de) – https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/liste-zensus-geschlecht-staatsangehoerigkeit.html\n- **[3]** offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/940f9e0b-c036-4f69-a922-f76781b21c46 (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe/resource/940f9e0b-c036-4f69-a922-f76781b21c46\n- **[4]** offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangeh%C3%B6rigkeit-gemeinde-langerwehe/resource/5e73c9aa-c05d (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d06-einwohner-nach-alter-und-staatsangehoerigkeit-gemeinde-langerwehe/resource/5e73c9aa-c05d\n- –\n- statistik.nrw/gesellschaft-und-staat/gebiet-und-bevoelkerung/bevoelkerung/bevoelkerung-nach-gemeinden (statistik.nrw) – https://statistik.nrw/gesellschaft-und-staat/gebiet-und-bevoelkerung/bevoelkerung/bevoelkerung-nach-gemeinden",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Antwort liefert keine exakten Zahlen zur Aufteilung nach Staatsangehörigkeit, sondern nur die Gesamtbevölkerung und verweist auf externe Quellen. Sie ist daher unvollständig im Hinblick auf die konkrete Fragestellung."
+  }
+}

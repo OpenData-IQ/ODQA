@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt-4o-search-preview-0008",
+  "run_at": "2025-09-04T17:03:04.191515Z",
+  "question_id": 8,
+  "question": "Wie groß ist das Bergbaufeld \"Prinzessin Victoria\"?",
+  "answer": "8 421 307 m2",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Das Bergbaufeld \"Prinzessin Victoria\" befand sich in Neurath, einem Ortsteil von Grevenbroich im Rhein-Kreis Neuss, Nordrhein-Westfalen. Es handelte sich um ein Braunkohlenbergwerk, das im 19. Jahrhundert betrieben wurde. Die genaue Größe des Bergbaufeldes ist in den verfügbaren Quellen nicht angegeben. ([de.readkong.com](https://de.readkong.com/page/wie-prinzessin-viktoria-nach-neurath-kam-8903692?utm_source=openai)) \n\n### Quellen\n- **[1]** Wie Prinzessin Viktoria nach Neurath kam - Dr. Peter Zenker (de.readkong.com) – https://de.readkong.com/page/wie-prinzessin-viktoria-nach-neurath-kam-8903692?utm_source=openai",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": ""
+  },
+  "file_type": "csv"
+}

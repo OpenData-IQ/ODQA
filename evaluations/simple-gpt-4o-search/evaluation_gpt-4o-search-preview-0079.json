@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0079",
+  "run_at": "2025-09-04T17:16:14.465451Z",
+  "question_id": 79,
+  "question": "Wie viele der 2023 im Landkreis Miesbach übernachtenden Gäste hatten die Herkunft \"Spanien\"?",
+  "answer": "geht nicht aus der Statistik hervor",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 verzeichnete der Landkreis Miesbach insgesamt 756.873 Ankünfte und 2.532.306 Übernachtungen. ([merkur.de](https://www.merkur.de/lokales/region-tegernsee/tourismus-branche-landkreis-miesbach-aufwind-bilanz-reo-statistik-93134010.html?utm_source=openai)) Davon stammten etwa 95 % der Gäste aus Deutschland, während nur 5 % aus dem Ausland kamen. Die meisten internationalen Gäste kamen aus Österreich (16,7 %), der Schweiz (13,8 %), den USA (9,8 %), den Niederlanden (9,0 %) und Großbritannien (5,9 %). ([regionalentwicklung-oberland.de](https://www.regionalentwicklung-oberland.de/tourismus-in-der-alpenregion-tegernsee-schliersee-mehr-gaeste-und-uebernachtungen/?utm_source=openai)) Detaillierte Zahlen zu Gästen aus Spanien liegen in den verfügbaren Quellen nicht vor. \n\n### Quellen\n- **[1]** Tourismusbranche im Landkreis Miesbach weiter im Aufwind (www.merkur.de) – https://www.merkur.de/lokales/region-tegernsee/tourismus-branche-landkreis-miesbach-aufwind-bilanz-reo-statistik-93134010.html?utm_source=openai\n- **[2]** Tourismus in der Alpenregion Tegernsee Schliersee – mehr Gäste und Übernachtungen | Regionalentwicklung Oberland (www.regionalentwicklung-oberland.de) – https://www.regionalentwicklung-oberland.de/tourismus-in-der-alpenregion-tegernsee-schliersee-mehr-gaeste-und-uebernachtungen/?utm_source=openai",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Einige Angaben des LLM sind korrekt. Allerdings beziehen sich die Zahlenwerte auf die Region Tegernsee, wobei Miesbach ein Teil dieser Region ist."
+  }
+}

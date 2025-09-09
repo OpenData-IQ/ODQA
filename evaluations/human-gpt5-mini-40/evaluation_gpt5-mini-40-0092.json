@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0092",
+  "run_at": "2025-09-06T12:59:49.355455Z",
+  "question_id": 92,
+  "question": "Wie hoch ist die geschätzte Auszahlung für die kommenden drei Jahre für die bilaterale staatliche Entwicklungszusammenarbeit für Tadschikistan?",
+  "answer": "2810000 Euro",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt. Dies geht nur aus den Metadaten hervor.",
+  "llm_final": "Laut der BMZ-IATI‑Datei (Forward Spending Survey Data BMZ‑GIZ) gibt es für Tadschikistan (Ländercode TJ) eine geschätzte Auszahlung für 2025 in Höhe von 2.810.000 EUR (Periode 01.01.2025–31.12.2025; Wertdatum 2022-01-14). Für die weiteren kommenden Jahre (z. B. 2026/2027) sind in dieser Datei keine Länderschätzungen für Tadschikistan ausgewiesen.\n\nQuelle: BMZ IATI‑Organisationsdatei (DE‑1), Empfängerland TJ, recipient‑country‑budget (period 2025), value = 2.810.000 EUR. Soll ich nach Schätzungen für 2026/2027 in anderen Quellen suchen?",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die Frage bezieht sich auf die geschätzte Auszahlung für die kommenden drei Jahre, aber die Antwort gibt nur den Wert für ein Jahr an. Die LLM-Antwort erklärt, dass keine Daten für die anderen Jahre gefunden wurden, was die Antwort unvollständig macht."
+  }
+}

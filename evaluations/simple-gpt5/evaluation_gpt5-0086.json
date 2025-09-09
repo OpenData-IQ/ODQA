@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0086",
+  "run_at": "2025-09-04T14:43:05.345396Z",
+  "question_id": 86,
+  "question": "Wie viele jugendliche Arbeitslose unter 20 Jahren gab es in Goslar, Salzgitter und Helmstedt insgeamt im Jahr 2007?",
+  "answer": "337",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahresdurchschnitt 2007 gab es in Summe rund 633 jugendliche Arbeitslose unter 20 Jahren in Goslar, Salzgitter und Helmstedt.\n\nQuellen:\n- Bundesagentur für Arbeit (BA) – Statistik der Arbeitslosen nach Altersgruppen, Kreisergebnisse, Jahresdurchschnitt 2007 (Regionen: Landkreis Goslar, Stadt Salzgitter, Landkreis Helmstedt).\n- Landesamt für Statistik Niedersachsen – Kreisdatenbank: Indikator „Arbeitslose unter 20 Jahren“, Jahr 2007 (Kreisebene).",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die vom LLM angegebene Zahl (633) weicht erheblich von der korrekten Antwort (337) ab. Obwohl Quellen genannt werden, ist die Kerninformation falsch."
+  }
+}

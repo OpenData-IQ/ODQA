@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0050",
+  "run_at": "2025-09-04T18:54:20.037432Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Im Jahr 2014 gab es insgesamt **971 tödliche Arbeitsunfälle**, davon entfielen **465 auf den Bereich Verkehr** (Wegeunfälle eingeschlossen)[1]. \n\nEine genauere Aufschlüsselung zeigt:\n- Laut der Deutschen Gesetzlichen Unfallversicherung (DGUV) starben **473 Menschen bei Arbeitsunfällen** und **322 bei Wegeunfällen** (Unfälle auf dem Weg zur oder von der Arbeit), was zusammen 795 tödliche Unfälle ergibt[2][3].\n- Ein anderer Bericht nennt für tödliche Arbeitsunfälle 487 Tote am Arbeitsplatz und insgesamt 639 Todesfälle bei Arbeitsunfällen inklusive Wegeunfälle, wobei 52 davon im Straßenverkehr starben[4].\n\nDie Zahlen variieren je nach Quelle und Definition, aber die verlässlichste Gesamtzahl aus der Todesursachenstatistik und Unfallstatistik der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) ist **971 tödliche Arbeitsunfälle inklusive Wegeunfälle** für 2014[1].\n\n**Zusammenfassung:**\n\n| Unfallart               | Anzahl tödlicher Unfälle 2014 |\n|------------------------|-------------------------------|\n| Arbeitsunfälle gesamt   | 971 (inkl. Wegeunfälle)        |\n| Davon Verkehrsunfälle   | 465                           |\n| DGUV gemeldete Arbeitsunfälle | 473 (Arbeitsunfälle) + 322 (Wegeunfälle) = 795 |\n| Andere Quelle (Arbeitsplatz) | 487 (Arbeitsunfälle) + 52 (Verkehr) = 639 |\n\nDie Zahl 971 aus der BAuA-Statistik gilt als umfassend und berücksichtigt Überschneidungen und Doppelzählungen bestmöglich[1].\n\n### Quellen\n- **[1]** www.baua.de/DE/Angebote/Publikationen/Fakten/Unfallstatistik-2014.pdf (www.baua.de) – https://www.baua.de/DE/Angebote/Publikationen/Fakten/Unfallstatistik-2014.pdf?__blob=publicationFile&v=8\n- **[2]** www.asscompact.de/nachrichten/2014-kein-weiterer-r%C3%BCckgang-bei-arbeitsunf%C3%A4llen (www.asscompact.de) – https://www.asscompact.de/nachrichten/2014-kein-weiterer-r%C3%BCckgang-bei-arbeitsunf%C3%A4llen\n- **[3]** www.haufe.de/arbeitsschutz/sicherheit/statistik-zahl-der-arbeitsunfaelle-gestiegen_96_298638.html (www.haufe.de) – https://www.haufe.de/arbeitsschutz/sicherheit/statistik-zahl-der-arbeitsunfaelle-gestiegen_96_298638.html\n- **[4]** www.rehm-verlag.de/arbeitsrecht-und-tarifrecht/aktuelle-beitraege-zum-arbeitsrecht-und-tarifrecht/weniger-arbeitsunfaelle-2014-bericht-zum-arbeitsschutz/ (www.rehm-verlag.de) – https://www.rehm-verlag.de/arbeitsrecht-und-tarifrecht/aktuelle-beitraege-zum-arbeitsrecht-und-tarifrecht/weniger-arbeitsunfaelle-2014-bericht-zum-arbeitsschutz/\n- –\n- dsv-europa.de/de/news/2018/10/eine-welt-ohne-arbeitsunfaelle-es-gibt-noch-viel-zu-tun.html (dsv-europa.de) – https://dsv-europa.de/de/news/2018/10/eine-welt-ohne-arbeitsunfaelle-es-gibt-noch-viel-zu-tun.html",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt die exakte Zahl 971, liefert eine umfassende Aufschlüsselung, vergleicht verschiedene Quellen und enthält den exakten Link zur Primärquelle. Sie ist vollständig und nachvollziehbar."
+  }
+}

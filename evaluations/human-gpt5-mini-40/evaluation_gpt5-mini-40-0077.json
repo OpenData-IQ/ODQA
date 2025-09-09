@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-mini-40-0077",
+  "run_at": "2025-09-06T12:27:54.047390Z",
+  "question_id": 77,
+  "question": "Bei welcher Krankheitsgruppe in der Statistik \"Gestorbene nach Geschlecht und Todesursachen\" besteht das höchste Mortalitätsverhältnis mit einem Überschuss männlicher im Vergleich zu weiblichen Todesfällen?",
+  "answer": "Betroffen sind besonders Krankheiten der Leber (K70–K77). Dort starben 2023 deutlich mehr Männer als Frauen.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "Männer 10.928 — Frauen 5.862 (≈1,9× mehr Männer)",
+  "llm_final": "Die höchste Übersterblichkeit von Männern gegenüber Frauen findet sich 2023 in der Gruppe B20–B24 (HIV‑Krankheit): 55 (männlich) vs. 12 (weiblich) → Verhältnis ≈ 4,6 : 1.\n\nHinweis: Bei sehr kleinen Fallzahlen sind Verhältnisse empfindlich; schließt man sehr kleine Kategorien aus, ist z. B. F10 (Alkoholbedingte psychische/Verhaltensstörungen) mit 919 (m) vs. 298 (w) (≈ 3,1 : 1) eine weitere deutlich männlich dominierte Gruppe.\n\nQuelle: \"Gestorbene nach Geschlecht und ausgewählten Todesursachen\" — Landesdatenbank NRW (Tabelle 23211-03ir).",
+  "judgement": {
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort nennt eine andere Krankheitsgruppe als die Goldstandardantwort. Allerdings sind die aus dem referenzierten Datensatz (NRW-Statistik) verwendeten Daten korrekt. Da die Frage nicht eindeutig formuliert war, kann die Antwort als akzeptabel gewertet werden. see misc open-data-benchmark/daten/23211-03i.csv"
+  }
+}

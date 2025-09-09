@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt5-0163",
+  "run_at": "2025-08-31T13:53:19.292462Z",
+  "question_id": 163,
+  "question": "Welcher Stadtbereich in Rostock hatte 2019 den höchsten Altenquotienten und wie hoch war dieser?",
+  "answer": "Der Stadtbereich Warnemünde hatte 2019 mit 83,4 den höchsten Altenquotienten in Rostock.",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Warnemünde (Stadtbereich A) hatte 2019 mit einem Altenquotienten von 83,4 den höchsten Wert.  \nQuelle: Bevölkerungsstruktur 2019 – Bevölkerung nach Alter (Stadtbereiche), Opendata Rostock.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer correctly identifies the city area and the exact value, matching the gold standard. It also provides a relevant source."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0037",
+  "run_at": "2025-09-04T18:52:42.648549Z",
+  "question_id": 37,
+  "question": "Wie viele aktuelle Ausschreibungen der Stadt Meerbusch haben die Ausschreibungsart \"Offenes Verfahren nach VOB\"?",
+  "answer": "23",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Stadt Meerbusch hat aktuell **mindestens zwei Ausschreibungen mit der Ausschreibungsart \"Offenes Verfahren nach VOB\"**. Dies geht aus der offiziellen Ausschreibungsseite der Stadt Meerbusch hervor, wo z.B. die Ausschreibungen M ST 25036 (Abgabefrist 12.05.2025) und M ST 25023 (Abgabefrist 24.03.2025) als \"Offenes Verfahren nach VOB\" bzw. \"Öffentliche Ausschreibung nach VOB\" gelistet sind[3]. \n\nEine genaue, aktuelle Gesamtzahl der Ausschreibungen mit dieser Ausschreibungsart ist im Open Data-Portal des Rhein-Kreises Neuss, das die Meerbuscher Ausschreibungen bereitstellt, nicht direkt in den Suchergebnissen ersichtlich, da dort nur die Datenstruktur erwähnt wird, aber keine konkrete Anzahl genannt wird[1]. \n\nZusammenfassend: Die Stadt Meerbusch führt aktuell mehrere Ausschreibungen mit der Ausschreibungsart \"Offenes Verfahren nach VOB\" durch, mindestens zwei sind öffentlich gelistet[3]. Für eine exakte und tagesaktuelle Anzahl empfiehlt sich die direkte Abfrage im Open Data-Portal der Stadt Meerbusch oder beim Vergabestelle Rhein-Kreis Neuss.\n\n### Quellen\n- **[1]** opendata.rhein-kreis-neuss.de/explore/dataset/meerbusch-aktuelle-ausschreibungen/api/ (opendata.rhein-kreis-neuss.de) – https://opendata.rhein-kreis-neuss.de/explore/dataset/meerbusch-aktuelle-ausschreibungen/api/?flg=en-gb\n- **[2]** korschenbroich.de/bauen-wirtschaft/ausschreibungen.html (korschenbroich.de) – https://korschenbroich.de/bauen-wirtschaft/ausschreibungen.html\n- –\n- meerbusch.de/politik-und-verwaltung/ausschreibungen (meerbusch.de) – https://meerbusch.de/politik-und-verwaltung/ausschreibungen\n- vergabe.autobahn.de/NetServer/PublicationSearchControllerServlet (vergabe.autobahn.de) – https://vergabe.autobahn.de/NetServer/PublicationSearchControllerServlet?function=SearchPublications&OrderBy=TenderLawCaption&Order=desc&Category=InvitationToTender&Gesetzesgrundlage=VOB&thContext=publications\n- vergabe.vmstart.de/NetServer/PublicationSearchControllerServlet (vergabe.vmstart.de) – https://vergabe.vmstart.de/NetServer/PublicationSearchControllerServlet?function=SearchPublications&Order=desc&OrderBy=TenderLawCaption&Category=InvitationToTender&Gesetzesgrundlage=VOB&Start=50&thContext=publications",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort weicht sehr stark vom Goldstandard ab."
+  }
+}

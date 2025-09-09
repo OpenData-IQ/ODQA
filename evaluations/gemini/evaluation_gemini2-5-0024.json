@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0024",
+  "run_at": "2025-09-01T05:22:19.645916Z",
+  "question_id": 24,
+  "question": "Wann wurden die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim gezählt?",
+  "answer": "Am 15.10.2018 um 15 Uhr, da waren es 320",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim wurden am 2018-05-01T16:00:00+00:00 gezählt.\nQuelle: https://mannheim.opendatasoft.com/api/v2/catalog/datasets/konrad_adenau_bruecke_sued-gesamt-eco-counter-daten",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort nennt einen anderen Zeitpunkt (2018-05-01T16:00Z) als der Goldstandard (15.10.2018, 15 Uhr, 320). Damit ist die Antwort falsch, trotz Quellenangabe."
+  }
+}

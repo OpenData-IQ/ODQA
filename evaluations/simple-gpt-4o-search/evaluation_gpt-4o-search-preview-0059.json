@@ -1,0 +1,16 @@
+{
+  "thread_id": "gpt-4o-search-preview-0059",
+  "run_at": "2025-09-04T17:13:16.322931Z",
+  "question_id": 59,
+  "question": "Wann wurde der Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 veröffentlicht?",
+  "answer": "am 24.04.2012",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Der \"Allgemeine Teil der Masterprüfungsordnungen der Hochschule Bremen\" vom 20. März 2012 wurde am 1. März 2012 veröffentlicht und war bis zum 30. September 2023 gültig. ([transparenz.bremen.de](https://www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-85438?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d&ts=MTcxNDk5NzIwOQ%3D%3D&utm_source=openai)) \n\n### Quellen\n- **[1]** Allgemeiner Teil der Masterprüfungsordnungen der Hochschule Bremen vom 20. März 2012 - Transparenzportal Bremen (www.transparenz.bremen.de) – https://www.transparenz.bremen.de/metainformationen/allgemeiner-teil-der-masterpruefungsordnungen-der-hochschule-bremen-vom-20-maerz-2012-85438?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d&ts=MTcxNDk5NzIwOQ%3D%3D&utm_source=openai)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM states the publication date as March 1, 2012, but the gold standard answer is April 24, 2012. The LLM's answer is incorrect."
+  }
+}

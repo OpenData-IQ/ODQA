@@ -1,0 +1,17 @@
+{
+  "thread_id": "gpt5-0200",
+  "run_at": "2025-09-01T04:06:15.725811Z",
+  "question_id": 200,
+  "question": "In welchem Stadtteil von Bedburg erhielt die CDU bei der Bundestagswahl 2017 den höchsten Stimmenanteil?",
+  "answer": "Königshoven",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Königshoven.",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer exactly matches the gold standard answer. The answer is concise and directly addresses the question."
+  },
+  "file_type": "csv"
+}

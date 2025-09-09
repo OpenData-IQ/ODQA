@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0058",
+  "run_at": "2025-09-04T18:55:14.018246Z",
+  "question_id": 58,
+  "question": "In welchem Essener Stadtteil gibt es 2023 die wenigsten Haushalte mit drei oder mehr Kindern?",
+  "answer": "Fulerum",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "In Fulerum gab 2023 nur 18 Haushalte mit drei oder mehr Kindern",
+  "llm_final": "Die verfügbaren Suchergebnisse enthalten keine direkte Angabe, welcher Essener Stadtteil im Jahr 2023 die wenigsten Haushalte mit drei oder mehr Kindern hat. Es gibt zwar Daten zur Einwohnerzahl der Stadtteile in Essen[1][4] und allgemeine Familienstatistiken[2], jedoch keine spezifische Aufschlüsselung nach Stadtteilen für kinderreiche Haushalte.\n\nZur Einordnung:  \n- Der Familienbericht 2025 zeigt Anteile und Zahlen von Haushalten mit drei oder mehr Kindern auf Gesamtstadt-Ebene, aber nicht nach Stadtteilen[2].  \n- Die Einwohnerzahlen der Stadtteile Essen sind bekannt, z.B. Frohnhausen als bevölkerungsreichster Stadtteil, Schuir als einer der kleinsten[1][4]. Kleinere Stadtteile mit geringer Bevölkerung könnten tendenziell auch weniger kinderreiche Haushalte haben, aber das ist keine gesicherte Aussage ohne konkrete Daten.\n\nOhne spezifische Daten zu kinderreichen Haushalten auf Stadtteilebene in Essen für 2023 lässt sich die Frage nicht exakt beantworten. Für eine präzise Antwort wäre eine Anfrage bei der Stadt Essen oder dem zuständigen Statistikamt notwendig, die solche differenzierten Familienstrukturdaten erfassen.\n\nZusammenfassend: **Es liegen keine öffentlich zugänglichen Daten vor, die zeigen, in welchem Essener Stadtteil 2023 die wenigsten Haushalte mit drei oder mehr Kindern leben.**\n\n### Quellen\n- **[1]** de.statista.com/statistik/daten/studie/1234670/umfrage/einwohnerzahl-stadtteile-essen/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/1234670/umfrage/einwohnerzahl-stadtteile-essen/\n- **[2]** www.hamm.de/fileadmin/user_upload/Medienarchiv_neu/Dokumente/Stabsstelle_Familienfreundlichste_Stadt/Familienbericht_2025.pdf (www.hamm.de) – https://www.hamm.de/fileadmin/user_upload/Medienarchiv_neu/Dokumente/Stabsstelle_Familienfreundlichste_Stadt/Familienbericht_2025.pdf\n- **[3]** www.wetzlar.de/leben-in-wetzlar/statistik/statistik.php (www.wetzlar.de) – https://www.wetzlar.de/leben-in-wetzlar/statistik/statistik.php\n- –\n- de.statista.com/statistik/daten/studie/322472/umfrage/entwicklung-der-gesamtbevoelkerung-in-essen/ (de.statista.com) – https://de.statista.com/statistik/daten/studie/322472/umfrage/entwicklung-der-gesamtbevoelkerung-in-essen/\n- www.stadt-koeln.de/mediaasset/content/pdf15/statistik-umfragen/strukturdatenerhebung_k%C3%B6ln_2023_-_einkommensverteilung.pdf (www.stadt-koeln.de) – https://www.stadt-koeln.de/mediaasset/content/pdf15/statistik-umfragen/strukturdatenerhebung_k%C3%B6ln_2023_-_einkommensverteilung.pdf",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort stellt klar, dass keine spezifischen Daten für die Frage gefunden wurden und verweist auf fehlende öffentlich zugängliche Informationen. Damit ist die Kategorie 'not found' korrekt."
+  },
+  "file_type": "csv"
+}

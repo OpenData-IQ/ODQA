@@ -1,0 +1,16 @@
+{
+  "thread_id": "gemini2-5-0175",
+  "run_at": "2025-09-01T08:26:34.391394Z",
+  "question_id": 175,
+  "question": "Wie viele Kinder mit dem Vornamen 'X Æ A-12' wurden 2013 in der Gemeinde Hürtgenwald geboren?",
+  "answer": "Es wurden 2013 in der Gemeinde Hürtgenwald keine Kinder mit dem Vornamen 'X Æ A-12' geboren. Dieser Name ist in Deutschland nicht zulässig.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "FinalAnswer: Es wurden keine Kinder mit dem Vornamen 'X Æ A-12' im Jahr 2013 in der Gemeinde Hürtgenwald geboren.\n\nQuelle: https://offenedaten.kdvz.nrw/dataset/d01-vornamen-eines-geburtsjahres-gemeinde-h%C3%BCrtgenwald",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort stimmt mit der Goldantwort überein (keine Kinder). Sie nennt zusätzlich eine passende Quelle. Daher ist sie vollständig und korrekt."
+  }
+}

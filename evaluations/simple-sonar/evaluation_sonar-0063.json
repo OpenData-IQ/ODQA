@@ -1,0 +1,16 @@
+{
+  "thread_id": "sonar-0063",
+  "run_at": "2025-09-04T18:55:37.077067Z",
+  "question_id": 63,
+  "question": "Welche der \"Biene Maja\" Illustrationen von Peter Christian Rasmussen sind Radierungen?",
+  "answer": "\"Die Wanze stinkt\", \"Empfang in Peppis Rosenhaus\", \"Überfall der Hornisse\", \"Majas Flucht\", \"Begegnung mit Aloys Siebenpunkt, Dichter seines Zeichens\", \"Im Spinnennetz\", \"Ich bin Kurt, aus der Familie der \"Rosenkäfer\"\", \"Begegnung mit dem Grashüpfer\", \"Schlacht der Bienen und Hornissen\", \"Lass doch bitte Hans Christoph frei!\"",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die **10 Radierungen** der \"Biene Maja\" Illustrationen von Peter Christian Rasmussen stammen aus dem Jahr 1920 und gehören zu seinem Frühwerk[1][5]. Einige bekannte Radierungen aus dieser Künstlermappe sind:\n\n- **\"Die Wanze stinkt\"**  \n- **\"Majas Flucht\"**  \n- **\"Begegnung mit dem Grashüpfer\"**  \n\nDiese Werke sind alle Radierungen aus der Mappe \"Biene Maja\" von 1920[2][3][4]. Insgesamt sind es genau 10 Radierungen, die als Illustrationen zur \"Biene Maja\" von Rasmussen vorliegen[1][5].\n\n### Quellen\n- **[1]** opendata.schleswig-holstein.de/dataset/radierungen-zu-biene-maja-von-peter-christian-rasmussen (opendata.schleswig-holstein.de) – https://opendata.schleswig-holstein.de/dataset/radierungen-zu-biene-maja-von-peter-christian-rasmussen\n- **[2]** www.deutsche-digitale-bibliothek.de/item/RGNCN5MF6QZHEWDLIF67HKH4DA6LY42W (www.deutsche-digitale-bibliothek.de) – https://www.deutsche-digitale-bibliothek.de/item/RGNCN5MF6QZHEWDLIF67HKH4DA6LY42W\n- **[3]** www.museen-sh.de/da/objekter/DE-MUS-076111/lido/1990-111.6 (www.museen-sh.de) – https://www.museen-sh.de/da/objekter/DE-MUS-076111/lido/1990-111.6?ceid=7&no_cache=1&tx_joportal_listeneinstieg%5Bh%5D=1&tx_joportal_listeneinstieg%5Bjopaginatepage%5D=1&tx_joportal_listeneinstieg%5Bstartfrom%5D=8&v=List\n- **[4]** www.deutsche-digitale-bibliothek.de/item/GJD6ZYP3LEVU43O4T2UYQB7V6LMWNKKK (www.deutsche-digitale-bibliothek.de) – https://www.deutsche-digitale-bibliothek.de/item/GJD6ZYP3LEVU43O4T2UYQB7V6LMWNKKK\n- **[5]** opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e/resource/834cb759-35a1-41f9-93db-b4247d11d30a (opendata.schleswig-holstein.de) – https://opendata.schleswig-holstein.de/dataset/1b8e98d2-08b1-4bd9-9be8-7cf2b477307e/resource/834cb759-35a1-41f9-93db-b4247d11d30a",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort nennt die korrekte Anzahl und einige der Titel der Radierungen, gibt Kontext und listet relevante Quellen auf, darunter die Primärquelle. Sie ist umfassend und vollständig."
+  }
+}

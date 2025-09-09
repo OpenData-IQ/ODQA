@@ -1,0 +1,17 @@
+{
+  "thread_id": "sonar-0108",
+  "run_at": "2025-09-04T19:01:01.678093Z",
+  "question_id": 108,
+  "question": "Wo sind in Soest öffentliche Toiletten, die 24h am Tag offen haben?",
+  "answer": "Jakobistraße 77a, Bahnhofstraße 2",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In Soest gibt es keine öffentlichen Toiletten, die durchgehend 24 Stunden am Tag ohne Einschränkung geöffnet sind. Die meisten öffentlichen Toiletten, auch die behindertengerechten, haben feste Öffnungszeiten oder sind nur mit einem Euro-WC-Schlüssel außerhalb der regulären Zeiten zugänglich. \n\nBeispiele aus der Liste der Stadt Soest (Stand April 2023) zeigen Öffnungszeiten wie 8:00 bis 20:00 Uhr oder 9:00 bis 19:00 Uhr, teilweise mit Schlüsselzugang außerhalb der Öffnungszeiten, aber nicht rund um die Uhr ohne Einschränkung:\n\n- Rathaus I: 8:00 - 20:00 Uhr, durchgehend mit Schlüssel\n- Bahnhof am Bahnsteig 1: 9:00 - 19:00 Uhr, durchgehend mit Schlüssel\n- Jakobitor: 9:00 - 19:00 Uhr, durchgehend mit Schlüssel\n- Theodor-Heuss-Park: 8:00 - 20:00 Uhr, durchgehend mit Schlüssel\n\nDiese Schlüsselzugänge sind meist für Menschen mit Euro-WC-Schlüssel (für behinderte Personen) gedacht und nicht allgemein frei zugänglich[1].\n\nEine öffentliche Toilette im Seepark Möhnesee (in der Nähe von Soest) ist laut einer Quelle jederzeit zugänglich, also 24 Stunden offen, allerdings ist dies nicht direkt in Soest selbst[4].\n\nZusammenfassend: In Soest selbst gibt es keine allgemein 24h frei zugänglichen öffentlichen Toiletten. Die meisten sind tagsüber geöffnet und außerhalb der Öffnungszeiten nur mit Euro-WC-Schlüssel zugänglich, der für Menschen mit Behinderung erhältlich ist[1][3].\n\n### Quellen\n- **[1]** www.soest.de/fileadmin/user_upload/Dokumente/Familie_und_Soziales/Liste_der_behindertengerechten_WCs_in_Soest.pdf (www.soest.de) – https://www.soest.de/fileadmin/user_upload/Dokumente/Familie_und_Soziales/Liste_der_behindertengerechten_WCs_in_Soest.pdf\n- **[2]** woisteinwc.de/8927-%C3%B6ffentliche-Toiletten-in-Soest (woisteinwc.de) – https://woisteinwc.de/8927-%C3%B6ffentliche-Toiletten-in-Soest\n- **[3]** lippstadt.online/verzeichnis-behindertengerechter-toiletten-beim-kreis-erhaeltlich/ (lippstadt.online) – https://lippstadt.online/verzeichnis-behindertengerechter-toiletten-beim-kreis-erhaeltlich/\n- –\n- www.moehnesee.de/de/neusta-pois/oeffentliche-toiletten-im-seepark-moehnesee (www.moehnesee.de) – https://www.moehnesee.de/de/neusta-pois/oeffentliche-toiletten-im-seepark-moehnesee\n- www.soest.de/fileadmin/user_upload/Dokumente/Ortsrecht/Ordnungsbehoerdliche_Verordnung_06.pdf (www.soest.de) – https://www.soest.de/fileadmin/user_upload/Dokumente/Ortsrecht/Ordnungsbehoerdliche_Verordnung_06.pdf",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist umfassend, erklärt die Situation korrekt, liefert Details zu Öffnungszeiten und Einschränkungen und verweist auf relevante Quellen. Sie ist deutlich vollständiger und hilfreicher als die knappe Goldantwort."
+  },
+  "file_type": "csv"
+}
