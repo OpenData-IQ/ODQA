@@ -158,7 +158,7 @@ question_id,question,answer,question_type,datasource,remark
 157,"Did the city of Aachen record more violations in speed checks in November 2021 or December 2021? How many were there in each month?","In November 2021, 3,298 violations were recorded, whereas in December there were only 2,800.",multi hop,2,
 158,What were the total payments made by the city of Oldenburg for schools and education in the years 2022 and 2023?,"7,775,300€ in total",multi hop,2,
 159,How has the number of families with three or more children in Bad Münstereifel changed from 2011 to 2021?,The number of families with three children has decreased in 2021 compared to 2011.,multi hop,2,
-160,Was the first name Maria more common in Bremen in 2009 or 2012?,"In 2012, the name Maria was given 41 times, making it more common than in 2009, when it was given 35 times.",multi hop,2,
+160,Was the first name Maria more common in Bremen in 2009 or in 2012?,"In 2012, the name Maria was given 41 times, making it more common than in 2009, when it was given 35 times.",multi hop,2,
 161,How many voters were there in the federal elections in Bavaria in 2013 and 2017?,"In 2013, there were 6,633,726 voters and in 2017, there were 7,441,006 voters.",multi hop,2,
 162,"In which year between 2000 and 2020 were the most crimes against sexual self-determination recorded in Pforzheim, and how many were there?","In 2020, the most crimes against sexual self-determination were recorded in Pforzheim, namely 183 cases.",post processing heavy,2,
 163,Which district in Rostock had the highest elderly ratio in 2019 and what was it?,The Warnemünde district had the highest elderly ratio in Rostock in 2019 at 83.4.,post processing heavy,2,
