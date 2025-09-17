@@ -45,7 +45,7 @@ question_id,question,answer,question_type,datasource,remark
 44,What is the average number of apprenticeship contracts completed in the profession of canal builder in the years 2022 and 2023?,112,simple with restriction,2,"non-standard structure of the csv file, only slashes"
 45,What is the abbreviation for the State School Authority Neuruppin?,StSchA NP,simple,2,
 46,What is the email address for the Neue Bühne Senftenberg?,none is provided,false premise,2,
-47,Is there data on media usage among older people in Bremen?,https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de,simple,1,"The data is available, but the questions are missing from the dataset - dataset available, but incomplete and incomprehensible" 
+47,Is there data on media usage among older people in Bremen?,https://www.transparenz.bremen.de/de/datensatz/bremen392.c.21322.de,simple,1,"The data is available but the questions are missing from the dataset - dataset available, but incomplete and incomprehensible." 
 48,"In 2023, did more men or more women die in the state of Bremen?",more men,comparison,2,"In 2023, 4,335 men and 4,193 women died in the state of Bremen."
 49,How many reportable occupational accidents in 2016 are attributed to the Agricultural Employers' Liability Insurance Association?,2325,simple with restriction,2,"Table has a substructure with totals and subtotals already specified."
 50,How many fatal work and commuting accidents were there in total in 2014?,971,simple with restriction,2,"Table has a substructure with totals and subtotals already specified."
