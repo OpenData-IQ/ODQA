@@ -113,7 +113,7 @@ question_id,question,answer,question_type,datasource,remark
 112,Which butcher shop is near the Hockenheim care center in Hockenheim?,S. Albert at Rathhausstraße 31,multi hop,2,
 113,Where can I find the official results of the 2013 federal election?,https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f,simple,1,
 114,"Where are public toilets in Vienna, Austria?",that is not in Germany,false premise,1,
-115,What are the Südwärts subprojects in Dortmund called?,"There is no 'Southward', it is called Northward.",false premise,2,
+115,What are the Südwärts subprojects in Dortmund called?,"There is no 'Südwärts', it is called Nordwärts.",false premise,2,
 116,How many participants were there in the Tummelferien 2011 in Halle (Saale)?,"There are 846 participants listed. However, the Tummelferien did not take place in Halle (Saale), but in Moers.",false premise,2,
 117,"In which district of Rostock was the proportion of foreign residents highest on December 31, 2010?","In the district of Gartenstadt-Stadtweide, the proportion of foreign residents was highest at 7.9% on December 31, 2010.",aggregation,2,
 118,What was the total fertility rate (TFR) in the Haslach-Haid district of Freiburg in 2024?,"In the Haslach-Haid district, the total fertility rate (TFR) in 2024 was 1.6.",multi hop,2,
