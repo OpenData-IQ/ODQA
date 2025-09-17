@@ -24,7 +24,7 @@ question_id,question,answer,question_type,datasource,remark
 23,How many parking spaces for VRNNextbike bicycles are there at the Youth Hostel Lindenhof in Mannheim?,6,simple with restriction,2,
 24,When were the most pedestrians and cyclists counted at the Konrad-Adenauer-Brücke (South) in Mannheim?,"On October 15, 2018, at 3 PM, there were 320.",post processing heavy,2,
 25,Which museum in Frankfurt am Main had the most visits from 2018 to 2024?,Senckenberg Natural History Museum Frankfurt,aggregation,2,
-26,"Are there more people with Turkish citizenship in Frankfurt in 2024 than in 2018, or less?",less,comparison,2,In 2018, there were 25,395 residents with Turkish citizenship, in 2024, 24,344.
+26,"Are there more people with Turkish citizenship in Frankfurt in 2024 than in 2018, or less?",less,comparison,2,"In 2018, there were 25,395 residents with Turkish citizenship, in 2024, 24,344."
 27,What percentage of people in the state administrations of NRW use a screensaver?,51.5% (Yes among all responses) 57.1% (Yes among all Yes and No responses),post processing heavy,2,
 28,Why is the Theodor-Storm-School in Neumünster a cultural monument?,"The justification is historical and urban planning: Theodor-Storm-School; former boys' school; 1885/86; irregular three-wing layout, Gothic-style two-story brick building, facades enlivened by glazed brick cornices and brick friezes, main facade structured by two regularly arranged risalits with Gothic gables; gymnasium on the southeast side of the school property.",simple with restriction,2,
 29,Where can I find the link to training events in Berlin?,https://datenregister.berlin.de/dataset/a6828125-ae95-404f-9fb0-52eb91302fd8,simple,1,
