@@ -187,7 +187,7 @@ question_id,question,answer,question_type,datasource,remark
 186,Which first names were given at least three times in the municipality of Hürtgenwald in 2013?,"Emilia, Marie",set,2,
 187,"How many cyclists were counted on January 1, 2014, between 0 and 4 o'clock at the Oberkasseler Bridge South in Düsseldorf?",28,aggregation,2,
 188,In which countries did at least 2 people move away from Nörvenich in 2020?,"Germany, Poland, Romania, Turkey, Unknown Foreign Country",set,2,
-189,How many issues did the district library Eller of the city of Düsseldorf have in total from 2008 to 2018?,"1,953,960 loans",aggregation,2,
+189,How many issues did the district library Eller of the city of Düsseldorf have in total from 2008 to 2018?,"1,953,960 issues",aggregation,2,
 190,"How many different streets were recorded in the municipality of Langerwehe as of December 31, 2022?",There are 255 different streets recorded in the municipality of Langerwehe.,aggregation,2,
 191,Which district of Konstanz had the highest natural population balance in 2024?,"Petershausen-West had the highest natural population balance among the districts of Konstanz in 2024, with 43.",post processing heavy,2,
 192,"In which district of Linnich did more foreigners live on the cut-off date of December 31, 2010, in Boslar or Ederen?",in Ederen,comparison,2,
