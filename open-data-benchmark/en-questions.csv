@@ -195,7 +195,7 @@ question_id,question,answer,question_type,datasource,remark
 194,On how many days in the year 2020 was the minimum temperature (Tmin) at the weather station of the University of Düsseldorf below 0 degrees Celsius?,"On 19 days, the minimum temperature was below 0 degrees Celsius.",aggregation,2,
 195,How many cyclists were counted at the permanent counting station Kö - Steinstraße in Düsseldorf in 2019?,"The total number of cyclists counted in 2019 is 626,040.",aggregation,2,
 196,"How many inhabitants lived in the city of Bergheim on December 31, 2015?","As of December 31, 2015, there were 63,068 inhabitants living in the city of Bergheim.",aggregation,2,
-197,"How many graves are there in the city of Bergheim as of January 6, 2021?","17,718",simple with restriction,2,
+197,"How many gravesites are there in the city of Bergheim as of January 6, 2021?","17,718",simple with restriction,2,
 198,"How many families with four members lived in the district of Badorf in Brühl on December 31, 2021?","As of December 31, 2021, there were a total of 257 families with four members living in the district of Badorf.",simple with restriction,2,
 199,Which male first name was most commonly given in Brühl in 2020?,"Elias, Luca",simple with restriction,2,
 200,In which district of Bedburg did the CDU receive the highest percentage of votes in the 2017 federal election?,Königshoven,comparison,2,
