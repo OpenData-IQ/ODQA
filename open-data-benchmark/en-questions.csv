@@ -71,7 +71,7 @@ question_id,question,answer,question_type,datasource,remark
 70,"In which administrative district were there the most asylum seekers on December 31, 2023?",In the Düsseldorf administrative district,post processing heavy,2,
 71,"In which cities and districts were there more than 10,000 hospitality businesses in the business register system in 2023?","Düsseldorf, Cologne, Darmstadt, Stuttgart, Upper Bavaria,",set,2,
 72,"Were there more male or female minor children in families in Neukölln, Berlin in 2019?",more male,comparison,2,
-73,Whose canal network was longer in 2022? Rotenburg (Wümme) or Heidekreis?,Rotenburg (Wümme),comparison,2,In Rotenburg (Wümme), the sewer network was 2,542 km long, while in Heidekreis it was only 2,111 km.
+73,Whose canal network was longer in 2022? Rotenburg (Wümme) or Heidekreis?,Rotenburg (Wümme),comparison,2,"In Rotenburg (Wümme), the sewer network was 2,542 km long, while in Heidekreis it was only 2,111 km."
 74,"How many trucks were there in total in the new federal states on January 1, 2024?",716329,post processing heavy,2,
 75,"In which departments are there no available beds in the hospitals in the Nordfriesland district as of December 31, 2023?","Child and Adolescent Psychiatry, Orthopedics, Neurology, Pediatrics, Ophthalmology",simple with restriction,2,
 76,"Where was there the most waste from the organic bin in 2023? In Wuppertal, in the Wetterau district, or in the district of Roth?",Wetterau district,comparison,2,
