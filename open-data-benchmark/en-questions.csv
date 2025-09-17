@@ -7,7 +7,7 @@ question_id,question,answer,question_type,datasource,remark
 6,What is the price of 100 kg of Elstar apples from Belgium in week 16 of 2025 on German wholesale markets?,155€,simple with restriction,2,"non-standard structure of the csv file, only slashes"
 7,How many Querbeet community gardens are there in Dortmund?,57,aggregation,2,
 8,"How large is the mining area ""Prinzessin Victoria""?","8,421,307 m2",simple with restriction,2,
-9,"How often was the first name ""Leona"" given in the city of Leipzig in 2023?",A total of 1 time,simple with restriction,2,once as first name and twice as second name. "non-standard structure of the csv file, only slashes"
+9,"How often was the first name ""Leona"" given in the city of Leipzig in 2023?",A total of 1 time,simple with restriction,2,"once as first name and twice as second name. non-standard structure of the csv file, only slashes"
 10,Which municipality had more open Sundays for shopping in 2024? Emmerich or Geldern?,Geldern. Geldern had 5 open Sundays for shopping in 2024 and Emmerich had 2.,comparison,2,
 11,Are there still phone booths in the Rhine-Neckar metropolitan region?,yes,simple with restriction,2,"non-standard structure of the csv file, only slashes"
 12,What is the capacity of the Vestas wind turbines in Stormarn Feldhorst?,There are none from Vestas there.,false premise,2,
