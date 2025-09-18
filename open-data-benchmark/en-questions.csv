@@ -2,7 +2,7 @@ question_id,question,answer,question_type,datasource,remark
 1,Where can I find data on playground equipment in Dortmund?,https://open-data.dortmund.de/api/v2/catalog/datasets/fb63-spielgeraete,simple,1,link to file - nan
 2,How many people aged between 25 and under 65 had a bachelor's degree as their highest educational qualification in 2018?,9288000,simple with restriction,2,
 3,"How many places does the daycare center ""Biene Maja"" have in Rostock?",66,simple with restriction,2,"non-standard structure of the csv file, only slashes"
-4,How many housed homeless women were there in 2024 in North Frisia?,510,simple with restriction,2,
+4,How many housed homeless women were there in 2024 in North Frisia (Nordfriesland)?,510,simple with restriction,2,
 5,How many speed violations were there in Aachen in 2021?,67949,aggregation,2,
 6,What is the price of 100 kg of Elstar apples from Belgium in week 16 of 2025 on German wholesale markets?,155€,simple with restriction,2,"non-standard structure of the csv file, only slashes"
 7,How many Querbeet community gardens are there in Dortmund?,57,aggregation,2,
