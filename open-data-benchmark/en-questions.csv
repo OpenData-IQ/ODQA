@@ -36,7 +36,7 @@ question_id,question,answer,question_type,datasource,remark
 35,On which days in the year 2024 did the Smart Bench (Smarte Bank) - Climate Station Werner Hellweg 519 measure a UV index of 10 or more?,"June 21, 2024, July 12, 2024, July 16, 2024, July 23, 2024",set,2,"non-standard structure of the csv file, only slashes"
 36,Where exactly is the bike counting station located in Kapellen in the Rhein-Neuss-Kreis?,There isn't one there.,false premise,2,
 37,"How many current tenders from the city of Meerbusch have the tender type ""Open Procedure according to VOB""?",23,aggregation,2,
-38,Is the majority of public toilets in the Lichtenberg district free or paid?,free,aggregation,2,"The majority is free: 44 toilets free vs. 31 paid (additional 9 uopn request)."
+38,Is the majority of public toilets in the Lichtenberg district free or paid?,free,aggregation,2,"The majority is free: 44 toilets free vs. 31 paid (additional 9 upon request)."
 39,What is the most common starting letter of districts in Cologne?,B,aggregation,2,"Cologne districts starting with B: Bayenthal, Bickendorf, Bilderstöckchen, Blumenberg, Bocklemünd/Mengenich, Braunsfeld, Brück, Buchforst, Buchheim"
 40,Which radioactive particulates were detected in the Blankenese stream of the Elbe in February and March 2025?,"Cesium, potassium, beryllium",set,2,
 41,What is the most common house number in Leipzig?,3,aggregation,2,"The amount for house number 3 is 2,046."
@@ -90,7 +90,7 @@ question_id,question,answer,question_type,datasource,remark
 89,"Where can I find the article ""Bremer universities apply for funding for female professors"" (""Bremer Hochschulen bewerben sich um Förderung von Professorinnen"")?",https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429,simple with restriction,2,
 90,What impact did the Treaty of Versailles have on the districts and municipalities in Bavaria?,"The Treaty of Versailles assigned the district of Sankt Ingbert, 11 municipalities from the district of Homburg, and 15 municipalities from the district of Zweibrücken in the Palatinate administrative region to the Saar territory.",simple with restriction,2,row 885 in the XML file
 91,Which agricultural organization for live plants can I join near 97286 Sommerhausen?,Producers' Association of Franconian Vine Plant Producers w.V. (Erzeugergemeinschaft der Fränkischen Rebenpflanzguterzeuger w. V.),simple with restriction,2,
-92,What is the estimated payout for the next three years for bilateral state development cooperation for Tajikistan?,"2,810,000 euros",simple with restriction,2,"country code TJ and the fact that it is the estimated payout for the next three years need to be read as such. That information is found only in the mea data."
+92,What is the estimated payout for the next three years for bilateral state development cooperation for Tajikistan?,"2,810,000 euros",simple with restriction,2,"country code TJ and the fact that it is the estimated payout for the next three years need to be read as such. That information is found only in the meta data."
 93,Where is the glass container in Mannsdorf (Regensburg)?,"last street on the right before the barn, 84069 Schierling, 48.809083, 12.144333",simple with restriction,2,
 94,How many birth certificates were issued retroactively in Wesseling in 2019?,49,simple with restriction,2,
 95,"Who is using the double hall (Zweifachhalle) in Sprakel, Münster on Sunday?",MSC Münster City e.V.,simple with restriction,2,XML file can only be found through 759d6b77-c81a-44da-a775-781792e84217.html
@@ -98,8 +98,8 @@ question_id,question,answer,question_type,datasource,remark
 97,Which waste collection events in Rostock provide gloves as part of the container equipment?,"NABU Mittleres Mecklenburg e.V., Rostock Müllfrei e.V.",set,2,
 98,"Was the budget of the Federal Ministry of Education and Research (""Bundesministeriums für Bildung und Forschung"") for corporate training (Betriebliche Weiterbildung) higher in 2015 or 2016?",In 2016 it was higher,comparison,2,"2015: 11,1 billion euros und 2016: 11,2 billion euros"
 99,How many post offices in the Rhine-Neckar metropolitan region are fully accessible by wheelchair?,80,aggregation,2,CSV is in english
-100,What free leisure activities are available in 10117 Berlin?,"Memorial to the Murdered Jews of Europe, Willy Brandt Forum Berlin, Friedrichswerder Church, Mendelssohn Remise, PalaisPopulaire, Tears Palace, Werkbund Archive - Museum of Things, German Kinemathek Museum for Film and Television, Futurium",set,2,
-101,What project activities of the Federal Environment Agency in the field of waste technology transfer started in the 1990s?,"Adapted waste disposal for emerging and developing countries, program for community promotion and decentralization (PROMUDE), improvement of the waste management situation in the governorates of Homs and Tartous",set,2,
+100,What free leisure activities are available in 10117 Berlin?,"Memorial to the Murdered Jews of Europe (Denkmal für die ermordeten Juden Europas), Forum Willy Brandt Berlin, Friedrichswerder Church (Friedrichwerdersche Kirche), Mendelssohn-Remise, PalaisPopulaire, Tears Palace (Tränenpalast), Werkbund Archive - Museum of Things (Werkbundarchiv - Museum der Dinge), German Kinemathek Museum for Film and Television (Deutsche Kinemathek Museum für Film- und Fernsehen), Futurium",set,2,
+101,What project activities of the Federal Environment Agency (Umweltbundesamt) in the field of waste technology transfer started in the 1990s?,"Adapted waste disposal for emerging and developing countries, program for community promotion and decentralization (PROMUDE), improvement of the waste management situation in the governorates of Homs and Tartous",set,2,
 102,In which years were there more than 2500 marriages in Dortmund between 2016 and 2024?,"2016, 2017, 2018, 2019",set,2,
 103,When were there the highest percentage of false alarms for fire reports in Frankfurt am Main?,"2024, with 80.9%",post processing heavy,2,
 104,In which month was the most margarine produced in 2025 so far?,in March,post processing heavy,2,"26,028t margarine"
@@ -109,11 +109,11 @@ question_id,question,answer,question_type,datasource,remark
 108,Where are public toilets in Soest that are open 24 hours a day?,"Jakobistraße 77a, Bahnhofstraße 2",set,2,
 109,Where can I find the primary school recommendations for fifth graders in Soest?,https://opendata.soest.de/dataset/cb8a1a8d-2ed0-4aa1-b802-a4b0e8df56d5,simple,1,The dataset at https://opendata.soest.de/dataset/439355c8-5dc8-409c-9c8e-5e7c28e72c07 can also be considered correct.
 110,Is there data on rooks in Soest?,https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b,simple,1,link to file - nan
-111,What are the opening hours of the orphanage pharmacy in Rostock?,They do not exist.,false premise,2,
+111,What are the opening hours of the orphanage pharmacy (Waisenhausapotheke) in Rostock?,They do not exist.,false premise,2,
 112,Which butcher shop is near the Hockenheim care center in Hockenheim?,S. Albert at Rathhausstraße 31,multi hop,2,"As an alternative answer, Metzgerei Hauser could also be considered correct. According to the geodata, the distance is greater, but according to Google, it's the shorter walking route. Alternative use of geojson: pflegeheime.json, butchers.json."
 113,Where can I find the official results of the 2013 federal election?,https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f,simple,1,link to file - nan
 114,"Where are public toilets in Vienna, Austria?",that is not in Germany,false premise,1,that is not in Germany - nan
-115,What are the Südwärts subprojects in Dortmund called?,"There is no 'Südwärts', it is called Nordwärts.",false premise,2,
+115,What are the Southwards (Südwärts) subprojects in Dortmund called?,"There is no Southwards (Südwärts), it is called Northwards (Nordwärts).",false premise,2,
 116,How many participants were there in the Tummelferien 2011 in Halle (Saale)?,"There are 846 participants listed. However, the Tummelferien did not take place in Halle (Saale), but in Moers.",false premise,2,
 117,"In which district of Rostock was the proportion of foreign residents highest on December 31, 2010?","In the district of Gartenstadt-Stadtweide, the proportion of foreign residents was highest at 7.9% on December 31, 2010.",aggregation,2,
 118,What was the total fertility rate (TFR) in the Haslach-Haid district of Freiburg in 2024?,"In the Haslach-Haid district, the total fertility rate (TFR) in 2024 was 1.6.",multi hop,2,"The city district number for Haslach-Haid (614) is determined from the file abi_gliederung.customization. This is needed to calculate the birth rate in the file de-bw-freiburg-geburtenziffern_auf_ebene_der_stadtbezirke.csv."
@@ -122,7 +122,7 @@ question_id,question,answer,question_type,datasource,remark
 121,How many marriages took place in 2020 in Brühl?,241,simple with restriction,2,
 122,How many cyclists were counted at Mannesmannufer in Düsseldorf in 2014?,"The exact total number of cyclists counted at Mannesmannufer in 2014 was 988,143.",aggregation,2,
 123,At what time (day and hour) and in what weather conditions were the most cyclists counted at Mannesmannufer in Düsseldorf in 2014?,"On October 19, 2014, at 3:00 PM, the most cyclists were counted at Mannesmannufer in Düsseldorf (946 cyclists). At that time, it was partly cloudy, 21 degrees warm, and there was no rain.",post processing heavy,2,
-124,"How many residents aged 30 to under 45 lived in the Southeast district of Ingolstadt on December 31, 2023?","On December 31, 2023, there were 4,598 residents aged 30 to under 45 living in the Southeast district of Ingolstadt.",simple with restriction,2,
+124,"How many residents aged 30 to under 45 lived in the Southeast (Südost) district of Ingolstadt on December 31, 2023?","On December 31, 2023, there were 4,598 residents aged 30 to under 45 living in the Southeast (Südost) district of Ingolstadt.",simple with restriction,2,
 125,"How many inhabitants did the city of Jülich have on December 31, 2018 in total?","34,023",aggregation,2,
 126,How many people moved from Wesseling to the United States in 2021?,7,simple with restriction,2,
 127,How many people were born in Jülich in 2011 and how many deaths were there?,"In 2011, there were 225 births recorded in Jülich and there were 351 deaths.",set,2,
@@ -148,7 +148,7 @@ question_id,question,answer,question_type,datasource,remark
 147,"How many streets were designated as measurement areas for speed monitoring on August 11, 2024 (week 32)?",A total of 6 streets,aggregation,2,"Among the six streets, Bottroper Straße is listed as a duplicate. Alternatively, five streets in the answer could also be considered correct."
 148,Were there more arrivals to Linnich from Germany in 2018 or more departures from Linnich to Germany?,more arrivals from Germany,comparison,2,"841 arrivals from Germany and 672 departures."
 149,"Were there more families with one child or with two children in Kerpen on the cut-off date of December 31, 2010?",There were more families with one child (3749) than with two children (2633).,comparison,2,
-150,Were there more residents in Heimbach in the Hasenfeld district or in the core area in 2011?,Hasenfeld,comparison,2,"As of December 31, 2011, Hasenfeld had 1,169 inhabitants (1,124 Germans + 45 foreigners), the core area 1,070 (1,011 + 59)."
+150,Were there more residents in Heimbach in the Hasenfeld district or in the core area (Kerngebiet) in 2011?,Hasenfeld,comparison,2,"As of December 31, 2011, Hasenfeld had 1,169 inhabitants (1,124 Germans + 45 foreigners), the core area (Kerngebiet) 1,070 (1,011 + 59)."
 151,Did the city of Cologne spend more on personnel payments or transfer payments in 2011?,"In 2011, the city of Cologne spent more on transfer payments (€1,076,691,190) than on personnel payments (€652,812,529).",comparison,2,
 152,What types of changes in marital status were recorded in the municipality of Hürtgenwald in 2017?,"Dissolution of a civil partnership, establishment of a civil partnership, marriage, divorce, death of a spouse, death of a civil partner",set,2,
 153,How many children per family were there in Heimbach in 2021?,"1, 2, 3, 4, 5",set,2,
@@ -187,7 +187,7 @@ question_id,question,answer,question_type,datasource,remark
 186,Which first names were given at least three times in the municipality of Hürtgenwald in 2013?,"Emilia, Marie",set,2,Emilia 3 times und Marie 4 times
 187,"How many cyclists were counted on January 1, 2014, between 0 and 4 o'clock at the Oberkasseler Bridge South in Düsseldorf?",28,aggregation,2,Alternative possible answer (for interpretation 00:00–03:59): 26 cyclists
 188,In which countries did at least 2 people move away from Nörvenich in 2020?,"Germany, Poland, Romania, Turkey, Unknown Foreign Country",set,2,
-189,How many issues did the district library Eller of the city of Düsseldorf have in total from 2008 to 2018?,"1,953,960 issues",aggregation,2,
+189,How many issues did the district library Eller (Stadtteilbücherei Eller) of the city of Düsseldorf have in total from 2008 to 2018?,"1,953,960 issues",aggregation,2,
 190,"How many different streets were recorded in the municipality of Langerwehe as of December 31, 2022?",There are 255 different streets recorded in the municipality of Langerwehe.,aggregation,2,
 191,Which district of Konstanz had the highest natural population balance in 2024?,"Petershausen-West had the highest natural population balance among the districts of Konstanz in 2024, with 43.",post processing heavy,2,
 192,"In which district of Linnich did more foreigners live on the cut-off date of December 31, 2010, in Boslar or Ederen?",in Ederen,comparison,2,"Ederen: 22, Boslar: 12"
