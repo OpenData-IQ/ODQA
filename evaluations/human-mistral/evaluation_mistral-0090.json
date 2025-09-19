@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0090",
+  "run_at": "2025-09-09T10:49:17.780306Z",
+  "question_id": 90,
+  "question": "Welche Auswirkung hatte der Friedensvertrag von Versailles auf die Landkreise und Gemeinden in Bayern?",
+  "answer": "Durch den Friedensvertrag von Versailles wurden der Landkreis Sankt Ingbert, 11 Gemeinden des Landkreises Homburg und 15 Gemeinden des Landkreises Zweibrücken im Regierungsbezirk Pfalz dem Saargebiet zugeteilt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Zeile 885 im XML-Dokument",
+  "llm_final": "Die gefundenen Datensätze auf govdata.de behandeln keine historischen oder territorialen Auswirkungen des Friedensvertrags von Versailles auf Bayern, Landkreise oder Gemeinden. Sie beinhalten stattdessen aktuelle Daten zu wissenschaftlichen Bibliotheken und Sozialgerichtsverfahren.\n\nDer **Friedensvertrag von Versailles (1919)** hatte jedoch erhebliche Auswirkungen auf Bayern, insbesondere in folgenden Bereichen:\n\n1. **Territoriale Verluste**: Bayern verlor keine Gebiete direkt durch den Vertrag, aber das Deutsche Reich verlor Gebiete wie Elsass-Lothringen, Teile Schlesiens und Posen, was indirekt auch Bayern betraf, da es Teil des Reiches war.\n\n2. **Wirtschaftliche Folgen**: Die Reparationen und wirtschaftlichen Belastungen trafen auch Bayern hart. Die Inflation und Wirtschaftskrise der 1920er-Jahre betrafen Landkreise und Gemeinden, insbesondere durch steigende Arbeitslosigkeit und Armut.\n\n3. **Politische Unruhen**: In Bayern führte die Unzufriedenheit mit den Bedingungen des Vertrags zu politischen Spannungen, die unter anderem in der Münchner Räterepublik (1919) und später im Aufstieg des Nationalsozialismus mündeten.\n\n4. **Militärische Beschränkungen**: Die Entmilitarisierung des Deutschen Reiches betraf auch bayerische Garnisonen und Rüstungsbetriebe, was lokale Wirtschaftskreisläufe beeinträchtigte.\n\nFür detaillierte historische Daten zu den Auswirkungen auf bayerische Landkreise und Gemeinden müssten Sie auf **historische Archive** oder **Fachliteratur** zurückgreifen, z. B.:\n- **Bayerisches Hauptstaatsarchiv** ([Website](https://www.gda.bayern.de/))\n- **Statistisches Landesamt Bayern** (historische Publikationen)\n- **Bayerische Staatsbibliothek** ([Website](https://www.bsb-muenchen.de/))\n\nFalls Sie spezifische Daten zu historischen Verwaltungsgrenzen oder wirtschaftlichen Auswirkungen suchen, kann ich gezielt nach solchen Datensätzen suchen. Lassen Sie mich wissen, ob Sie dies wünschen!",
+  "judgement": {
+    "category": "partially",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist teilweise korrekt, da sie die Auswirkungen des Versailler Vertrags auf Bayern im Allgemeinen beschreibt. Sie verfehlt jedoch die spezifische Frage nach den territorialen Auswirkungen auf bayerische Landkreise und Gemeinden, die in der Goldstandard-Antwort genannt werden."
+  }
+}

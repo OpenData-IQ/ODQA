@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0201",
+  "run_at": "2025-09-09T12:43:06.935576Z",
+  "question_id": 201,
+  "question": "Wie viele Krankenhäuser gab es im Jahr 2023 in Frankfurt am Main?",
+  "answer": "12",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 2023 gibt es in der bereitgestellten Datentabelle keine direkten Informationen. Die aktuellsten Daten stammen aus dem Jahr 2019, in dem es in Frankfurt am Main **16 Krankenhäuser** gab.\n\nFür das Jahr 2023 liegt hier leider kein Eintrag vor. Es könnte hilfreich sein, direkt bei der Stadt Frankfurt am Main oder dem Statistischen Amt nach aktuellen Daten zu fragen.\n\n**Quelle:** [Krankenhäuser in Frankfurt am Main](https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-krankenhaeuser)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass keine Daten für 2023 verfügbar sind und nennt stattdessen die Zahl von 2019. Die Goldstandard-Antwort liefert jedoch eine konkrete Zahl für 2023, was darauf hindeutet, dass die LLM-Antwort falsch ist oder die Daten nicht gefunden hat."
+  }
+}

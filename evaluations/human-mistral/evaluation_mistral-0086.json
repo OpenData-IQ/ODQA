@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0086",
+  "run_at": "2025-09-09T10:47:45.927234Z",
+  "question_id": 86,
+  "question": "Wie viele jugendliche Arbeitslose unter 20 Jahren gab es in Goslar, Salzgitter und Helmstedt insgeamt im Jahr 2007?",
+  "answer": "337",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Die LLM-Antwort zeigt explizit, dass das Rekursionslimit erreicht wurde. Daher kann keine inhaltliche Bewertung der Antwort vorgenommen werden."
+  }
+}

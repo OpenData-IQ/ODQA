@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0023",
+  "run_at": "2025-09-09T10:02:20.533806Z",
+  "question_id": 23,
+  "question": "Wie viele Stellplätze von VRNNextbike Fahrrädern gibt es an der Jugendherberge Lindenhof in Mannheim?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Es gibt **keine Daten** zu VRNNextbike-Stellplätzen an der **Jugendherberge Lindenhof** in Mannheim in dem abgerufenen Datensatz.\n\nQuelle: [VRN-Nextbike Datensatz (Mannheim)](https://mannheim.opendatasoft.com/api/v2/catalog/datasets/free_bike_status) – Stand: aktuelle Abfrage.\n\nFalls du weitere Hilfe benötigst, lass es mich wissen! 🚴‍♂️",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "The LLM states that there is no data available for VRNNextbike parking spots at the specified location, which contradicts the gold standard answer of '6'. This indicates an incorrect answer based on the provided data."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0051",
+  "run_at": "2025-09-09T10:14:43.210805Z",
+  "question_id": 51,
+  "question": "Wie viel Prozent der angezeigten Verdachtsfälle von Berufskrankheiten 1994 wurden anerkannt?",
+  "answer": "21,45%",
+  "question_type": "post processing heavy",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Im Jahr 1994 wurden **21.008** von **97.923** angezeigten Verdachtsfällen von Berufskrankheiten anerkannt. Das entspricht einer Anerkennungquote von **21,45 %**.\n\nQuelle: [Entwicklung der Berufskrankheiten ab 1960](https://ckan.govdata.de/dataset/be0abdd8-dd35-4669-97b6-576d84f1ca62)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und liefert nicht nur die gesuchte Prozentzahl, sondern auch die absoluten Zahlen und eine Quelle. Dies macht die Antwort sehr vollständig und nachvollziehbar."
+  }
+}

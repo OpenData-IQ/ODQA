@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0089",
+  "run_at": "2025-09-09T10:48:48.684777Z",
+  "question_id": 89,
+  "question": "Wo finde ich den Artikel \"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"?",
+  "answer": "https://www.senatspressestelle.bremen.de/pressemitteilungen/bremer-hochschulen-bewerben-sich-um-foerderung-von-professorinnen-18429",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Leider konnte ich keinen Datensatz oder Artikel mit dem Titel **\"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"** in den Open-Data-Quellen finden.\n\nEs handelt sich möglicherweise um einen Zeitungsartikel oder eine Pressemitteilung. Ich empfehle folgende Alternativen zur Suche:\n\n1. **Pressemitteilungen der Bremer Hochschulen**:\n   - Besuchen Sie die Websites der Bremer Hochschulen (z. B. [Universität Bremen](https://www.uni-bremen.de/), [Hochschule Bremen](https://www.hs-bremen.de/)) und suchen Sie im Bereich \"Pressemitteilungen\" oder \"Aktuelles\".\n\n2. **Lokale Medien**:\n   - Durchsuchen Sie Archive lokaler Zeitungen wie [Weser-Kurier](https://www.weser-kurier.de/) oder [Buten un Binnen](https://www.butenunbinnen.de/).\n\n3. **Suchmaschinen**:\n   - Nutzen Sie Google oder andere Suchmaschinen mit dem genauen Titel in Anführungszeichen:\n     *\"Bremer Hochschulen bewerben sich um Förderung von Professorinnen\"*.\n\nFalls es sich um einen offiziellen Bericht oder ein Dokument der öffentlichen Verwaltung handelt, könnte es auch in den Publikationen des **Senats der Freien Hansestadt Bremen** zu finden sein. Schauen Sie ggf. auf [bremen.de](https://www.bremen.de/).\n\nBrauchen Sie Hilfe bei der Suche in einer bestimmten Quelle?",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "The LLM states it could not find the article, but the gold standard answer provides the exact URL."
+  }
+}

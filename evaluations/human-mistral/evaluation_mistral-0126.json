@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0126",
+  "run_at": "2025-09-09T11:07:39.259433Z",
+  "question_id": 126,
+  "question": "Wie viele Menschen sind im Jahr 2021 aus Wesseling in die Vereinigten Staaten weggezogen?",
+  "answer": "7",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 161181 tokens (160369 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The LLM encountered a token limit error, as indicated by the 'maximum context length' message in the 'llm_final' field. This prevented it from generating an answer."
+  }
+}

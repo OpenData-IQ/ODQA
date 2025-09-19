@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0179",
+  "run_at": "2025-09-09T12:14:27.886797Z",
+  "question_id": 179,
+  "question": "Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?",
+  "answer": "Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 160419 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The LLM returned an error indicating that the prompt contained too many tokens, exceeding the maximum context length for the model. This clearly falls under the 'token limit' problem type."
+  }
+}

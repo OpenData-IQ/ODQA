@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0135",
+  "run_at": "2025-09-09T11:16:51.879225Z",
+  "question_id": 135,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich?",
+  "answer": "https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja - nan",
+  "llm_final": "Die Wahlbeteiligung bei der Landtagswahl 1995 in der Gemeinde Merzenich betrug **66,19 %**.\n\nQuelle: [Wahlergebnisse Landtagswahl 1995 Gemeindeebene Merzenich](https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-gemeinde-merzenich)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt, gibt die spezifische Wahlbeteiligung an und enthält den exakten Link zur Quelle, der in der Goldstandard-Antwort angegeben ist. Dies macht die Antwort umfassend und direkt nutzbar."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0160",
+  "run_at": "2025-09-09T11:43:11.522257Z",
+  "question_id": 160,
+  "question": "War der Vorname Maria in Bremen 2009 oder 2012 häufiger?",
+  "answer": "2012 wurde der Name Maria 41 mal vergeben und somit häufiger als 2009 mit 35",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 204758 tokens (203946 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field explicitly states a 'token limit' error with a message indicating the requested tokens exceeded the maximum context length. Therefore, the answer could not be generated due to this technical constraint."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0076",
+  "run_at": "2025-09-09T10:33:15.536379Z",
+  "question_id": 76,
+  "question": "Wo gab es 2023 die meisten Abfälle aus der Biotonne? In Wuppertal, im Wetteraukreis oder im Landkreis Roth?",
+  "answer": "Wetteraukreis",
+  "question_type": "comparison",
+  "source": "2",
+  "remark": "Im Wetteraukreis gab es 2023 mit 26.983 Tonnen die meisten Abfälle aus der Biotonne, gefolgt von Wuppertal mit 13.251 Tonnen und Landkreis Roth mit 4.799 Tonnen.",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Daher konnte keine Antwort generiert werden."
+  }
+}

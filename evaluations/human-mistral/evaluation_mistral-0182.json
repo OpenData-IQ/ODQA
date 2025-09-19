@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0182",
+  "run_at": "2025-09-09T12:22:05.057195Z",
+  "question_id": 182,
+  "question": "Welcher Stadtbereich in Rostock hatte im Jahr 2007 den größten absoluten Bevölkerungszuwachs?",
+  "answer": "Die Kröpeliner-Tor-Vorstadt hatte im Jahr 2007 mit 421 Personen den größten absoluten Bevölkerungszuwachs.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 132374 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The LLM returned an error indicating that the prompt contained too many tokens, exceeding the maximum context length. Therefore, the model was unable to process the request and provide an answer."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0169",
+  "run_at": "2025-09-09T11:53:39.794999Z",
+  "question_id": 169,
+  "question": "An wie vielen verschiedenen Tagen in der Kalenderwoche 7 des Jahres 2022 wurde auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt?",
+  "answer": "In der Kalenderwoche 7 des Jahres 2022 wurde an fünf verschiedenen Tagen (14.02., 15.02., 16.02., 17.02.2022 und 18.02.2022) auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Kalenderwoche 7 des Jahres 2022 wurde an **zwei verschiedenen Tagen** (14.02.2022 und 17.02.2022) auf der Alfredstraße eine Geschwindigkeitsüberwachung durchgeführt.\n\nQuelle: [Geschwindigkeitsüberwachungen 2022 - KW07](https://opendata.essen.de/dataset/geschwindigkeits%C3%BCberwachungen-2022)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort gibt an, dass an zwei Tagen eine Geschwindigkeitsüberwachung stattfand, während die Goldstandard-Antwort fünf Tage nennt. Die Anzahl der Tage ist falsch."
+  }
+}

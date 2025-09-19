@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0165",
+  "run_at": "2025-09-09T11:49:00.425462Z",
+  "question_id": 165,
+  "question": "Wie viele der Wahllokale zur Bundestagswahl 2017 und zur Ratswahl 2020 in Bedburg waren barrierefrei zugänglich?",
+  "answer": "Alle aufgelisteten Wahllokale zur Bundestagswahl 2017 (21 Wahllokale) und zur Ratswahl 2020 (22 Wahllokale) in Bedburg waren barrierefrei zugänglich.",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "",
+  "llm_final": "### FinalAnswer:\nZur **Bundestagswahl 2017** in Bedburg waren **22 Wahllokale barrierefrei** zugänglich.\n\nZur **Ratswahl 2020** in Bedburg waren **21 Wahllokale barrierefrei** zugänglich.\n\n**Quellen:**\n- [Wahllokale Bundestagswahl 2017 Bedburg](https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-bedburg)\n- [Wahllokale Ratswahl 2020 Bedburg](https://offenedaten.kdvz.nrw/dataset/d24-ratswahlen-bedburg)",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die LLM-Antwort vertauscht die Anzahl der barrierefreien Wahllokale für die Bundestagswahl 2017 und die Ratswahl 2020. Die korrekten Zahlen sind 21 für die Bundestagswahl und 22 für die Ratswahl, nicht umgekehrt."
+  }
+}

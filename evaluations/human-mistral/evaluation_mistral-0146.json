@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0146",
+  "run_at": "2025-09-09T11:24:55.666001Z",
+  "question_id": 146,
+  "question": "Wie viele Familien mit Kindern gab es zum Stichtag 31.12.2010 insgesamt in der Gemeinde Hürtgenwald?",
+  "answer": "933",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 191814 tokens (191002 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field explicitly states a 'token limit' error, indicating the model could not process the request due to exceeding the maximum context length. Therefore, the category is 'problem_answers' with 'token limit' as the problem type."
+  }
+}

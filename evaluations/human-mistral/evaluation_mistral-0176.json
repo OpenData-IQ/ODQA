@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0176",
+  "run_at": "2025-09-09T12:04:38.628809Z",
+  "question_id": 176,
+  "question": "Wie viele Einwohner der Stadtmitte waren 2019 über 100 Jahre alt und arbeiteten als Astronauten?",
+  "answer": "Es gibt keine Angaben zu Einwohnern über 100 Jahren, die als Astronauten arbeiten. Diese Information ist nicht vorhanden und es ist äußerst unwahrscheinlich, dass es solche Fälle in der Stadtmitte gibt.",
+  "question_type": "false premise",
+  "source": "2",
+  "remark": "Die Datei gibt gar keine Informationen über Alter und Beruf.",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 289734 tokens (288922 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field explicitly states a token limit error, indicating the model could not process the request due to excessive input length. Therefore, the category is 'problem_answers' with 'token limit' as the problem type."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0133",
+  "run_at": "2025-09-09T11:14:40.363531Z",
+  "question_id": 133,
+  "question": "In welche Länder sind im Jahr 2020 200 oder mehr Menschen aus Elsdorf im Rhein-Erft-Kreis weggezogen?",
+  "answer": "Deutschland, Kamerun, Ägypten, Pakistan, Thailand, Unbekanntes Ausland",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 131072 tokens. However, you requested about 162007 tokens (161195 of text input, 812 of tool input). Please reduce the length of either one, or use the \\\"middle-out\\\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field explicitly states a 'token limit' error with a message about exceeding the maximum context length. Therefore, the category is 'problem_answers' and the problem type is 'token limit'."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0068",
+  "run_at": "2025-09-09T10:24:19.990081Z",
+  "question_id": 68,
+  "question": "Wie viele Gemeinden hatten der Landkreis und die kreisfreie Stadt Leipzig am 31.12.23 zusammen?",
+  "answer": "31",
+  "question_type": "aggregation",
+  "source": "2",
+  "remark": "Es liegen noch leere Einträge der veralteten Regionalschlüssel vor",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 134261 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The LLM's response clearly indicates a token limit error. The message 'Prompt contains 134261 tokens and 0 draft tokens, too large for model with 131072 maximum context length' directly points to this issue."
+  }
+}

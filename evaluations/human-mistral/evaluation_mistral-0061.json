@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0061",
+  "run_at": "2025-09-09T10:19:56.268764Z",
+  "question_id": 61,
+  "question": "An welchen Tagen findet der Englisch B1/B2 - Lunchtime English (Flexikurs) an der Berliner Volkshochschule statt?",
+  "answer": "15.05.25, 22.05.25, 05.06.25, 12.06.25, 19.06.25, 26.06.25, 03.07.25, 10.07.25, 17.07.25",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "The LLM returned an internal server error, indicating it did not provide an answer. This falls under the 'no answer' problem type."
+  }
+}

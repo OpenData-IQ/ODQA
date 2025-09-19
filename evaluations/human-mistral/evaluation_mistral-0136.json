@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0136",
+  "run_at": "2025-09-09T11:17:00.902870Z",
+  "question_id": 136,
+  "question": "Gibt es Daten zur Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich Biestow?",
+  "answer": "https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja - nan",
+  "llm_final": "### FinalAnswer:\nDie Wahlbeteiligung bei der Bürgerschaftswahl 2024 im Stadtbereich **Biestow** betrug **80,2 %**.\n\nQuelle: [Ergebnisse der Bürgerschaftswahl 2024 – Open Data Rostock](https://www.opendata-hro.de/dataset/3c4d2782-2558-4665-aeed-431968f74c26)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "The LLM's answer directly provides the requested data point (80.2%) and includes the exact URL from the gold standard answer as its source. This makes the answer complete, accurate, and verifiable."
+  }
+}

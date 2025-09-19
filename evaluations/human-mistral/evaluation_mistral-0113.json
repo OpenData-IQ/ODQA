@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0113",
+  "run_at": "2025-09-09T10:59:35.142795Z",
+  "question_id": 113,
+  "question": "Wo finde ich die amtlichen Ergebnisse zur Bundestagswahl 2013?",
+  "answer": "https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "ja bzw Link zu Datei - nan",
+  "llm_final": "Die amtlichen Ergebnisse zur Bundestagswahl 2013 für ganz Deutschland können beim **Bundeswahlleiter** eingesehen und heruntergeladen werden. Der entsprechende Datensatz mit den endgültigen Ergebnissen der Erst- und Zweitstimmen nach Wahlkreisen ist hier verfügbar:\n\n### Quelle:\n**Datensatz URI:** [Bundestagswahl 2013 - Bundeswahlleiter](https://ckan.govdata.de/dataset/4fbe8a51-b90a-4fe4-b4b3-ab10079bee2f)\n\n### Download:\nDie Daten können direkt über den folgenden Link heruntergeladen werden:\n[Endgültiges Ergebnis der Bundestagswahl 2013 (CSV)](https://www.bundeswahlleiter.de/dam/jcr/2ace94c3-15cb-476b-aa98-806b97209353/btw13_kerg.csv)\n\n---\n**Hinweis:** Falls Sie spezifischere Ergebnisse für bestimmte Städte oder Wahlkreise benötigen, können auch lokale Datensätze (z. B. für Köln, Düsseldorf, Rostock oder Karlsruhe) genutzt werden. Lassen Sie es mich wissen, falls Sie daran interessiert sind!",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort enthält den exakten Link aus der Goldstandard-Antwort und bietet zusätzlich einen direkten Download-Link sowie hilfreiche Kontextinformationen. Die Antwort ist umfassend und korrekt."
+  }
+}

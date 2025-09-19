@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0094",
+  "run_at": "2025-09-09T10:51:10.247849Z",
+  "question_id": 94,
+  "question": "Wie viele Geburtsurkunden wurden 2019 in Wesseling nachträglich ausgestellt?",
+  "answer": "49",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "In der Statistik des Standesamts Wesseling für das Jahr 2019 wurden **49 Geburtsurkunden nachträglich ausgestellt**.\n\nQuelle: [Statistiken Standesamt Geburtenregister Wesseling 2019](https://offenedaten.kdvz.nrw/dataset/d27-statistiken-standesamt-wesseling)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM ist korrekt und gibt die genaue Anzahl der nachträglich ausgestellten Geburtsurkunden an. Sie enthält auch die relevante Quelle, was die Antwort sehr vollständig macht."
+  }
+}

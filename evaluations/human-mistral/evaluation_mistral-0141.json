@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0141",
+  "run_at": "2025-09-09T11:20:02.270366Z",
+  "question_id": 141,
+  "question": "Gibt es Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden?",
+  "answer": "https://opendata.dresden.de/dcat-ap/dataset/de-sn-dresden-arbeitslose_2012_-_2017_md1_4_quartal",
+  "question_type": "simple",
+  "source": "1",
+  "remark": "Ja, es gibt Daten zur Anzahl der Arbeitslosen im 4. Quartal 2015 in Dresden, aufgeteilt in die Stadtbezirke und differenziert nach Geschlecht und verschiedenen Altersgruppen. - nan",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's response explicitly states 'Recursion limit of 25 reached'. This indicates that the agent encountered a technical limitation during processing and could not provide a proper answer."
+  }
+}

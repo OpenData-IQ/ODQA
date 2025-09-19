@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0020",
+  "run_at": "2025-09-09T10:00:58.984393Z",
+  "question_id": 20,
+  "question": "Von wann bis wann ging 2024 die Badesaison am Vollstedter See?",
+  "answer": "01.06.24 bis 15.09.24",
+  "question_type": "multi hop",
+  "source": "2",
+  "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "recursion limit",
+    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Dies verhindert eine korrekte Beantwortung der Frage."
+  }
+}

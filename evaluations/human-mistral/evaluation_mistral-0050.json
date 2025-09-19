@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0050",
+  "run_at": "2025-09-09T10:14:22.697306Z",
+  "question_id": 50,
+  "question": "Wie viele tödliche Arbeits- und Wegeunfälle gab es 2014 insgesamt?",
+  "answer": "971",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
+  "llm_final": "Now, we have the necessary data to answer the question:\n\n- **Tödliche Arbeitsunfälle gesamt (2014):** 639\n- **Tödliche Wegeunfälle gesamt (2014):** 332\n\n**Gesamtzahl der tödlichen Arbeits- und Wegeunfälle 2014:**\n**639 + 332 = 971**\n\n---\n\n**FinalAnswer:**\nIm Jahr 2014 gab es insgesamt **971 tödliche Arbeits- und Wegeunfälle**.\n\nQuelle: [Tödliche Unfälle (Arbeitsunfälle und Wegeunfälle) in den Jahren 2014 bis 2016](https://ckan.govdata.de/dataset/a516c245-d2e0-4cbe-bdd7-a25ac8985cb3)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt, enthält die genaue Zahl und die Berechnung. Sie liefert auch die Quelle, was die Antwort sehr vollständig macht."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0152",
+  "run_at": "2025-09-09T11:32:52.068950Z",
+  "question_id": 152,
+  "question": "Welche Arten von Änderungen des Familienstands wurden im Jahr 2017 in der Gemeinde Hürtgenwald erfasst?",
+  "answer": "Aufhebung einer Lebenspartnerschaft, Begründung einer Lebenspartnerschaft, Eheschließung, Ehescheidung, Tod des Ehegatten, Tod des Lebenspartners",
+  "question_type": "set",
+  "source": "2",
+  "remark": "",
+  "llm_final": "### FinalAnswer:\n\nIm Jahr 2017 wurden in der Gemeinde Hürtgenwald folgende Arten von Änderungen des Familienstands erfasst:\n\n1. **Aufhebung einer Lebenspartnerschaft**: 1 Fall\n2. **Begründung einer Lebenspartnerschaft**: 0 Fälle\n3. **Eheschließung**: 37 Fälle\n4. **Ehescheidung**: 26 Fälle\n5. **Tod des Ehegatten**: 27 Fälle\n6. **Tod des Lebenspartners**: 0 Fälle\n\n**Quelle:** [Änderung Familienstände Gemeinde Hürtgenwald 2017](https://offenedaten.kdvz.nrw/dataset/d02-%C3%A4nderung-familienst%C3%A4nde-eines-jahres-gemeinde-h%C3%BCrtgenwald)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort des LLM listet nicht nur die Arten der Familienstandsänderungen auf, sondern ergänzt diese auch mit den jeweiligen Fallzahlen und einer direkten Quelle. Dies macht die Antwort umfassend und sehr nützlich."
+  }
+}

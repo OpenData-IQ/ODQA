@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0124",
+  "run_at": "2025-09-09T11:05:50.209948Z",
+  "question_id": 124,
+  "question": "Wie viele Einwohner im Alter von 30 bis unter 45 Jahren lebten am 31.12.2023 im Stadtbezirk Südost in Ingolstadt?",
+  "answer": "Am 31.12.2023 lebten 4598 Einwohner im Alter von 30 bis unter 45 Jahren im Stadtbezirk Südost in Ingolstadt.",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Prompt contains 146828 tokens and 0 draft tokens, too large for model with 131072 maximum context length\",\"type\":\"invalid_request_invalid_args\",\"param\":null,\"code\":\"3051\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "judgement": {
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "The 'llm_final' field explicitly states a 'token limit' error, indicating the prompt was too large for the model's maximum context length. Therefore, the LLM could not process the request."
+  }
+}

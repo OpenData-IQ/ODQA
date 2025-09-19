@@ -1,0 +1,16 @@
+{
+  "thread_id": "mistral-0021",
+  "run_at": "2025-09-09T10:01:36.899821Z",
+  "question_id": 21,
+  "question": "Wie viele Ballettaufführungen gab es in der Spielzeit 2022/23 in Frankfurt am Main?",
+  "answer": "6",
+  "question_type": "simple with restriction",
+  "source": "2",
+  "remark": "",
+  "llm_final": "Die Anzahl der Ballettaufführungen in der Spielzeit **2022/23** in Frankfurt am Main betrug **6**.\n\nQuelle: [Städtische Theater Kunstgattungen (Frankfurt am Main)](https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-staedtische_theater_kunstgattungen)",
+  "judgement": {
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die Antwort ist korrekt und gibt die genaue Anzahl der Ballettaufführungen an. Sie enthält auch eine relevante Quelle, die die Information bestätigt."
+  }
+}
