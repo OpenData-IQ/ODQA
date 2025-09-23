@@ -2,6 +2,7 @@ import pandas as pd
 import re
 import unicodedata
 from rdflib import Graph
+from collections import Counter
 
 questions_df = pd.DataFrame()
 questions_df["frage_id"] = None
@@ -21,8 +22,14 @@ benchmark_dir = "open-data-benchmark"
 df = pd.read_csv(f"{benchmark_dir}/cleaned_questions_dataset.csv")
 with open("sparql/extract.sparql", "r", encoding="utf-8") as f:
     extract_query = f.read()
+with open("sparql/topic.sparql", "r", encoding="utf-8") as t:
+    topic_query = t.read()
 
+topic_counts = Counter()
+task_counts = Counter()
+excluded = [16, 54]
 for row in df.itertuples(index=True, name="Row"):
+    frage_id = row.Index + 1
     print(row.Index)
     print(row.Index + 1)
     print(row.frage)
@@ -30,6 +37,8 @@ for row in df.itertuples(index=True, name="Row"):
                                            str(row.datengrundlage), row.datenquelle_schwierigkeit]
     source_part = 1
     metadata_file = ""
+    if frage_id not in excluded:
+     task_counts[row.frage_typ] += 1
     if (row.frage_typ != "multi hop") or (" " not in row.dateiname):
         # Write information to questions_df
         if pd.notna(row.metadaten):
@@ -51,33 +60,47 @@ for row in df.itertuples(index=True, name="Row"):
             sources_df.loc[len(sources_df)] = [f"{row.Index + 1}-{str(source_part)}", row.Index + 1, files[idx],
                                                metadata_file]
 
-    if row.datengrundlage == 1.0:
-        remark = row.antwort
-        metadata_files = row.metadaten
-        print(metadata_files)
-        if pd.notna(metadata_files):
-            datasets = []
-            metadata_files = row.metadaten.split(" ")
-            for idx, metadata_file in enumerate(metadata_files):
-                with open(f"{benchmark_dir}/metadaten/{metadata_file}.rdf", "r", encoding="utf-8") as f:
-                    dcat_snippet = f.read()
-                    g = Graph()
-                    g.parse(data=dcat_snippet, format="xml")
-                    # g.print()
-                    results = g.query(extract_query)
-                    first = next(iter(results), None)
-                    if first is not None:
-                        datasets.append(str(first["dataset"]))
-                # print(results)
-            questions_df.at[row.Index, "antwort"] = datasets[0] if len(datasets) == 1 else " ".join(datasets)
-        if not pd.isna(row.datenquelle_schwierigkeit):
-            questions_df.at[row.Index, "bemerkungen"] = f"{remark} - {row.datenquelle_schwierigkeit}"
-        else:
-            questions_df.at[row.Index, "bemerkungen"] = remark
-    # write questions to questions_df
-    # write sources to sources_df
-    if row.datengrundlage == 2.0:
-        if not pd.isna(row.datenquelle_schwierigkeit):
-            questions_df.at[row.Index, "bemerkungen"] = row.datenquelle_schwierigkeit
-    questions_df.to_csv(f"{benchmark_dir}/de-questions.csv.", index=False)
-    sources_df.to_csv(f"{benchmark_dir}/sources_raw.csv.", index=False)
+
+    if frage_id != 114:
+        with open(f"{benchmark_dir}/metadaten/{metadata_file}.rdf", "r", encoding="utf-8") as f:
+            dcat_snippet = f.read()
+            g = Graph()
+            g.parse(data=dcat_snippet, format="xml")
+            if row.datengrundlage == 1.0:
+                remark = row.antwort
+                metadata_files = row.metadaten
+                print(metadata_files)
+                if pd.notna(metadata_files):
+                    datasets = []
+                    metadata_files = row.metadaten.split(" ")
+                    for idx, metadata_file in enumerate(metadata_files):
+                        # g.print()
+                        results = g.query(extract_query)
+                        first = next(iter(results), None)
+                        if first is not None:
+                            datasets.append(str(first["dataset"]))
+                    # print(results)
+                    questions_df.at[row.Index, "antwort"] = datasets[0] if len(datasets) == 1 else " ".join(datasets)
+                if not pd.isna(row.datenquelle_schwierigkeit):
+                    questions_df.at[row.Index, "bemerkungen"] = f"{remark} - {row.datenquelle_schwierigkeit}"
+                else:
+                    questions_df.at[row.Index, "bemerkungen"] = remark
+        # write questions to questions_df
+        # write sources to sources_df
+        if row.datengrundlage == 2.0:
+            if not pd.isna(row.datenquelle_schwierigkeit):
+                questions_df.at[row.Index, "bemerkungen"] = row.datenquelle_schwierigkeit
+        if frage_id not in excluded:
+            topics = g.query(topic_query)
+            for topic in topics:  # your loop over g.query(topic_query)
+                topic_str = topic[0]  # take the first element of the tuple
+                topic_counts[topic_str] += 1
+
+for topic, freq in topic_counts.items():
+    print(topic, freq)
+for task, task_freq in task_counts.items():
+    print(task, task_freq)
+questions_df.to_csv(f"{benchmark_dir}/de-questions.csv.", index=False)
+sources_df.to_csv(f"{benchmark_dir}/sources_raw.csv.", index=False)
+
+
