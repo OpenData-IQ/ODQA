@@ -99,7 +99,7 @@ We benchmarked multiple LLMs in an agentic setup (Claude 3.7, GPT-5, GPT-5 Mini,
 |-------------------|--------------|-------|-------|-------|
 | Claude 3.7        | LLM Agent    | 0.550 | 0.426 | 0.775 |
 | Deepseek R1       | LLM Agent    | 0.787 | 0.243 | 0.308 |
-| Gemini 2.5 Flash  | LLM Agent    | **0.836** | 0.368 | 0.440 |
+| Gemini 2.5 Flash  | LLM Agent    | 0.836 | 0.368 | 0.440 |
 | GPT-5             | LLM Agent    | 0.574 | 0.535 | **0.931** |
 | GPT-5 Mini        | LLM Agent    | 0.629 | 0.515 | 0.819 |
 | GPT-5 Mini (40)   | LLM Agent    | 0.767 | **0.624** | 0.813 |
