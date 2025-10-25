@@ -82,7 +82,31 @@ def clean_csv_text_to_polars(text: str, extra_nulls: Optional[List[str]] = None)
             cleaned.append(None if s.lower() in nulls else s)
         cleaned_rows.append(cleaned)
 
-    return pl.DataFrame(cleaned_rows, schema=header)
+    buf = io.StringIO()
+    writer = csv.writer(
+        buf,
+        delimiter=getattr(dialect, "delimiter", ","),
+        quotechar=getattr(dialect, "quotechar", '"'),
+        lineterminator="\n",
+        escapechar=getattr(dialect, "escapechar", None),
+        doublequote=getattr(dialect, "doublequote", True),
+        quoting=getattr(dialect, "quoting", csv.QUOTE_MINIMAL),
+    )
+    writer.writerow(header)
+    writer.writerows(cleaned_rows)
+    buf.seek(0)
+
+    df = pl.read_csv(
+        buf,
+        separator=getattr(dialect, "delimiter", ","),
+        quote_char=getattr(dialect, "quotechar", '"'),
+        try_parse_dates=True,
+        infer_schema_length=10000,  # 🟢 ADDED — deeper type inference
+        null_values=[""],  # 🟢 ADDED — empty field → Null
+    )
+
+    return df
+    #return pl.DataFrame(cleaned_rows, schema=header)
 
 # ---------------- FrameHub (multi-frame, functional ops) ----------------
 
