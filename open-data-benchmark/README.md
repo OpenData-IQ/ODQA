@@ -1,122 +1,147 @@
 # ODQA Open Data Benchmark
 
+Ein Benchmark zur Bewertung automatischer Frage-Antwort-Systeme auf Basis öffentlich verfügbarer Verwaltungs- und Statistikdaten.
+
 Diese Datei beschreibt die Struktur des Repository und den Aufbau des Benchmark.
+
 ___
 
-## Projektbeschreibung
+## 🧭 Übersicht
 
-Das ODQA open data benchmark ist ein Fragenset, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten?
+Das ODQA Open Data Benchmark stellt ein Fragenset bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
 
-Es orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] bildet die Diversität und Komplexität realistischer Bürger*innenfragen ab.
+Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
 
 [^1]: Yang, Xiao, et al. „CRAG - Comprehensive RAG Benchmark“. arXiv:2406.04744v1 (2024).
 
 ___
 
-## 📂 Repository Structure
+## 📂 Repository Struktur
 
 - **`open-data-benchmark/`**  
-  - `benchmarks.csv`: 123
-  - `cleaned_questions_dataset.csv`: 123
-  - `en-questions.csv`, `de-questions.csv`: Question–answer pairs in English and German with task and question type labels  
-  - `generate_questions.ipynb`: 123
-  - `sources.csv`: 123 
-  - `sources_raw.csv`: 123
+  - `benchmarks.csv`: 121 selbst erstellte Fragen
+  - `cleaned_questions_dataset.csv`: überarbeitete Version des Fragenset inklusive generierter Fragen (204?) und Quellenangaben
+  - `de-questions.csv`: hat 204 Fragen?
+  - `en-questions.csv`: übersetzte Version
+  - `generate_questions.ipynb`: Skript zur Generierung weiterer Fragen
+  - `sources.csv`: Quellen der Antworten inklusive URL
+  - `sources_raw.csv`: Quellen der Antworten ohne URL
  
-- **`/daten/`**: Daten...
-- **`/govdata-catalog/`**: Daten...
-- **`/govdata-sparql/`**: Daten...
-- **`/metadaten/`**: Daten...
+- **`/daten/`**: Quelldateien in `.csv`, `.xml`, `.html` und `.json`
+- **`/govdata-catalog/`**: Katalog der Daten
+- **`/govdata-sparql/`**: sparql-Skript, um geeignete Dateien in *govdata.de* anzuzeigen
+- **`/metadaten/`**: Metadaten von *govdata.de*
 
 
 ---
 
 
-## 📄❔❓ Das Fragenset
+## ❓ Das Fragenset
 
-(`de-questions.csv` auf deutsch,  `en-questions.csv` auf englisch)
+Die Dateien `de-questions.csv` und `en-questions.csv` enthalten jeweils **202 Fragen** verschiedener Schwierigkeit. Die Fragen orientieren sich an den Themenbereichen der auf *govdata.de* verfügbaren offenen Verwaltungsdaten. 
+Sie bilden typische reale Anfragen von Bürger*innen ab.
 
-Das Fragenset umfasst 202 Fragen unterschiedlicher Schwierigkeit und bezieht sich auf die verschiedenen Themenbereiche der auf govdata.de verfügbaren Verwaltungsdaten. 
-Sie ähneln Fragen, die Bürger* innen oder Nutzer* innen in der Realität stellen würden.
+### 🔎 Enthaltene Felder
 
-Jede Zeile enthält eine Frage mit folgenden Informationen:
+Jede Zeile der CSV-Datei enthält eine Frage mit folgenden Informationen:
 
--	„**frage_id**“: Die Fragen sind nummeriert.
--	"**frage**“: Die Frage der Bürger*innen, die dem automatischen System gestellt wird.
--	„**antwort**“: die zu erwartende richtige Antwort
--	„**frage_typ**“: Es gibt acht Fragetypen, die die Komplexität echter Bürger*innen-Fragen abdecken:
-    - *Simple*: einfache Fragen, die eine einfache allgemeingültige Antwort haben
-    - *Simple with restriction/condition*: einfache Fragen mit der Einschränkung eines Datums oder eines Ortes
+-	**frage_id**: eindeutige ID
+-	**frage**: die gestellte Frage
+-	**antwort**: die zu erwartende richtige Antwort
+-	**frage_typ**: Klassifikation nach Komplexität
+-	**datengrundlage**: Die Fragen werden nach zwei Datengrundlagen (task types) unterschieden
+-	**bemerkungen**: weitere Informationen, die bei der Erstellung der Fragen aufgefallen sind und Hinweise auf die Beantwortung der Fragen geben könnten
 
-    - *Set*: Die Antwort ist eine Aufzählung mehrerer Dinge. 
+hier ein visual?
 
-      >Frage 14 - Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar? – "Johanniter-Unfall-Hilfe e. V., Bäcker Bruno, Stadt Oldenburg Zentraler Außendienst und City Wache, Dorfgemeinschaft Bunker Club Bornhorst e. V."
-    - *Comparison*: Es werden mehrere Daten oder Datensätze miteinander verglichen. 
-
-      > Frage 73 - Wessen Kanalnetz war 2022 das längere? Rotenburg (Wümme) oder Heidekreis? – "Rotenburg (Wümme)"
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
     
-    - *Aggregation*:  Für die Antwort werden mehrere Zahlen zusammen gerechnet. 
 
-      >Frage 99: Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar? – "80"
+## 🧩 Fragetypen (frage_typ)
+Die acht Fragetypen sind an das CRAG-Design angelehnt:
+
+- **Simple**: einfache Fragen, die eine einfache allgemeingültige Antwort haben
+
+- **Simple with restriction/condition**: einfache Fragen mit der Einschränkung eines Datums oder eines Ortes
+
+- **Set**: Die Antwort ist eine Aufzählung mehrerer Elemente
+
+  - *Beispiel:* Welche Defibrillatoren in Oldenburg sind durchgängig erreichbar?
+
+- **Comparison**: Es werden mehrere Daten oder Datensätze miteinander verglichen
+
+   - *Beispiel:* Wessen Kanalnetz war 2022 das längere? Rotenburg (Wümme) oder Heidekreis? 
+    
+- **Aggregation**:  Für die Antwort werden mehrere Zahlen zusammen geführt 
+   - *Beispiel:* Wie viele Poststationen in der Metropolregion Rhein-Neckar sind uneingeschränkt mit dem Rollstuhl erreichbar? 
      
-    - *Multi-hop*: Komplexe Fragen, für die mehrere Informationen kombiniert werden müssen. 
+- **Multi-hop**: Komplexe Fragen, für die mehrere Informationen logisch kombiniert werden müssen
+   - *Beispiel:* Wieviel Verstöße hat die Stadt Aachen jeweils im November 2021 und Dezember 2021 bei Geschwindigkeitskontrollen gemessen? In welchem Monat waren es mehr? 
 
-      >Frage 157: Wieviel Verstöße hat die Stadt Aachen jeweils im November 2021 und Dezember 2021 bei Geschwindigkeitskontrollen gemessen? In welchem Monat waren es mehr? – „Im November 2021 wurden 3298 Verstöße verzeichnet, wohingegen es im Dezember nur 2800 waren.“
+- **Post-processing heavy**: Komplexe Fragen, für die in mehreren Schritten Informationen kombiniert und verarbeitet werden
+   - *Beispiel:* Welche drei Vornamen wurden im Jahr 2020 in Kerpen am häufigsten vergeben und wie viele Kinder erhielten jeweils diese Namen? 
 
-    - *Post-processing heavy*: Komplexe Fragen, die mehrere Informationen kombinieren und verarbeiten müssen. 
+- **False Premise**:  Fragen, die eine nicht erfüllbare Bedingung haben
 
-      >Frage 171: Welche drei Vornamen wurden im Jahr 2020 in Kerpen am häufigsten vergeben und wie viele Kinder erhielten jeweils diese Namen? – „Die drei am häufigsten vergebenen Vornamen in Kerpen im Jahr 2020 waren Sophie (14 Kinder), Marie (9 Kinder) und Maximilian (8 Kinder)“
+   - *Beispiel:* Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert?
 
-    - *False Premise*:  Fragen, die eine nicht erfüllbare Bedingung haben. 
+## 🗂️ Datengrundlage (Task Type)
+Es gibt zwei Aufgabentypen:
+### 1. Data search
+Fragen, ob und wo es Daten zu dem gesuchten Thema gibt. Die Antwort ist der Link zu den Daten bzw. eine URL. 
+   - *Beispiel:* Gibt es Daten zu Saatkrähen in Soest?
 
-      >Frage 179: Wie viele Geburten von Einhörnern wurden 2012 im Standesamt Düsseldorf registriert? – „Es wurden keine Geburten von Einhörnern im Standesamt Düsseldorf registriert, da Einhörner Fabelwesen sind und nicht in offiziellen Geburtenregistern erfasst werden.“
+ 
+### 2. Question Answering 
+Fragen, die anhand der Daten inhaltlich beantwortet werden. 
+   - *Beispiel:* Wie viele Plätze hat die Kinderkrippe "Biene Maja" in Rostock?
+___
 
--	„**datengrundlage**“: Die Fragen werden nach zwei Datengrundlagen (task types) unterschieden:
+## 📝 Fragenerstellung
 
-      - *Datengrundlage 1*: Data search: Fragen, ob und wo es Daten zu dem gesuchten Thema gibt. Die Antwort ist der Link zu den Daten. 
+*govdata.de*
 
-        >Frage 110: Gibt es Daten zu Saatkrähen in Soest? –"https://opendata.soest.de/dataset/ba6457dc-aceb-435f-a8e5-d12bb55ab27b"
+`/govdata-sparql/`
 
-    - *Datengrundlage 2*: question answering: Fragen, die inhaltlich beantwortet werden. 
-
-      >Frage 3: Wie viele Plätze hat die Kinderkrippe "Biene Maja" in Rostock? – "66"
-
--	„**bemerkungen**“: weitere Informationen, die bei der Erstellung der Fragen aufgefallen sind und Hinweise auf die Beantwortung der Fragen geben könnten.
-
+`generate_questions.ipynb`
 
 ___
 
-## Usage
+## 🚀 Usage
 
 text text
 ___
 
-## Support
+## 🆘 Support
 
 text text
 ___
 
-## Roadmap
+## 🛣️ Roadmap
 
 text text
 
 ___
-## Contributing
+## 🤝 Contributing
 
 text text
 ___
 
-## Authors and acknowledgment
+## 👩‍💻 Authors and acknowledgment
 
 text text
 ___
 
-## License
+## 📜 License
 text text
 
 [MIT](https://choosealicense.com/licenses/mit/)
 ___
 
-## Project Status
+## 📈 Project Status
 
 text text
