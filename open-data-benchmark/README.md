@@ -52,13 +52,12 @@ Jede Zeile der CSV-Datei enthält eine Frage mit folgenden Informationen:
 -	**datengrundlage**: Die Fragen werden nach zwei Datengrundlagen (task types) unterschieden
 -	**bemerkungen**: weitere Informationen, die bei der Erstellung der Fragen aufgefallen sind und Hinweise auf die Beantwortung der Fragen geben könnten
 
-hier ein visual?
+*Beispiel:*
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| **frage_id**   |**frage**      |**antwort** |**frage_typ** |**datengrundlage** |**bemerkungen** |
+|---|-------------|-------------|----|-|-------------|
+| 1 | Wo finde ich Daten zu Spielgeräten auf Dortmunder Spielplätzen? | https://<span>open-data.dortmund.</span>de/api/v2/catalog/datasets/fb63-spielgeraete | simple | 1 | ja bzw Link zu Datei |
+| 104 | In welchem Monat wurde 2025 bisher die meiste Margarine hergestellt? | im März | post processing heavy | 2 | 26.028t Margarine|
     
 
 ## 🧩 Fragetypen (frage_typ)
