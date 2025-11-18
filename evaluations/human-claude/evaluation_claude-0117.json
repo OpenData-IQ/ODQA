@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "Basierend auf den Daten kann ich nun Ihre Frage beantworten.\n\nFinalAnswer: Im Jahr 2010 war der Anteil ausländischer Einwohnerinnen und Einwohner in Rostock im Stadtbereich Gartenstadt-Stadtweide mit 7,9% am höchsten. Danach folgten die Stadtmitte mit 5,3% und Evershagen mit 5,0%. Die Daten stammen aus der Bevölkerungsstruktur 2010 der Hanse- und Universitätsstadt Rostock (Quelle: https://www.opendata-hro.de/dataset/45e94633-189b-4857-b710-f9b6fb4aa7a8).",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"message\":\"input length and `max_tokens` exceed context limit: 162801 + 64000 > 204658, decrease input length or `max_tokens` and try again\"}', 'provider_name': 'Amazon Bedrock'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Antwort nennt den korrekten Stadtbereich und die Prozentzahl wie im Goldstandard. Zusätzliche Angaben beeinträchtigen nicht die Korrektheit. Damit vollständig und präzise."
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Es wird angegeben, dass das Tokenlimit erreicht ist."
   }
 }

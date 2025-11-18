@@ -6,7 +6,7 @@
   "answer": "In Halle",
   "question_type": "comparison",
   "source": "2",
-  "remark": "",
+  "remark": "In Halle gab es 1.489 ausländische männliche Beschäftigte mit akadem. Abschluss, in Lübeck 946.",
   "llm_final": "Jetzt habe ich die Daten für beide Städte. Ich werde die relevanten Informationen extrahieren, um die Frage zu beantworten.\n\nFür Lübeck:\n- Männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss: 928\n\nFür Halle (Saale):\n- Männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss: 1092\n\nFinalAnswer: Am 30.06.2024 gab es in Halle (Saale) mehr männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss als in Lübeck. Die genauen Zahlen sind 1092 in Halle (Saale) gegenüber 928 in Lübeck. Diese Daten stammen aus der Regionalstatistik (Quelle: https://www.regionalstatistik.de/genesisws/downloader/00/tables/13111-11-04-4_00.csv#dataset), die Informationen zu sozialversicherungspflichtig Beschäftigten am Arbeitsort nach Geschlecht, Nationalität und Art des beruflichen Ausbildungsabschlusses auf Kreisebene bereitstellt.",
   "judgement": {
     "category": "partially",
