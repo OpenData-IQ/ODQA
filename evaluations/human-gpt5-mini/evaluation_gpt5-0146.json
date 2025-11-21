@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "933 Familien mit Kindern (Stichtag 31.12.2010, Quelle: EWO_990_sim_OpDat228-2010_20161121.csv).",
+  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'This endpoint\\'s maximum context length is 400000 tokens. However, you requested about 453943 tokens (453131 of text input, 812 of tool input). Please reduce the length of either one, or use the \"middle-out\" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}}}",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die LLM-Antwort ist korrekt und liefert die genaue Zahl sowie den Stichtag und die Quelle. Dies macht die Antwort umfassend und nachvollziehbar."
+    "category": "problem_answers",
+    "problem_type": "token limit",
+    "rationale": "Das LLM gibt einen Fehler zurück, Tokenlimit erreicht."
   }
 }

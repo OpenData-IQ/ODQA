@@ -7,10 +7,10 @@
   "question_type": "multi hop",
   "source": "2",
   "remark": "",
-  "llm_final": "2012: Bourheim\n2017: Bourheim\n\nQuelle: D12 Landtagswahlen Stadt Jülich (Stadtteilebene) – https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Antwort des LLM ist für das Jahr 2017 falsch. Laut Goldstandard war es 2017 Daubenrath, nicht Bourheim. Die Quelle ist korrekt, aber die Information wurde falsch extrahiert."
+    "problem_type": "recursion limit",
+    "rationale": "Es wird das Rekursionslimit erreicht."
   }
 }

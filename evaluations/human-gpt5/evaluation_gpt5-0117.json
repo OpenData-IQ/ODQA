@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "Gartenstadt-Stadtweide – 7,9 % (Stand: 31.12.2010)",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die Antwort des LLM ist präzise und vollständig. Sie nennt den korrekten Stadtbereich und den genauen Prozentsatz, was der Goldstandard-Antwort entspricht. Quelle fehlt."
   }

@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "Warnemünde, 83,4.",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die LLM-Antwort ist präzise und korrekt. Sie liefert sowohl den Stadtbereich als auch den Altenquotienten, was der Goldstandard-Antwort entspricht. Die Quellenangabe fehlt."
   }

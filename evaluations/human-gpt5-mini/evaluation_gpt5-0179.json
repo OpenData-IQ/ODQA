@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Keines — 0.  \nIm Jahresdatensatz 2012 des Geburtenregisters des Standesamtes Düsseldorf gibt es keine Kategorie „Einhorn“ (Art der Geburt: lebend 7.488, tot 24, vertraulich 0).  \nQuelle: Auswertungen_G_2012.csv auf opendata.duesseldorf.de.",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie widerlegt die falsche Prämisse der Frage und liefert zusätzlich eine relevante Datenquelle zur Bestätigung. Sie sollte aber die Kategorie Einhorn kritisch würdigen."
+    "rationale": "Die Antwort des LLM ist korrekt und umfassend. Sie widerlegt die falsche Prämisse der Frage und liefert zusätzlich eine relevante Datenquelle zur Bestätigung."
   }
 }

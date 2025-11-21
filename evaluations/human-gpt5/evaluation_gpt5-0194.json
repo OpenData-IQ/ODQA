@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "19 Tage.",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die LLM-Antwort ist korrekt und prägnant. Sie gibt die exakte Anzahl der Tage an, die in der Goldstandard-Antwort erwartet wird. Die Quellenangabe fehlt."
   }

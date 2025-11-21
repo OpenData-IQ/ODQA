@@ -7,10 +7,10 @@
   "question_type": "simple with restriction",
   "source": "2",
   "remark": "",
-  "llm_final": "Done",
+  "llm_final": "Der häufigste weibliche Vorname in der Landgemeinde Titz im Jahr 2021 war \"Sophie\" (5 Vergaben).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "no answer",
-    "rationale": "Die finale Antwort enthält keine verwertbare Antwort."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Das LLM nennt die richtige Goldstandard-Antwort."
   }
 }

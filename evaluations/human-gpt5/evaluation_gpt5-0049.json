@@ -9,8 +9,8 @@
   "remark": "Tabelle hat eine Unterstruktur, mit bereits angegebenen Gesamtsummen und Teilsummen",
   "llm_final": "2.325",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
-    "rationale": "Die LLM-Antwort ist korrekt und stimmt exakt mit der erwarteten Antwort überein. Allerdings fehlt die Quelle."
+    "rationale": "Die LLM-Antwort ist korrekt und stimmt exakt mit der erwarteten Antwort überein."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "0\n\nBegründung: Im Geburtenregister 2012 des Standesamtes Düsseldorf gibt es nur die Kategorien „lebend“, „tot“ und „vertraulich“ – keine Einhörner. Quelle: Auswertungen_G_2012.csv (Statistik Geburtenregister des Standesamtes Düsseldorf)",
   "judgement": {
-    "category": "perfect",
+    "category": "acceptable",
     "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt und geht auf die Prämisse der Frage ein, indem sie erklärt, dass Einhörner Fabelwesen sind und nicht registriert werden. Sie liefert zudem eine plausible Begründung mit einer Referenz auf die Kategorien eines Geburtenregisters, was die Antwort sehr umfassend macht."
+    "rationale": "Die Antwort des LLM ist korrekt, geht aber nicht auf die fiktive Prämisse ein."
   }
 }

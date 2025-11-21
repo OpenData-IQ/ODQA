@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "Kurz und knapp: 0 % — in den offiziellen Daten für 2017 gibt es in Rostock‑Lichtenhagen keine Kategorie \"marsianisch\". Die Bevölkerungsstruktur 2017 führt nur \"deutsch\" bzw. \"ausländisch\"; ein Marsianer‑Anteil ist nicht erfasst (daher 0 %). Quelle: Bevölkerungsstruktur 2017 – Staatsangehörigkeit (OpenData Rostock).",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die Antwort des LLM erkennt die falsche Prämisse der Frage und erklärt, dass es keine Kategorie für marsianische Staatsbürger gibt. Sie liefert eine plausible Begründung und eine relevante Quelle, die die Nichtexistenz solcher Daten bestätigt. Allerdings fehlt ein kritisches Statement zur Staatsangehörigkeit marsianisch."
   }

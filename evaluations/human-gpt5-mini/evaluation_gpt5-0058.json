@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "FinalAnswer:\nDer Stadtteil Fulerum hat 2023 mit 18 Haushalten die wenigsten Haushalte mit drei oder mehr Kindern.\n\nQuelle: Privathaushalte Essen — Dataset: https://opendata.essen.de/dataset/privathaushalte-essen (Ressource: Anzahl der Privathaushalte in den Stadtteilen ab 2007, 2023)",
+  "llm_final": "Im Stadtteil Fulerum (Stadtbezirk 3) gab es 2023 mit 18 Haushalten die wenigsten Haushalte mit drei oder mehr Kindern.  \nQuelle: Privathaushalte Essen (Open Data Essen).",
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The LLM correctly identifies 'Fulerum' as the answer and provides additional context (18 households) and the exact source URL, making the answer comprehensive and verifiable."
+    "rationale": "Das LLM gibt die richtige Goldstandard-Antwort an."
   }
 }

@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "49",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die Antwort des LLM stimmt exakt mit der Goldstandard-Antwort überein. Die Frage wurde präzise und vollständig beantwortet. Quellenangabe fehlt."
   }

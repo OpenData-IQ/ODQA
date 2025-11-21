@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "Akazienweg liegt im Wahlbezirk 02 (Hasenfeld).",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
     "rationale": "Die Antwort ist korrekt. Die fehlende .0-Angabe ist nicht ausschlaggebend, weil die Wahlbezirke unter der 02-Ebene nicht weiter unterteilt werden. Die Quellenangabe fehlt."
   }

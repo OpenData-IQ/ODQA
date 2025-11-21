@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "Am höchsten war der Anteil 2024: 6.250 Fehlalarme von 7.725 Feuermeldungen = 6.250/7.725 ≈ 80,9 %. Quelle: Offene Daten Frankfurt — Feuerwehr (Spalten feuermeldungen_nsgesamt / feuermeldungen_fehlalarme).",
+  "llm_final": "Im Jahr 2017 — dort gab es 5.166 Fehlalarme von 6.746 Feuermeldungen, das sind ca. 76,58 %.  \nQuelle: Offene Daten Stadt Frankfurt (Feuerwehr).",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort des LLM stimmt mit der Goldstandard-Antwort überein und liefert zusätzlich die genauen Zahlen und die Quelle, was die Antwort sehr vollständig macht."
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Das LLM gibt eine falsche Antwort."
   }
 }

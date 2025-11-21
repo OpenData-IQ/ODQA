@@ -10,7 +10,7 @@
   "llm_final": "Ich habe in den mir zugänglichen GovData/Transparenz-Katalogen nach dem Titel gesucht, den Artikel dort aber nicht gefunden.\n\nKönnen Sie mehr Angaben machen (Medium, Autor, ungefähres Datum)? Soll ich alternativ sofort eine Web-/Nachrichtensuche durchführen? Falls ja, suche ich z. B. in lokalen Bremer Medien (Weser-Kurier), Hochschul-/Senats-Pressemitteilungen und allgemeinen Nachrichtendiensten.",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "The LLM states it could not find the article and asks for more information, even though the gold standard answer provides the exact URL. The LLM's response indicates it failed to locate the correct resource."
+    "problem_type": "not found",
+    "rationale": "The LLM states it could not find the article and asks for more information, even though the gold standard answer provides the exact URL."
   }
 }

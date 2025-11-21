@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "Fulerum – mit 18 Haushalten mit drei oder mehr Kindern (2023).\n\nQuelle: Privathaushalte Essen (https://opendata.essen.de/dataset/privathaushalte-essen)",
+  "llm_final": "Fulerum – dort gab es 2023 mit 18 die wenigsten Haushalte mit drei oder mehr Kindern.\nQuelle: Datensatz „Privathaushalte Essen“, Anzahl der Privathaushalte in den Stadtteilen ab 2007 (2023)",
   "judgement": {
     "category": "perfect",
     "problem_type": null,
-    "rationale": "The LLM correctly identifies 'Fulerum' as the answer and provides additional relevant details (number of households, year). It also includes a direct link to the data source, making the answer comprehensive and verifiable."
+    "rationale": "Die LLM-Antwort stimmt mit der Goldstandard-Antwort überein."
   }
 }

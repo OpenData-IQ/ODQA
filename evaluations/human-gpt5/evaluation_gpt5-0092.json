@@ -9,8 +9,8 @@
   "remark": "Ländercode TJ muss als solches gelesen werden, und dass es sich um die geschätzte Auszahlung für die kommenden drei Jahre handelt, geht nur aus den metadaten hervor",
   "llm_final": "- 2025: 2.810.000 EUR (BMZ-Vorhersage, Forward Spending Survey)\n- 2026: keine veröffentlichte Angabe im Datensatz\n- 2027: keine veröffentlichte Angabe im Datensatz\n\nQuelle: BMZ IATI Organisationsdaten, recipient-country-budget für TJ (Tadschikistan), Zeitraum 2025-01-01 bis 2025-12-31.",
   "judgement": {
-    "category": "acceptable",
+    "category": "perfect",
     "problem_type": null,
-    "rationale": "Die Antwort ist korrekt für das Jahr 2025 und gibt an, dass für die anderen Jahre keine Daten verfügbar sind. Sie ist nützlich, aber könnte noch präziser sein, indem sie die genaue Quelle für die 2025er-Zahl angibt, die im Goldstandard impliziert ist."
+    "rationale": "Die Antwort ist korrekt für das Jahr 2025 und gibt an, dass für die anderen Jahre keine Daten verfügbar sind."
   }
 }

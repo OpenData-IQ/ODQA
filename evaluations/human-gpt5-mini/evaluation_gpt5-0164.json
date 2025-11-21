@@ -7,10 +7,10 @@
   "question_type": "multi hop",
   "source": "2",
   "remark": "",
-  "llm_final": "Beide Male: Bourheim — SPD 42,14 %.\n\n(Quelle: Stadt Jülich — Landtagswahlergebnisse Stadtteilebene 2012 & 2017; Datensätze Landtagswahl_NRW8.csv / Landtagswahl_NRW998.csv, offenedaten.kdvz.nrw)",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort ist falsch, da sie für 2017 den falschen Stadtteil angibt. Die korrekte Antwort für 2017 ist Daubenrath, nicht Bourheim."
+    "problem_type": "recursion limit",
+    "rationale": "The LLM's output explicitly states that a recursion limit was reached. This indicates a technical problem preventing the generation of a proper answer."
   }
 }

@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "101 Radfahrer\n\nDetails: 0–3 Uhr: 11 + 25 + 25 + 40 = 101 (Interpretation: 00:00–03:59 Uhr)\nQuelle: https://opendata.duesseldorf.de/sites/default/files/OKB%20S%C3%BCd%202014_2.csv",
+  "llm_final": "26 Radfahrer.\n\nBasis: 01.01.2014, 00:00–03:59 Uhr an der Dauerzählstelle Oberkasseler Brücke Süd (Stunden 0,1,2,3: 5 + 6 + 13 + 2 = 26).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort von 101 ist falsch; die korrekte Antwort ist 28. Die LLM hat die Daten falsch aggregiert oder interpretiert."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist richtig."
   }
 }

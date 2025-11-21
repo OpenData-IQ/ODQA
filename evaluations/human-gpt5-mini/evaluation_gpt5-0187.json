@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "FinalAnswer:\n111 Radfahrer (Summe der Stunden 00:00–04:00: 11 + 25 + 25 + 40 + 10 = 111).\n\nQuelle: https://opendata.duesseldorf.de/dataset/wetterabh%C3%A4ngige-jahres%C3%BCbersicht-der-dauerz%C3%A4hlstellen-radverkehr-2014 (Distribution: OKB Süd 2014, https://opendata.duesseldorf.de/sites/default/files/OKB%20S%C3%BCd%202014_2.csv)",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort von 111 ist falsch, da die korrekte Antwort 28 ist. Die LLM-Antwort summiert die Werte für 0-4 Uhr, aber die Frage bezieht sich auf den 1. Januar 2014, für den der Wert 28 ist."
+    "problem_type": "recursion limit",
+    "rationale": "Rekursionslimit erreicht."
   }
 }
