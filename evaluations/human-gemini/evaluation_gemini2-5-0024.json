@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "FinalAnswer: Die meisten Fußgänger und Radfahrer an der Konrad-Adenauer-Brücke (Süd) in Mannheim wurden am 2018-05-01T16:00:00+00:00 gezählt.\nQuelle: https://mannheim.opendatasoft.com/api/v2/catalog/datasets/konrad_adenau_bruecke_sued-gesamt-eco-counter-daten",
+  "llm_final": "Es wurden keine Daten für die Konrad-Adenauer-Brücke in Mannheim gefunden. Die Suchergebnisse beziehen sich auf Konstanz und Bayern.",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort nennt einen anderen Zeitpunkt (2018-05-01T16:00Z) als der Goldstandard (15.10.2018, 15 Uhr, 320). Damit ist die Antwort falsch, trotz Quellenangabe."
+    "problem_type": "not found",
+    "rationale": "Das LLM gibt an, den Datensatz nicht gefunden zu haben."
   }
 }

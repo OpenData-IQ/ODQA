@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "Das Senckenberg Naturmuseum Frankfurt hatte 2.476.691 Besucher",
-  "llm_final": "FinalAnswer: Das Museum mit den meisten Besuchen in Frankfurt am Main von 2018 bis 2024 war die Liebieghaus Skulpturensammlung.\n\nQuelle: https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-museen",
+  "llm_final": "FinalAnswer: Das Museum mit den meisten Besuchen von 2018 bis 2024 in Frankfurt am Main war das Senckenberg Naturmuseum Frankfurt mit insgesamt 2.476.691 Besuchen.\n\nQuelle: https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-museen",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Goldantwort nennt das Senckenberg Naturmuseum Frankfurt, die LLM-Antwort behauptet jedoch die Liebieghaus Skulpturensammlung. Daher ist die Antwort falsch."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Das Modell nennt das richtige Museum inkl. korrekter Zahlen- bzw. Quellenangabe."
   }
 }

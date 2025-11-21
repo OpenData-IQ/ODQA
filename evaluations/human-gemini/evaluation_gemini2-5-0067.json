@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "The provided datasets do not contain the requested information about \"männliche ausländische Sozialversicherungspflichtig Beschäftigte mit akademischem Abschluss\" for Lübeck and Halle. The first dataset is specific to \"Handwerksunternehmen in Lübeck\" and the second one is about \"Öffentliche Haushalte\". Therefore, I cannot answer your question.",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "Die Antwort behauptet, dass die benötigten Daten nicht vorhanden seien, und liefert daher keine Antwort. Das fällt unter „not found“ gemäß den Regeln."
+    "category": "problem_answers",
+    "problem_type": "not found",
+    "rationale": "Das LLM sagt, es könne die Daten nicht finden."
   }
 }

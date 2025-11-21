@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "2046 Vorkommen für die Hausnummer 3",
-  "llm_final": "The search for \"Hausnummern\" returned many results, but none of them are for Leipzig. Most of the datasets are for cities in North Rhine-Westphalia. Since I cannot find data for Leipzig, I cannot answer your question.\nFinalAnswer: Es tut mir leid, ich konnte keine Daten zu Hausnummern in Leipzig finden, daher kann ich die Frage nicht beantworten.",
+  "llm_final": "FinalAnswer: Die häufigste Hausnummer in Leipzig ist die 3, die 2046 Mal vorkommt.\n\nQuelle: https://opendata.leipzig.de/dataset/e1b381f0-4b57-4f0d-86cd-a4bb423894da",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": "Der Assistent sagt, er habe keine Daten zu Leipzig gefunden und gibt keine Antwort. Die Goldantwort ist jedoch \"3\". Daher Problemtyp \"not found\"."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist richtig inkl. korrekter Quellenangabe."
   }
 }

@@ -10,7 +10,7 @@
   "llm_final": "Die bereitgestellten Daten enthalten Informationen zum Wasserstand des Vollstedter Sees, jedoch keine Angaben zur Länge der Badestelle.\n\nFinalAnswer: Die Länge der Badestelle am Vollstedter See kann mit den vorliegenden Daten nicht bestimmt werden.\n",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
+    "problem_type": "not found",
     "rationale": "Die korrekte Antwort ist 30m. Das LLM behauptet fälschlich, die Information sei nicht bestimmbar, daher ist die Antwort inhaltlich falsch."
   }
 }

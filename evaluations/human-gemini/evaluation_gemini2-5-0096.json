@@ -9,8 +9,8 @@
   "remark": "xml ist nur über 9805db02-fa3a-49b1-87ec-0cbc293ff25a.html zu finden",
   "llm_final": "In Köln gibt es Betriebshöfe zur Abgabe von Elektrokleingeräten in den Stadtteilen Kalk, Rodenkirchen und Ehrenfeld.\n\nSource: https://offenedaten-koeln.de/dataset/betriebsh%C3%B6fe-k%C3%B6ln",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "Der LLM nennt Rodenkirchen statt Bayenthal und weicht damit vom Goldstandard ab. Die Antwort ist daher nur teilweise richtig."
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Der LLM nennt Rodenkirchen statt Bayenthal und weicht damit vom Goldstandard ab."
   }
 }

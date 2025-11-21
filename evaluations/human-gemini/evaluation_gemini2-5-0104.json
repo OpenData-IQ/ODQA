@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "csv nur über weiteren Link verfügbar? SaAWEem5NA7KJTd.html, 2025 ist laufendes Jahr (Daten nur bis April verfügbar)",
-  "llm_final": "Die Suche nach \"Margarine Herstellung 2025\" liefert keine relevanten Datensätze. Die vorhandenen Datensätze beziehen sich auf Ausgaben privater Haushalte, Produktionserhebungen im Verarbeitenden Gewerbe allgemein oder andere nicht relevante Themen. Es gibt keine spezifischen Daten zur Margarineherstellung im Jahr 2025.",
+  "llm_final": "FinalAnswer: Im März 2025 wurde bisher die meiste Margarine hergestellt.\nSource: https://open-data.ble.de/dataset/84b3b1da-c1bb-46c7-affe-dde1d492aeb8",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": "Das LLM behauptet, keine passenden Datensätze zu finden, obwohl die korrekte Antwort im März lautet. Daher Problemtyp not found und die Frage wurde nicht beantwortet."
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Das LLM nennt den richtigen Monat und gibt die korrekte Quelle an. Ein Mengenangabe wäre wünschenswert gewesen."
   }
 }

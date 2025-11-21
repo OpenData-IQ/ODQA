@@ -9,7 +9,7 @@
   "remark": "",
   "llm_final": "Es tut mir leid, ich konnte keine E-Mail-Adresse für die Neue Bühne Senftenberg finden.",
   "judgement": {
-    "category": "partially",
+    "category": "acceptable",
     "problem_type": null,
     "rationale": "Die Goldantwort besagt, dass keine E-Mail angegeben ist. Allerdings nennt der Agent keine Quelle."
   }

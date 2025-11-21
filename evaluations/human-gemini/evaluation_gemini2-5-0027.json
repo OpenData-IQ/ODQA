@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "Beide Antworten können als korrekt gewertet werden.",
-  "llm_final": "Von den 2733 Befragten in den Landesverwaltungen von NRW, die eine Angabe gemacht haben, nutzen 1431 Personen einen Bildschirmschoner, was 52,36% entspricht. 1063 Personen nutzen keinen Bildschirmschoner (38,89%) und 239 Personen haben keine Angabe gemacht (8,74%).\n\nQuelle: https://ckan.open.nrw.de/dataset/b86bb5d5-ca90-4374-b8a5-9f283128f9bd",
+  "llm_final": "In den Landesverwaltungen von NRW nutzen 1628 Personen einen Bildschirmschoner, während 1225 Personen keinen nutzen.\n\nDie Gesamtzahl der Befragten, die eine klare Antwort gegeben haben, beträgt 1628 + 1225 = 2853.\n\nDer Prozentsatz der Personen, die einen Bildschirmschoner nutzen, ist (1628 / 2853) * 100 = 57,06 %.\n\nFinalAnswer: 57,06 % der Menschen in den Landesverwaltungen von NRW nutzen einen Bildschirmschoner.\n\nQuelle: https://ckan.open.nrw.de/dataset/b8a6daf8-4f5b-4d70-8ba7-16edcf5ea417",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Goldantwort nennt 51,5% bzw. 57,1% als korrekte Werte. Das LLM gibt 52,36% (und nicht eine der akzeptierten Prozentangaben) an; damit ist die Antwort nicht korrekt."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort ist korrekt."
   }
 }

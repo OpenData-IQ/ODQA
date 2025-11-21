@@ -7,10 +7,10 @@
   "question_type": "multi hop",
   "source": "2",
   "remark": "",
-  "llm_final": "FinalAnswer: Bei den Landtagswahlen 2012 und 2017 erhielt die SPD jeweils in Bourheim den höchsten Stimmenanteil.\n\nQuelle: https://offenedaten.kdvz.nrw/dataset/d12-landtagswahlen-stadt-j%C3%BClich",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Goldantwort nennt 2012 Bourheim und 2017 Daubenrath. Die LLM-Antwort behauptet für beide Jahre Bourheim und liegt damit für 2017 falsch."
+    "problem_type": "recursion limit",
+    "rationale": "Das LLM hat das Rekursionslimit erreicht."
   }
 }

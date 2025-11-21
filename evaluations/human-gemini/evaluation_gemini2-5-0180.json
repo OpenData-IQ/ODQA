@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Es tut mir leid, aber ich kann keine Informationen darüber finden, wie viele Einwohner der Gemeinde Langerwehe im Jahr 2019 nach Hogwarts umgezogen sind. Die verfügbaren Datensätze enthalten keine Informationen zu Umzügen nach Hogwarts.\n\nFinalAnswer: Es tut mir leid, aber ich kann keine Informationen darüber finden, wie viele Einwohner der Gemeinde Langerwehe im Jahr 2019 nach Hogwarts umgezogen sind. Die verfügbaren Datensätze enthalten keine Informationen zu Umzügen nach Hogwarts.",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "not found",
+    "category": "partially",
+    "problem_type": null,
     "rationale": "Die korrekte Antwort wäre, dass niemand umgezogen ist, weil Hogwarts fiktiv ist. Das LLM behauptet lediglich, keine Daten zu finden, und liefert keine eigentliche Antwort auf die Frage. Daher als 'not found' eingestuft."
   }
 }

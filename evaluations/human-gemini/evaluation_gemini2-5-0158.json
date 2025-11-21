@@ -7,10 +7,10 @@
   "question_type": "multi hop",
   "source": "2",
   "remark": "",
-  "llm_final": "Die Auszahlungen für Schule und Bildung betrugen im Jahr 2023 4.101.800 Euro.\nDie Aufwendungen für Schule und Bildung betrugen im Jahr 2024 65.880.886 Euro.\n\nDie Gesamtauszahlungen der Stadt Oldenburg für Schule und Bildung in den Jahren 2022 und 2023 betrugen 4.101.800 Euro (2023) und 65.880.886 Euro (2024).\n\nQuelle:\nhttps://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023\nhttps://opendata.oldenburg.de/dataset/haushaltsplan-stadt-oldenburg-2024\nFinalAnswer: Die Auszahlungen der Stadt Oldenburg für Schule und Bildung betrugen im Jahr 2023 4.101.800 Euro und im Jahr 2024 65.880.886 Euro.\n\nQuelle:\nhttps://opendata.oldenburg.de/dataset/haushaltsplan-der-stadt-oldenburg-2023\nhttps://opendata.oldenburg.de/dataset/haushaltsplan-stadt-oldenburg-2024",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Antwort verfehlt die Frage: Sie nennt 2023 und 2024 (teils Aufwendungen statt Auszahlungen) und liefert keinen Gesamtwert für 2022+2023. Der Goldstandard nennt 7.775.300€, was nicht wiedergegeben wird."
+    "problem_type": "recursion limit",
+    "rationale": "Rekursionslimit erreicht."
   }
 }
