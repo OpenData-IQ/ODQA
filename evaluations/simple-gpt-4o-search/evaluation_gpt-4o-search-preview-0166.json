@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Zum Stichtag 31.12.2011 lebten in der Gemeinde Langerwehe insgesamt 13.440 Einwohner. ([citypopulation.de](https://www.citypopulation.de/de/germany/nordrheinwestfalen/d%C3%BCren/05358032__langerwehe/?utm_source=openai)) Detaillierte Angaben zur Anzahl der Einwohner mit deutscher und ausländischer Staatsangehörigkeit zu diesem Datum sind in den offenen Daten der kdvz Rhein-Erft-Rur verfügbar. Diese Daten können unter folgendem Link eingesehen werden: ([offenedaten.kdvz.nrw](https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe?utm_source=openai)) \n\n### Quellen\n- **[1]** https://www.citypopulation.de/de/germany/nordrheinwestfalen/d%C3%BCren/05358032__langerwehe/?utm_source=openai (www.citypopulation.de) – https://www.citypopulation.de/de/germany/nordrheinwestfalen/d%C3%BCren/05358032__langerwehe/?utm_source=openai\n- **[2]** D05 Einwohner gesamt Gemeinde Langerwehe | Offene Daten kdvz Rhein-Erft-Rur (offenedaten.kdvz.nrw) – https://offenedaten.kdvz.nrw/dataset/d05-einwohner-gesamt-gemeinde-langerwehe?utm_source=openai",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "Die LLM-Antwort gibt die Gesamteinwohnerzahl an, aber nicht die Aufschlüsselung nach deutscher und ausländischer Staatsangehörigkeit, die in der Frage explizit verlangt wird. Obwohl ein Link zu den offenen Daten bereitgestellt wird, muss der Nutzer die spezifischen Informationen selbst finden. Daher ist die Antwort unvollständig."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Die LLM-Antwort gibt die Gesamteinwohnerzahl an, aber nicht die Aufschlüsselung nach deutscher und ausländischer Staatsangehörigkeit, die in der Frage explizit verlangt wird. Es wird ein Link zu den offenen Daten bereitgestellt, sodass der Nutzer die spezifischen Informationen selbst finden kann."
   }
 }

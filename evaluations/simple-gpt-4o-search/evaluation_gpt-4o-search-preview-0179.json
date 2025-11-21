@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Im Jahr 2012 wurden im Standesamt Düsseldorf insgesamt 7.512 Geburten registriert. ([welt.de](https://www.welt.de/print/welt_kompakt/duesseldorf/article124014525/Kinder-Kinder.html?utm_source=openai))\n\nBezüglich der Anzahl der Geburten von Einhörnern im Jahr 2012 liegen keine Daten vor. \n\n### Quellen\n- **[1]** Kinder, Kinder - WELT (www.welt.de) – https://www.welt.de/print/welt_kompakt/duesseldorf/article124014525/Kinder-Kinder.html?utm_source=openai",
   "judgement": {
-    "category": "perfect",
+    "category": "acceptable",
     "problem_type": null,
-    "rationale": "Die LLM-Antwort erkennt die falsche Prämisse der Frage und gibt an, dass keine Daten zu Einhorngeburten vorliegen. Zusätzlich liefert sie relevante Informationen zu den tatsächlichen Geburten in Düsseldorf im Jahr 2012, was die Antwort umfassend macht."
+    "rationale": "Die LLM-Antwort erkennt die falsche Prämisse der Frage nicht direkt, gibt aber an, dass keine Daten zu Einhorngeburten vorliegen. Zusätzlich liefert sie relevante Informationen zu den tatsächlichen Geburten in Düsseldorf im Jahr 2012, was die Antwort umfassend macht."
   }
 }

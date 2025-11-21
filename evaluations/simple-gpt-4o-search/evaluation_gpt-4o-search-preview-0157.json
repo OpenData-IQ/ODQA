@@ -11,6 +11,6 @@
   "judgement": {
     "category": "partially",
     "problem_type": null,
-    "rationale": "Die LLM-Antwort gibt nicht die konkreten Zahlen der Verstöße für November und Dezember 2021 an, die in der Goldstandard-Antwort enthalten sind. Stattdessen verweist sie auf eine Datenquelle und erklärt, wie man die Informationen selbst finden kann. Die Antwort ist korrekt, aber unvollständig, da sie die direkte Frage nicht beantwortet."
+    "rationale": "Die LLM-Antwort gibt nicht die konkreten Zahlen der Verstöße für November und Dezember 2021 an, die in der Goldstandard-Antwort enthalten sind. Stattdessen verweist sie auf eine Datenquelle und erklärt, wie man die Informationen selbst finden kann."
   }
 }

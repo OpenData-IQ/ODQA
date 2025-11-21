@@ -9,7 +9,7 @@
   "remark": "Als alternative Antwort kann auch Metzgerei Hauser als richtig gelten. Hier ist die Entfernung lt. Geodaten zwar größer, aber lt. Google der kürzere Fußweg. Alternative Nutzung von geojson: pflegeheime.json, metzgereien.json",
   "llm_final": "\n## [Metzgerei Hauser GmbH](https://www.google.com/maps/search/Met?utm_source=openai",
   "judgement": {
-    "category": "acceptable",
+    "category": "partially",
     "problem_type": null,
     "rationale": "Die LLM-Antwort nennt Metzgerei Hauser, was laut Remark als alternative richtige Antwort gilt. Der Link verweist auf einen falschen Standort."
   }

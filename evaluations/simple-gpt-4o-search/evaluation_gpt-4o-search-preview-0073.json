@@ -10,7 +10,7 @@
   "llm_final": "Im Jahr 2022 umfasste das Kanalnetz der Stadt Rotenburg (Wümme) insgesamt 207 Kilometer, bestehend aus 86 Kilometern Schmutzwasserkanälen, 81 Kilometern Regenwasserkanälen und 40 Kilometern Abwasserdruckleitungen. ([mobil.rotenburg-wuemme.de](https://mobil.rotenburg-wuemme.de/Unsere-Stadt/ROW-in-Zahlen.htm?utm_source=openai))\n\nFür den Heidekreis liegen in den verfügbaren Quellen keine spezifischen Angaben zur Länge des Kanalnetzes vor. Daher kann kein direkter Vergleich zwischen den beiden Kanalnetzen vorgenommen werden. \n\n### Quellen\n- **[1]** Rotenburg in Zahlen (mobil.rotenburg-wuemme.de) – https://mobil.rotenburg-wuemme.de/Unsere-Stadt/ROW-in-Zahlen.htm?utm_source=openai",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "no answer",
+    "problem_type": "not found",
     "rationale": "Die LLM-Antwort gibt eine  Länge für das Kanalnetz von Rotenburg (Wümme) an, die von der Goldstandard-Antwort abweicht (207 km statt 2.542 km), jedoch von den Angaben in der genannten Quelle gestützt werden. Für den Heidekreis konnten keine Daten gefunden werden."
   }
 }

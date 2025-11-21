@@ -10,7 +10,7 @@
   "llm_final": "Die zusammengefasste Geburtenziffer (Total Fertility Rate, TFR) für den Stadtbezirk Haslach-Haid in Freiburg im Jahr 2024 ist in den verfügbaren Datenquellen nicht explizit angegeben. Allerdings bietet die Stadt Freiburg detaillierte Bevölkerungsstatistiken auf Stadtbezirksebene an, die möglicherweise die Berechnung der TFR ermöglichen. Diese Daten sind über das Statistikportal der Stadt Freiburg zugänglich. ([fritz.freiburg.de](https://fritz.freiburg.de/asw/asw.dll?aw=Bevoelkerung%2FBevoelkerung_nach_12AG_KGL3_Tab&utm_source=openai))\n\nFür eine genaue Berechnung der TFR auf Stadtbezirksebene sind spezifische Daten zu Geburten und der weiblichen Bevölkerung im gebärfähigen Alter erforderlich. Es wird empfohlen, direkt beim Amt für Statistik und Daten der Stadt Freiburg nachzufragen, um die benötigten Informationen zu erhalten. \n\n### Quellen\n- **[1]** ASW FRITZ online (fritz.freiburg.de) – https://fritz.freiburg.de/asw/asw.dll?aw=Bevoelkerung%2FBevoelkerung_nach_12AG_KGL3_Tab&utm_source=openai}",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort gibt an, dass die Daten nicht explizit verfügbar sind, während die Goldstandard-Antwort einen spezifischen Wert liefert. Dies deutet darauf hin, dass die LLM-Antwort falsch ist, da sie die Existenz der Information verneint."
+    "problem_type": "not found",
+    "rationale": "Die LLM-Antwort gibt an, die Daten nicht zu haben, verweist aber auf die Quelle des Statistikamtes."
   }
 }

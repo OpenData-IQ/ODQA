@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Die Stadt Köln stellt auf ihrem Open-Data-Portal eine Übersicht der Fraktionszuwendungen für die Jahre 2014 bis 2021 bereit. ([offenedaten-koeln.de](https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln?utm_source=openai)) In dieser Auflistung sind die jährlichen finanziellen Zuwendungen an die Ratsfraktionen dokumentiert. Um die genauen Beträge für die CDU im Jahr 2018 sowie den Vergleich zum Vorjahr zu ermitteln, empfiehlt es sich, die bereitgestellten Daten direkt einzusehen. \n\n### Quellen\n- **[1]** Fraktionszuwendungen Ratsfraktionen Koeln | Offene Daten Köln (offenedaten-koeln.de) – https://offenedaten-koeln.de/dataset/fraktionszuwendungen-ratsfraktionen-koeln?utm_source=openai",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
-    "rationale": "Die LLM-Antwort gibt die konkreten Zahlen nicht an, sondern verweist lediglich auf eine Quelle. Die Frage verlangt jedoch nach den genauen Beträgen und deren Veränderung. Daher ist die Antwort unvollständig."
+    "category": "problems_answers",
+    "problem_type": "no answer",
+    "rationale": "Die LLM-Antwort gibt die konkreten Zahlen nicht an, sondern verweist lediglich auf eine Quelle. Die Frage verlangt jedoch nach den genauen Beträgen und deren Veränderung."
   }
 }
