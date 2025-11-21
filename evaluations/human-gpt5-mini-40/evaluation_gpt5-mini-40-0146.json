@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "Es gab 933 Familien mit Kindern in der Gemeinde Hürtgenwald zum Stichtag 31.12.2010 (Quelle: Offene Daten KDvZ NRW, \"D07 Familien mit Anzahl Kinder Gemeinde Hürtgenwald 2010\").",
+  "llm_final": "",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt und vollständig. Sie gibt die genaue Zahl an und nennt die Quelle, was die Antwort sehr präzise macht."
+    "category": "problem_answers",
+    "problem_type": "no answer",
+    "rationale": "Die Antwort des LLM ist leer."
   }
 }

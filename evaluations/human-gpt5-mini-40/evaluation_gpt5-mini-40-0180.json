@@ -11,6 +11,6 @@
   "judgement": {
     "category": "acceptable",
     "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt, geht aber nicht auf die falsche Prämisse der Frage ein."
+    "rationale": "Die Antwort des LLM ist korrekt."
   }
 }

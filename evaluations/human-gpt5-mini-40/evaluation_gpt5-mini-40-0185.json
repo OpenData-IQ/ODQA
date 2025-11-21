@@ -7,10 +7,10 @@
   "question_type": "simple with restriction",
   "source": "2",
   "remark": "",
-  "llm_final": "Die prognostizierte Bevölkerungsentwicklung in Hubbelrath (2019–2035) beträgt +26 %.",
+  "llm_final": "Die prognostizierte Bevölkerungsentwicklung für Hubbelrath (2019–2035) beträgt +191,6 % (von 1.605 auf 4.680 Einwohner). Quelle: Offenes Datenportal Düsseldorf (074 Hubbelrath).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort von +26% ist falsch. Die korrekte Antwort ist 191,6%."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort von 191,6% ist korrekt."
   }
 }

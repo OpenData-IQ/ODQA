@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "2017 — ca. 76,6 % (5166 Fehlalarme von 6746 Feuermeldungen).\n\nBerechnung: (feuermeldungen_fehlalarme / feuermeldungen_nsgesamt) × 100.\n\nQuelle: Dataset \"Feuerwehr\" (Offene Daten Frankfurt): https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-feuerwehr",
+  "llm_final": "2024 — 6.250 Fehlalarme von 7.725 Feuermeldungen = ca. 80,9 % (höchster Anteil).\n\nQuelle: Datensatz \"Feuerwehr\" (Stadt Frankfurt am Main) — https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-feuerwehr",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort gibt das Jahr 2017 an, während die Goldstandard-Antwort 2024 nennt. Die prozentuale Angabe des LLM ist ebenfalls falsch. Die Antwort ist somit inkorrekt."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Das LLM nennt das richtige Jahr mit den passenden Zahlenwerten als Erklärung inkl. Quelle."
   }
 }

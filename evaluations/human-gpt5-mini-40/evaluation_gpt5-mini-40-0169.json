@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "An 5 verschiedenen Tagen — montags bis freitags (14.02.2022–18.02.2022).  \nQuelle: Messbereiche 2022 KW07 (opendata.essen.de).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort gibt 5 Tage an, während die Goldstandard-Antwort 4 Tage nennt. Die LLM-Antwort ist somit falsch."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt die korrekten 5 Tage an."
   }
 }

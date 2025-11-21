@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Kurz und knapp (Stichtag 31.12.2010, Datensatz D08):\n\n- Genau 3 Personen: 2.691 Familien  \n- Weniger als 3 Personen (1- und 2-Personen-Familien): 32.168 Familien\n\nQuelle: D08 „Familien nach Größe Stadt Bergheim“ (2010) — offenedaten.kdvz.nrw",
   "judgement": {
-    "category": "partially",
-    "problem_type": null,
+    "category": "problem_answers",
+    "problem_type": "incorrect answer",
     "rationale": "Die Frage basiert auf einer falschen Prämisse (negative Personenanzahl). Die LLM-Antwort ignoriert dies und liefert Daten für positive Personenzahlen, was die falsche Prämisse nicht korrigiert. Die Antwort ist daher sachlich falsch im Kontext der gestellten Frage."
   }
 }

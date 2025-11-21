@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Ich habe in den mir zur Verfügung stehenden Datensätzen (govdata/LDN NRW etc.) keine Info zur Fahrradzählstation in „Kapellen (Rhein‑Kreis Neuss)“ gefunden.\n\nMeinten Sie Kapellen (Ortsteil von Grevenbroich) im Rhein‑Kreis Neuss? Soll ich weiter suchen — z. B. auf der Website des Rhein‑Kreises Neuss oder der Stadt Grevenbroich, in OpenStreetMap/Google Maps oder per allgemeiner Internetsuche — und Ihnen dann Adresse/Koordinaten nennen? Welche Quellen darf ich verwenden?",
   "judgement": {
-    "category": "partially",
+    "category": "acceptable",
     "problem_type": null,
-    "rationale": "The LLM correctly identifies that no information is found in its datasets, but does not present a reference dataset where the reference data could have been retrieved."
+    "rationale": "The LLM correctly identifies that no information is found in its datasets, a reference dataset would have been nice."
   }
 }

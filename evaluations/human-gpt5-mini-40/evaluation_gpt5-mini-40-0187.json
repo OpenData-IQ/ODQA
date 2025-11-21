@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "Alternativ mögliche Antwort (bei Interpretation 00:00–03:59 Uhr): 26 Radfahrer",
-  "llm_final": "Kurz und knapp:\n\n- Summe inkl. 04:00 (00:00–04:00): 111 Radfahrer  \n  Stunden: 00:00 = 11, 01:00 = 25, 02:00 = 25, 03:00 = 40, 04:00 = 10\n\n- Falls Sie nur 00:00–03:00 meinen (04:00 exkl.): 101 Radfahrer\n\nQuelle: OpenData Düsseldorf — Datensatz „Wetterabhängige Jahresübersicht Dauerzählstelle Oberkasseler Brücke Süd 2014“ (OKB Süd 2014).",
+  "llm_final": "Kurz und knapp:\n\n- Summe für 0:00–3:00 Uhr (zwischen 0 und 4 Uhr, ohne 4:00): 26 Radfahrer (5+6+13+2).  \n- Inkl. 4:00 Uhr (0:00–4:00 Uhr): 28 Radfahrer (5+6+13+2+2).\n\nQuelle: Dauerzählstelle „Oberkasseler Brücke Süd“ — OKB Süd 2014 (CSV, opendata.duesseldorf.de).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort gibt 111 oder 101 Radfahrer an, während die Goldstandard-Antwort 28 ist. Die LLM-Antwort ist daher falsch. Die Frage bezieht sich auf die Zählung zwischen 0 und 4 Uhr, was 00:00 bis 03:59 Uhr bedeutet, nicht bis 04:00 Uhr inklusive."
+    "category": "acceptable",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort gibt die richtigen Antworten (26 und 28). Einzig die Zeitangabe  0:00–3:00 Uhr sollte 00:00 bis 03:59 heißen."
   }
 }

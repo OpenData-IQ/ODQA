@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "",
+  "llm_final": "Die Stadt Jülich hatte zum 31.12.2018 insgesamt 34.023 Einwohner (29.066 Deutsche + 4.957 Ausländer).  \nQuelle: Offene Daten KDVZ NRW (Einwohner gesamt Jülich 31.12.2018).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "no answer",
-    "rationale": "The LLM did not provide an answer. This indicates a potential timeout or failure to generate a response."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Das LLM nennt die richtige Antwort inkl. Quellenangabe."
   }
 }

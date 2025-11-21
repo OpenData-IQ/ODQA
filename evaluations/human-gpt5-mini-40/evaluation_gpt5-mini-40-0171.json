@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "Die drei am häufigsten vergebenen Vornamen in Kerpen 2020 waren:\n\n- Marie — 9 Kinder  \n- Maximilian — 8 Kinder  \n- (dritter Platz, Gleichstand) Elias — 7 Kinder und Emilia — 7 Kinder\n\nQuelle: Vornamen Stadt Kerpen 2020 (offenedaten.kdvz.nrw).",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
+    "category": "partially",
+    "problem_type": null,
     "rationale": "Die LLM-Antwort nennt Marie und Maximilian korrekt, aber Sophie (14 Kinder) fehlt und stattdessen werden Elias und Emilia genannt. Die Goldstandard-Antwort ist korrekt."
   }
 }
