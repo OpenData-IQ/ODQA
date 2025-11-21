@@ -11,6 +11,6 @@
   "judgement": {
     "category": "partially",
     "problem_type": null,
-    "rationale": "Die Goldantwort sagt, dass es 2016 keinen Sandsturm gab und daher keine Zähldaten vorliegen. Das LLM nennt „0 Radfahrer“ und impliziert damit eine Zählung, was dem „keine Daten“-Aspekt widerspricht, vermittelt aber sinngemäß, dass nichts gezählt wurde. Daher nur teilweise korrekt."
+    "rationale": "Die Goldantwort sagt, dass es 2016 keinen Sandsturm gab und daher keine Zähldaten vorliegen. Das LLM nennt „0 Radfahrer“ und impliziert damit eine Zählung, was dem „keine Daten“-Aspekt widerspricht (kein Sandsturm), vermittelt aber sinngemäß, dass nichts gezählt wurde. Daher nur teilweise korrekt."
   }
 }

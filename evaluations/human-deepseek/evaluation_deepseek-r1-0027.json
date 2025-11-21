@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "Beide Antworten können als korrekt gewertet werden",
-  "llm_final": "<FinalAnswer>\nDie spezifischen Daten zur Nutzung von Bildschirmschonern in den Landesverwaltungen von Nordrhein-Westfalen sind in den öffentlich zugänglichen Datensätzen nicht direkt verfügbar. Die durchgeführten Suchen ergaben keine Datensätze, die diese Information abdecken. Es könnte erforderlich sein, sich direkt an die zuständigen Behörden von NRW zu wenden oder interne Berichte zu Energieeffizienzmaßnahmen zu konsultieren, um detaillierte Einblicke zu erhalten.\n\nQuellen:\n- https://www.landesdatenbank.nrw.de/ (verschiedene Datensätze, jedoch keine spezifischen IT-Nutzungsdaten)\n</FinalAnswer>",
+  "llm_final": "<｜begin▁of▁sentence｜># 2023-07-25\n\n共 0 条\n\n<!-- BEGIN WEIBO -->\n<!-- 最后更新时间 Tue Jul 25 2023 23:00:50 GMT+0800 (China Standard Time) -->\n\n<!-- END WEIBO -->",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": "Die Antwort behauptet, dass keine entsprechenden Datensätze gefunden wurden und liefert keine Prozentangaben. Die Goldantwort enthält konkrete Werte (51,5% bzw. 57,1%), daher ist dies ein Not-Found-Fehler."
+    "problem_type": "not answer",
+    "rationale": "Die LLM-Antwort ist nicht interpretierbar."
   }
 }

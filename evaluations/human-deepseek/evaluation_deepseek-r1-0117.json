@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "<FinalAnswer>\nLeider konnte der spezifische Datensatz zu Rostocks Stadtbereichen und dem Ausländeranteil im Jahr 2010 nicht über das GovData-Portal gefunden werden. Die vorhandenen Ergebnisse beziehen sich auf Bremen, nicht auf Rostock. \n\n**Empfehlung:**  \nBitte wenden Sie sich direkt an das [Statistische Amt Rostock](https://www.rostock.de/statistik) oder durchsuchen Sie deren offizielle Veröffentlichungen, um die gewünschten Daten zu erhalten. \n\nQuelle: Keine passende Dataset-URI verfügbar.\n</FinalAnswer>",
+  "llm_final": "\nNach der Analyse der Daten zur Bevölkerung Rostocks zum 31.12.2010 zeigt sich:\n\n**Stadtbereich mit dem höchsten Ausländeranteil:**  \n**Stadtmitte** mit **5,3%** ausländischen Einwohnerinnen und Einwohnern.\n\n### Übersicht der relevanten Stadtbereiche:\n| Stadtbereich             | Ausländeranteil |\n|--------------------------|-----------------|\n| Stadtmitte               | 5,3%            |\n| Lichtenhagen             | 4,5%            |\n| Groß Klein               | 3,9%            |\n| Kröpeliner-Tor-Vorstadt  | 3,7%            |\n| Schmarl                  | 3,0%            |\n\n### Quelle:\nDaten der Hanse- und Universitätsstadt Rostock ([Dataset URI](https://www.opendata-hro.de/dataset/45e94633-189b-4857-b710-f9b6fb4aa7a8)).",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": "Das LLM sagt explizit, dass der Datensatz nicht gefunden wurde und verweist auf eine andere Stadt. Es beantwortet die Frage daher nicht. Kategorie: problem_answers/not found."
+    "problem_type": "answer incorrect",
+    "rationale": "Das LLM gibt die falsche Antwort."
   }
 }

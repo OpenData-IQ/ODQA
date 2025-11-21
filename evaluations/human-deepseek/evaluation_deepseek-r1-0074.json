@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "**FinalAnswer:**  \nAktuell liegen noch keine veröffentlichten Daten für den 01.01.2024 vor. Die neuesten verfügbaren Daten (2023) zeigen folgende Lastkraftwagen-Bestände in den neuen Bundesländern:  \n- **Brandenburg**: 56.200  \n- **Mecklenburg-Vorpommern**: 34.800  \n- **Sachsen**: 98.400  \n- **Sachsen-Anhalt**: 47.300  \n- **Thüringen**: 42.600  \n\n**Gesamtsumme (2023)**: 279.300 Lastkraftwagen  \n\nQuelle: [Kfz-Bestandsdaten der neuen Bundesländer](https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46251-110&regionalschluessel=&format=ffcsv)  \n\n*Hinweis: Die 2024-Daten werden typischerweise im Laufe des Jahres veröffentlicht.*",
+  "llm_final": "ERROR: {'message': 'ConnectionError: {\"object\":\"error\",\"message\":\"Requested input length 172770 exceeds maximum input length 40959\",\"type\":\"BadRequestError\",\"param\":null,\"code\":400}', 'code': 502, 'metadata': {'provider_name': 'DeepInfra'}}",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Antwort nennt nicht die geforderte Zahl für den 01.01.2024 und widerspricht dem Goldwert (716329). Stattdessen behauptet sie fälschlich fehlende Daten und liefert unpassende 2023-Zahlen."
+    "problem_type": "token limit",
+    "rationale": "Tokenlimit erreicht"
   }
 }

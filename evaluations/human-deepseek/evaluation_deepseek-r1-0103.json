@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "",
+  "llm_final": "  \n\n**Hinweis**: Die Berechnung basiert auf den Daten der offenen Datenplattform Frankfurt. Die Werte für 2017 zeigen den höchsten prozentualen Anteil an Fehlalarmen im Vergleich zu anderen Jahren im Datensatz.\nUm die prozentual meisten Fehlalarme bei Feuermeldungen in Frankfurt am Main zu ermitteln, wurden die Daten aus dem Datensatz \"Feuerwehr\" der offenen Datenplattform Frankfurt analysiert. Die relevanten Spalten sind:\n- `jahr`: Jahr\n- `feuermeldungen_nsgesamt`: Gesamtzahl der Feuermeldungen\n- `feuermeldungen_fehlalarme`: Anzahl der Fehlalarme\n\n### Berechnung:\nFür jedes Jahr wird der prozentuale Anteil der Fehlalarme berechnet:  \n**Fehlalarme (%) = (Feuermeldungen Fehlalarme / Feuermeldungen insgesamt) × 100**\n\n### Ergebnisse (Auszug):\n| Jahr | Fehlalarme | Gesamtalarme | Fehlalarme (%) |\n|------|------------|--------------|----------------|\n| 2017 | 5.166      | 6.746        | **76,58%**     |\n| 2020 | 4.933      | 6.472        | 76,22%         |\n| 2016 | 4.660      | 6.130        | 76,02%         |\n\n### Ergebnis:\nDer **höchste prozentuale Anteil an Fehlalarmen** trat im Jahr **2017** auf:  \n**76,58%** (5.166 Fehlalarme von 6.746 Feuermeldungen).\n\n### Quelle:\n- Dataset: [Feuerwehr Frankfurt am Main](https://offenedaten.frankfurt.de/dcat/dataset/de-he-frankfurtam-feuerwehr)  \n- Datenstand: 2011–2020 (vollständiger Zeitraum im Datensatz).",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "no answer",
-    "rationale": "Es liegt keine LLM-Antwort vor (llm_final ist leer). Daher kann der Inhalt nicht bewertet werden."
+    "problem_type": "answer incorrect",
+    "rationale": "Das LLM beantwortet die Frage falsch."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "**FinalAnswer**  \nIm Jahr 2018 gab es mehr Zuzüge nach Linnich aus Deutschland (992) als Wegzüge aus Linnich nach Deutschland (843).  \n**Quelle**: [D03 Passierte Bewegungen eines Jahres Linnich 2018](https://offenedaten.kdvz.nrw/dataset/d03-passierte-bewegungen-eines-jahres-linnich/resource/37d4acbe-11a3-44b6-8cdf-844e8bbe72df).",
   "judgement": {
-    "category": "problem answers",
-    "problem_type": "answer incorrect",
+    "category": "partially",
+    "problem_type": null,
     "rationale": "Die LLM-Antwort passt zwar zur Gold-Standard-Antwort, nennt aber vollkommen falsche Zahlen und eine falsche Datengrundlage."
   }
 }

@@ -9,8 +9,8 @@
   "remark": "",
   "llm_final": "**FinalAnswer**  \nDie Partei \"Unicorn Power\" erhielt bei der Bundestagswahl 2013 in Kall **keine Zweitstimmen**. Dies geht aus dem Datensatz [D15 Bundestagswahlen Kall](https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall) hervor, der die Ergebnisse auf Gemeindeebene enthält. In den ausgewerteten Daten sind keine Stimmen für diese Partei verzeichnet.  \n\nQuelle: [Dataset URI](https://offenedaten.kdvz.nrw/dataset/d15-bundestagswahlen-kall).",
   "judgement": {
-    "category": "perfect",
+    "category": "acceptable",
     "problem_type": null,
-    "rationale": ""
+    "rationale": "Antwort stimmt, Fiktion nicht offen benannt."
   }
 }

@@ -7,10 +7,10 @@
   "question_type": "simple with restriction",
   "source": "2",
   "remark": "nicht standardmäßige struktur der csv datei, nur Trennstriche",
-  "llm_final": "<FinalAnswer>\nFür den Beruf \"Kanalbauer/-in\" sind in den Jahren 2022 und 2023 keine Ausbildungsverträge in den verfügbaren Daten des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) verzeichnet. Dies könnte darauf hinweisen, dass entweder keine Daten vorliegen oder der Beruf unter einem anderen Namen kategorisiert ist. Quelle: http://daten.bmwk.de/3ee2f700-5322-33e5-ae1b-ef8cfa608722\n</FinalAnswer>",
+  "llm_final": " (BMWK-Datenbank)\nUm den Durchschnitt der neu abgeschlossenen Ausbildungsverträge für den Beruf **Kanalbauer/-in** in den Jahren 2022 und 2023 zu berechnen, wurden die Daten aus der offiziellen BMWK-Datenbank analysiert. Hier sind die Ergebnisse:\n\n### Daten für Kanalbauer/-in:\n- **2022**: 15 neue Ausbildungsverträge  \n- **2023**: 20 neue Ausbildungsverträge  \n\n### Berechnung des Durchschnitts:\n\\[\n\\text{Durchschnitt} = \\frac{\\text{Verträge 2022} + \\text{Verträge 2023}}{2} = \\frac{15 + 20}{2} = \\frac{35}{2} = 17{,}5\n\\]\n\n### Ergebnis:\nDer durchschnittliche Wert der neu abgeschlossenen Ausbildungsverträge für Kanalbauer/-in in den Jahren 2022 und 2023 beträgt **17,5 pro Jahr**.\n\n---\n\n**Quelle:**  \nBundesministerium für Wirtschaft und Klimaschutz (BMWK), [Neuordnung und Modernisierung von Ausbildungsordnungen](http://daten.bmwk.de/3ee2f700-5322-33e5-ae1b-ef8cfa608722).  \n*Hinweis: Die Daten beziehen sich auf bundesweite Ausbildungszahlen.*",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "not found",
-    "rationale": ""
+    "problem_type": "incorrect answer",
+    "rationale": "Die Antwort stimmt nicht mit der Goldstandard-Antwort überein."
   }
 }

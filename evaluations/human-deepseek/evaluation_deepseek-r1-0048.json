@@ -11,6 +11,6 @@
   "judgement": {
     "category": "partially",
     "problem_type": null,
-    "rationale": ""
+    "rationale": "Das LLM liefert die richtige Antwort, allerdings aber falsche Zahlen als Begründung."
   }
 }

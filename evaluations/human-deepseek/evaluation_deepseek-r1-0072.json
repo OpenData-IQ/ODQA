@@ -9,8 +9,8 @@
   "remark": "2019 gab es ca. 27.000 männliche und 26.000 weibliche minderjährige Kinder in Neuköllner Familien",
   "llm_final": "**FinalAnswer:**  \nIn Berlin-Neukölln gab es im Jahr 2019 mehr männliche minderjährige Kinder (2.202) als weibliche (1.999) in Familien.  \nQuelle: [Liste der häufigen Vornamen in Berlin 2019](https://datenregister.berlin.de/dataset/b4047dff-11b8-485c-9fbb-271c587676bd)",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "answer incorrect",
+    "category": "partially",
+    "problem_type": null,
     "rationale": "Zwar geht die Antwort in die Richtung, allerdings wird eine vollkommen falsche Datengrundlage (Vornamensstatistik Gesamtberlin) zugrunde gelegt und die Zahlen stimmen nicht."
   }
 }

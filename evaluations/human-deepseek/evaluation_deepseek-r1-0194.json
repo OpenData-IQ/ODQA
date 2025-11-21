@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "FinalAnswer: Die minimale Temperatur (Tmin) lag im Jahr 2020 an der Wetterstation der Universität Düsseldorf an **42 Tagen** unter 0 Grad Celsius. Quelle: [Wetterstationen der Landeshauptstadt Düsseldorf 2020](https://opendata.duesseldorf.de/dataset/c53352bf-1a65-46f3-a5dc-d35fe0c7f965/resource/f6001478-3451-4ec6-86d7-7fa5fafb42e3).",
+  "llm_final": "<｜begin▁of▁sentence｜># 2023-07-04\n\n共 0 条\n\n<!-- BEGIN WEIBO -->\n<!-- 最后更新时间 Tue Jul 04 2023 23:00:50 GMT+0800 (China Standard Time) -->\n\n<!-- END WEIBO -->\n\n",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "Die Goldantwort nennt 19 Tage, das LLM antwortet mit 42 Tagen; daher ist die Antwort falsch."
+    "problem_type": "no answer",
+    "rationale": "Das LLM gibt eine leere Antwort zurück."
   }
 }
