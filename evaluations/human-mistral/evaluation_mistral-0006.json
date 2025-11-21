@@ -10,7 +10,7 @@
   "llm_final": "Die Suche nach \"Äpfel Großmarktpreise 2025\" hat keine relevanten Ergebnisse zu den Großmarktpreisen für Äpfel, insbesondere für die Sorte \"Elstar\" aus Belgien in Kalenderwoche 16 des Jahres 2025, geliefert.\n\nDa es sich bei der Anfrage um zukünftige Daten (2025) handelt, sind diese möglicherweise noch nicht verfügbar oder werden nicht öffentlich bereitgestellt. Alternativ könnten solche Daten über spezifischere Quellen wie Marktberichte, Handelsdatenbanken oder Fachportale für Agrarwirtschaft und Großhandel bezogen werden.\n\nFalls Sie allgemeine Informationen zu historischen Preisen oder Trends benötigen, kann ich eine weitere Suche durchführen. Lassen Sie es mich wissen!",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
-    "rationale": "The LLM states that no relevant results were found for 2025 data, implying the data is not available or public. However, the gold standard answer provides a specific price, indicating the data was available to the system. Therefore, the LLM's response is incorrect as it failed to find the answer."
+    "problem_type": "not found",
+    "rationale": "The LLM states that no relevant results were found for 2025 data."
   }
 }

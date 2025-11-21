@@ -7,10 +7,10 @@
   "question_type": "comparison",
   "source": "2",
   "remark": "2014: 650.000€, 2024: 813.000€",
-  "llm_final": "Die Stadt Oldenburg hatte im Jahr 2024 mit **813.000 Euro** deutlich höhere Einnahmen aus der Hundesteuer als im Jahr 2014, wo die Einnahmen bei **650.000 Euro** lagen.\n\nQuelle: [Hundesteuer - Open Data Oldenburg](https://opendata.oldenburg.de/dataset/hundesteuer)",
+  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort ist korrekt, vollständig und liefert die genauen Zahlen sowie eine relevante Quelle. Sie beantwortet die Frage präzise und umfassend."
+    "category": "problem_answers",
+    "problem_type":"token limit",
+    "rationale": "Die Antwort sagt, dass das Tokenlimit erreicht ist."
   }
 }

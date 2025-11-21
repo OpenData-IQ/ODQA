@@ -7,10 +7,10 @@
   "question_type": "aggregation",
   "source": "2",
   "remark": "",
-  "llm_final": "Im Jahr 2021 gab es in Aachen insgesamt **67.949 Geschwindigkeitsüberschreitungen**.\n\nAm **31.07.2021** wurde mit **647 Geschwindigkeitsüberschreitungen** der höchste Tageswert gemessen.\n\nQuelle: [Bußgelder fließender Verkehr 2021 der Stadt Aachen](https://ckan.open.nrw.de/dataset/ce368bd3-d558-4013-a993-fd9283782ecc)",
+  "llm_final": "Im Jahr 2021 gab es in Aachen **20.353 Geschwindigkeitsüberschreitungen** im fließenden Verkehr.\n\nQuelle: [Bußgelder fließender Verkehr 2021 der Stadt Aachen](https://ckan.open.nrw.de/dataset/d92d193a-4779-405c-87a7-b47a556c8b69)",
   "judgement": {
-    "category": "perfect",
-    "problem_type": null,
-    "rationale": "Die Antwort des LLM ist korrekt, vollständig und enthält die genaue Zahl der Geschwindigkeitsüberschreitungen sowie eine relevante zusätzliche Information und die Quelle. Sie ist umfassend und präzise."
+    "category": "problem_answers",
+    "problem_type": "answer incorrect",
+    "rationale": "Die Antwort des LLM ist nicht korrekt und enthält die falsche Anzahl."
   }
 }

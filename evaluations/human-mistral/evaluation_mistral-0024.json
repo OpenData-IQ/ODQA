@@ -7,10 +7,10 @@
   "question_type": "post processing heavy",
   "source": "2",
   "remark": "",
-  "llm_final": "ERROR: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "llm_final": "Die meisten Fußgänger und Radfahrer an der **Konrad-Adenauer-Brücke (Süd) in Mannheim** wurden am **15. Oktober 2018 um 15:00 Uhr** gezählt. Die Gesamtzahl betrug **320**.\n\nQuelle: [Konrad-Adenauer-Brücke (Süd) - Eco Counter Verkehrszähler](https://mannheim.opendatasoft.com/api/v2/catalog/datasets/konrad_adenau_bruecke_sued-gesamt-eco-counter-daten)",
   "judgement": {
-    "category": "problem_answers",
-    "problem_type": "recursion limit",
-    "rationale": "Der LLM-Output zeigt explizit, dass das Rekursionslimit erreicht wurde. Daher konnte keine vollständige Antwort generiert werden."
+    "category": "perfect",
+    "problem_type": null,
+    "rationale": "Die LLM-Antwort enthält die richtige Angabe inkl. Quelle."
   }
 }

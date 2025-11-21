@@ -7,10 +7,10 @@
   "question_type": "simple with restriction",
   "source": "2",
   "remark": "Für Umweltthermie (Luft/Wasser) sind 54.584 Wohnungen vermerkt, gefolgt von Gas mit 19.444 Wohnungen",
-  "llm_final": "ERROR: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"object\":\"error\",\"message\":\"Function name was {\\\\\"frame_id\\\\\": \\\\\"4bc214d2\\\\\", \\\\\"conditions\\\\\": [{\\\\\"col\\\\\": \\\\\"col\\\\\", \\\\\"op\\\\\": \\\\\"==\\\\\", \\\\\"value\\\\\": \\\\\"Wohngebüude\\\\\"}]} but must be a-z, A-Z, 0-9, or contain underscores and dashes, with a maximum length of 256.\",\"type\":\"invalid_function_call\",\"param\":null,\"code\":\"3280\"}', 'provider_name': 'Mistral'}}, 'user_id': 'user_31atoN5eCV7NYK5hCJaZj3dgqy2'}",
+  "llm_final": "Die beliebteste Heizenergie bei neuen Wohngebäuden in Deutschland im Jahr 2023 war **Solarthermie** mit 841 genehmigten Wohnungen.\n\nQuelle: [Genehmigungen zur Errichtung neuer Wohngebäude und Nichtwohngebäude sowie Wohnungen in Wohngebäuden nach Zahl der Wohnungen und primär verwendeter Heizenergie](https://www.regionalstatistik.de/genesisws/downloader/00/tables/31111-06-01-4_00.csv#dataset)",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "no answer",
-    "rationale": "The LLM returned an error message indicating an invalid function call, not an actual answer. This suggests it failed to process the request and provide a response."
+    "problem_type": "incorrect answer",
+    "rationale": "The LLM returned an incorrect answer."
   }
 }

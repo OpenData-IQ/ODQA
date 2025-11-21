@@ -10,7 +10,7 @@
   "llm_final": "Leider konnte ich die Daten nicht direkt herunterladen. Um die Frage zu beantworten, können Sie die Daten manuell über den folgenden Link abrufen und nach dem Attribut **\"wheelchair\"** filtern, das den Wert **\"yes\"** enthält. Dies gibt an, ob eine Poststation uneingeschränkt mit dem Rollstuhl erreichbar ist.\n\n**Dataset URI:** [Poststationen in der Metropolregion Rhein-Neckar](https://daten.digitale-mrn.de/dataset/a1883a60-168a-4e95-a76a-14489decf825#dataset)\n\n**Download-Link:** [Poststationen (CSV)](https://digitale-mrn.de/dataset/a1883a60-168a-4e95-a76a-14489decf825/resource/d2feb614-f47e-418b-97ff-f90b4e3443e7#distribution)\n\nBitte laden Sie die Daten herunter und filtern Sie nach dem Attribut **wheelchair=yes**, um die genaue Anzahl der uneingeschränkt rollstuhlgerechten Poststationen zu ermitteln.",
   "judgement": {
     "category": "problem_answers",
-    "problem_type": "answer incorrect",
+    "problem_type": "not found",
     "rationale": "The LLM references a dataset that cannot be reached refers to problems with dataset download."
   }
 }
