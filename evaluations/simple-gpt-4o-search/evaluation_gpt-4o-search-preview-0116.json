@@ -10,7 +10,7 @@
   "llm_final": "Die Tummelferien sind ein jährliches Ferienprogramm für Kinder und Jugendliche in Halle (Saale). Leider liegen keine spezifischen Teilnehmerzahlen für das Jahr 2011 vor. Allerdings gibt es Daten zu ähnlichen Veranstaltungen in der Region. Beispielsweise nahmen im Jahr 2011 insgesamt 1.271 Schülerinnen und Schüler am Lesesommer XXL in Sachsen-Anhalt teil. ([lvwa.sachsen-anhalt.de](https://lvwa.sachsen-anhalt.de/aktuelles/pressemitteilungen/pressemitteilungen?cHash=86bac2b214d2157095403b4a3eb964cd&tx_tsarssinclude_pi1%5Baction%5D=single&tx_tsarssinclude_pi1%5Bcontroller%5D=Base&tx_tsarssinclude_pi1%5Buid%5D=80813&utm_source=openai)) Diese Zahl kann als grober Anhaltspunkt dienen, jedoch ist sie nicht direkt auf die Tummelferien übertragbar. \n\n### Quellen\n- **[1]** Pressemitteilungen (lvwa.sachsen-anhalt.de) – https://lvwa.sachsen-anhalt.de/aktuelles/pressemitteilungen/pressemitteilungen?cHash=86bac2b214d2157095403b4a3eb964cd&tx_tsarssinclude_pi1%5Baction%5D=single&tx_tsarssinclude_pi1%5Bcontroller%5D=Base&tx_tsarssinclude_pi1%5Buid%3D80813&utm_source=openai",
   "judgement": {
     "category": "problem answers",
-    "problem_type": "incorrect answer",
+    "problem_type": "answer incorrect",
     "rationale": "The LLM's answer incorrectly states that the 'Tummelferien' are in Halle (Saale), which contradicts the gold standard answer. It also provides irrelevant information about a different event. The LLM fails to address the false premise in the question."
   }
 }
