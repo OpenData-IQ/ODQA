@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort liefert keine konkrete Zahl, obwohl die Goldantwort (12462) eindeutig ist. Die Antwort ist daher sachlich falsch und nicht ausreichend."
+    "rationale": "Die LLM-Antwort liefert keine konkrete Zahl und behauptet, die betreffenden Daten wären nicht öffentlich verfügbar."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort ist umfassend, nennt aber nicht die korrekte Zahl."
+    "rationale": "Das LLM behauptet, es würde keine Stellplätze direkt an der Jugendherberge geben. Dies stimmt aber nicht."
   }
 }

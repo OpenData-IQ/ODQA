@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort erklärt, dass die genaue Zahl in den verfügbaren Quellen nicht gefunden wurde und verweist auf fehlende Daten. Dies entspricht der Kategorie 'not found'."
+    "rationale": "Die LLM-Antwort erklärt, dass die genaue Zahl in den Suchergebnissen nicht gefunden wurde und verweist auf fehlende Daten. Dies entspricht der Kategorie 'not found'."
   }
 }

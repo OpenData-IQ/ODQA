@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Das LLM gibt an, dass die exakten Zahlen für die Altersgruppe und Geschlechterverteilung in den verfügbaren Daten nicht gefunden wurden. Es verweist auf fehlende Daten und empfiehlt eine Anfrage bei offiziellen Stellen."
+    "rationale": "Das LLM gibt an, dass die exakten Zahlen für die Altersgruppe und Geschlechterverteilung in den verfügbaren Daten nicht gefunden wurden."
   }
 }

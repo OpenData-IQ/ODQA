@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zur Größe des Bergbaufelds \"Prinzessin Victoria\" gefunden wurden. Die Antwort verweist auf andere Felder und erklärt das Fehlen der gesuchten Daten klar."
+    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zur Größe des Bergbaufelds \"Prinzessin Victoria\" gefunden wurden."
   }
 }

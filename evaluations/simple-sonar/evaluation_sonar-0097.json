@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort erklärt die allgemeine Praxis und verweist auf fehlende Informationen, nennt aber nicht die im Goldstandard genannten Veranstalter."
+    "rationale": "Die LLM-Antwort erklärt die allgemeine Praxis und gibt fälschlicherweise an, dass keine öffentlichen Daten zur Ausstattung vorliegen."
   }
 }

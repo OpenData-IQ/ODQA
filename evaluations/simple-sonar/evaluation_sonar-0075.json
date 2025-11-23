@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort erklärt, dass keine spezifischen Daten zu den gesuchten Fachabteilungen vorliegen und verweist auf fehlende Detailinformationen in den verfügbaren Quellen. Damit ist die Antwort korrekt als 'not found' einzuordnen."
+    "rationale": "Die LLM-Antwort erklärt, dass keine spezifischen Daten zu den gesuchten Fachabteilungen vorliegen."
   }
 }

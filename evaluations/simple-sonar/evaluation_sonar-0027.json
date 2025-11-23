@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort gibt explizit an, dass keine spezifischen Daten oder Statistiken zur Nutzung von Bildschirmschonern in den Landesverwaltungen von NRW vorliegen. Damit fällt sie unter 'not found'."
+    "rationale": "Die LLM-Antwort gibt explizit an, dass keine spezifischen Daten oder Statistiken zur Nutzung von Bildschirmschonern in den Landesverwaltungen von NRW vorliegen."
   }
 }

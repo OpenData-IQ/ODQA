@@ -11,6 +11,6 @@
   "judgement": {
     "category": "partially",
     "problem_type": null,
-    "rationale": "Die LLM-Antwort ist korrekt und liefert eine nachvollziehbare Schätzung. Allerdings sollte hier eine genaue Angabe gemacht werden."
+    "rationale": "Die LLM-Antwort liefert eine einigermaßen nachvollziehbare Schätzung. Allerdings sollte hier eine genaue Angabe gemacht werden."
   }
 }

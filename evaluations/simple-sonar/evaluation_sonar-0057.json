@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort gibt an, dass keine Informationen zum Nachweis von Neptunium in Rapsschrot 2014 vorliegen. Es gibt aber einen Datensatz, in dem Neptunium ausgewiesen ist."
+    "rationale": "Die LLM-Antwort gibt an, dass in den Suchergebnissen keine Informationen zum Nachweis von Neptunium in Rapsschrot 2014 vorliegen."
   }
 }

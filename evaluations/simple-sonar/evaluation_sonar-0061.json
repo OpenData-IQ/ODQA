@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort gibt an, dass die genauen Kurstage in den verfügbaren Quellen nicht explizit genannt sind. Die Goldantwort enthält jedoch konkrete Termine, die vom LLM nicht geliefert werden. Daher wurde die Information nicht gefunden."
+    "rationale": "Die LLM-Antwort gibt an, dass die genauen Kurstage weder im Programmheft noch in der anderen gefundenen Quelle (mit expliziter Referenz auf die Quelle) gelistet sind."
   }
 }

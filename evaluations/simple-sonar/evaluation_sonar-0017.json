@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort liefert keine direkte oder zentrale Quelle wie im Goldstandard-Link, sondern verweist auf allgemeine Hinweise und empfiehlt Kontaktaufnahme."
+    "rationale": "Das LLM behauptet, die Kindergärten mit Friesisch-Unterricht wären öffentlich nicht verfügbar. Dies stimmt aber nicht."
   }
 }

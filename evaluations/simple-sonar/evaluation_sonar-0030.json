@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort erklärt korrekt, dass keine Angabe zu Kehrmetern für den Anne-Frank-Weg in Rostock gefunden wurde. Die Antwort ist ausführlich und verweist auf fehlende Daten, daher Kategorie 'not found'."
+    "rationale": "Die LLM-Antwort erklärt, dass keine Angabe zu Kehrmetern für den Anne-Frank-Weg in Rostock gefunden wurde."
   }
 }

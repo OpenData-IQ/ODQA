@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "answer incorrect",
-    "rationale": "Die LLM-Antwort erklärt, dass keine detaillierten Daten auf Kreisebene für 2017 verfügbar sind, während die Goldantwort eine konkrete Liste von Kreisen und Städten liefert. Die LLM-Antwort signalisiert somit, dass die gewünschten Datensätze nicht gefunden wurden."
+    "rationale": "Die LLM-Antwort erklärt, dass keine detaillierten Daten auf Kreisebene für 2017 verfügbar sind, während die Goldantwort eine konkrete Liste von Kreisen und Städten liefert."
   }
 }

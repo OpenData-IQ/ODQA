@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "no answer",
-    "rationale": ""
+    "rationale": "Das LLM bleibt die Antwort schuldig, verweist aber auf die öffentlich verfügbaren Datensätze auf dem Open-Data-Portal."
   }
 }

@@ -11,6 +11,6 @@
   "judgement": {
     "category": "problem_answers",
     "problem_type": "not found",
-    "rationale": "Die LLM-Antwort erklärt klar, dass die angefragten Daten nicht verfügbar sind und verweist auf fehlende spezifische Zahlen. Die Antwort ist korrekt, aber die Daten sind nicht auffindbar."
+    "rationale": "Das LLM sagt, dass die Daten in den Suchergebnissen nicht gefunden werden können."
   }
 }
