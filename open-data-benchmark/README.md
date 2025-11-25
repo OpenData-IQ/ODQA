@@ -10,7 +10,7 @@ ___
 
 Das ODQA Open Data Benchmark stellt ein Fragenset aus **202 Fragen** bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
 
-Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
+Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] und bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
 
 [^1]: Yang, Xiao, et al. „CRAG - Comprehensive RAG Benchmark“. arXiv:2406.04744v1 (2024).
 
