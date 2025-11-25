@@ -8,9 +8,9 @@ ___
 
 ## 🧭 Übersicht
 
-Das ODQA Open Data Benchmark stellt ein Fragenset bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
+Das ODQA Open Data Benchmark stellt ein Fragenset aus **202 Fragen** bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
 
-Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
+Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] und bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
 
 [^1]: Yang, Xiao, et al. „CRAG - Comprehensive RAG Benchmark“. arXiv:2406.04744v1 (2024).
 
@@ -102,13 +102,18 @@ ___
 
 ## 📝 Fragenerstellung
 
-*govdata.de*
+Die Fragenerstellung fand in zwei Etappen statt. In beiden Etappen wurden die Daten und Metadaten zeitgleich heruntergeladen, sowie die Felder der CSV-Datei `benchmarks.csv` bzw. `cleaned_questions_dataset.csv` ausgefüllt.
+1. Zunächst wurden geeignete Daten auf *govdata.de* gesucht. Bedingungen dafür waren die Vollständigkeit der Dateien, das Format in CSV oder XML, und auch die Breite an Themen und Datenbereitstellern. 
+Um das Finden solcher passenden Daten zu erleichtern, kann das `/govdata-sparql/`-Skript auf der Seite von *govdata.de* verwendet werden.
+Je nach Art der Daten wurde dann ein Fragentyp ausgewählt und eine passende und realistische Frage formuliert, deren Antwort eindeutig in den zugeordneten Dateien und/oder Metadaten zu finden ist.
 
-`/govdata-sparql/`
+   Daraus sind 121 Fragen entstanden.
+2. Im nächsten Schritt sind mit Hilfe des `generate_questions.ipynb`-Skriptes weitere Fragen generiert worden. Das Python-Skript orientiert sich an den bereits formulierten Fragen, kann je nach Fragetyp manuell verstellt werden und lässt auch eine Anpassung des Prompts zu. Eine manuelle Prüfung der Richtigkeit war trotzdem notwendig; so auch das Sicherstellen, ob die Metadaten wirklich im RDF-Format vorliegen.
 
-`generate_questions.ipynb`
+   Daraus sind 83 Fragen entstanden.
 
 ___
+
 
 ## 🚀 Usage
 
