@@ -128,7 +128,7 @@ class FrameInfo:
     source_hint: Optional[str] = None  # e.g., "sales_2024.csv" or "upload#123"
     steps: List[str] = None
 
-class FrameHub:
+class TableRegister:
     """
     Manage multiple Polars DataFrames in memory (keyed by frame_id).
     All transforms return a NEW frame_id.

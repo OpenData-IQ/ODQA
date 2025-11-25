@@ -47,7 +47,7 @@ Recent advances in **LLMs and agentic methods** offer a chance to integrate data
 
 ## 📊 Benchmark Overview
 
-- **Questions**: 202 (covering diverse domains and difficulty levels)  
+- **Questions**: 200 (covering diverse domains and difficulty levels)  
 - **DCAT Themes**: 13 (EU vocabulary authority files)  
 - **Task Types**: Dataset search, question answering  
 - **Question Types**: 8 (aggregation, comparison, multi-hop, set, false premise, post-processing heavy, simple, simple with restriction)  
@@ -83,31 +83,6 @@ The agent is implemented in Python with [`python-langgraph`](https://www.langcha
 
 ---
 
-## 📈 Evaluation Highlights
-
-We benchmarked multiple LLMs in an agentic setup (Claude 3.7, GPT-5, GPT-5 Mini, Gemini 2.5 Flash, Deepseek R1, Mistral Medium 3.1) and compared them with **state-of-the-art RAG systems** (Perplexity Sonar, GPT-4o Search).
-
-**Key findings:**
-- GPT models currently achieve the strongest performance  
-- GPT-5 Mini (40 recursion depth) provides the best balance of cost and performance  
-- **Mistral (open-source)** is promising for further research due to **cost-effectiveness and transparency**  
-- RAG systems, despite producing answers consistently, often fail to retrieve the correct datasets, signaling risks for stakeholders  
-
-### Results Table
-
-| Model             | Search Setup | CR    | SR    | CA    |
-|-------------------|--------------|-------|-------|-------|
-| Claude 3.7        | LLM Agent    | 0.550 | 0.426 | 0.775 |
-| Deepseek R1       | LLM Agent    | 0.787 | 0.243 | 0.308 |
-| Gemini 2.5 Flash  | LLM Agent    | 0.836 | 0.368 | 0.440 |
-| GPT-5             | LLM Agent    | 0.574 | 0.535 | **0.931** |
-| GPT-5 Mini        | LLM Agent    | 0.629 | 0.515 | 0.819 |
-| GPT-5 Mini (40)   | LLM Agent    | 0.767 | **0.624** | 0.813 |
-| Mistral Medium 3.1| LLM Agent    | 0.639 | 0.347 | 0.543 |
-| GPT-4o Search     | SOTA RAG     | 0.960 | 0.233 | 0.242 |
-| Perplexity Sonar  | SOTA RAG     | 0.995 | 0.257 | 0.259 |
-
-*Metrics: CR = Completion Rate, SR = Success Rate, CA = Conditional Accuracy.*
 
 
 

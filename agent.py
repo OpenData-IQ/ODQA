@@ -10,15 +10,15 @@ import os
 import openai
 from download_tool import DownloadTool
 from eval import run_agent
-from framehub import FrameHub
-from framehub_tools import build_tools
+from table_register import TableRegister
+from table_tools import build_tools
 from search_tool import SearchTool
 from dotenv import load_dotenv
 
 # load API-KEY
 load_dotenv()
 search_tool = SearchTool()
-frame_hub = FrameHub()
+frame_hub = TableRegister()
 download_tool = DownloadTool(frame_hub)
 #model_str = 'google/gemini-2.5-flash'
 #model_str = 'mistralai/mistral-medium-3.1'
@@ -92,12 +92,8 @@ builder.add_edge("summarize", END)
 memory = MemorySaver()
 graph = builder.compile(checkpointer=memory)
 
-#ids = [24, 25, 34, 35, 41, 44, 58, 70, 71, 74, 77, 80, 85]
-#ids = [5, 24, 25, 34, 35, 41, 44, 58, 70, 71, 74, 77, 80, 85,86,102,103,104,105,106,117,122,123,124,125,146,155,157,158,187,189,191,194,195,196,202]
-#ids = [102,103,104,104,105,106,117,122,123,124,125,146,155,157,158,187,189,191,194,195,196,202]
-#ids=[195,196,202]
-ids=[85]
-#ids = [69,133,154,159,162,163,164,167,182,184,186,188,199,200]
+
+ids = [5, 24, 25, 34, 35, 41, 44, 58, 70, 71, 74, 77, 80, 85,86,102,103,104,105,106,117,122,123,124,125,146,155,157,158,187,189,191,194,195,196,202]
 for id in ids:
     run_agent(model_str, builder,
                   "open-data-benchmark/de-questions.csv",

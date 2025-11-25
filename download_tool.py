@@ -7,7 +7,7 @@ from langchain_core.tools import BaseTool
 from pydantic import BaseModel, Field, PrivateAttr, Extra
 import pandas as pd
 import chardet
-from framehub import FrameHub
+from table_register import TableRegister
 
 
 class DownloadToolInput(BaseModel):
@@ -33,7 +33,7 @@ class DownloadTool(BaseTool):
     class Config:
         extra = Extra.allow
 
-    def __init__(self, frame_hub: FrameHub, **data):
+    def __init__(self, frame_hub: TableRegister, **data):
         super().__init__(**data)
         self._frame_hub = frame_hub
 
