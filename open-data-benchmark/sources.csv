@@ -57,7 +57,7 @@ quell_id,frage_id,dateiname,metadaten,dataset,format
 55-1,55,opendata_kfz.csv,bankverbindungen-fur-die-kfz-steuer,https://ckan.govdata.de/dataset/efd8fb03-20d6-463d-ab6c-407543322bde,csv
 56-1,56,Anschriftenverzeichnis-CSV.csv,anschriftenverzeichnis-des-bundes,https://ckan.govdata.de/dataset/2c265e8b-e311-4ac2-a7f1-42400cf1116e,csv
 57-1,57,Rapsschrot.csv,messergebnisse-zur-radioaktivitat-in-rapsschrot-07-10-2014,http://suche.transparenz.hamburg.de/dataset/00134b41-f9e7-4ba6-b684-11fcd3aaa35f,csv
-58-1,58,Anzahl der Privathaushalte in den Stadtteilen ab 2007_2.csv,privathaushalte-essen,https://opendata.essen.de/dataset/privathaushalte-essen,csv
+58-1,58,Anzahl-der-Privathaushalte-in-den-Stadtteilen-ab-2007_2.csv,privathaushalte-essen,https://opendata.essen.de/dataset/privathaushalte-essen,csv
 59-1,59,detail.php.xml,gesetze-und-rechtsverordnungen-bremen-2012,https://www.transparenz.bremen.de/de/datensatz/bremen2014_tp.c.54801.de,xml
 60-1,60,detail.php-2.xml,amter-im-land-bremen,https://www.transparenz.bremen.de/de/datensatz/bremen236.c.8106.de,xml
 61-1,61,Kurse.xml,kurse-der-berliner-volkshochschulen,https://datenregister.berlin.de/dataset/f90b3f13-b3bf-4420-88d0-c6397efc62b9,xml

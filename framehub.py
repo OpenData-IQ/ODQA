@@ -9,6 +9,8 @@ import polars as pl
 
 COMMON_NULLS = {"", "na", "n/a", "null", "none", "-", "--", "nan"}
 
+
+# returns the CSV dialect, defines a default dialect in case sniffing fails
 def _detect_dialect(sample: str) -> csv.Dialect:
     try:
         return csv.Sniffer().sniff(sample, delimiters=[",",";","|","\t"])
@@ -18,16 +20,23 @@ def _detect_dialect(sample: str) -> csv.Dialect:
             skipinitialspace=True; lineterminator="\n"; quoting=csv.QUOTE_MINIMAL
         return Simple()
 
+
+# header normalization (lowercase names, spaces, underscores), empty headers are modified to columns,
+# duplicate header names get suffix (e.g., _2, etc.)
 def _normalize_header(header: List[str]) -> List[str]:
     out, seen = [], set()
     for h in header:
+        # cleaned column name
         n = re.sub(r"[^0-9a-zA-Z_ ]","", (h or "").strip()).lower().replace(" ","_") or "col"
         base, k = n, 1
+        # in case duplicate names are there
         while n in seen:
             k += 1; n = f"{base}_{k}"
         seen.add(n); out.append(n)
     return out
 
+
+# normalize the csv string
 def clean_csv_text_to_polars(text: str, extra_nulls: Optional[List[str]] = None) -> pl.DataFrame:
     """
     Trim non-tabular lines at top/bottom, normalize headers, collapse common null tokens.
@@ -96,13 +105,17 @@ def clean_csv_text_to_polars(text: str, extra_nulls: Optional[List[str]] = None)
     writer.writerows(cleaned_rows)
     buf.seek(0)
 
+    # Type inference happens here, note that this does not work properly
+    # for tables with subcategories as these subcategories are used for type inference (mostly strings)
+    # when type inference would be applied by inferring from the majority of values in columns, this would lose subcats
+    # which is again a problem when querying
     df = pl.read_csv(
         buf,
         separator=getattr(dialect, "delimiter", ","),
         quote_char=getattr(dialect, "quotechar", '"'),
         try_parse_dates=True,
-        infer_schema_length=10000,  # 🟢 ADDED — deeper type inference
-        null_values=[""],  # 🟢 ADDED — empty field → Null
+        infer_schema_length=10000,
+        null_values=[""],
     )
 
     return df
@@ -118,7 +131,7 @@ class FrameInfo:
 class FrameHub:
     """
     Manage multiple Polars DataFrames in memory (keyed by frame_id).
-    All transforms are *functional*: they return a NEW frame_id.
+    All transforms return a NEW frame_id.
     """
     def __init__(self):
         self.frames: Dict[str, pl.DataFrame] = {}

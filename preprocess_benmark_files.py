@@ -27,7 +27,7 @@ with open("sparql/topic.sparql", "r", encoding="utf-8") as t:
 
 topic_counts = Counter()
 task_counts = Counter()
-excluded = [16, 54]
+excluded = [16, 54, 90, 77]
 for row in df.itertuples(index=True, name="Row"):
     frage_id = row.Index + 1
     print(row.Index)
@@ -92,7 +92,7 @@ for row in df.itertuples(index=True, name="Row"):
                 questions_df.at[row.Index, "bemerkungen"] = row.datenquelle_schwierigkeit
         if frage_id not in excluded:
             topics = g.query(topic_query)
-            for topic in topics:  # your loop over g.query(topic_query)
+            for topic in topics:  # loop over g.query(topic_query)
                 topic_str = topic[0]  # take the first element of the tuple
                 topic_counts[topic_str] += 1
 
@@ -100,7 +100,7 @@ for topic, freq in topic_counts.items():
     print(topic, freq)
 for task, task_freq in task_counts.items():
     print(task, task_freq)
-questions_df.to_csv(f"{benchmark_dir}/de-questions.csv.", index=False)
-sources_df.to_csv(f"{benchmark_dir}/sources_raw.csv.", index=False)
+#questions_df.to_csv(f"{benchmark_dir}/de-questions.csv.", index=False)
+#sources_df.to_csv(f"{benchmark_dir}/sources_raw.csv.", index=False)
 
 

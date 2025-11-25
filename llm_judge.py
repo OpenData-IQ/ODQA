@@ -1,28 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Batch LLM-as-Judge over many files + metrics.
-
-Input dir (e.g., results/):
-- *.json  -> each file is a single record with fields:
-    thread_id, run_at, question_id, question, answer, question_type, source, remark, llm_final
-- *.jsonl -> each line is one such record
-
-Outputs:
-- evaluations/evaluation_<thread_id>.json  (judged item with `judgement`)
-- evaluations/summary.json                 (metrics + counts per category)
-- evaluations/summary.csv                  (flat summary row for spreadsheets)
-
-Metrics:
-- overall_accuracy = (perfect + acceptable) / total
-- found_accuracy   = (perfect + acceptable) / found_total
-  where found_total excludes items judged as {"category":"problem_answers","problem_type":"not found"}.
-
-Requires:
-- `openai` (Chat Completions API; adjust if you use the new responses API)
-- `langfuse` (set up your SDK env vars)
-"""
-
 import argparse
 import json
 from pathlib import Path
@@ -92,6 +67,7 @@ Rules:
 - Do not invent new fields or categories.
 - Do not include markdown or commentary outside the JSON.
 """
+
 
 # --- optional: toleranter Fallback-Parser für "schmutzigen" Output ---
 def _parse_json_loose(s: str):
@@ -174,7 +150,6 @@ def judge_record(item: Dict[str, Any], model: str = "gpt-4o-mini", temperature: 
                 }
             }
 
-
 # ---------- File loaders ----------
 def iter_records_from_file(path: Path) -> Iterable[Dict[str, Any]]:
     if path.suffix.lower() == ".jsonl":
@@ -204,45 +179,6 @@ def collect_records(indir: Path) -> List[Tuple[Path, Dict[str, Any]]]:
             for rec in iter_records_from_file(p):
                 items.append((p, rec))
     return items
-
-# ---------- Metrics ----------
-def compute_metrics(judged_items: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """
-    Returns counts & accuracies:
-      - total
-      - counts per category
-      - counts per problem_type (for problem_answers)
-      - overall_accuracy = (perfect + acceptable) / total
-      - found_total      = total - count(problem_answers with problem_type == 'not found')
-      - found_accuracy   = (perfect + acceptable) / found_total (if found_total > 0)
-    """
-    total = len(judged_items)
-    cat_counts = Counter()
-    prob_counts = Counter()
-
-    for it in judged_items:
-        j = (it.get("judgement") or {})
-        cat = j.get("category")
-        cat_counts[cat] += 1
-        if cat == "problem_answers":
-            prob_counts[j.get("problem_type")] += 1
-
-    correct = cat_counts.get("perfect", 0) + cat_counts.get("acceptable", 0)
-    overall_accuracy = (correct / total) if total else 0.0
-
-    not_found = prob_counts.get("not found", 0)
-    found_total = total - not_found
-    found_accuracy = (correct / found_total) if found_total else 0.0
-
-    return {
-        "total": total,
-        "counts_by_category": dict(cat_counts),
-        "problem_type_counts": dict(prob_counts),
-        "correct_total": correct,
-        "overall_accuracy": overall_accuracy,
-        "found_total": found_total,
-        "found_accuracy": found_accuracy
-    }
 
 # ---------- Batch main ----------
 def main():
@@ -286,54 +222,6 @@ def main():
         out_path = outdir / f"evaluation_{tid}.json"
         out_path.write_text(json.dumps(judged, ensure_ascii=False, indent=2), encoding="utf-8")
         judged_items.append(judged)
-
-    # Compute metrics
-    metrics = compute_metrics(judged_items)
-
-    # Save JSON summary
-    summary_json = outdir / "summary.json"
-    summary_json.write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    # Save CSV summary (one row)
-    summary_csv = outdir / "summary.csv"
-    with summary_csv.open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow([
-            "total",
-            "perfect",
-            "acceptable",
-            "partially",
-            "problem_answers",
-            "problem_not_found",
-            "problem_token_limit",
-            "problem_recursion_limit",
-            "problem_answer_incorrect",
-            "correct_total",
-            "overall_accuracy",
-            "found_total",
-            "found_accuracy",
-        ])
-        cat = metrics["counts_by_category"]
-        prob = metrics["problem_type_counts"]
-        w.writerow([
-            metrics["total"],
-            cat.get("perfect", 0),
-            cat.get("acceptable", 0),
-            cat.get("partially", 0),
-            cat.get("problem_answers", 0),
-            prob.get("not found", 0),
-            prob.get("token limit", 0),
-            prob.get("recursion limit", 0),
-            prob.get("answer incorrect", 0),
-            metrics["correct_total"],
-            f"{metrics['overall_accuracy']:.4f}",
-            metrics["found_total"],
-            f"{metrics['found_accuracy']:.4f}",
-        ])
-
-    print(f"Wrote {len(judged_items)} evaluations to: {outdir}")
-    print(f"Summary JSON: {summary_json}")
-    print(f"Summary CSV : {summary_csv}")
 
 
 if __name__ == "__main__":
