@@ -1,26 +1,23 @@
 # ODQA: Agentic Open Data Question Answering
 
-This repository hosts the resources of the **ODQA research project**, which explores how agent-based approaches and large language models (LLMs) can lower barriers to using open government data.  
-
-ODQA provides a benchmark dataset and a modular agent framework for **open data question answering (QA)**, enabling systematic research on dataset search, analysis, and evaluation in real-world open data contexts.
-
+This repository hosts the resources of the **Open Data Question
+Answering research project (ODQA)**, 
+which explores how agent-based approaches and large language models (LLMs)
+can lower barriers to using open government data. It provides a benchmark 
+for evaluating future LLM-based and agentic tools for this application scenario.
+An initial agent implementation serves a starting point for automatic 
+open data question answering and gives insights into the performance 
+production-readiness of such systems.
 ---
 
-## 📌 Motivation
+## Motivation
 
-Open data portals are central for transparency, innovation, and accountability. Yet users face persistent challenges:
+Open data portals are central for government transparency, data-driven innovation, 
+and accountability of public institutions. Yet users face challenges when accessing
+open data platforms:
 - Limited and inconsistent search interfaces  
-- Incomplete or low-quality metadata  
-- Manual, labor-intensive workflows  
-
-Recent advances in **LLMs and agentic methods** offer a chance to integrate dataset search and analysis into unified frameworks. ODQA is designed to serve as a testbed for evaluating these methods.
-
-### Workflow Overview
-
-<p align="center">
-  <img src="img/ODQA-Workflow.png" alt="ODQA Workflow" width="70%"/>
-</p>  
-*Figure 1: End-to-end workflow for open data QA.*
+- Incomplete or low-quality metadata and heterogeneous datasets
+- Manual, labor-intensive workflows to answer (even simple) questions
 
 ### Typical Barriers
 
@@ -29,9 +26,17 @@ Recent advances in **LLMs and agentic methods** offer a chance to integrate data
 </p>  
 *Figure 2: Common barriers to accessing and using open data.*
 
+Recent advances in **LLMs and agentic methods** offer a chance to integrate dataset search and analysis into unified frameworks. ODQA is designed to serve as a testbed for evaluating these methods.
+
+### Workflow Overview
+
+<p align="center">
+  <img src="img/ODQA-Workflow.png" alt="ODQA Workflow" width="70%"/>
+</p>  
+*Figure 1: Workflow for Open Data Question Answering.*
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **`open-data-benchmark/`**  
   - `en-questions.csv`, `de-questions.csv`: Question–answer pairs in English and German with task and question type labels  
@@ -39,13 +44,12 @@ Recent advances in **LLMs and agentic methods** offer a chance to integrate data
   - `data/`: Evidence files  
   - `metadata/`: DCAT-AP metadata descriptions  
   - `govdata-catalog/`: Snapshot of the German GovData portal (August 2025)  
-- **`agent/`**: Python implementation of the ODQA agent (based on `python-langgraph`)  
-- **`results/`**: Raw evaluation results from automated judging  
+- **`agent/`**: Python implementation of the ODQA agent (based on `python-langgraph`)
 - **`evaluations/`**: Final human-verified evaluation results  
 
 ---
 
-## 📊 Benchmark Overview
+## Benchmark Overview
 
 - **Questions**: 200 (covering diverse domains and difficulty levels)  
 - **DCAT Themes**: 13 (EU vocabulary authority files)  
@@ -56,9 +60,9 @@ Recent advances in **LLMs and agentic methods** offer a chance to integrate data
 
 ### Dataset Coverage
 
-| ![DCAT Theme Distribution](img/dcat-themes.png) | ![Question Type Distribution](img/question-types.png) |
-|:-----------------------------------------------:|:----------------------------------------------------:|
-| *Figure 3: Share of DCAT themes in ODQA.*       | *Figure 4: Share of question types in ODQA.*         |
+| ![DCAT Theme Distribution](img/dcat_themes.png) | ![Question Type Distribution](img/question_types.png) |
+|:-----------------------------------------------:|:-----------------------------------------------------:|
+|    *Figure 3: Share of DCAT themes in ODQA.*    |     *Figure 4: Share of question types in ODQA.*      |
 
 Example questions:
 - *How many speed violations occurred in Aachen in 2021?*  
@@ -66,18 +70,19 @@ Example questions:
 
 ---
 
-## 🤖 Agent Framework
-
-The ODQA agent operationalizes the QA workflow via modular tools:
-- **Search Tool** → queries the GovData API (or local index)  
-- **Download Tool** → retrieves & preprocesses datasets (optimized for CSV)  
-- **Table Register** → centralized storage of tables with unique IDs  
-- **Table Tool** → supports filtering, merging, aggregation, and sorting  
-
-### Architecture
+## Agentic Setup 
+The chosen agentic setup for performance evaluations on the ODQA benchmark is shown below. 
+It is a starting point for future implementations which will need to integrate processing 
+tools for a diverse set of file formats.
 
 ![ODQA Agent](img/ODQA-Agent.png)  
-*Figure 5: High-level architecture of the ODQA agent (ReAct-style orchestration).*
+*Figure 5: Agentic Setup.*
+
+The ODQA agent operationalizes the QA workflow with the help of the following components:
+- **Search Tool:** queries the GovData API (or a local index)  
+- **Download Tool:** retrieves & preprocesses datasets (optimized for CSV)  
+- **Table Register:** centralized storage of tables with unique IDs  
+- **Table Tool:** supports e.g. filtering, aggregation, and sorting  
 
 The agent is implemented in Python with [`python-langgraph`](https://www.langchain.com/langgraph).
 
