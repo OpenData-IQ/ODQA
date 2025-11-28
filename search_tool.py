@@ -41,7 +41,7 @@ class SearchTool(BaseTool):
     def _run(self, query):
         # Base API endpoint
         url = "https://ckan.govdata.de/api/3/action/dcat_catalog_search"
-        logging.info(f"[TOOL] Running {self.name} with disease={query}")
+        logging.info(f"[TOOL] Running {self.name} with query={query}")
         #encoded = quote(query)
         #print(encoded)
         # Query parameters
@@ -103,7 +103,7 @@ class SearchTool(BaseTool):
             logging.info(table)
             return {
                     "success": True,
-                    "status": f"ok, {length} Treffer",
+                    "status": f"ok, {length} Matches",
                     "data": table
             }
 

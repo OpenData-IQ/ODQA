@@ -76,26 +76,24 @@ builder.add_node("tools", tool_node)
 builder.add_node("summarize", summarize_node)
 # Entry
 builder.add_edge(START, "assistant")
-
-
-#
+# assistant node decides whether to call tools
+# or go to summarizer node when no tool calling is needed
 builder.add_conditional_edges(
     "assistant",
     tools_condition,
-    {"tools": "tools", END: "summarize"}   # or {"tools": "tools", "__end__": "summarize"}
+    {"tools": "tools", END: "summarize"}
 )
 
 builder.add_edge("tools", "assistant")
 builder.add_edge("summarize", END)
 
-# Optional checkpointer so multi-turn tool loops persist
+# Optional checkpointer
 memory = MemorySaver()
 graph = builder.compile(checkpointer=memory)
-
 
 ids = [5, 24, 25, 34, 35, 41, 44, 58, 70, 71, 74, 77, 80, 85,86,102,103,104,105,106,117,122,123,124,125,146,155,157,158,187,189,191,194,195,196,202]
 for id in ids:
     run_agent(model_str, builder,
                   "open-data-benchmark/de-questions.csv",
                   "test",
-                   prefix="gpt5-mini-2", recursion_limit=40, start_question_id=id, limit=1)
+                   prefix="gpt5-mini-2", recursion_limit=40, question_id=id)

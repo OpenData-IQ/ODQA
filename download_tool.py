@@ -38,7 +38,7 @@ class DownloadTool(BaseTool):
         self._frame_hub = frame_hub
 
     def _parse_file(self, ext: str, content: str, dateiname_value: str) -> dict:
-        """Internal: determine format and payload from extension."""
+        # Determine file format
         ext = ext.lower()
         if ext == ".csv":
             frame_id = self._frame_hub.load_csv_string(content, "clean_download", True)
@@ -53,6 +53,7 @@ class DownloadTool(BaseTool):
                 "preview": self._frame_hub.preview(frame_id, 10),
                 # already list[dict]
             }
+        # Load the raw xml file
         return {
             "format": "xml" if ext == ".xml" else "unknown",
             "content": content,
@@ -70,37 +71,32 @@ class DownloadTool(BaseTool):
         data_dir = os.path.join(benchmark_dir, "daten")
         sources_path = os.path.join(benchmark_dir, "sources.csv")
         df = pd.read_csv(sources_path)
-        # Find the row(s) where dataset matches
+        # Find the row with the matching dataset
         match = df[df["dataset"] == dataset_uri]
         if not match.empty:
             try:
-                # Get the value from column 'dateiname'
-                #dateiname_value = match["dateiname"].iloc[0]  # first match
-                #data_path = os.path.join(data_dir, dateiname_value)
-                #print("Found:", dateiname_value)
-                # 2) extract filename from URL (literal)
+                # extract filename from URL (literal)
                 filename_from_url = os.path.basename(urlparse(download_url).path)
                 print("filename_from_url:", filename_from_url)
 
-                # 3) pick the row with the matching filename
+                # pick the row with the matching filename from the matching datasets
                 exact = match[match["dateiname"] == filename_from_url]
 
                 if not exact.empty:
                     chosen = exact.iloc[0]
                     print("Chosen (exact match):", chosen["dateiname"])
                 else:
-                    # if filename is not found, guess from the dataset name
+                    # if filename is not found in the matching list, get the file which is associated with the given dataset name
                     chosen = match.iloc[0]
                     print("Warning: no exact filename match, using first:", chosen["dateiname"])
 
                 data_path = os.path.join(data_dir, chosen["dateiname"])
-
                 with open(data_path, "rb") as f:
                     raw = f.read()
 
                 detected = chardet.detect(raw)
                 content = raw.decode(detected["encoding"])
-                # Detect file format from extension
+                # Detect format from file extension
                 ext = os.path.splitext(chosen["dateiname"])[-1].lower()
                 return self._parse_file(ext, content, chosen["dateiname"])
 
@@ -116,9 +112,6 @@ class DownloadTool(BaseTool):
                 path = urlparse(download_url).path
                 ext = os.path.splitext(path)[-1].lower()
                 return self._parse_file(ext, content, filename_from_url)
-            except requests.exceptions.HTTPError as err:
-                print("HTTP error occurred:", err)
             except requests.exceptions.RequestException as err:
-                # Catches other issues like connection errors, timeouts, etc.
-                print("Other error occurred:", err)
+                print("Request error occurred:", err)
 

@@ -2,10 +2,10 @@
 from __future__ import annotations
 from typing import List, Dict, Optional
 from langchain_core.tools import tool
-from framehub import FrameHub
+from table_register import TableRegister
 
 
-def build_tools(hub: FrameHub):
+def build_tools(hub: TableRegister):
     #@tool
     #def load_csv_string(csv_text: str, source_hint: Optional[str] = None, auto_clean: bool = True) -> str:
     #    """Load a CSV provided as a STRING. Trims header/footer junk and normalizes columns when auto_clean=True. Returns frame_id."""
