@@ -1,7 +1,6 @@
 # ODQA: Agentic Open Data Question Answering
 
-This repository hosts the resources of the **Open Data Question
-Answering research project (ODQA)**, 
+This repository hosts the resources of the **Open Data Question Answering research project (ODQA)**, 
 which explores how agent-based approaches and large language models (LLMs)
 can lower barriers to using open government data. It provides a benchmark 
 for evaluating future LLM-based and agentic tools for this application scenario.
