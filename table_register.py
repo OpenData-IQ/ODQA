@@ -5,8 +5,7 @@ from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Literal
 import polars as pl
 
-# ---------------- CSV cleaning from *string* ----------------
-
+# Common NULL constants in set for consistent NULL storage
 COMMON_NULLS = {"", "na", "n/a", "null", "none", "-", "--", "nan"}
 
 
@@ -36,12 +35,7 @@ def _normalize_header(header: List[str]) -> List[str]:
     return out
 
 
-# normalize the csv string
 def clean_csv_text_to_polars(text: str, extra_nulls: Optional[List[str]] = None) -> pl.DataFrame:
-    """
-    Trim non-tabular lines at top/bottom, normalize headers, collapse common null tokens.
-    Input is a *CSV string*, not a file.
-    """
     # normalize newlines
     if "\r\n" in text or "\r" in text:
         text = text.replace("\r\n","\n").replace("\r","\n")
@@ -121,18 +115,14 @@ def clean_csv_text_to_polars(text: str, extra_nulls: Optional[List[str]] = None)
     return df
     #return pl.DataFrame(cleaned_rows, schema=header)
 
-# ---------------- FrameHub (multi-frame, functional ops) ----------------
 
 @dataclass
 class FrameInfo:
     source_hint: Optional[str] = None  # e.g., "sales_2024.csv" or "upload#123"
     steps: List[str] = None
 
+
 class TableRegister:
-    """
-    Manage multiple Polars DataFrames in memory (keyed by frame_id).
-    All transforms return a NEW frame_id.
-    """
     def __init__(self):
         self.frames: Dict[str, pl.DataFrame] = {}
         self.meta: Dict[str, FrameInfo] = {}
@@ -140,10 +130,11 @@ class TableRegister:
     def __getitem__(self, frame_id: str):
         return self.frames[frame_id]
 
+    # add new id
     def _new_id(self) -> str:
         return uuid.uuid4().hex[:8]
 
-    # ---- Load / Register ----
+    # load and register
     def load_csv_string(self, csv_text: str, source_hint: Optional[str]=None, auto_clean: bool=True) -> str:
         df = clean_csv_text_to_polars(csv_text) if auto_clean else pl.read_csv(io.BytesIO(csv_text.encode("utf-8")))
         # normalize headers again (idempotent)
@@ -164,7 +155,7 @@ class TableRegister:
         self.meta.pop(frame_id, None)
         return "ok"
 
-    # ---- Introspection ----
+    # provides column and datatype information
     def columns(self, frame_id: str) -> List[Dict[str,str]]:
         df = self.frames[frame_id]
         return [{"name": n, "dtype": str(t)} for n, t in zip(df.columns, df.dtypes)]
@@ -173,7 +164,7 @@ class TableRegister:
         df = self.frames[frame_id]
         return df.head(n).to_dicts()
 
-    # ---- Transforms (return NEW frame_id) ----
+    # saves selected columns in the table register and returns the new id
     def select(self, frame_id: str, cols: List[str]) -> str:
         df = self.frames[frame_id].select([pl.col(c) for c in cols])
         out = self.register_frame(df, source_hint=self.meta[frame_id].source_hint)
