@@ -9,6 +9,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from langfuse.langchain import CallbackHandler
 from langfuse import Langfuse, get_client
 import pandas as pd
+import math
 
 
 # run the agent for a specified question (identified by its id)
@@ -52,7 +53,7 @@ def run_agent(model, builder, input_file, results_dir, *, prefix, recursion_limi
                     },
         )
 
-                # read the last message
+        # read the last message
         messages = result_state["messages"]
         llm_text = ""
         if messages:  # make sure the list is not empty
@@ -75,6 +76,8 @@ def run_agent(model, builder, input_file, results_dir, *, prefix, recursion_limi
     except Exception as e:
         llm_text = f"ERROR: {str(e)}"
 
+    if isinstance(remark, float) and math.isnan(remark):
+        remark = ""
     # Build JSON object for this row
     data = {
                 "thread_id": thread_id,

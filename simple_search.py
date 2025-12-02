@@ -1,24 +1,22 @@
+import math
+import numpy as np
 from dotenv import load_dotenv
 from openai import OpenAI
-import csv
 import os
 from datetime import datetime
 import json
-
+import pandas as pd
 from urllib.parse import urlparse
+import re
+
 
 def pretty_print_with_sources(choice):
-    """
-    choice: one element of completion.choices (i.e. completion.choices[0])
-    Returns a Markdown string with the assistant content + a 'Quellen' list.
-    """
-
     # Get the message content (works for both pydantic objects and dicts)
     msg = getattr(choice, "message", choice.get("message") if isinstance(choice, dict) else choice)
     content = getattr(msg, "content", msg.get("content") if isinstance(msg, dict) else "")
     annotations = getattr(msg, "annotations", msg.get("annotations") if isinstance(msg, dict) else []) or []
 
-    # Normalize annotations to simple dicts we care about
+    # Normalize annotations to simple dicts
     norm = []
     for ann in annotations:
         # attribute-style or dict-style access
@@ -33,7 +31,7 @@ def pretty_print_with_sources(choice):
         if url:
             norm.append({"title": title or url, "url": url})
 
-    # Deduplicate by URL but preserve order
+    # Remove duplicate URLs
     seen = set()
     dedup = []
     for item in norm:
@@ -43,18 +41,17 @@ def pretty_print_with_sources(choice):
         dedup.append(item)
 
     # Determine how many numeric markers appear in the text: [1], [2], ...
-    import re
     markers = sorted({int(m.group(1)) for m in re.finditer(r"\[(\d+)\]", content)})
 
-    # Build index → source mapping.
-    # Strategy: map 1..N in order to the first N deduped citations.
+    # Write sources for the non-duplicate entries
     N = min(len(markers), len(dedup)) if markers else len(dedup)
     index_to_source = {i+1: dedup[i] for i in range(N)}
 
-    # Render the “Quellen” block (Markdown)
+    # In case there are no sources, return the content only
     if not index_to_source:
-        return content  # nothing to add
+        return content
 
+    # Render the “Sources” block with Markdown
     lines = ["", "### Quellen"]
     for i in range(1, N+1):
         src = index_to_source[i]
@@ -64,7 +61,7 @@ def pretty_print_with_sources(choice):
 
     # If there are more annotations than markers, append the extras too
     if len(dedup) > N:
-        lines.append("- –")
+        lines.append("--")
         for extra in dedup[N:]:
             host = urlparse(extra["url"]).netloc or ""
             lines.append(f"- {extra['title']} ({host}) – {extra['url']}")
@@ -73,7 +70,6 @@ def pretty_print_with_sources(choice):
 
 
 load_dotenv()
-
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",
   api_key=os.getenv("OPENROUTER_API_KEY"),
@@ -85,31 +81,25 @@ model = "perplexity/sonar"
 model_str = "sonar"
 #model = "openai/gpt-5"
 #model_str = "gpt5"
-results_dir = "results/simple_search"
-start_index = 1
-limit = 204
+results_dir = "test"
+#start_index = 1
+#limit = 204
 files_written = []
 
 # Open input CSV
-with open("open-data-benchmark/de-questions.csv", newline="", encoding="utf-8") as infile:
-    reader = csv.DictReader(infile)
-
-    # Skip rows up to start_index - 1
-    for _ in range(start_index - 1):
-            next(reader, None)
-
-    for i, row in enumerate(reader, start=start_index):
-        if limit is not None and (i - start_index + 1) > limit:
-            break
-
-        thread_id = f"{model_str}-{i:04d}"
-        question_id = i
+input_file = "open-data-benchmark/de-questions.csv"
+df = pd.read_csv(input_file)
+ranges = [range(1,16), range(17,54), range(55,90), range(91,205)]
+for id_span in ranges:
+    for question_id in id_span:
+        row_raw = df.loc[df['frage_id'] == question_id]
+        row = row_raw.iloc[0]
+        thread_id = f"{model_str}-{question_id:04d}"
         question = row.get("frage", "") or ""
         answer = row.get("antwort", "") or ""
         question_type = row.get("frage_typ", "") or ""
         source = row.get("datengrundlage", "") or ""
         remark = row.get("bemerkungen", "") or ""
-
         completion = client.chat.completions.create(
 
             model=model,
@@ -138,20 +128,24 @@ with open("open-data-benchmark/de-questions.csv", newline="", encoding="utf-8") 
         #llm_text = completion.choices[0].message.content + " "+ completion.choices[0].search_results
         llm_text = pretty_print_with_sources(completion.choices[0])
 
+        if isinstance(remark, float) and math.isnan(remark):
+            remark = ""
         # Build JSON object for this row
         data = {
             "thread_id": thread_id,
             "run_at": datetime.utcnow().isoformat() + "Z",
-            "question_id": question_id,
+            "question_id": int(question_id),
             "question": question,
             "answer": answer,
             "question_type": question_type,
-            "source": source,
+            "source": int(source),
             "remark": remark,
             "llm_final": llm_text
         }
 
         # Write each row as its own JSON file, e.g., results/qa-0001.json
+        print(data)
+        print(thread_id)
         out_path = os.path.join(results_dir, f"{thread_id}.json")
         with open(out_path, "w", encoding="utf-8") as outfile:
             json.dump(data, outfile, ensure_ascii=False, indent=2)
@@ -159,6 +153,6 @@ with open("open-data-benchmark/de-questions.csv", newline="", encoding="utf-8") 
         files_written.append(out_path)
         print(f"Wrote {out_path}")
 
-print(f"Done. Wrote {len(files_written)} JSON files to {results_dir}.")
+print(f"{len(files_written)} JSON files written to {results_dir}.")
 
 

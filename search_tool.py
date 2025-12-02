@@ -11,18 +11,31 @@ logging.basicConfig(level=logging.INFO)
 
 
 def fix_ckan_urls(xml_string):
-    # Specifically target the CKAN URLs with spaces
-    def fix_ckan_url(match):
+    # Find all CKAN URL patterns
+    pattern = re.compile(r'https://ckan\.govdata\.de/api/3/action/[^"<>]+')
+    result_parts = []
+    last_end = 0
+    for match in pattern.finditer(xml_string):
+        # Reconstruct the XML file, take the part between
+        # the last change/pattern and the new one and append it
+        # unmodified to the output
+        result_parts.append(xml_string[last_end:match.start()])
+        # get the string
         url = match.group(0)
-        # Extract the query part and encode it
+        # Match query parameter strings and replace them with a quoted string
         if 'q=' in url:
-            # Find the query parameter with spaces
-            url = re.sub(r'q=([^&"<>]*)', lambda m: f'q={quote(m.group(1))}', url)
-        return url
+            url = re.sub(
+                r'q=([^&"<>]*)',
+                lambda m: f'q={quote(m.group(1))}',
+                url
+            )
+        # Add the fixed URL
+        result_parts.append(url)
+        last_end = match.end()
+    # Add the rest of the string after the last match
+    result_parts.append(xml_string[last_end:])
+    return "".join(result_parts)
 
-    # Pattern for CKAN API URLs
-    pattern = r'https://ckan\.govdata\.de/api/3/action/[^"<>]+'
-    return re.sub(pattern, fix_ckan_url, xml_string)
 
 class SearchToolInput(BaseModel):
     #query: Optional[str] = Field(
@@ -37,13 +50,15 @@ class SearchTool(BaseTool):
     name: str = "dataset_query"
     description: str = "Retrieve the suitable dataset for the query from the govdata portal."
     args_schema: Type[BaseModel] = SearchToolInput
-
+    # The search currently extracts only the first 100 hits from the hydra:PagedCollection;
+    # The first 100 hits should be the most relevant.
+    # Otherwise context length would get unneccesarily full
+    # Besides, the agent is instructed to reformulate the query anyway, when the result list contains
+    # more than 30 hits
     def _run(self, query):
         # Base API endpoint
         url = "https://ckan.govdata.de/api/3/action/dcat_catalog_search"
         logging.info(f"[TOOL] Running {self.name} with query={query}")
-        #encoded = quote(query)
-        #print(encoded)
         # Query parameters
         params = {
             "q": query,

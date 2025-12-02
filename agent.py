@@ -60,9 +60,6 @@ def assistant_node(state: AgentState) -> AgentState:
     return {**state, "messages": state.get("messages",[]) + [ai]}
 
 
-tool_node = ToolNode(TOOLS)
-
-
 def summarize_node(state: AgentState) -> AgentState:
     msgs = [{"role": "system", "content": "Answer the input question with the data provided"}] + state["messages"]
     final = llm.invoke(msgs)
@@ -70,6 +67,7 @@ def summarize_node(state: AgentState) -> AgentState:
 
 
 # Build the graph
+tool_node = ToolNode(TOOLS)
 builder = StateGraph(AgentState)
 builder.add_node("assistant", assistant_node)
 builder.add_node("tools", tool_node)
@@ -91,9 +89,11 @@ builder.add_edge("summarize", END)
 memory = MemorySaver()
 graph = builder.compile(checkpointer=memory)
 
-ids = [5, 24, 25, 34, 35, 41, 44, 58, 70, 71, 74, 77, 80, 85,86,102,103,104,105,106,117,122,123,124,125,146,155,157,158,187,189,191,194,195,196,202]
-for id in ids:
-    run_agent(model_str, builder,
+# Read question ids from benchmark file
+ranges = [range(1,16), range(17,54), range(55,90), range(91,205)]
+for id_span in ranges:
+    for id in id_span:
+        run_agent(model_str, builder,
                   "open-data-benchmark/de-questions.csv",
                   "test",
                    prefix="gpt5-mini-2", recursion_limit=40, question_id=id)
