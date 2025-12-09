@@ -8,7 +8,7 @@ ___
 
 ## 🧭 Übersicht
 
-Das ODQA Open Data Benchmark stellt ein Fragenset aus **202 Fragen** bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
+Das ODQA Open Data Benchmark stellt ein Fragenset aus **200 Fragen** bereit, um automatische Systeme zu testen: Wie gut beantworten sie Fragen über öffentlich verfügbare statistische Daten? Insbesondere über Verwaltungsdaten des deutschen Datenportals [GovData](http://govdata.de).
 
 Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] und bildet die Diversität, Komplexität und Struktur authentischer Bürger*innenfragen ab.
 
@@ -21,7 +21,7 @@ ___
 - **`open-data-benchmark/`**  
   - `benchmarks.csv`: 121 selbst erstellte Fragen
   - `cleaned_questions_dataset.csv`: überarbeitete Version des Fragenset inklusive generierter Fragen (204?) und Quellenangaben
-  - `de-questions.csv`: hat 204 Fragen?
+  - `de-questions.csv`: hat 200 Fragen
   - `en-questions.csv`: übersetzte Version
   - `generate_questions.ipynb`: Skript zur Generierung weiterer Fragen
   - `sources.csv`: Quellen der Antworten inklusive URL
@@ -29,7 +29,7 @@ ___
  
 - **`/daten/`**: Quelldateien in `.csv`, `.xml`, `.html` und `.json`
 - **`/govdata-catalog/`**: Katalog der Daten
-- **`/govdata-sparql/`**: sparql-Skript, um geeignete Dateien in *govdata.de* anzuzeigen
+- **`/govdata-sparql/`**: sparql-Anfrage, um geeignete Dateien in *govdata.de* anzuzeigen
 - **`/metadaten/`**: Metadaten von *govdata.de*
 
 
@@ -38,7 +38,7 @@ ___
 
 ## ❓ Das Fragenset
 
-Die Dateien `de-questions.csv` und `en-questions.csv` enthalten jeweils **202 Fragen** verschiedener Schwierigkeit. Die Fragen orientieren sich an den Themenbereichen der auf *govdata.de* verfügbaren offenen Verwaltungsdaten. 
+Die Dateien `de-questions.csv` und `en-questions.csv` enthalten jeweils **200 Fragen** verschiedener Schwierigkeit. Die Fragen orientieren sich an den Themenbereichen der auf *govdata.de* verfügbaren offenen Verwaltungsdaten. 
 Sie bilden typische reale Anfragen von Bürger*innen ab.
 
 ### 🔎 Enthaltene Felder
@@ -104,13 +104,13 @@ ___
 
 Die Fragenerstellung fand in zwei Etappen statt. In beiden Etappen wurden die Daten und Metadaten zeitgleich heruntergeladen, sowie die Felder der CSV-Datei `benchmarks.csv` bzw. `cleaned_questions_dataset.csv` ausgefüllt.
 1. Zunächst wurden geeignete Daten auf *govdata.de* gesucht. Bedingungen dafür waren die Vollständigkeit der Dateien, das Format in CSV oder XML, und auch die Breite an Themen und Datenbereitstellern. 
-Um das Finden solcher passenden Daten zu erleichtern, kann das `/govdata-sparql/`-Skript auf der Seite von *govdata.de* verwendet werden.
+Um das Finden solcher passenden Daten zu erleichtern, kann die `/govdata-sparql/`-Anfrage auf der Seite von *govdata.de* verwendet werden.
 Je nach Art der Daten wurde dann ein Fragentyp ausgewählt und eine passende und realistische Frage formuliert, deren Antwort eindeutig in den zugeordneten Dateien und/oder Metadaten zu finden ist.
 
    Daraus sind 121 Fragen entstanden.
 2. Im nächsten Schritt sind mit Hilfe des `generate_questions.ipynb`-Skriptes weitere Fragen generiert worden. Das Python-Skript orientiert sich an den bereits formulierten Fragen, kann je nach Fragetyp manuell verstellt werden und lässt auch eine Anpassung des Prompts zu. Eine manuelle Prüfung der Richtigkeit war trotzdem notwendig; so auch das Sicherstellen, ob die Metadaten wirklich im RDF-Format vorliegen.
 
-   Daraus sind 83 Fragen entstanden.
+   Daraus sind 79 Fragen entstanden.
 
 ___
 
