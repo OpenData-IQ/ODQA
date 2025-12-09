@@ -12,7 +12,12 @@ Das ODQA Open Data Benchmark stellt ein Fragenset aus **200 Fragen** bereit, um 
 
 Das Benchmark orientiert sich am Design des „CRAG - Comprehensive RAG Benchmark“ [^1] und bildet die Diversität, Komplexität und Struktur authentischer Fragen von <span>Bürger*innen</span>, <span>Journalist</span>*innen, <span>Planer</span>*innen und anderen Interessierten ab.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<p align="center">
+  <img src="img/Stadtplanerin.png" alt="Anfrage einer Stadtplanerin über Bevölkerungszuwachs" width="30%"/>
+  <img src="img/Journalist.png" alt="Anfrage eines Journalisten über Biomüll" width="30%"/>
+  <img src="img/Eltern.png" alt="Anfrage von Eltern über Krippenplätze" width="30%"/>
+</p>  
+
 
 [^1]: Yang, Xiao, et al. „CRAG - Comprehensive RAG Benchmark“. arXiv:2406.04744v1 (2024).
 
